@@ -452,15 +452,9 @@ function sw(tab,el){
   all.forEach(id=>document.getElementById(id).classList.add('hidden'));
   (show[tab]||all).forEach(id=>document.getElementById(id).classList.remove('hidden'));
 }
-// === VANG.TODAY API — Live gold prices with CORS proxy fallback ===
-const VANG_URL='https://www.vang.today/api/prices';
-const PROXIES=[
-  url=>url,
-  url=>'https://api.allorigins.win/raw?url='+encodeURIComponent(url),
-  url=>'https://corsproxy.io/?url='+encodeURIComponent(url),
-  url=>'https://proxy.cors.sh/'+url,
-  url=>'https://thingproxy.freeboard.io/fetch/'+url
-];
+// === VANG.TODAY API via Cloudflare Worker Proxy ===
+const VANG_URL='https://gold-proxy.phuchung842.workers.dev';
+const PROXIES=[url=>url];
 const USDVND_RATE=26362;
 function fmtVND(v){return (v/1000000).toFixed(1);}
 function fmtChange(v){
