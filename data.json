@@ -2,154 +2,155 @@
   "meta": {
     "date": "11 tháng 4, 2026",
     "day": "Thứ Bảy",
-    "updated": "2026-04-11 08:00"
+    "updated": "2026-04-11 16:40"
   },
   "alert": {
     "type": "green",
-    "text": "📈 <b>11/4:</b> BTC vượt $73,000 (+1%), vàng thế giới $4,748/oz (-0.32%). VietinBank tăng lãi suất +1.1%/12T lên 5.8%. NH nước ngoài UOB đạt 8.1%/năm — cạnh tranh huy động tiếp tục nóng."
+    "text": "📈 <b>11/4 (chiều):</b> BTC $72,885 (+0.85%), vàng thế giới $4,748/oz ổn định. Meta Muse Spark leo top #5 App Store. Anthropic Claude Mythos Preview đạt 93.9% SWE-bench. TD Cowen dự báo BTC $140,000 cuối 2026."
   },
   "news_ai": [
     {
-      "title": "Meta ra mắt AI model lớn đầu tiên dưới thời Chief AI Officer Alexandr Wang",
+      "title": "Meta Muse Spark leo top #5 App Store sau ra mắt — AI model đầu tiên của Alexandr Wang",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta công bố AI model mới sau khi thuê Alexandr Wang (Scale AI) làm Chief AI Officer với thỏa thuận $14 tỷ. Đây là bước cạnh tranh trực tiếp với OpenAI và Google trong phân khúc frontier AI.",
-      "source": "CNBC, 08/4",
-      "source_url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html"
+      "body": "Meta Muse Spark ra mắt ngày 8/4 dưới sự dẫn dắt của Chief AI Officer Alexandr Wang, đạt top #5 App Store từ vị trí #57 chỉ trong 1 ngày. Model được tích hợp vào Facebook, Instagram, WhatsApp, Messenger và kính Ray-Ban Meta AI.",
+      "source": "TechCrunch, 09/4",
+      "source_url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
     },
     {
-      "title": "Q1/2026: Startup funding phá kỷ lục $300 tỷ — 80% đổ vào AI",
+      "title": "Anthropic Claude Mythos Preview: 93.9% SWE-bench, tìm hàng ngàn zero-day — Project Glasswing",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Tổng vốn đầu tư Q1/2026 đạt $300 tỷ toàn cầu, trong đó $242 tỷ (80%) chảy vào AI. OpenAI $122B, Anthropic $30B, xAI $20B dẫn đầu các vòng mega-round.",
-      "source": "TechCrunch, 01/4",
-      "source_url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/"
+      "body": "Claude Mythos Preview đạt 93.9% SWE-bench Verified, 94.6% GPQA Diamond, tự động phát hiện hàng nghìn zero-day vulnerability trên toàn bộ hệ điều hành lớn. Anthropic cam kết $100M tín dụng và $4M donation cho bảo mật mã nguồn mở qua Project Glasswing.",
+      "source": "AI Opinions / Anthropic, 11/4",
+      "source_url": "https://thoughts.jock.pl/p/ai-opinions-april-2026-claude-mythos-meta-spark"
     },
     {
-      "title": "Anthropic cam kết $100M bảo mật — Claude phát hiện lỗ hổng OpenBSD 27 năm tuổi",
+      "title": "Microsoft ra mắt 3 model nền tảng mới — cạnh tranh trực tiếp OpenAI và Google",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic đầu tư $100M vào an ninh mạng internet, Claude Mythos được triển khai tự động phát hiện lỗ hổng bảo mật tồn tại 27 năm trong OpenBSD — mở ra kỷ nguyên AI tự động làm bảo mật.",
-      "source": "AI News, 10/4",
-      "source_url": "https://www.artificialintelligence-news.com/"
+      "body": "Microsoft trình làng ba AI model nền tảng mới đầu tháng 4, đánh dấu bước độc lập hóa chiến lược AI khỏi OpenAI, cạnh tranh trực tiếp trong phân khúc enterprise và coding assistant.",
+      "source": "TechCrunch, 02/4",
+      "source_url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
     },
     {
-      "title": "Gemini 3.1 Pro dẫn đầu 13/16 benchmark AI — SaaS truyền thống mất thị phần",
+      "title": "NVIDIA GTC 2026: Agentic AI chiếm lĩnh — MCP vượt 97 triệu lượt cài đặt",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google Gemini 3.1 Pro thống trị bảng benchmark AI trong khi các nhà cung cấp SaaS truyền thống mất ngân sách doanh nghiệp khi công ty chuyển hướng sang hạ tầng AI và phần cứng AI (Super Micro Computer dẫn đầu thị trường).",
-      "source": "FinancialContent, 10/4",
-      "source_url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-4-10-the-great-decoupling-how-the-ai-hardware-boom-left-legacy-software-in-the-dust"
+      "body": "GTC 2026 tại San Jose đánh dấu chuyển dịch từ benchmark sang triển khai thực tế doanh nghiệp, tập trung vào agentic AI framework. Anthropic MCP vượt 97 triệu lượt cài, trở thành hạ tầng nền tảng để xây dựng AI agent.",
+      "source": "Crescendo AI / LLM Stats, 11/4",
+      "source_url": "https://llm-stats.com/ai-news"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "green",
-      "text": "📈 BTC vượt $73,000 (+1%), vàng $4,748/oz giảm nhẹ -0.32%. Nhật Bản siết quy định crypto — cấm insider trading. Hong Kong cấp phép stablecoin đầu tiên."
+      "text": "📈 BTC $72,885 (+0.85%), ETH $2,237 (+2.36%). Crypto market cap $2.55T. TD Cowen dự báo BTC $140,000 cuối 2026. Vàng $4,748/oz ổn định."
     },
     "items": [
       {
-        "title": "BTC vượt $73,000 — Nhật Bản siết quy định crypto",
+        "title": "BTC $72,885 (+0.85%) — TD Cowen dự báo $140,000 cuối 2026",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin tăng 1% lên $73,003. Nhật Bản phân loại crypto là sản phẩm tài chính, cấm insider trading, phạt tù đến 10 năm và 10 triệu yên cho nhà điều hành không đăng ký.",
-        "source": "DL News, 11/4",
-        "source_url": "https://www.dlnews.com/"
+        "body": "Bitcoin dao động $72,885 trong phiên Thứ Bảy 11/4, volume $36.57 tỷ. TD Cowen nâng dự báo lên $140,000 cuối năm 2026, gọi BTC là 'vàng kỹ thuật số', giữ Strategy ở mức Buy dù cắt target gần đây.",
+        "source": "CoinGabbar / CoinDesk, 11/4",
+        "source_url": "https://www.coingabbar.com/en/crypto-currency-news/latest-crypto-market-update-april-11-bitcoin-price-today"
       },
       {
-        "title": "Hong Kong cấp phép stablecoin đầu tiên — Anchorpoint & HSBC",
+        "title": "Crypto market cap $2.55T — ETH +2.36%, Fear Index vẫn Extreme Fear",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "HKMA phê duyệt giấy phép phát hành stablecoin cho Anchorpoint Financial và HSBC theo khung pháp lý mới, đánh dấu mốc quan trọng cho tài sản số tại châu Á.",
-        "source": "The Block, 11/4",
-        "source_url": "https://www.theblock.co/"
+        "body": "Tổng vốn hóa crypto tăng từ $2.51T lên $2.55T trong 24h. ETH dẫn altcoin với +2.36% lên $2,237. Volume giảm từ $94.9B về $89.4B — thị trường tích cực nhưng còn thận trọng do lạm phát Mỹ và chính sách Fed.",
+        "source": "CoinGabbar, 11/4",
+        "source_url": "https://www.coingabbar.com/en/crypto-currency-news/latest-crypto-market-update-april-11-bitcoin-price-today"
       },
       {
-        "title": "Bitget ra mắt IPO Prime — nhà đầu tư nhỏ lẻ tiếp cận cổ phần pre-IPO",
+        "title": "Nhật Bản siết quy định crypto — cấm insider trading, phạt tù 10 năm",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Sàn Bitget ra mắt nền tảng IPO Prime cho phép retail investor mua cổ phần pre-IPO vốn chỉ dành cho tổ chức. Đợt đầu tiên có tài sản liên quan SpaceX.",
-        "source": "CoinDesk, 11/4",
-        "source_url": "https://www.coindesk.com/"
+        "body": "Nhật Bản chính thức phân loại crypto là sản phẩm tài chính, cấm insider trading. Nhà điều hành không đăng ký có thể bị phạt tù đến 10 năm và 10 triệu yên. Hong Kong đồng thời cấp phép stablecoin đầu tiên cho Anchorpoint và HSBC.",
+        "source": "DL News / The Block, 11/4",
+        "source_url": "https://www.dlnews.com/articles/markets/key-april-crypto-dates-include-clarity-act-and-blackrock-updates/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>11/4 — Vàng ổn định:</b> Thế giới $4,748/oz (-0.32%), SJC bán ra ~176 triệu/lượng. Chênh lệch SJC vs thế giới thu hẹp còn ~25 tr. Spread mua-bán bình thường 2 tr.",
+    "summary": "🟡 <b>11/4 (chiều) — Vàng tích lũy:</b> Thế giới $4,748/oz ổn định (-0.32%), SJC bán ra ~176 triệu/lượng. Chênh lệch SJC vs thế giới giữ ~25 tr. CPI Mỹ tháng 3 (+0.2% core, thấp hơn dự báo) hỗ trợ kỳ vọng Fed cắt lãi.",
     "factors": [
-      { "name": "Căng thẳng địa chính trị (Iran, Trung Đông)", "pct": 68, "direction": "up", "bar": "fl", "desc": "Tiến trình đàm phán Iran chậm. Bất ổn địa chính trị tiếp tục hỗ trợ vàng trú ẩn." },
-      { "name": "Chốt lời kỹ thuật vùng $4,750–$4,800", "pct": 60, "direction": "down", "bar": "fm", "desc": "Vàng gặp kháng cự mạnh vùng $4,750. Áp lực chốt lời ngắn hạn." },
-      { "name": "USD yếu — DXY dưới 100", "pct": 58, "direction": "up", "bar": "fm", "desc": "Chỉ số USD tiếp tục yếu, hỗ trợ giá vàng quốc tế." },
-      { "name": "Dữ liệu kinh tế Mỹ tuần tới (CPI)", "pct": 55, "direction": "up", "bar": "fm", "desc": "CPI thấp → Fed cắt lãi → bullish vàng. Chú ý công bố tuần 14/4." },
-      { "name": "Cầu trong nước VN phục hồi nhẹ", "pct": 45, "direction": "up", "bar": "fl", "desc": "Sau đợt sụt mạnh tháng 3, SJC đã hồi từ 172.8 lên ~176 tr. Cầu mua dần ổn định." }
+      { "name": "CPI Mỹ tháng 3 thấp hơn kỳ vọng (+0.2% core)", "pct": 72, "direction": "up", "bar": "fh", "desc": "Core CPI +0.2% (thấp hơn dự báo) → thị trường tăng kỳ vọng Fed cắt lãi → bullish vàng trung hạn." },
+      { "name": "USD yếu — DXY dưới 100", "pct": 65, "direction": "up", "bar": "fm", "desc": "Chỉ số USD tiếp tục yếu sau dữ liệu CPI, hỗ trợ giá vàng quốc tế." },
+      { "name": "Căng thẳng địa chính trị (Iran, Trung Đông)", "pct": 60, "direction": "up", "bar": "fm", "desc": "Đàm phán Iran chậm tiến. Bất ổn địa chính trị tiếp tục duy trì nhu cầu trú ẩn." },
+      { "name": "Chốt lời kỹ thuật vùng $4,750–$4,800", "pct": 55, "direction": "down", "bar": "fm", "desc": "Vàng gặp kháng cự mạnh vùng $4,750. Áp lực chốt lời ngắn hạn cuối tuần." },
+      { "name": "Cầu trong nước VN phục hồi nhẹ", "pct": 48, "direction": "up", "bar": "fl", "desc": "SJC hồi từ 172.8 lên ~176 tr. Cầu mua ổn định, chênh vs thế giới ~25 tr bình thường hóa dần." }
     ],
-    "outlook_label": "Đi ngang – tích lũy",
+    "outlook_label": "Tích lũy — chờ tín hiệu Fed",
     "outlook_class": "pbe",
-    "outlook_text": "SJC dao động 174–178 tr. Chênh vs thế giới ~25 tr — bình thường hóa dần. Không nên mua đuổi, chờ pullback.",
+    "outlook_text": "SJC dao động 174–178 tr. Chênh vs thế giới ~25 tr. CPI tháng 3 hỗ trợ kỳ vọng cắt lãi — không nên mua đuổi, chờ pullback hoặc tín hiệu rõ hơn từ Fed.",
     "sources": [
       { "name": "TradingEconomics", "url": "https://tradingeconomics.com/commodity/gold" },
-      { "name": "VietnamNet", "url": "https://vietnamnet.vn" },
-      { "name": "Dân Việt", "url": "https://danviet.vn" }
+      { "name": "Yahoo Finance / CoinDesk (BTC-CPI)", "url": "https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march" },
+      { "name": "Fortune Gold Price", "url": "https://fortune.com/article/current-price-of-gold-04-09-2026/" }
     ]
   },
   "interest_rates": {
-    "alert": "📈 Tuần 2/4: Lãi suất tiếp tục phân hóa. VietinBank tăng mạnh +1.1%/12T lên 5.8%. Techcombank tăng thêm lên 6.5%. VCB Neo giảm nhẹ. NH nước ngoài UOB đạt 8.1%/năm.",
+    "alert": "📊 11/4: Lãi suất ổn định cuối tuần. Big4 giữ nguyên sau đợt VietinBank tăng +1.1% (7/4). MB Bank 12T: 6.5%, 24T: 7.5%. SHB dao động 3.9–7.6%. Vietcombank tung CCTG 7.9% hút vốn lớn.",
     "highlights": [
       { "label": "Cao nhất đặc biệt", "value": "10%", "sub": "PVcomBank (≥2,000 tỷ)", "note": "Lãi suất đặc biệt" },
-      { "label": "NH nước ngoài", "value": "8.1%", "sub": "UOB Vietnam (12T+)", "note": "Tăng mạnh tuần 2/4" },
-      { "label": "Cao nhất tại quầy", "value": "7.6%", "sub": "HLBank (12T+)", "note": "Giữ nguyên" },
-      { "label": "Online cao nhất", "value": "8.0%", "sub": "HLBank online", "note": "Kênh số dẫn đầu" }
+      { "label": "NH nước ngoài", "value": "8.1%", "sub": "UOB Vietnam (12T+)", "note": "Dẫn đầu cuộc đua" },
+      { "label": "Cao nhất tại quầy", "value": "7.6%", "sub": "HLBank / SHB (12T+)", "note": "Giữ nguyên" },
+      { "label": "CCTG Vietcombank", "value": "7.9%", "sub": "Chứng chỉ tiền gửi", "note": "Mới tung tháng 4" }
     ],
     "banks": [
       { "name": "HLBank",     "m3": "4.75%", "m6": "7.0%",  "m12": "7.6%",  "m12_hi": true,  "trend": "hold" },
-      { "name": "SHB",        "m3": "4.6%",  "m6": "7.5%",  "m12": "7.2%",  "m6_hi": true, "m12_hi": true, "trend": "hold" },
+      { "name": "SHB",        "m3": "4.6%",  "m6": "7.5%",  "m12": "7.6%",  "m6_hi": true, "m12_hi": true, "trend": "up" },
       { "name": "PGBank",     "m3": "4.75%", "m6": "7.1%",  "m12": "7.2%",  "m12_hi": true,  "trend": "hold" },
       { "name": "MBV",        "m3": "4.75%", "m6": "6.9%",  "m12": "7.2%",  "m12_hi": true,  "trend": "hold" },
       { "name": "OCB",        "m3": "4.5%",  "m6": "6.8%",  "m12": "7.1%",  "trend": "hold" },
       { "name": "BVBank",     "m3": "4.75%", "m6": "6.15%", "m12": "6.95%", "trend": "up" },
       { "name": "LPBank",     "m3": "4.5%",  "m6": "6.3%",  "m12": "6.6%",  "trend": "up" },
       { "name": "VPBank",     "m3": "4.75%", "m6": "6.5%",  "m12": "6.5%",  "trend": "hold" },
-      { "name": "MB",         "m3": "4.0%",  "m6": "4.7%",  "m12": "6.5%",  "trend": "hold" },
+      { "name": "MB",         "m3": "4.1%",  "m6": "4.7%",  "m12": "6.5%",  "trend": "up" },
       { "name": "Techcombank","m3": "4.3%",  "m6": "5.9%",  "m12": "6.5%",  "trend": "up" },
       { "name": "Sacombank",  "m3": "4.3%",  "m6": "6.0%",  "m12": "6.4%",  "trend": "hold" },
       { "name": "SeABank",    "m3": "4.55%", "m6": "6.2%",  "m12": "6.3%",  "trend": "hold" },
       { "name": "MSB",        "m3": "4.5%",  "m6": "6.0%",  "m12": "6.2%",  "trend": "hold" },
       { "name": "Agribank",   "m3": "2.9%",  "m6": "4.0%",  "m12": "5.9%",  "trend": "hold" },
       { "name": "BIDV",       "m3": "3.4%",  "m6": "4.7%",  "m12": "5.9%",  "trend": "hold" },
-      { "name": "Vietcombank","m3": "2.1%",  "m6": "3.5%",  "m12": "5.7%",  "trend": "hold" },
       { "name": "HDBank",     "m3": "4.0%",  "m6": "5.5%",  "m12": "5.9%",  "trend": "hold" },
       { "name": "TPBank",     "m3": "4.4%",  "m6": "5.8%",  "m12": "5.8%",  "trend": "hold" },
+      { "name": "VietinBank", "m3": "2.4%",  "m6": "4.5%",  "m12": "5.8%",  "trend": "up" },
       { "name": "ACB",        "m3": "4.0%",  "m6": "5.3%",  "m12": "5.3%",  "trend": "hold" },
-      { "name": "VietinBank", "m3": "2.4%",  "m6": "4.5%",  "m12": "5.8%",  "trend": "up" }
+      { "name": "Vietcombank","m3": "2.1%",  "m6": "3.5%",  "m12": "5.7%",  "trend": "hold" }
     ],
     "analysis": {
-      "title": "Lãi suất phân hóa tuần 2/4: Tăng ở NH nhỏ-vừa, VCB Neo giảm nhẹ",
-      "body": "VietinBank tăng mạnh +1.1%/12T (từ 4.7% lên 5.8%). Techcombank tăng lên 6.5%. VCB Neo giảm nhẹ 12T xuống 5.7% — tạo tín hiệu trái chiều. Ngân hàng nước ngoài UOB dẫn đầu 8.1%/năm. Áp lực LDR (110%) chưa được giải tỏa.",
+      "title": "Lãi suất cuối tuần 11/4: Ổn định sau đợt tăng mạnh — CCTG Vietcombank 7.9% gây chú ý",
+      "body": "Sau đợt VietinBank và Techcombank tăng đến 1.1% hôm 7/4, thị trường lãi suất tạm ổn định vào cuối tuần 11/4. Điểm nổi bật: Vietcombank tung chứng chỉ tiền gửi (CCTG) 7.9%/năm — tín hiệu Big4 muốn hút vốn lớn mà không tăng lãi suất thông thường. MB Bank cập nhật 12T: 6.5%, 24T: 7.5%. SHB giữ mức cao 7.6% cạnh tranh với HLBank. UOB Vietnam vẫn dẫn đầu 8.1%.",
       "sources": [
-        { "name": "Vietnam.vn", "url": "https://www.vietnam.vn/en/lai-suat-ngan-hang-hom-nay-9-4-2026-nha-bang-ngoai-tang-toc-nhieu-noi-vuot-8-nam" },
-        { "name": "CafeF", "url": "https://cafef.vn/lai-suat-ngan-hang-vietinbank-moi-nhat-thang-4-2026-sau-dot-tang-manh-muc-cao-nhat-la-bao-nhieu-188260407072700618.chn" }
+        { "name": "CafeF - Lãi suất 11/4", "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn" },
+        { "name": "CafeF - MB Bank tháng 4", "url": "https://cafef.vn/lai-suat-ngan-hang-quan-doi-mb-thang-4-2026-sau-dot-tang-manh-ky-han-nao-co-lai-suat-cao-nhat-188260405151625062.chn" },
+        { "name": "Topi - So sánh lãi suất 4/2026", "url": "https://topi.vn/so-sanh-lai-suat-ngan-hang-moi-nhat.html" }
       ]
     },
     "rate_reasons": [
       { "name": "Lệch pha tín dụng–huy động (LDR 110%)", "level": "main", "pct": 90, "bar": "fh", "desc": "Tín dụng +17.87%, huy động chỉ +14.1%. Căng thẳng thanh khoản chưa giảm." },
-      { "name": "Dầu tăng + lạm phát dai dẳng", "level": "main", "pct": 80, "bar": "fh", "desc": "Brent vẫn cao, Fed giữ 3.5–3.75%. NH phải giữ lãi suất hấp dẫn để cạnh tranh." },
-      { "name": "Cạnh tranh NH nước ngoài vượt 8%", "level": "sub", "pct": 68, "bar": "fm", "desc": "UOB 8.1% gây áp lực cạnh tranh buộc NH nội địa phải theo." },
+      { "name": "Dầu tăng + lạm phát dai dẳng (CPI Mỹ +0.2%)", "level": "main", "pct": 78, "bar": "fh", "desc": "CPI core Mỹ tháng 3 +0.2% — thấp hơn dự báo nhưng Fed chưa vội cắt. NH giữ lãi suất hấp dẫn." },
+      { "name": "Cạnh tranh NH nước ngoài vượt 8%", "level": "sub", "pct": 68, "bar": "fm", "desc": "UOB 8.1%, Vietcombank phản ứng bằng CCTG 7.9% thay vì tăng lãi suất tại quầy." },
       { "name": "Đầu tư công Q1 tăng tốc", "level": "sub", "pct": 65, "bar": "fm", "desc": "GDP Q1: 8–8.3%. Vốn trung-dài hạn thiếu, NH tăng huy động dài hạn." },
       { "name": "Dự trữ ngoại hối $80 tỷ — tỷ giá áp lực", "level": "sub", "pct": 50, "bar": "fm", "desc": "Cần giữ VND hấp dẫn để bảo vệ tỷ giá trong bối cảnh USD còn biến động." }
     ],
     "rate_forecast": [
-      { "name": "NH nhỏ-vừa tiếp tục tăng 0.1–0.2%", "pct": 65, "direction": "up", "bar": "fm", "desc": "Áp lực LDR chưa giảm. Dự kiến thêm vài đợt tăng nhỏ." },
-      { "name": "Big4 giữ nguyên / điều chỉnh nhẹ", "pct": 58, "direction": "up", "bar": "fm", "desc": "VCB Neo giảm là tín hiệu thận trọng. BIDV, Agribank ổn định." },
-      { "name": "NHNN can thiệp hành chính nếu vượt 9%", "pct": 40, "direction": "down", "bar": "fl", "desc": "NHNN đã cảnh báo. Xác suất tăng nếu lãi suất leo thang không kiểm soát." },
-      { "name": "CPI hạ nhiệt → áp lực giảm", "pct": 30, "direction": "down", "bar": "fl", "desc": "Cần 3–4 tuần để phản ánh vào mặt bằng lãi suất." }
+      { "name": "NH nhỏ-vừa tiếp tục tăng 0.1–0.2%", "pct": 65, "direction": "up", "bar": "fm", "desc": "Áp lực LDR chưa giảm. Dự kiến thêm vài đợt tăng nhỏ trong tuần tới." },
+      { "name": "Big4 dùng CCTG thay tăng lãi suất quầy", "pct": 60, "direction": "up", "bar": "fm", "desc": "VCB CCTG 7.9% là chiến thuật hút vốn lớn mà không khuấy động toàn hệ thống." },
+      { "name": "NHNN can thiệp hành chính nếu vượt 9%", "pct": 38, "direction": "down", "bar": "fl", "desc": "NHNN đã cảnh báo. Xác suất tăng nếu lãi suất leo thang không kiểm soát." },
+      { "name": "CPI hạ nhiệt → áp lực giảm dần", "pct": 35, "direction": "down", "bar": "fl", "desc": "Cần 3–4 tuần để phản ánh vào mặt bằng lãi suất sau tín hiệu CPI tháng 3." }
     ],
     "rate_outlook_label": "Phân hóa — tăng có chọn lọc",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "NH nhỏ-vừa còn room tăng thêm. Big4 thận trọng. NH nước ngoài dẫn đầu cuộc đua huy động.",
+    "rate_outlook_text": "NH nhỏ-vừa còn room tăng thêm. Big4 dùng CCTG thay lãi suất thông thường. NH nước ngoài UOB dẫn đầu 8.1%. Theo dõi Fed và CPI tuần 14/4.",
     "rate_sources": [
-      { "name": "Vietnam.vn", "url": "https://www.vietnam.vn/en/lai-suat-ngan-hang-hom-nay-9-4-2026-nha-bang-ngoai-tang-toc-nhieu-noi-vuot-8-nam" },
-      { "name": "CafeF", "url": "https://cafef.vn/vi-sao-cac-ngan-hang-don-dap-tang-lai-suat-huy-dong-188260327113141792.chn" },
-      { "name": "VnEconomy", "url": "https://vneconomy.vn/nhan-dinh-duong-di-cua-lai-suat.htm" }
+      { "name": "CafeF - Lãi suất 11/4", "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn" },
+      { "name": "Topi - So sánh lãi suất", "url": "https://topi.vn/so-sanh-lai-suat-ngan-hang-moi-nhat.html" },
+      { "name": "VnBiz - Big4 tháng 4", "url": "https://vietnambiz.vn/so-sanh-lai-suat-huy-dong-4-ong-lon-ngan-hang-quoc-doanh-thang-42026-202645203653893.htm" }
     ]
   },
   "charts": {
@@ -157,6 +158,6 @@
     "sjc": [152.8,153.5,154,152.8,154.5,155,156.2,157.8,158.5,159,160.5,161,162,163.5,165,166,167.5,169,170,171,172,173,174,175.5,177,178.5,180,182.5,191.2,186,172,172,173.5,174,175,175.5,176.5,179.3,180.4,180.4,181,181.5,182,182,182,181,181,181,181,181,181,181,181,181.6,184.6,185.3,185,184,187,187,190.9,188.2,184.2,184.7,183.8,185,185,184.1,186.1,187.2,186.3,184.8,182.6,182.6,183.1,183,183,175.5,176.1,171,171,163.8,170.2,175,171.5,170.6,172.8,173.8,174.9,176.7,172.8,173.0,173.5,174.0,174.5,175.0,175.5,175.8,176.2,176.0],
     "world_vnd": [121,121.5,122,121.8,123,124,125,126,127,127.5,128,129,129.5,130,131,132,133,134,135,135.5,136,137,138,139,140,141.5,143,148,152,148,140,139,138.5,138,138,139,140,141.5,142,143,146,147,148,149,150,150.5,151,152,153,153.5,154,154.5,155,156,157,158,158.5,159,160,160.5,161,161.5,162,162.5,163,163.5,164,164.5,165,165.5,166,165,163,162,161.5,160,158,148,146,142.6,142.6,142.6,139.8,140.2,144.9,141.6,146.5,148.2,150.3,151.7,149.3,149.5,149.8,150.0,150.2,150.4,150.5,150.6,150.9,150.8],
     "gold_usd": [4332,4350,4370,4345,4395,4420,4460,4500,4530,4550,4580,4610,4640,4670,4700,4740,4780,4820,4870,4920,4980,5050,5120,5200,5280,5350,5420,5500,5602,5480,5250,5180,5150,5120,5095,5070,5030,5050,5061,5070,5045,5020,4990,4965,4940,4910,4935,4960,4985,5010,5050,5090,5130,5170,5210,5260,5310,5350,5390,5434,5380,5350,5280,5200,5100,4950,4800,4650,4500,4350,4200,4130,4355,4420,4480,4380,4450,4493,4562,4600,4648,4677,4706,4740,4769,4776,4702,4710,4720,4715,4725,4730,4740,4745,4763,4748],
-    "btc": [94000,94200,94500,94000,95000,95500,96000,96500,97000,97500,98000,98500,99000,99500,100000,100500,101000,101500,102000,101000,100000,99500,98000,96000,93000,91000,89000,87000,85000,83000,80000,79000,78500,79000,79500,80000,81000,82000,82500,83000,84000,84500,85000,85500,85000,84500,84000,83500,83000,83000,83500,84000,84500,85000,85500,86000,86500,87000,87500,87000,88000,88500,87000,86500,86000,86500,87000,86000,85500,85000,84000,83000,82000,81500,80500,80000,79000,70500,70417,70800,71000,70800,71043,71300,69984,69837,70200,68234,68233,68590,66401,67200,68000,68500,69000,70000,71000,71500,72400,73003]
+    "btc": [94000,94200,94500,94000,95000,95500,96000,96500,97000,97500,98000,98500,99000,99500,100000,100500,101000,101500,102000,101000,100000,99500,98000,96000,93000,91000,89000,87000,85000,83000,80000,79000,78500,79000,79500,80000,81000,82000,82500,83000,84000,84500,85000,85500,85000,84500,84000,83500,83000,83000,83500,84000,84500,85000,85500,86000,86500,87000,87500,87000,88000,88500,87000,86500,86000,86500,87000,86000,85500,85000,84000,83000,82000,81500,80500,80000,79000,70500,70417,70800,71000,70800,71043,71300,69984,69837,70200,68234,68233,68590,66401,67200,68000,68500,69000,70000,71000,71500,72400,72885]
   }
 }
