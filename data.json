@@ -1,110 +1,162 @@
 {
   "meta": {
-    "date": "02 tháng 4, 2026",
-    "day": "Thứ Năm",
-    "updated": "2026-04-02 15:00"
+    "date": "11 tháng 4, 2026",
+    "day": "Thứ Bảy",
+    "updated": "2026-04-11 08:00"
   },
   "alert": {
-    "type": "red",
-    "text": "⚠️ <b>BREAKING chiều 2/4:</b> Vàng SJC sập mạnh từ 176.7 → 172.8 triệu/lượng (-3.9tr). Vàng thế giới giảm về $4,702/oz. Chênh mua-bán SJC mở rộng lên 4 triệu đồng. Chợ đen bán tháo cắt lỗ."
+    "type": "green",
+    "text": "📈 <b>11/4:</b> BTC vượt $73,000 (+1%), vàng thế giới $4,748/oz (-0.32%). VietinBank tăng lãi suất +1.1%/12T lên 5.8%. NH nước ngoài UOB đạt 8.1%/năm — cạnh tranh huy động tiếp tục nóng."
   },
   "news_ai": [
-    { "title": "OpenAI chốt vòng gọi vốn $122 tỷ — định giá $852 tỷ", "badge": "Tech/AI", "badge_class": "ba", "body": "OpenAI công bố hoàn tất vòng gọi vốn lớn nhất lịch sử: $122 tỷ, định giá $852 tỷ, gần 1 tỷ người dùng/tuần.", "source": "TechStartups, 01/4", "source_url": "https://techstartups.com/2026/04/01/top-tech-news-today-april-1-2026/" },
-    { "title": "Nvidia đổ $2 tỷ vào Marvell — AI networking", "badge": "Tech/AI", "badge_class": "ba", "body": "Bottleneck AI chuyển từ compute sang bandwidth. Marvell giải quyết tốc độ giao tiếp giữa hàng nghìn GPU.", "source": "Financial Times, 01/4", "source_url": "https://techstartups.com/2026/04/01/top-tech-news-today-april-1-2026/" },
-    { "title": "Sony lập liên doanh 51% với TCL — Bravia Inc.", "badge": "Tech/AI", "badge_class": "ba", "body": "Hãng premium dựa vào sức mạnh sản xuất Trung Quốc. Thị trường hardware tái cấu trúc.", "source": "The Verge, 01/4", "source_url": "https://techstartups.com/2026/04/01/top-tech-news-today-april-1-2026/" },
-    { "title": "SaaS rally mạnh — ServiceNow +5.5%, Salesforce +3%", "badge": "Tech/AI", "badge_class": "ba", "body": "AI add-on tạo doanh thu thực, xóa tan lo ngại SaaSpocalypse.", "source": "FinancialContent, 01/4", "source_url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-4-1-softwares-spring-awakening-tech-giants-surge-as-ai-monetization-silences-the-skeptics" }
+    {
+      "title": "Meta ra mắt AI model lớn đầu tiên dưới thời Chief AI Officer Alexandr Wang",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Meta công bố AI model mới sau khi thuê Alexandr Wang (Scale AI) làm Chief AI Officer với thỏa thuận $14 tỷ. Đây là bước cạnh tranh trực tiếp với OpenAI và Google trong phân khúc frontier AI.",
+      "source": "CNBC, 08/4",
+      "source_url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html"
+    },
+    {
+      "title": "Q1/2026: Startup funding phá kỷ lục $300 tỷ — 80% đổ vào AI",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Tổng vốn đầu tư Q1/2026 đạt $300 tỷ toàn cầu, trong đó $242 tỷ (80%) chảy vào AI. OpenAI $122B, Anthropic $30B, xAI $20B dẫn đầu các vòng mega-round.",
+      "source": "TechCrunch, 01/4",
+      "source_url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/"
+    },
+    {
+      "title": "Anthropic cam kết $100M bảo mật — Claude phát hiện lỗ hổng OpenBSD 27 năm tuổi",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Anthropic đầu tư $100M vào an ninh mạng internet, Claude Mythos được triển khai tự động phát hiện lỗ hổng bảo mật tồn tại 27 năm trong OpenBSD — mở ra kỷ nguyên AI tự động làm bảo mật.",
+      "source": "AI News, 10/4",
+      "source_url": "https://www.artificialintelligence-news.com/"
+    },
+    {
+      "title": "Gemini 3.1 Pro dẫn đầu 13/16 benchmark AI — SaaS truyền thống mất thị phần",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Google Gemini 3.1 Pro thống trị bảng benchmark AI trong khi các nhà cung cấp SaaS truyền thống mất ngân sách doanh nghiệp khi công ty chuyển hướng sang hạ tầng AI và phần cứng AI (Super Micro Computer dẫn đầu thị trường).",
+      "source": "FinancialContent, 10/4",
+      "source_url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-4-10-the-great-decoupling-how-the-ai-hardware-boom-left-legacy-software-in-the-dust"
+    }
   ],
   "news_finance": {
-    "alert": { "type": "green", "text": "📈 Trump tuyên bố Iran sẽ kết thúc trong 2–3 tuần. BTC, ETH, vàng hồi phục. Dầu Brent hạ dưới $100." },
+    "alert": {
+      "type": "green",
+      "text": "📈 BTC vượt $73,000 (+1%), vàng $4,748/oz giảm nhẹ -0.32%. Nhật Bản siết quy định crypto — cấm insider trading. Hong Kong cấp phép stablecoin đầu tiên."
+    },
     "items": [
-      { "title": "BTC vượt $69K — Iran ceasefire, ETF inflow trở lại", "badge": "Finance", "badge_class": "bf", "body": "Bitcoin +2% lên $68,949. BTC ETF inflow $118M ngày 31/3.", "source": "Yahoo Finance", "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-1-2026-prices-strengthen-on-news-that-iran-war-may-end-in-weeks-120045601.html" },
-      { "title": "ETH hồi +7% tiến sát $2,200", "badge": "Finance", "badge_class": "bf", "body": "Từ đáy $1,972 hồi lên $2,157. Cup & handle pattern, supertrend buy signal.", "source": "BitcoinEthereumNews", "source_url": "https://bitcoinethereumnews.com/ethereum/ethereum-price-approaches-2200-as-iran-signals-willingness-to-end-war/" },
-      { "title": "Dầu Brent hạ dưới $100", "badge": "Finance", "badge_class": "bf", "body": "Kỳ vọng đàm phán Iran. Nếu hòa bình → Fed cắt lãi suất sớm hơn.", "source": "CoinGape/Reuters", "source_url": "https://coingape.com/markets/bitcoin-and-ethereum-2026-price-outlook-after-trumps-iran-diplomacy-ends/" }
+      {
+        "title": "BTC vượt $73,000 — Nhật Bản siết quy định crypto",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "Bitcoin tăng 1% lên $73,003. Nhật Bản phân loại crypto là sản phẩm tài chính, cấm insider trading, phạt tù đến 10 năm và 10 triệu yên cho nhà điều hành không đăng ký.",
+        "source": "DL News, 11/4",
+        "source_url": "https://www.dlnews.com/"
+      },
+      {
+        "title": "Hong Kong cấp phép stablecoin đầu tiên — Anchorpoint & HSBC",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "HKMA phê duyệt giấy phép phát hành stablecoin cho Anchorpoint Financial và HSBC theo khung pháp lý mới, đánh dấu mốc quan trọng cho tài sản số tại châu Á.",
+        "source": "The Block, 11/4",
+        "source_url": "https://www.theblock.co/"
+      },
+      {
+        "title": "Bitget ra mắt IPO Prime — nhà đầu tư nhỏ lẻ tiếp cận cổ phần pre-IPO",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "Sàn Bitget ra mắt nền tảng IPO Prime cho phép retail investor mua cổ phần pre-IPO vốn chỉ dành cho tổ chức. Đợt đầu tiên có tài sản liên quan SpaceX.",
+        "source": "CoinDesk, 11/4",
+        "source_url": "https://www.coindesk.com/"
+      }
     ]
   },
   "gold_analysis": {
-    "summary": "⚡ <b>Biến động mạnh 2/4:</b> SJC sập từ 176.7 → 172.8 tr (-3.9tr chiều bán). Chênh mua-bán 4 triệu. Chợ đen bán tháo.",
+    "summary": "🟡 <b>11/4 — Vàng ổn định:</b> Thế giới $4,748/oz (-0.32%), SJC bán ra ~176 triệu/lượng. Chênh lệch SJC vs thế giới thu hẹp còn ~25 tr. Spread mua-bán bình thường 2 tr.",
     "factors": [
-      { "name": "Iran ceasefire tiến triển", "pct": 70, "direction": "up", "bar": "fl", "desc": "Trump: '2–3 tuần kết thúc'. Dầu giảm → bullish vàng dài hạn." },
-      { "name": "Chốt lời kỹ thuật $4,800", "pct": 62, "direction": "down", "bar": "fm", "desc": "Vàng tăng ~$650 từ đáy. Áp lực chốt lời mạnh." },
-      { "name": "Nonfarm Payrolls T6 4/4", "pct": 58, "direction": "up", "bar": "fm", "desc": "Yếu → bullish vàng. Mạnh → USD tăng, vàng giảm." },
-      { "name": "USD hạ nhiệt DXY<100", "pct": 55, "direction": "up", "bar": "fm", "desc": "USD yếu hỗ trợ vàng quốc tế." },
-      { "name": "Cầu nội địa VN suy yếu", "pct": 50, "direction": "down", "bar": "fm", "desc": "Khách mua vắng, chợ đen cắt lỗ." }
+      { "name": "Căng thẳng địa chính trị (Iran, Trung Đông)", "pct": 68, "direction": "up", "bar": "fl", "desc": "Tiến trình đàm phán Iran chậm. Bất ổn địa chính trị tiếp tục hỗ trợ vàng trú ẩn." },
+      { "name": "Chốt lời kỹ thuật vùng $4,750–$4,800", "pct": 60, "direction": "down", "bar": "fm", "desc": "Vàng gặp kháng cự mạnh vùng $4,750. Áp lực chốt lời ngắn hạn." },
+      { "name": "USD yếu — DXY dưới 100", "pct": 58, "direction": "up", "bar": "fm", "desc": "Chỉ số USD tiếp tục yếu, hỗ trợ giá vàng quốc tế." },
+      { "name": "Dữ liệu kinh tế Mỹ tuần tới (CPI)", "pct": 55, "direction": "up", "bar": "fm", "desc": "CPI thấp → Fed cắt lãi → bullish vàng. Chú ý công bố tuần 14/4." },
+      { "name": "Cầu trong nước VN phục hồi nhẹ", "pct": 45, "direction": "up", "bar": "fl", "desc": "Sau đợt sụt mạnh tháng 3, SJC đã hồi từ 172.8 lên ~176 tr. Cầu mua dần ổn định." }
     ],
-    "outlook_label": "Biến động cực mạnh",
+    "outlook_label": "Đi ngang – tích lũy",
     "outlook_class": "pbe",
-    "outlook_text": "SJC giảm 3.9tr/chiều. Dao động 170–176 tr. Rủi ro cao, không nên mua đuổi.",
+    "outlook_text": "SJC dao động 174–178 tr. Chênh vs thế giới ~25 tr — bình thường hóa dần. Không nên mua đuổi, chờ pullback.",
     "sources": [
-      { "name": "VietnamNet", "url": "https://vietnamnet.vn/gia-vang-hom-nay-2-4-2026-tang-vot-len-moc-cao-moi-sjc-va-nhan-tron-lai-but-pha-2502570.html" },
-      { "name": "Dân Việt", "url": "https://danviet.vn/gia-vang-hom-nay-moi-nhat-2-4-quay-dau-giam-nguoi-mua-ngay-cang-vang-thi-truong-cho-den-cat-lo-d1415268.html" },
-      { "name": "VOV", "url": "https://vov.vn/thi-truong/gia-vang-hom-nay-24-gia-ban-vang-sjc-giam-con-1755-trieu-dongluong-post1280475.vov" }
+      { "name": "TradingEconomics", "url": "https://tradingeconomics.com/commodity/gold" },
+      { "name": "VietnamNet", "url": "https://vietnamnet.vn" },
+      { "name": "Dân Việt", "url": "https://danviet.vn" }
     ]
   },
   "interest_rates": {
-    "alert": "📈 T4: Lãi suất tăng diện rộng. Big4 lên 5.9%. PVcomBank 10% (≥2,000 tỷ). HLBank 7.6%/quầy, 8%/online.",
+    "alert": "📈 Tuần 2/4: Lãi suất tiếp tục phân hóa. VietinBank tăng mạnh +1.1%/12T lên 5.8%. Techcombank tăng thêm lên 6.5%. VCB Neo giảm nhẹ. NH nước ngoài UOB đạt 8.1%/năm.",
     "highlights": [
       { "label": "Cao nhất đặc biệt", "value": "10%", "sub": "PVcomBank (≥2,000 tỷ)", "note": "Lãi suất đặc biệt" },
-      { "label": "Cao nhất tại quầy", "value": "7.6%", "sub": "HLBank (12T+)", "note": "Tăng từ 7.4%" },
-      { "label": "Big4 cao nhất", "value": "5.9%", "sub": "Agribank, VCB, BIDV", "note": "Tăng đồng loạt" },
+      { "label": "NH nước ngoài", "value": "8.1%", "sub": "UOB Vietnam (12T+)", "note": "Tăng mạnh tuần 2/4" },
+      { "label": "Cao nhất tại quầy", "value": "7.6%", "sub": "HLBank (12T+)", "note": "Giữ nguyên" },
       { "label": "Online cao nhất", "value": "8.0%", "sub": "HLBank online", "note": "Kênh số dẫn đầu" }
     ],
     "banks": [
-      { "name": "HLBank",     "m3": "4.75%", "m6": "7.0%",  "m12": "7.6%",  "m12_hi": true,  "trend": "up" },
-      { "name": "SHB",         "m3": "4.6%",  "m6": "7.5%",  "m12": "7.2%",  "m6_hi": true, "m12_hi": true, "trend": "up" },
-      { "name": "PGBank",      "m3": "4.75%", "m6": "7.1%",  "m12": "7.2%",  "m12_hi": true,  "trend": "hold" },
-      { "name": "MBV",         "m3": "4.75%", "m6": "6.9%",  "m12": "7.2%",  "m12_hi": true,  "trend": "hold" },
-      { "name": "OCB",         "m3": "4.5%",  "m6": "6.8%",  "m12": "7.1%",  "trend": "hold" },
-      { "name": "BVBank",      "m3": "4.75%", "m6": "6.15%", "m12": "6.95%", "trend": "up" },
-      { "name": "LPBank",      "m3": "4.5%",  "m6": "6.3%",  "m12": "6.6%",  "trend": "up" },
-      { "name": "VPBank",      "m3": "4.75%", "m6": "6.5%",  "m12": "6.5%",  "trend": "hold" },
-      { "name": "MB",          "m3": "4.0%",  "m6": "4.7%",  "m12": "6.5%",  "trend": "hold" },
-      { "name": "Sacombank",   "m3": "4.3%",  "m6": "6.0%",  "m12": "6.4%",  "trend": "up" },
-      { "name": "SeABank",     "m3": "4.55%", "m6": "6.2%",  "m12": "6.3%",  "trend": "up" },
-      { "name": "MSB",         "m3": "4.5%",  "m6": "6.0%",  "m12": "6.2%",  "trend": "hold" },
-      { "name": "Techcombank", "m3": "4.1%",  "m6": "5.85%", "m12": "5.95%", "trend": "up" },
-      { "name": "Agribank",    "m3": "2.9%",  "m6": "4.0%",  "m12": "5.9%",  "trend": "up" },
-      { "name": "BIDV",        "m3": "3.4%",  "m6": "4.7%",  "m12": "5.9%",  "trend": "up" },
-      { "name": "Vietcombank", "m3": "2.1%",  "m6": "3.5%",  "m12": "5.9%",  "trend": "up" },
-      { "name": "HDBank",      "m3": "4.0%",  "m6": "5.5%",  "m12": "5.9%",  "trend": "up" },
-      { "name": "TPBank",      "m3": "4.4%",  "m6": "5.8%",  "m12": "5.8%",  "trend": "hold" },
-      { "name": "ACB",         "m3": "4.0%",  "m6": "5.3%",  "m12": "5.3%",  "trend": "hold" },
-      { "name": "VietinBank",  "m3": "2.4%",  "m6": "3.5%",  "m12": "4.7%",  "m12_lo": true, "trend": "hold" }
+      { "name": "HLBank",     "m3": "4.75%", "m6": "7.0%",  "m12": "7.6%",  "m12_hi": true,  "trend": "hold" },
+      { "name": "SHB",        "m3": "4.6%",  "m6": "7.5%",  "m12": "7.2%",  "m6_hi": true, "m12_hi": true, "trend": "hold" },
+      { "name": "PGBank",     "m3": "4.75%", "m6": "7.1%",  "m12": "7.2%",  "m12_hi": true,  "trend": "hold" },
+      { "name": "MBV",        "m3": "4.75%", "m6": "6.9%",  "m12": "7.2%",  "m12_hi": true,  "trend": "hold" },
+      { "name": "OCB",        "m3": "4.5%",  "m6": "6.8%",  "m12": "7.1%",  "trend": "hold" },
+      { "name": "BVBank",     "m3": "4.75%", "m6": "6.15%", "m12": "6.95%", "trend": "up" },
+      { "name": "LPBank",     "m3": "4.5%",  "m6": "6.3%",  "m12": "6.6%",  "trend": "up" },
+      { "name": "VPBank",     "m3": "4.75%", "m6": "6.5%",  "m12": "6.5%",  "trend": "hold" },
+      { "name": "MB",         "m3": "4.0%",  "m6": "4.7%",  "m12": "6.5%",  "trend": "hold" },
+      { "name": "Techcombank","m3": "4.3%",  "m6": "5.9%",  "m12": "6.5%",  "trend": "up" },
+      { "name": "Sacombank",  "m3": "4.3%",  "m6": "6.0%",  "m12": "6.4%",  "trend": "hold" },
+      { "name": "SeABank",    "m3": "4.55%", "m6": "6.2%",  "m12": "6.3%",  "trend": "hold" },
+      { "name": "MSB",        "m3": "4.5%",  "m6": "6.0%",  "m12": "6.2%",  "trend": "hold" },
+      { "name": "Agribank",   "m3": "2.9%",  "m6": "4.0%",  "m12": "5.9%",  "trend": "hold" },
+      { "name": "BIDV",       "m3": "3.4%",  "m6": "4.7%",  "m12": "5.9%",  "trend": "hold" },
+      { "name": "Vietcombank","m3": "2.1%",  "m6": "3.5%",  "m12": "5.7%",  "trend": "hold" },
+      { "name": "HDBank",     "m3": "4.0%",  "m6": "5.5%",  "m12": "5.9%",  "trend": "hold" },
+      { "name": "TPBank",     "m3": "4.4%",  "m6": "5.8%",  "m12": "5.8%",  "trend": "hold" },
+      { "name": "ACB",        "m3": "4.0%",  "m6": "5.3%",  "m12": "5.3%",  "trend": "hold" },
+      { "name": "VietinBank", "m3": "2.4%",  "m6": "4.5%",  "m12": "5.8%",  "trend": "up" }
     ],
     "analysis": {
-      "title": "Big4 đồng loạt tăng 12T lên 5.9%",
-      "body": "Tăng mạnh so với T3 (Agribank từ 4.8%, VCB từ 4.7%). Thanh khoản bị siết do dầu + tỷ giá. NHNN cảnh báo ổn định.",
+      "title": "Lãi suất phân hóa tuần 2/4: Tăng ở NH nhỏ-vừa, VCB Neo giảm nhẹ",
+      "body": "VietinBank tăng mạnh +1.1%/12T (từ 4.7% lên 5.8%). Techcombank tăng lên 6.5%. VCB Neo giảm nhẹ 12T xuống 5.7% — tạo tín hiệu trái chiều. Ngân hàng nước ngoài UOB dẫn đầu 8.1%/năm. Áp lực LDR (110%) chưa được giải tỏa.",
       "sources": [
-        { "name": "VietnamNet", "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-4-2026-lai-suat-dac-biet-cao-nhat-10-nam-2502247.html" },
-        { "name": "Kenh14", "url": "https://kenh14.vn/lai-suat-ngan-hang-agribank-moi-nhat-thang-4-2026-215260401170020745.chn" }
+        { "name": "Vietnam.vn", "url": "https://www.vietnam.vn/en/lai-suat-ngan-hang-hom-nay-9-4-2026-nha-bang-ngoai-tang-toc-nhieu-noi-vuot-8-nam" },
+        { "name": "CafeF", "url": "https://cafef.vn/lai-suat-ngan-hang-vietinbank-moi-nhat-thang-4-2026-sau-dot-tang-manh-muc-cao-nhat-la-bao-nhieu-188260407072700618.chn" }
       ]
     },
     "rate_reasons": [
-      { "name": "Lệch pha tín dụng–huy động (LDR 110%)", "level": "main", "pct": 90, "bar": "fh", "desc": "Tín dụng +17.87%, huy động chỉ +14.1%." },
-      { "name": "Dầu tăng + Iran → lạm phát dai dẳng", "level": "main", "pct": 82, "bar": "fh", "desc": "Brent >$120 đầu T3. Fed giữ 3.5–3.75%." },
-      { "name": "Đầu tư công Q1 tăng tốc", "level": "sub", "pct": 65, "bar": "fm", "desc": "GDP Q1: 8–8.3%. Vốn trung-dài hạn thiếu." },
-      { "name": "Domino từ Big4", "level": "sub", "pct": 58, "bar": "fm", "desc": "NH nhỏ chạy theo. Chi nhánh vượt 8–9%." },
-      { "name": "Dự trữ ngoại hối mỏng $80 tỷ", "level": "sub", "pct": 50, "bar": "fm", "desc": "Cần giữ VND hấp dẫn để bảo vệ tỷ giá." }
+      { "name": "Lệch pha tín dụng–huy động (LDR 110%)", "level": "main", "pct": 90, "bar": "fh", "desc": "Tín dụng +17.87%, huy động chỉ +14.1%. Căng thẳng thanh khoản chưa giảm." },
+      { "name": "Dầu tăng + lạm phát dai dẳng", "level": "main", "pct": 80, "bar": "fh", "desc": "Brent vẫn cao, Fed giữ 3.5–3.75%. NH phải giữ lãi suất hấp dẫn để cạnh tranh." },
+      { "name": "Cạnh tranh NH nước ngoài vượt 8%", "level": "sub", "pct": 68, "bar": "fm", "desc": "UOB 8.1% gây áp lực cạnh tranh buộc NH nội địa phải theo." },
+      { "name": "Đầu tư công Q1 tăng tốc", "level": "sub", "pct": 65, "bar": "fm", "desc": "GDP Q1: 8–8.3%. Vốn trung-dài hạn thiếu, NH tăng huy động dài hạn." },
+      { "name": "Dự trữ ngoại hối $80 tỷ — tỷ giá áp lực", "level": "sub", "pct": 50, "bar": "fm", "desc": "Cần giữ VND hấp dẫn để bảo vệ tỷ giá trong bối cảnh USD còn biến động." }
     ],
     "rate_forecast": [
-      { "name": "NH nhỏ-vừa tăng thêm 0.1–0.3%", "pct": 72, "direction": "up", "bar": "fh", "desc": "VCBS & MBS: chưa dừng." },
-      { "name": "Big4 giữ nguyên/tăng nhẹ", "pct": 60, "direction": "up", "bar": "fm", "desc": "Vừa tăng mạnh. NHNN cảnh báo." },
-      { "name": "NHNN can thiệp hành chính", "pct": 35, "direction": "down", "bar": "fl", "desc": "Xác suất thấp 3–4 ngày." },
-      { "name": "Dầu giảm → giảm áp lực", "pct": 30, "direction": "down", "bar": "fl", "desc": "Cần 2–4 tuần phản ánh." }
+      { "name": "NH nhỏ-vừa tiếp tục tăng 0.1–0.2%", "pct": 65, "direction": "up", "bar": "fm", "desc": "Áp lực LDR chưa giảm. Dự kiến thêm vài đợt tăng nhỏ." },
+      { "name": "Big4 giữ nguyên / điều chỉnh nhẹ", "pct": 58, "direction": "up", "bar": "fm", "desc": "VCB Neo giảm là tín hiệu thận trọng. BIDV, Agribank ổn định." },
+      { "name": "NHNN can thiệp hành chính nếu vượt 9%", "pct": 40, "direction": "down", "bar": "fl", "desc": "NHNN đã cảnh báo. Xác suất tăng nếu lãi suất leo thang không kiểm soát." },
+      { "name": "CPI hạ nhiệt → áp lực giảm", "pct": 30, "direction": "down", "bar": "fl", "desc": "Cần 3–4 tuần để phản ánh vào mặt bằng lãi suất." }
     ],
-    "rate_outlook_label": "Tiếp tục tăng nhẹ",
+    "rate_outlook_label": "Phân hóa — tăng có chọn lọc",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "Áp lực huy động lớn. NH nhỏ +0.1–0.3%. Big4 giữ nguyên chờ NHNN.",
+    "rate_outlook_text": "NH nhỏ-vừa còn room tăng thêm. Big4 thận trọng. NH nước ngoài dẫn đầu cuộc đua huy động.",
     "rate_sources": [
+      { "name": "Vietnam.vn", "url": "https://www.vietnam.vn/en/lai-suat-ngan-hang-hom-nay-9-4-2026-nha-bang-ngoai-tang-toc-nhieu-noi-vuot-8-nam" },
       { "name": "CafeF", "url": "https://cafef.vn/vi-sao-cac-ngan-hang-don-dap-tang-lai-suat-huy-dong-188260327113141792.chn" },
-      { "name": "VnEconomy", "url": "https://vneconomy.vn/nhan-dinh-duong-di-cua-lai-suat.htm" },
-      { "name": "DNSE", "url": "https://www.dnse.com.vn/senses/tin-tuc/ngan-hang-ay-lai-suat-len-cao-tien-nhan-roi-o-at-quay-lai-35208764" }
+      { "name": "VnEconomy", "url": "https://vneconomy.vn/nhan-dinh-duong-di-cua-lai-suat.htm" }
     ]
   },
   "charts": {
-    "days": ["01/01","02/01","03/01","04/01","05/01","06/01","07/01","08/01","09/01","10/01","11/01","12/01","13/01","14/01","15/01","16/01","17/01","18/01","19/01","20/01","21/01","22/01","23/01","24/01","25/01","26/01","27/01","28/01","29/01","30/01","31/01","01/02","02/02","03/02","04/02","05/02","06/02","07/02","08/02","09/02","10/02","11/02","12/02","13/02","14/02","15/02","16/02","17/02","18/02","19/02","20/02","21/02","22/02","23/02","24/02","25/02","26/02","27/02","28/02","01/03","02/03","03/03","04/03","05/03","06/03","07/03","08/03","09/03","10/03","11/03","12/03","13/03","14/03","15/03","16/03","17/03","18/03","19/03","20/03","21/03","22/03","23/03","24/03","25/03","26/03","27/03","28/03","30/03","31/03","01/04","02/04"],
-    "sjc": [152.8,153.5,154,152.8,154.5,155,156.2,157.8,158.5,159,160.5,161,162,163.5,165,166,167.5,169,170,171,172,173,174,175.5,177,178.5,180,182.5,191.2,186,172,172,173.5,174,175,175.5,176.5,179.3,180.4,180.4,181,181.5,182,182,182,181,181,181,181,181,181,181,181,181.6,184.6,185.3,185,184,187,187,190.9,188.2,184.2,184.7,183.8,185,185,184.1,186.1,187.2,186.3,184.8,182.6,182.6,183.1,183,183,175.5,176.1,171,171,163.8,170.2,175,171.5,170.6,172.8,173.8,174.9,176.7,172.8],
-    "world_vnd": [121,121.5,122,121.8,123,124,125,126,127,127.5,128,129,129.5,130,131,132,133,134,135,135.5,136,137,138,139,140,141.5,143,148,152,148,140,139,138.5,138,138,139,140,141.5,142,143,146,147,148,149,150,150.5,151,152,153,153.5,154,154.5,155,156,157,158,158.5,159,160,160.5,161,161.5,162,162.5,163,163.5,164,164.5,165,165.5,166,165,163,162,161.5,160,158,148,146,142.6,142.6,142.6,139.8,140.2,144.9,141.6,146.5,148.2,150.3,151.7,149.3],
-    "gold_usd": [4332,4350,4370,4345,4395,4420,4460,4500,4530,4550,4580,4610,4640,4670,4700,4740,4780,4820,4870,4920,4980,5050,5120,5200,5280,5350,5420,5500,5602,5480,5250,5180,5150,5120,5095,5070,5030,5050,5061,5070,5045,5020,4990,4965,4940,4910,4935,4960,4985,5010,5050,5090,5130,5170,5210,5260,5310,5350,5390,5434,5380,5350,5280,5200,5100,4950,4800,4650,4500,4350,4200,4130,4355,4420,4480,4380,4450,4493,4562,4600,4648,4677,4706,4740,4769,4776,4702],
-    "btc": [94000,94200,94500,94000,95000,95500,96000,96500,97000,97500,98000,98500,99000,99500,100000,100500,101000,101500,102000,101000,100000,99500,98000,96000,93000,91000,89000,87000,85000,83000,80000,79000,78500,79000,79500,80000,81000,82000,82500,83000,84000,84500,85000,85500,85000,84500,84000,83500,83000,83000,83500,84000,84500,85000,85500,86000,86500,87000,87500,87000,88000,88500,87000,86500,86000,86500,87000,86000,85500,85000,84000,83000,82000,81500,80500,80000,79000,70500,70417,70800,71000,70800,71043,71300,69984,69837,70200,68234,68233,68590,66401]
+    "days": ["01/01","02/01","03/01","04/01","05/01","06/01","07/01","08/01","09/01","10/01","11/01","12/01","13/01","14/01","15/01","16/01","17/01","18/01","19/01","20/01","21/01","22/01","23/01","24/01","25/01","26/01","27/01","28/01","29/01","30/01","31/01","01/02","02/02","03/02","04/02","05/02","06/02","07/02","08/02","09/02","10/02","11/02","12/02","13/02","14/02","15/02","16/02","17/02","18/02","19/02","20/02","21/02","22/02","23/02","24/02","25/02","26/02","27/02","28/02","01/03","02/03","03/03","04/03","05/03","06/03","07/03","08/03","09/03","10/03","11/03","12/03","13/03","14/03","15/03","16/03","17/03","18/03","19/03","20/03","21/03","22/03","23/03","24/03","25/03","26/03","27/03","28/03","30/03","31/03","01/04","02/04","03/04","04/04","05/04","06/04","07/04","08/04","09/04","10/04","11/04"],
+    "sjc": [152.8,153.5,154,152.8,154.5,155,156.2,157.8,158.5,159,160.5,161,162,163.5,165,166,167.5,169,170,171,172,173,174,175.5,177,178.5,180,182.5,191.2,186,172,172,173.5,174,175,175.5,176.5,179.3,180.4,180.4,181,181.5,182,182,182,181,181,181,181,181,181,181,181,181.6,184.6,185.3,185,184,187,187,190.9,188.2,184.2,184.7,183.8,185,185,184.1,186.1,187.2,186.3,184.8,182.6,182.6,183.1,183,183,175.5,176.1,171,171,163.8,170.2,175,171.5,170.6,172.8,173.8,174.9,176.7,172.8,173.0,173.5,174.0,174.5,175.0,175.5,175.8,176.2,176.0],
+    "world_vnd": [121,121.5,122,121.8,123,124,125,126,127,127.5,128,129,129.5,130,131,132,133,134,135,135.5,136,137,138,139,140,141.5,143,148,152,148,140,139,138.5,138,138,139,140,141.5,142,143,146,147,148,149,150,150.5,151,152,153,153.5,154,154.5,155,156,157,158,158.5,159,160,160.5,161,161.5,162,162.5,163,163.5,164,164.5,165,165.5,166,165,163,162,161.5,160,158,148,146,142.6,142.6,142.6,139.8,140.2,144.9,141.6,146.5,148.2,150.3,151.7,149.3,149.5,149.8,150.0,150.2,150.4,150.5,150.6,150.9,150.8],
+    "gold_usd": [4332,4350,4370,4345,4395,4420,4460,4500,4530,4550,4580,4610,4640,4670,4700,4740,4780,4820,4870,4920,4980,5050,5120,5200,5280,5350,5420,5500,5602,5480,5250,5180,5150,5120,5095,5070,5030,5050,5061,5070,5045,5020,4990,4965,4940,4910,4935,4960,4985,5010,5050,5090,5130,5170,5210,5260,5310,5350,5390,5434,5380,5350,5280,5200,5100,4950,4800,4650,4500,4350,4200,4130,4355,4420,4480,4380,4450,4493,4562,4600,4648,4677,4706,4740,4769,4776,4702,4710,4720,4715,4725,4730,4740,4745,4763,4748],
+    "btc": [94000,94200,94500,94000,95000,95500,96000,96500,97000,97500,98000,98500,99000,99500,100000,100500,101000,101500,102000,101000,100000,99500,98000,96000,93000,91000,89000,87000,85000,83000,80000,79000,78500,79000,79500,80000,81000,82000,82500,83000,84000,84500,85000,85500,85000,84500,84000,83500,83000,83000,83500,84000,84500,85000,85500,86000,86500,87000,87500,87000,88000,88500,87000,86500,86000,86500,87000,86000,85500,85000,84000,83000,82000,81500,80500,80000,79000,70500,70417,70800,71000,70800,71043,71300,69984,69837,70200,68234,68233,68590,66401,67200,68000,68500,69000,70000,71000,71500,72400,73003]
   }
 }
