@@ -136,11 +136,11 @@
 
   <!-- LIVE GOLD API METRICS -->
   <div id="s-metrics">
-    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
-      <div class="st" style="margin-bottom:0">Giá vàng realtime (vang.today API)</div>
-      <div style="display:flex;align-items:center;gap:6px">
-        <span id="api-status" style="font-size:10px;padding:2px 8px;border-radius:20px;background:#E1F5EE;color:#085041;font-weight:600">● Đang tải...</span>
-        <span id="api-time" style="font-size:10px;color:#999"></span>
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px">
+      <div style="font-size:11px;font-weight:700;color:#999;text-transform:uppercase;letter-spacing:.08em;display:flex;align-items:center;gap:10px">Giá vàng realtime <span style="flex:1;height:1px;background:linear-gradient(90deg,rgba(60,52,137,.15),transparent);display:inline-block;min-width:60px"></span></div>
+      <div style="display:flex;align-items:center;gap:8px">
+        <span id="api-status" style="font-size:11px;padding:3px 10px;border-radius:20px;background:linear-gradient(135deg,#E1F5EE,#d0efe2);color:#085041;font-weight:600;border:1px solid rgba(6,90,71,.12)">● Đang tải...</span>
+        <span id="api-time" style="font-size:11px;color:#bbb"></span>
       </div>
     </div>
     <div class="mg" id="metrics-grid">
@@ -361,11 +361,11 @@ async function loadData(){
     }
 
     // Tech/AI news
-    document.getElementById('s-ai').innerHTML=`<div class="sec"><div class="st">Tech / AI</div>${D.news_ai.map(makeCard).join('')}</div>`;
+    document.getElementById('s-ai').innerHTML=`<div class="sec"><div class="st">Tech / AI</div><div class="news-grid">${D.news_ai.map(makeCard).join('')}</div></div>`;
 
     // Finance news
     const fa=D.news_finance.alert;
-    document.getElementById('s-finance').innerHTML=`<div class="sec"><div class="st">Tài chính / Crypto</div><div class="alert-${fa.type}">${fa.text}</div>${D.news_finance.items.map(makeCard).join('')}</div>`;
+    document.getElementById('s-finance').innerHTML=`<div class="sec"><div class="st">Tài chính / Crypto</div><div class="alert-${fa.type}">${fa.text}</div><div class="news-grid">${D.news_finance.items.map(makeCard).join('')}</div></div>`;
 
     // Gold analysis
     const G=D.gold_analysis;
