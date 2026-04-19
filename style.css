@@ -17,11 +17,29 @@ body {
 /* === HEADER === */
 .hdr {
   display: flex; align-items: center; justify-content: space-between;
-  background: #fff; padding: 1rem; border-radius: 12px;
+  background: #fff; padding: 1rem 1.25rem; border-radius: 12px;
   border-bottom: 1px solid #e0e0de; margin-bottom: 12px;
+}
+.hdr-left { display: flex; align-items: center; gap: 12px; }
+.hdr-avatar {
+  width: 40px; height: 40px; border-radius: 50%;
+  background: linear-gradient(135deg, #3C3489, #534AB7);
+  color: #fff; font-size: 16px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
 }
 .hdr h1 { font-size: 18px; font-weight: 600; }
 .hdr p { font-size: 12px; color: #666; margin-top: 2px; }
+.hdr-right { text-align: right; }
+.hdr-user { font-size: 13px; font-weight: 600; color: #1a1a1a; }
+.hdr-meta {
+  display: flex; align-items: center; gap: 8px;
+  justify-content: flex-end; margin-top: 5px;
+}
+.hdr-weather {
+  font-size: 12px; color: #555; background: #f5f5f3;
+  padding: 2px 9px; border-radius: 20px; border: 1px solid #e0e0de;
+}
 .live {
   font-size: 11px; padding: 3px 10px; border-radius: 20px;
   background: #E1F5EE; color: #085041; font-weight: 600;

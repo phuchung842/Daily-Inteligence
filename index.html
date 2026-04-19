@@ -9,10 +9,22 @@
 <body>
 <div class="app" id="app">
 
-  <!-- HEADER (rendered by JS) -->
+  <!-- HEADER -->
   <div class="hdr">
-    <div><h1>Daily Intelligence</h1><p id="hdr-date">Đang tải...</p></div>
-    <span class="live">● Live hôm nay</span>
+    <div class="hdr-left">
+      <div class="hdr-avatar">K</div>
+      <div>
+        <h1>Daily Intelligence</h1>
+        <p id="hdr-date">Đang tải...</p>
+      </div>
+    </div>
+    <div class="hdr-right">
+      <div class="hdr-user">Kelvin · Business Analyst</div>
+      <div class="hdr-meta">
+        <span class="hdr-weather" id="hdr-weather">🌡️ --°C</span>
+        <span class="live">● Live hôm nay</span>
+      </div>
+    </div>
   </div>
 
   <!-- TABS -->
@@ -116,15 +128,7 @@
 
   <!-- DYNAMIC SECTIONS (rendered from data.json) -->
   <div id="s-chart-gold"></div>
-  <div id="s-chart-gold-world" class="cc" style="padding:8px;height:340px;overflow:hidden">
-    <div class="ct2" style="margin-bottom:4px;font-weight:600">Vàng Thế Giới USD/oz — 12 tháng (TradingView live)</div>
-    <div class="tradingview-widget-container" style="height:300px">
-      <div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div>
-      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-      {"symbol":"TVC:GOLD","width":"100%","height":"100%","locale":"vi","dateRange":"12M","colorTheme":"light","isTransparent":true,"autosize":true}
-      </script>
-    </div>
-  </div>
+  <div id="s-chart-gold-world"></div>
   <div id="s-chart-btc" style="overflow:hidden">
     <div class="cc" style="padding:8px;height:500px;overflow:hidden">
       <div class="ct2" style="margin-bottom:4px;font-weight:600">Bitcoin/USD — Advanced chart (TradingView live)</div>
@@ -157,6 +161,38 @@ function sw(tab,el){
   all.forEach(id=>{const e=document.getElementById(id);if(e)e.classList.add('hidden')});
   (show[tab]||all).forEach(id=>{const e=document.getElementById(id);if(e)e.classList.remove('hidden')});
 }
+
+// =============================================
+// WEATHER — Open-Meteo (free, no API key)
+// =============================================
+function getWeatherIcon(code){
+  if(code===0)return'☀️';
+  if(code<=2)return'🌤️';
+  if(code<=3)return'☁️';
+  if(code<=48)return'🌫️';
+  if(code<=67)return'🌧️';
+  if(code<=77)return'❄️';
+  if(code<=82)return'🌦️';
+  return'⛈️';
+}
+async function fetchWeather(lat,lon){
+  try{
+    const r=await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code&timezone=Asia%2FHo_Chi_Minh`);
+    const d=await r.json();
+    const temp=Math.round(d.current.temperature_2m);
+    const icon=getWeatherIcon(d.current.weather_code);
+    document.getElementById('hdr-weather').textContent=icon+' '+temp+'°C';
+  }catch(e){document.getElementById('hdr-weather').textContent='🌡️ --°C';}
+}
+function initWeather(){
+  if(navigator.geolocation){
+    navigator.geolocation.getCurrentPosition(
+      p=>fetchWeather(p.coords.latitude,p.coords.longitude),
+      ()=>fetchWeather(10.8231,106.6297) // fallback: TP.HCM
+    );
+  }else{fetchWeather(10.8231,106.6297);}
+}
+initWeather();
 
 // =============================================
 // VANG.TODAY API via Cloudflare Worker
