@@ -1,104 +1,104 @@
 {
   "meta": {
-    "date": "19 tháng 4, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-04-19 15:10"
+    "date": "20 tháng 4, 2026",
+    "day": "Thứ Hai",
+    "updated": "2026-04-20 07:05"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>19/4 (Chủ Nhật):</b> Vàng $4,831/oz — thị trường nghỉ cuối tuần, nhẹ từ đỉnh $4,875. BTC ~$75,200 ổn định. Google ra mắt Gemma 4 — open model mạnh nhất byte-for-byte. SpaceX mua lại xAI — thương vụ lớn nhất AI tháng 4. Lãi suất ngân hàng ổn định, không có thay đổi mới Chủ Nhật."
+    "text": "🟡 <b>20/4 (Thứ Hai):</b> Vàng $4,806/oz — giảm nhẹ từ đỉnh $4,875 (17/4), SJC ~172 triệu/lượng. BTC ~$74,800 giữ sát mốc $75K, S&P 500 lập kỷ lục 7,121. Claude Opus 4.7 (Anthropic) chính thức phát hành — vượt GPT-5.4 & Gemini 3.1 trên coding/agentic. Q1/2026 funding kỷ lục $300B — AI chiếm 80%. Thị trường lãi suất mở tuần mới sau sóng 29 NH đã giảm."
   },
   "news_ai": [
     {
-      "title": "Google ra mắt Gemma 4 — 'Byte for byte, the most capable open models' — mở rộng cuộc đua AI mã nguồn mở",
+      "title": "Anthropic phát hành Claude Opus 4.7 — vượt GPT-5.4 & Gemini 3.1 trên coding, vision, agentic use",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google DeepMind công bố Gemma 4, thế hệ model mã nguồn mở mới nhất với tuyên bố 'byte for byte, the most capable open models'. Gemma 4 được tối ưu hóa cả về hiệu suất lẫn kích thước, chạy được trên phần cứng phổ thông. Đây là bước leo thang trong cuộc chiến AI mở: Meta Llama, Mistral, và nay Gemma 4 đang cạnh tranh trực tiếp với các model trả phí như Claude và GPT. Gemma 4 hỗ trợ multimodal và agentic use case theo chuẩn MCP.",
-      "source": "Google DeepMind Blog, 19/4",
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/"
+      "body": "Anthropic chính thức ra mắt Claude Opus 4.7 ngày 16/4 — model mạnh nhất của hãng đến thời điểm này. Opus 4.7 đã có mặt trên tất cả sản phẩm Claude, API, Amazon Bedrock, Google Cloud Vertex AI và Microsoft Foundry. Cải thiện lớn ở coding, visual reasoning (xử lý ảnh tới 2,576px — gấp 3.75 lần độ phân giải cũ), agentic computer use và financial analysis. Opus 4.7 vượt GPT-5.4 (OpenAI, 3/2026) và Gemini 3.1 Pro (Google) trên nhiều benchmark quan trọng, đồng thời đi kèm safeguard tự động chặn request có rủi ro cyber cao.",
+      "source": "Anthropic / VentureBeat, 16-20/4",
+      "source_url": "https://www.anthropic.com/news/claude-opus-4-7"
     },
     {
-      "title": "SpaceX mua lại xAI — Elon Musk hợp nhất hai đế chế AI và vũ trụ, tăng tốc buildout compute",
+      "title": "Q1/2026 lập kỷ lục mọi thời đại: $300B VC funding toàn cầu — AI hút $242B (80%)",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "SpaceX chính thức hoàn tất thương vụ mua lại xAI — công ty AI do Elon Musk sáng lập với model Grok. Thương vụ deepens kết nối giữa hai mảng lớn nhất của Musk: hạ tầng vũ trụ (Starlink, compute bandwidth) và AI frontier (Grok, xAI cluster). Theo CNBC, mục tiêu chính là tăng tốc compute buildout cho xAI sử dụng hạ tầng energy và launch của SpaceX. xAI đang xếp thứ 2 thị trường model performance (sau Anthropic) tính đến tháng 3/2026.",
-      "source": "CNBC / Kersai AI Briefing, 19/4",
-      "source_url": "https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/"
+      "body": "Theo Crunchbase, Q1/2026 ghi nhận $300 tỷ USD đổ vào 6,000 startup toàn cầu — tăng hơn 150% so với cùng kỳ và là mức cao nhất trong lịch sử venture. AI chiếm $242 tỷ (80%). Bốn trong năm vòng gọi vốn lớn nhất lịch sử được chốt trong quý này: OpenAI ($122B), Anthropic ($30B), xAI ($20B), Waymo ($16B) — tổng $188B, chiếm 65% toàn thị trường. OpenAI nâng valuation lên $852B, tổng funding $186B+.",
+      "source": "Crunchbase News, Q1 2026",
+      "source_url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
     },
     {
-      "title": "Google TurboQuant tại ICLR 2026 — giảm KV cache 6 lần, hạ mạnh chi phí inference AI",
+      "title": "Shield AI huy động $1.5B Series G — valuation $12.7B, defense AI tăng tốc sau hợp đồng US Air Force",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google Research công bố TurboQuant tại ICLR 2026 — thuật toán giảm memory overhead từ KV cache (bottleneck lớn nhất khi chạy LLM lớn) xuống còn 1/6 so với trước. Đây là đột phá hạ tầng quan trọng: chi phí inference giảm mạnh, cho phép triển khai model lớn hơn trên cùng phần cứng. Kết hợp với Gemma 4, Google đang tạo vòng lợi thế kép: model mạnh hơn + vận hành rẻ hơn — đặt áp lực lớn lên NVDA và các đối thủ chip AI.",
-      "source": "LLM Stats / Google Research @ ICLR 2026, 19/4",
-      "source_url": "https://llm-stats.com/ai-news"
+      "body": "Shield AI vừa hoàn tất Series G $1.5 tỷ USD ở mức valuation $12.7 tỷ — một trong những vòng defense-AI lớn nhất 2026. Công ty đang xây dựng nền tảng autonomous pilot 'Hivemind' được US Air Force lựa chọn. Cùng với xAI-SpaceX và Palantir, Shield AI phản ánh xu hướng mạnh: vốn tư nhân đang chảy nhanh vào AI quốc phòng, kết hợp compute + autonomous systems + năng lực phân tích chiến trường thời gian thực.",
+      "source": "AI Funding Tracker / Crescendo AI, 4/2026",
+      "source_url": "https://aifundingtracker.com/ai-startup-funding-news-today/"
     },
     {
-      "title": "Meta ra mắt Muse Spark — model đầu tiên từ Meta Superintelligence Labs do Alexandr Wang dẫn dắt",
+      "title": "Figure AI huy động Series D ở valuation $48B — robot nhân hình tăng tốc lên 5,000 unit/tháng Q4/2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta công bố Muse Spark, model đầu tiên từ Meta Superintelligence Labs — đơn vị mới do Alexandr Wang (Scale AI) lãnh đạo sau thương vụ $14 tỷ. Muse Spark thuộc series Muse, tập trung vào creative AI: sinh ảnh, video, và multimodal content tốc độ cao. Đây là lần đầu tiên Meta ra mắt AI model dưới thương hiệu 'Meta Superintelligence' — tín hiệu cho thấy công ty đang leo thang nghiêm túc vào cuộc đua frontier AI sau nhiều năm theo đuổi chiến lược open-source.",
-      "source": "CNBC / Mean CEO AI Report, 19/4",
-      "source_url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/"
+      "body": "Figure AI chốt Series D ở valuation $48 tỷ — tăng gấp nhiều lần so với vòng trước. Công ty đang triển khai 20,000 robot tại kho Amazon và đẩy tốc độ sản xuất từ 1,200 unit/tháng hiện tại lên mục tiêu 5,000/tháng vào Q4/2026. Đây là tín hiệu rõ nét rằng humanoid robotics đang chuyển từ 'demo' sang triển khai thương mại quy mô lớn — thúc đẩy cạnh tranh trực tiếp với Tesla Optimus và các công ty robot Trung Quốc.",
+      "source": "Wellows / Crescendo AI, 4/2026",
+      "source_url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Vàng $4,831/oz cuối tuần (thị trường đóng) — nhẹ từ đỉnh $4,875 ngày 17/4. BTC ~$75,200 ổn định. SpaceX-xAI merger có thể tác động đến cổ phiếu AI-adjacent. JPMorgan vẫn giữ mục tiêu $5,000/oz cho Q4/2026."
+      "text": "🟡 Vàng $4,806/oz — giảm 1.02% từ $4,831 (19/4), gần đỉnh 1 tháng sau tiến triển đàm phán Mỹ-Iran. BTC $74,800 giữ ngưỡng $75K, S&P 500 lập kỷ lục 7,121 — risk-on trở lại. JPMorgan vẫn $5,000/oz Q4/2026, UBP $6,000/oz."
     },
     "items": [
       {
-        "title": "Vàng $4,831/oz Chủ Nhật — thị trường nghỉ, nhẹ từ đỉnh $4,875 | JPMorgan vẫn $5,000 Q4/2026",
+        "title": "Vàng $4,806/oz Thứ Hai — giảm nhẹ từ $4,831, vẫn gần đỉnh tháng | SJC ~172 triệu/lượng",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Gold spot giao dịch quanh $4,831/oz trong ngày Chủ Nhật (thị trường không chính thức, nghỉ cuối tuần). Mức này thấp hơn đỉnh $4,875 ngày 17/4 nhưng vẫn trong xu hướng bullish trung hạn. JPMorgan và UBP duy trì mục tiêu $5,000–$6,000/oz. SJC ước ~178.5 triệu/lượng. Vàng đang được hỗ trợ bởi USD yếu, lo ngại thâm hụt ngân sách Mỹ, và nhu cầu từ PBOC/ngân hàng trung ương toàn cầu.",
-        "source": "150currency.com / TradingEconomics, 19/4",
-        "source_url": "https://tradingeconomics.com/commodity/gold"
+        "body": "Gold spot $4,806/oz sáng 20/4 — giảm 1.02% so với 19/4 ($4,831). Đà giảm phản ánh tiến triển đàm phán Mỹ-Iran về Strait of Hormuz và rủi ro địa chính trị hạ nhiệt. Tuy vậy, giá vẫn gần đỉnh 1 tháng và trong xu hướng bullish trung hạn. SJC giao dịch quanh 172 triệu/lượng theo SJC TP.HCM, DOJI, PNJ, Bảo Tín Mạnh Hải. JPMorgan giữ target $5,000/oz Q4/2026, UBP đặt $6,000/oz.",
+        "source": "TradingEconomics / Vietstock / Vietnamnet, 20/4",
+        "source_url": "https://vietnamnet.vn/gia-vang-hom-nay-19-4-2026-chot-tuan-tang-vang-sjc-len-172-trieu-dong-luong-2507876.html"
       },
       {
-        "title": "BTC ~$75,200 — ổn định cuối tuần, MetaMask xác nhận $75,181 | Bitcoin vs Gold 2026: cả hai bullish",
+        "title": "BTC $74,800 — giữ ngưỡng $75K tâm lý, S&P 500 kỷ lục 7,121 | Risk-on trở lại mọi asset class",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch quanh $75,200 trong ngày Chủ Nhật — ổn định so với $75,600 ngày 17-18/4. MetaMask Price tracker xác nhận $75,181 là mức hiện tại. Báo cáo 247 Wall St. phân tích Bitcoin vs Gold 2026: cả hai đều là hedge hiệu quả nhưng với risk profile khác nhau — BTC tương quan 87% với gold, nhưng volatile hơn 5x. Đề xuất: giữ cả hai trong portfolio phòng ngừa rủi ro macro.",
-        "source": "MetaMask / 247WallSt / Fortune, 19/4",
-        "source_url": "https://247wallst.com/investing/2026/04/16/bitcoin-vs-gold-in-2026-which-is-the-better-hedge-right-now/"
+        "body": "Bitcoin giao dịch sát $74,800 sáng Thứ Hai, vẫn hold mốc $75K tâm lý. Thị trường cổ phiếu Mỹ hưng phấn: S&P 500 đóng cửa kỷ lục 7,121 điểm — risk appetite quay trở lại toàn diện sau khi căng thẳng Mỹ-Iran dịu đi. ETF Bitcoin thu hút $1 tỷ dòng vốn hàng tuần. Các nhà phân tích: $73K là hỗ trợ gần, $76K-$78K là kháng cự kế tiếp. Xu hướng trung hạn vẫn bullish nếu Fed giữ định hướng cắt lãi suất Q3/Q4.",
+        "source": "CoinDesk / Fortune / NewsPress India, 19-20/4",
+        "source_url": "https://fortune.com/article/price-of-bitcoin-04-16-2026/"
       },
       {
-        "title": "SpaceX mua xAI — tác động đến cổ phiếu AI, NVDA, và cạnh tranh chip compute 2026",
+        "title": "Q1/2026 frontier AI funding $188B — OpenAI $122B, Anthropic $30B, xAI $20B | Áp lực lên cổ phiếu AI niêm yết",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Thương vụ SpaceX-xAI có thể tác động đến các cổ phiếu AI-adjacent như NVDA (xAI là khách hàng GPU lớn), AMZN AWS, và Microsoft Azure. Musk hướng tới xây dựng compute cluster riêng sử dụng năng lượng SpaceX — tiềm năng giảm phụ thuộc vào hyperscaler cloud. Giới phân tích phố Wall cho rằng đây là bước cạnh tranh trực tiếp với Microsoft-OpenAI alliance trong không gian AI enterprise và defense.",
-        "source": "CNBC / Kersai AI Briefing, 19/4",
-        "source_url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html"
+        "body": "Bốn startup AI/tech chiếm 65% toàn bộ vốn VC toàn cầu Q1/2026: OpenAI ($122B), Anthropic ($30B), xAI ($20B), Waymo ($16B). Dòng vốn khổng lồ này vừa là catalyst cho NVDA (khách hàng GPU chính) nhưng cũng tăng rủi ro 'capex overbuild' nếu tốc độ tăng doanh thu AI enterprise không theo kịp. Phố Wall đang theo dõi kỹ Q1 earning của NVDA, MSFT (OpenAI partner), GOOGL (Gemini 3.1) và META (Muse Spark) để đánh giá ROI của làn sóng capex AI.",
+        "source": "Crunchbase / Fortune, Q1 2026",
+        "source_url": "https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>19/4 (Chủ Nhật) — Vàng consolidate cuối tuần:</b> Thế giới ~$4,831/oz (nhẹ từ đỉnh $4,875 ngày 17/4), SJC ước ~178.5 triệu/lượng. Thị trường nghỉ cuối tuần — không có biến động mới. JPMorgan giữ mục tiêu $5,000/oz Q4/2026. UBP đặt $6,000/oz. Xu hướng bullish trung hạn còn nguyên.",
+    "summary": "🟡 <b>20/4 (Thứ Hai) — Vàng điều chỉnh nhẹ đầu tuần:</b> Thế giới $4,806/oz (−1.02% vs 19/4), SJC ~172 triệu/lượng. Đàm phán Mỹ-Iran tiến triển khiến rủi ro địa chính trị hạ nhiệt — lực cản ngắn hạn. Tuy vậy, xu hướng bullish trung hạn còn nguyên: JPMorgan giữ $5,000/oz Q4/2026, UBP $6,000/oz. Ngân hàng trung ương EM tiếp tục mua vàng.",
     "factors": [
-      { "name": "USD suy yếu trung hạn — hỗ trợ vàng cơ bản", "pct": 72, "direction": "up", "bar": "fh", "desc": "Dollar Index tiếp tục xu hướng yếu do thâm hụt ngân sách Mỹ kỷ lục và kỳ vọng Fed cắt lãi suất Q3/Q4 2026. USD yếu là lực đẩy cơ bản cho vàng — tương quan nghịch vẫn còn nguyên giá trị." },
-      { "name": "JPMorgan $5,000 và UBP $6,000 — phố Wall bullish mạnh", "pct": 78, "direction": "up", "bar": "fh", "desc": "JPMorgan có 'strong conviction' đặt $5,000/oz Q4/2026. UBP tái xây dựng vị thế vàng và nâng mục tiêu $6,000/oz — mức cao nhất từ các tổ chức lớn. Consensus bullish mạnh từ phố Wall là lực đẩy tâm lý quan trọng." },
-      { "name": "Ngân hàng trung ương toàn cầu tiếp tục mua vàng", "pct": 70, "direction": "up", "bar": "fh", "desc": "PBOC và nhiều ngân hàng trung ương EM tiếp tục mua vàng để đa dạng hóa khỏi USD. Nhu cầu thể chế là nền tảng bền vững cho xu hướng tăng giá dài hạn — không phụ thuộc vào tâm lý nhà đầu tư cá nhân." },
-      { "name": "Tokenized gold on-chain — nhu cầu mở rộng sang crypto", "pct": 55, "direction": "up", "bar": "fm", "desc": "Vàng và bạc token hóa on-chain đang là xu hướng nóng nhất crypto 2026. Nhu cầu vàng đang mở rộng sang một lớp nhà đầu tư mới (crypto-native) — tăng tổng cầu không qua kênh truyền thống." },
-      { "name": "Rủi ro: Giảm ngắn hạn cuối tuần — thị trường mỏng", "pct": 30, "direction": "down", "bar": "fl", "desc": "Ngày Chủ Nhật, thanh khoản thấp có thể khiến giá dao động nhẹ. Mức $4,831 từ $4,875 là điều chỉnh bình thường. Nếu thị trường Thứ Hai mở cửa dưới $4,820, cần theo dõi kỹ hơn." }
+      { "name": "USD yếu trung hạn — hỗ trợ vàng cơ bản", "pct": 72, "direction": "up", "bar": "fh", "desc": "Dollar Index vẫn trong xu hướng yếu do thâm hụt ngân sách Mỹ kỷ lục và kỳ vọng Fed cắt lãi suất Q3/Q4 2026. USD yếu là lực đẩy cơ bản cho vàng — tương quan nghịch vẫn còn nguyên giá trị." },
+      { "name": "JPMorgan $5,000 & UBP $6,000 — phố Wall bullish mạnh", "pct": 78, "direction": "up", "bar": "fh", "desc": "JPMorgan có 'strong conviction' đặt $5,000/oz Q4/2026. UBP tái xây dựng vị thế vàng và nâng mục tiêu $6,000/oz. Consensus bullish mạnh từ phố Wall là lực đẩy tâm lý quan trọng — giữ cho các đợt điều chỉnh chỉ là tạm thời." },
+      { "name": "Ngân hàng trung ương tiếp tục mua vàng", "pct": 70, "direction": "up", "bar": "fh", "desc": "PBOC và nhiều ngân hàng trung ương EM tiếp tục mua vàng để đa dạng hóa khỏi USD. Nhu cầu thể chế là nền tảng bền vững cho xu hướng tăng giá dài hạn — không phụ thuộc vào tâm lý nhà đầu tư cá nhân." },
+      { "name": "Rủi ro: Đàm phán Mỹ-Iran tiến triển — risk-on trở lại", "pct": 55, "direction": "down", "bar": "fm", "desc": "Trung gian đã đạt tiến triển trong kéo dài ceasefire. Nếu căng thẳng Strait of Hormuz giảm tiếp, safe-haven demand cho vàng sẽ yếu đi — S&P 500 kỷ lục 7,121 đã phản ánh tâm lý risk-on trở lại. Áp lực giảm ngắn hạn $4,750–$4,800." },
+      { "name": "Rủi ro: BTC ổn định có thể hút dòng tiền khỏi vàng ngắn hạn", "pct": 35, "direction": "down", "bar": "fl", "desc": "BTC ETF hút $1B/tuần — nếu BTC break $76K, có thể hút một phần nhu cầu 'digital gold' khỏi vàng truyền thống. Tuy vậy mức độ không lớn do hai tài sản có tương quan 87%." }
     ],
-    "outlook_label": "Tích cực — consolidate trước khi tiếp tục tăng $4,900+",
+    "outlook_label": "Tích cực nhưng có điều chỉnh ngắn hạn — vùng mua tốt $4,750–$4,800",
     "outlook_class": "pbg",
-    "outlook_text": "Vàng $4,831/oz sau điều chỉnh nhẹ cuối tuần từ đỉnh $4,875 — xu hướng bullish trung hạn còn nguyên. SJC ~178.5 triệu/lượng. Vùng hỗ trợ $4,800–$4,820 là nền mua tốt. Mục tiêu gần: $4,900–$4,950 khi thị trường mở lại; dài hạn: $5,000+ (JPMorgan) đến $6,000 (UBP). Nhà đầu tư nên duy trì vị thế vàng, xem xét bổ sung nếu có pullback về $4,800.",
+    "outlook_text": "Vàng $4,806/oz sau khi giảm nhẹ từ $4,831 — đàm phán Mỹ-Iran dịu hạ làm áp lực ngắn hạn. SJC 172 triệu/lượng. Vùng hỗ trợ $4,750–$4,800 là nền mua tốt. Mục tiêu gần: $4,870–$4,900; dài hạn: $5,000+ (JPMorgan) đến $6,000 (UBP). Nhà đầu tư nên duy trì vị thế vàng, chờ pullback về $4,780 để bổ sung. Tránh đuổi giá ở vùng > $4,850 trong ngắn hạn.",
     "sources": [
       { "name": "JP Morgan Gold Price Forecast", "url": "https://www.jpmorgan.com/insights/global-research/commodities/gold-prices" },
       { "name": "TradingEconomics Gold Price", "url": "https://tradingeconomics.com/commodity/gold" },
-      { "name": "150currency.com — Gold Price Sunday 19/4/2026", "url": "https://www.150currency.com/" }
+      { "name": "Vietnamnet — Vàng SJC 172 triệu 19/4/2026", "url": "https://vietnamnet.vn/gia-vang-hom-nay-19-4-2026-chot-tuan-tang-vang-sjc-len-172-trieu-dong-luong-2507876.html" }
     ]
   },
   "interest_rates": {
-    "alert": "📊 19/4 (Chủ Nhật): Thị trường lãi suất nghỉ cuối tuần — không có thay đổi mới. Bức tranh tuần: 29 ngân hàng đã giảm lãi suất tính đến 17/4. HLBank 7.5%, OCB 7.7% (ưu đãi), SHB 7.1% vẫn dẫn đầu. Big4 ổn định: BIDV 5.9%, Vietcombank 6.5% (online), VietinBank 5.8%, Agribank 5.9%. Thứ Hai 20/4 theo dõi xem có NH nào mới điều chỉnh không.",
+    "alert": "📊 20/4 (Thứ Hai): Thị trường mở tuần mới sau sóng 29 NH đã giảm lãi suất (tính đến 17/4). OCB 7.7% (ưu đãi), HLBank 7.5%, SHB 7.1% vẫn dẫn đầu. Big4: BIDV 5.9%, Vietcombank 6.5% (online), VietinBank 5.8%, Agribank 5.9% giữ nguyên. Tuần này theo dõi: NH cỡ trung có nhập cuộc thêm không & số liệu CPI tháng 4 (công bố đầu tháng 5).",
     "highlights": [
       { "label": "Cao nhất thị trường", "value": "7.7%", "sub": "OCB gói ưu đãi 4/2026 kỳ 12T", "note": "Vẫn dẫn đầu" },
       { "label": "HLBank ổn định", "value": "7.5%", "sub": "Quầy kỳ hạn 12T", "note": "Giữ nguyên" },
       { "label": "29 NH đã giảm", "value": "29 NH", "sub": "Tính đến 17/4/2026 — kỷ lục", "note": "Làn sóng lớn nhất" },
-      { "label": "Big4 ổn định", "value": "5.8–6.5%", "sub": "Sau đợt giảm lớn tuần 13-17/4", "note": "Chờ CPI tháng 5" }
+      { "label": "Big4 ổn định", "value": "5.8–6.5%", "sub": "Chờ CPI tháng 4 (đầu tháng 5)", "note": "Có thể có đợt 2" }
     ],
     "banks": [
       { "name": "HLBank",     "m3": "4.75%", "m6": "7.0%",  "m12": "7.5%",  "m12_hi": true,  "trend": "hold" },
@@ -123,30 +123,30 @@
       { "name": "Agribank",   "m3": "2.9%",  "m6": "4.0%",  "m12": "5.9%",  "trend": "hold" }
     ],
     "analysis": {
-      "title": "Lãi suất 19/4 (Chủ Nhật): Thị trường nghỉ cuối tuần — bức tranh tuần ổn định sau kỷ lục 29 NH giảm",
-      "body": "Chủ Nhật 19/4/2026, thị trường lãi suất không có biến động mới. Tổng kết tuần: 29 ngân hàng thương mại đã tham gia làn sóng giảm lãi suất — con số kỷ lục phản ánh định hướng NHNN và áp lực thanh khoản. OCB vẫn dẫn đầu với gói ưu đãi 7.7% kỳ hạn 12T; HLBank giữ 7.5%; SHB 7.1%. Big4 (BIDV 5.9%, Vietcombank 6.5% online, VietinBank 5.8%, Agribank 5.9%) ổn định sau đợt cắt lớn. Tuần tới (từ 20/4), thị trường theo dõi khả năng thêm NH điều chỉnh và số liệu CPI tháng 4 sẽ định hướng bước đi NHNN tháng 5.",
+      "title": "Lãi suất 20/4 (Thứ Hai): Mở tuần mới sau kỷ lục 29 NH đã giảm — chờ tín hiệu điều chỉnh tiếp",
+      "body": "Thứ Hai 20/4/2026, thị trường lãi suất mở tuần mới sau làn sóng 29 ngân hàng cắt lãi suất tuần trước — con số kỷ lục. OCB vẫn dẫn đầu với gói ưu đãi 7.7% kỳ 12T; HLBank 7.5%; SHB 7.1%. Big4 (BIDV 5.9%, Vietcombank 6.5% online, VietinBank 5.8%, Agribank 5.9%) giữ nguyên, đang quan sát CPI tháng 4 dự kiến công bố đầu tháng 5. Tuần này cần theo dõi: (1) liệu có thêm NH cỡ trung nhập cuộc, (2) MB 7.2% kỳ hạn 24T có đối thủ mới không, (3) cuộc họp NHNN tháng 5 sẽ quyết định đợt cắt thứ 2 của Big4.",
       "sources": [
         { "name": "VietnamNet - 29 nhà băng giảm lãi suất 17/4/2026", "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-17-4-2026-29-nha-bang-nhap-cuoc-lai-suat-ha-nhiet-2507383.html" },
         { "name": "Topi.vn - Lãi suất tháng 4/2026", "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html" },
-        { "name": "VnEconomy - Lãi suất cao nhất tháng 4/2026", "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-42026.htm" }
+        { "name": "Cafef - Hơn 20 NH đồng loạt giảm lãi suất", "url": "https://cafef.vn/hon-20-ngan-hang-dong-loat-giam-lai-suat-agribank-vietcombank-vietinbank-bidv-va-nhieu-nha-bang-lon-deu-nhap-cuoc-18826041310361406.chn" }
       ]
     },
     "rate_reasons": [
-      { "name": "29 NH đã giảm — kỷ lục mới trong làn sóng Q2/2026", "level": "main", "pct": 90, "bar": "fh", "desc": "Tính đến 17/4, 29 ngân hàng đã tham gia cắt lãi suất — làn sóng rộng nhất trong năm 2026 tính đến nay. NHNN định hướng giảm chi phí vốn để hỗ trợ tín dụng tăng trưởng." },
-      { "name": "OCB 7.7% và HLBank 7.5% — NH nhỏ giữ high rate để hút vốn", "level": "main", "pct": 80, "bar": "fh", "desc": "NH tư nhân cỡ nhỏ-trung không theo Big4 giảm vì cần cạnh tranh hút vốn. Khoảng cách 1.5-2% so với Big4 vẫn là cơ hội tối ưu cho người gửi tiền cần lợi suất cao." },
-      { "name": "Big4 ổn định sau đợt giảm lớn — chờ CPI tháng 4", "level": "sub", "pct": 70, "bar": "fm", "desc": "Sau khi BIDV, Vietcombank, VietinBank, Agribank đã cắt mạnh tuần 13-16/4, nhóm này đang quan sát CPI tháng 4 (dự kiến công bố đầu tháng 5) trước khi quyết định tiếp theo." },
-      { "name": "MB kỳ hạn 24T lên 7.2% — cơ hội lock dài hạn hấp dẫn", "level": "sub", "pct": 62, "bar": "fm", "desc": "MB cung cấp 7.2%/năm cho kỳ hạn 24 tháng — cao bất ngờ so với kỳ hạn 12T (6.45%). Phù hợp cho nhà đầu tư muốn lock lãi suất dài hạn trước khi thị trường tiếp tục giảm." },
-      { "name": "Kênh online tiếp tục được ưu đãi cao hơn quầy", "level": "sub", "pct": 68, "bar": "fm", "desc": "Vietcombank online (6.5%) cao hơn quầy đáng kể — xu hướng số hóa banking tiếp tục được khuyến khích bằng lãi suất ưu đãi cho giao dịch digital." }
+      { "name": "29 NH đã giảm — làn sóng kỷ lục Q2/2026", "level": "main", "pct": 90, "bar": "fh", "desc": "Tính đến 17/4, 29 NH thương mại đã tham gia cắt lãi suất — làn sóng rộng nhất 2026. NHNN định hướng giảm chi phí vốn để hỗ trợ tín dụng tăng trưởng và giữ đà kinh tế Q2." },
+      { "name": "OCB 7.7% & HLBank 7.5% — NH nhỏ-trung giữ high rate hút vốn", "level": "main", "pct": 80, "bar": "fh", "desc": "NH tư nhân cỡ nhỏ-trung không theo Big4 giảm vì cần cạnh tranh hút vốn. Khoảng cách 1.5-2% so với Big4 vẫn là cơ hội tối ưu cho người gửi tiền cần lợi suất cao." },
+      { "name": "Big4 giữ nguyên — chờ CPI tháng 4 trước khi quyết định đợt 2", "level": "sub", "pct": 72, "bar": "fm", "desc": "BIDV, Vietcombank, VietinBank, Agribank đã cắt mạnh tuần 13-16/4. Nhóm này đang theo dõi CPI tháng 4 (công bố đầu tháng 5) trước khi tính bước cắt tiếp." },
+      { "name": "MB 24T 7.2% — cơ hội lock dài hạn hấp dẫn", "level": "sub", "pct": 62, "bar": "fm", "desc": "MB cung cấp 7.2%/năm cho kỳ 24 tháng — cao bất ngờ so với kỳ 12T (6.45%). Phù hợp cho NĐT muốn lock lãi suất dài hạn trước khi thị trường tiếp tục giảm." },
+      { "name": "Kênh online tiếp tục ưu đãi cao hơn quầy", "level": "sub", "pct": 68, "bar": "fm", "desc": "Vietcombank online (6.5%) cao hơn quầy đáng kể — xu hướng số hóa banking tiếp tục được khuyến khích bằng lãi suất ưu đãi cho giao dịch digital." }
     ],
     "rate_forecast": [
-      { "name": "Big4 giữ nguyên đến khi CPI tháng 4 công bố", "pct": 75, "direction": "down", "bar": "fh", "desc": "Với 29 NH đã giảm và Big4 vừa cắt mạnh, thị trường sẽ pause cho đến khi có số liệu CPI tháng 4. Nếu lạm phát hạ, NHNN có thể thúc đẩy đợt cắt thứ hai trong tháng 5." },
-      { "name": "NH tư nhân cỡ trung có thể điều chỉnh thêm 0.1-0.2% tuần tới", "pct": 55, "direction": "down", "bar": "fm", "desc": "Một số NH chưa điều chỉnh có thể nhập cuộc tuần tới để follow xu hướng. Tốc độ chậm — họ cần cân bằng giữa chi phí huy động và duy trì thị phần vốn." },
-      { "name": "OCB và HLBank giữ high rate để cạnh tranh hút vốn Q2", "pct": 70, "direction": "up", "bar": "fh", "desc": "NH nhỏ cần thanh khoản Q2 sẽ duy trì mức cao để thu hút tiền gửi từ người gửi tiền nhạy cảm lãi suất — phân hóa Big4 vs NH nhỏ sẽ tiếp tục ít nhất đến Q3/2026." },
-      { "name": "NHNN cuộc họp tháng 5 — quyết định chính sách tiếp theo", "pct": 60, "direction": "down", "bar": "fm", "desc": "Cuộc họp NHNN tháng 5 sẽ xem xét CPI tháng 4 và tăng trưởng tín dụng Q1. Nếu tăng trưởng dưới kỳ vọng, NHNN có thể tiếp tục định hướng giảm thêm để kích thích." }
+      { "name": "Big4 giữ nguyên đến khi CPI tháng 4 công bố", "pct": 75, "direction": "down", "bar": "fh", "desc": "Với 29 NH đã giảm và Big4 vừa cắt mạnh, thị trường sẽ pause cho đến khi có CPI tháng 4. Nếu lạm phát hạ, NHNN có thể thúc đẩy đợt cắt thứ 2 trong tháng 5." },
+      { "name": "NH tư nhân cỡ trung có thể điều chỉnh thêm 0.1-0.2% tuần này", "pct": 58, "direction": "down", "bar": "fm", "desc": "Một số NH chưa điều chỉnh có thể nhập cuộc tuần này để follow xu hướng. Tốc độ chậm — họ cần cân bằng giữa chi phí huy động và duy trì thị phần vốn." },
+      { "name": "OCB & HLBank giữ high rate để cạnh tranh hút vốn Q2", "pct": 70, "direction": "up", "bar": "fh", "desc": "NH nhỏ cần thanh khoản Q2 sẽ duy trì mức cao để thu hút tiền gửi từ NĐT nhạy cảm lãi suất — phân hóa Big4 vs NH nhỏ sẽ tiếp tục ít nhất đến Q3/2026." },
+      { "name": "Cuộc họp NHNN tháng 5 — quyết định hướng chính sách tiếp", "pct": 62, "direction": "down", "bar": "fm", "desc": "Cuộc họp NHNN tháng 5 sẽ xem xét CPI tháng 4 và tăng trưởng tín dụng Q1. Nếu tăng trưởng dưới kỳ vọng, NHNN có thể tiếp tục định hướng giảm thêm để kích thích." }
     ],
-    "rate_outlook_label": "Ổn định cuối tuần — OCB 7.7%, HLBank 7.5%, MB 24T 7.2% hấp dẫn",
+    "rate_outlook_label": "Mở tuần ổn định — OCB 7.7%, HLBank 7.5%, MB 24T 7.2% vẫn hấp dẫn",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "Sau kỷ lục 29 ngân hàng giảm lãi suất, thị trường đang consolidate cuối tuần. Cơ hội tốt nhất hiện tại: OCB 7.7% (ưu đãi ngắn hạn), HLBank 7.5%, hoặc MB 7.2% kỳ hạn 24T cho người muốn lock dài. Big4 an toàn hơn ở 5.8–6.5%. Nên gửi trước khi CPI tháng 4 ảnh hưởng đến quyết định tiếp theo của NHNN đầu tháng 5.",
+    "rate_outlook_text": "Mở tuần mới sau kỷ lục 29 NH giảm. Cơ hội tốt nhất hiện tại: OCB 7.7% (ưu đãi ngắn hạn), HLBank 7.5%, hoặc MB 7.2% kỳ 24T cho người muốn lock dài. Big4 an toàn hơn ở 5.8–6.5%. Khuyến nghị gửi trong tuần này trước khi CPI tháng 4 công bố đầu tháng 5 có thể tạo sức ép giảm đợt 2. Với kỳ hạn dài, ưu tiên MB 24T 7.2% vì chênh lệch so với 12T (6.45%) là bất thường và khó duy trì lâu.",
     "rate_sources": [
       { "name": "VietnamNet - 29 nhà băng giảm lãi suất 17/4/2026", "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-17-4-2026-29-nha-bang-nhap-cuoc-lai-suat-ha-nhiet-2507383.html" },
       { "name": "Topi.vn - Lãi suất tháng 4/2026", "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html" },
@@ -154,10 +154,8 @@
     ]
   },
   "charts": {
-    "days": ["01/01","02/01","03/01","04/01","05/01","06/01","07/01","08/01","09/01","10/01","11/01","12/01","13/01","14/01","15/01","16/01","17/01","18/01","19/01","20/01","21/01","22/01","23/01","24/01","25/01","26/01","27/01","28/01","29/01","30/01","31/01","01/02","02/02","03/02","04/02","05/02","06/02","07/02","08/02","09/02","10/02","11/02","12/02","13/02","14/02","15/02","16/02","17/02","18/02","19/02","20/02","21/02","22/02","23/02","24/02","25/02","26/02","27/02","28/02","01/03","02/03","03/03","04/03","05/03","06/03","07/03","08/03","09/03","10/03","11/03","12/03","13/03","14/03","15/03","16/03","17/03","18/03","19/03","20/03","21/03","22/03","23/03","24/03","25/03","26/03","27/03","28/03","30/03","31/03","01/04","02/04","03/04","04/04","05/04","06/04","07/04","08/04","09/04","10/04","11/04","12/04","13/04","14/04","15/04","16/04","17/04","18/04","19/04"],
-    "sjc": [152.8,153.5,154,152.8,154.5,155,156.2,157.8,158.5,159,160.5,161,162,163.5,165,166,167.5,169,170,171,172,173,174,175.5,177,178.5,180,182.5,191.2,186,172,172,173.5,174,175,175.5,176.5,179.3,180.4,180.4,181,181.5,182,182,182,181,181,181,181,181,181,181,181,181.6,184.6,185.3,185,184,187,187,190.9,188.2,184.2,184.7,183.8,185,185,184.1,186.1,187.2,186.3,184.8,182.6,182.6,183.1,183,183,175.5,176.1,171,171,163.8,170.2,175,171.5,170.6,172.8,173.8,174.9,176.7,172.8,173.0,173.5,174.0,174.5,175.0,175.5,175.8,176.2,176.0,176.0,173.4,177.0,177.8,178.3,177.9,180.0,178.5],
-    "world_vnd": [121,121.5,122,121.8,123,124,125,126,127,127.5,128,129,129.5,130,131,132,133,134,135,135.5,136,137,138,139,140,141.5,143,148,152,148,140,139,138.5,138,138,139,140,141.5,142,143,146,147,148,149,150,150.5,151,152,153,153.5,154,154.5,155,156,157,158,158.5,159,160,160.5,161,161.5,162,162.5,163,163.5,164,164.5,165,165.5,166,165,163,162,161.5,160,158,148,146,142.6,142.6,142.6,139.8,140.2,144.9,141.6,146.5,148.2,150.3,151.7,149.3,149.5,149.8,150.0,150.2,150.4,150.5,150.6,150.9,150.8,151.0,148.4,152.0,152.8,153.3,152.9,155.0,153.6],
-    "gold_usd": [4332,4350,4370,4345,4395,4420,4460,4500,4530,4550,4580,4610,4640,4670,4700,4740,4780,4820,4870,4920,4980,5050,5120,5200,5280,5350,5420,5500,5602,5480,5250,5180,5150,5120,5095,5070,5030,5050,5061,5070,5045,5020,4990,4965,4940,4910,4935,4960,4985,5010,5050,5090,5130,5170,5210,5260,5310,5350,5390,5434,5380,5350,5280,5200,5100,4950,4800,4650,4500,4350,4200,4130,4355,4420,4480,4380,4450,4493,4562,4600,4648,4677,4706,4740,4769,4776,4702,4710,4720,4715,4725,4730,4740,4745,4763,4748,4750,4670,4781,4808,4822,4810,4875,4831],
-    "btc": [94000,94200,94500,94000,95000,95500,96000,96500,97000,97500,98000,98500,99000,99500,100000,100500,101000,101500,102000,101000,100000,99500,98000,96000,93000,91000,89000,87000,85000,83000,80000,79000,78500,79000,79500,80000,81000,82000,82500,83000,84000,84500,85000,85500,85000,84500,84000,83500,83000,83000,83500,84000,84500,85000,85500,86000,86500,87000,87500,87000,88000,88500,87000,86500,86000,86500,87000,86000,85500,85000,84000,83000,82000,81500,80500,80000,79000,70500,70417,70800,71000,70800,71043,71300,69984,69837,70200,68234,68233,68590,66401,67200,68000,68500,69000,70000,71000,71500,72400,72885,71700,71000,74315,74287,74800,74941,75600,75200]
+    "days": ["01/01","02/01","03/01","04/01","05/01","06/01","07/01","08/01","09/01","10/01","11/01","12/01","13/01","14/01","15/01","16/01","17/01","18/01","19/01","20/01","21/01","22/01","23/01","24/01","25/01","26/01","27/01","28/01","29/01","30/01","31/01","01/02","02/02","03/02","04/02","05/02","06/02","07/02","08/02","09/02","10/02","11/02","12/02","13/02","14/02","15/02","16/02","17/02","18/02","19/02","20/02","21/02","22/02","23/02","24/02","25/02","26/02","27/02","28/02","01/03","02/03","03/03","04/03","05/03","06/03","07/03","08/03","09/03","10/03","11/03","12/03","13/03","14/03","15/03","16/03","17/03","18/03","19/03","20/03","21/03","22/03","23/03","24/03","25/03","26/03","27/03","28/03","30/03","31/03","01/04","02/04","03/04","04/04","05/04","06/04","07/04","08/04","09/04","10/04","11/04","12/04","13/04","14/04","15/04","16/04","17/04","18/04","19/04","20/04"],
+    "sjc": [152.8,153.5,154,152.8,154.5,155,156.2,157.8,158.5,159,160.5,161,162,163.5,165,166,167.5,169,170,171,172,173,174,175.5,177,178.5,180,182.5,191.2,186,172,172,173.5,174,175,175.5,176.5,179.3,180.4,180.4,181,181.5,182,182,182,181,181,181,181,181,181,181,181,181.6,184.6,185.3,185,184,187,187,190.9,188.2,184.2,184.7,183.8,185,185,184.1,186.1,187.2,186.3,184.8,182.6,182.6,183.1,183,183,175.5,176.1,171,171,163.8,170.2,175,171.5,170.6,172.8,173.8,174.9,176.7,172.8,173.0,173.5,174.0,174.5,175.0,175.5,175.8,176.2,176.0,176.0,173.4,177.0,177.8,178.3,177.9,180.0,178.5,172.0],
+    "world_vnd": [121,121.5,122,121.8,123,124,125,126,127,127.5,128,129,129.5,130,131,132,133,134,135,135.5,136,137,138,139,140,141.5,143,148,152,148,140,139,138.5,138,138,139,140,141.5,142,143,146,147,148,149,150,150.5,151,152,153,153.5,154,154.5,155,156,157,158,158.5,159,160,160.5,161,161.5,162,162.5,163,163.5,164,164.5,165,165.5,166,165,163,162,161.5,160,158,148,146,142.6,142.6,142.6,139.8,140.2,144.9,141.6,146.5,148.2,150.3,151.7,149.3,149.5,149.8,150.0,150.2,150.4,150.5,150.6,150.9,150.8,151.0,148.4,152.0,152.8,153.3,152.9,155.0,153.6,152.8]
   }
 }
