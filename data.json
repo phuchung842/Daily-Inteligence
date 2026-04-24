@@ -1,162 +1,162 @@
 {
   "meta": {
-    "date": "23 tháng 4, 2026",
-    "day": "Thứ Năm",
-    "updated": "2026-04-23 20:53"
+    "date": "24 tháng 4, 2026",
+    "day": "Thứ Sáu",
+    "updated": "2026-04-24 07:10"
   },
   "alert": {
     "type": "red",
-    "text": "🔴 <b>23/4 — Chốt phiên:</b> Vàng $4,691/oz — ngày giảm thứ 3 liên tiếp (−$137 từ đỉnh $4,828), SJC chốt 167.5 mua / 170.0 bán, premium ~20 triệu (tăng cao). BTC $77,809 — chưa phá $80K. Google ký deal tỷ đô với Thinking Machines Lab (Mira Murati) — Nvidia GB300. Vercel bị hack qua Context.ai (April 23). HDBank là NH thứ 31 cắt lãi suất (-0.5pp kỳ ≥6T)."
+    "text": "🔴 <b>24/4 — Sáng sớm:</b> Vàng thế giới $4,695/oz (tiếp đà giảm, ngày thứ 4 liên tiếp nếu chốt), SJC lao dốc còn 166.7 mua / 169.23 bán (−800K). BTC $78,553 — hồi nhẹ về gần $78,500. SpaceX chốt quyền mua Cursor $60 tỷ. Google ra mắt TPU 8t/8i thách thức Nvidia. Vast Data huy động $1B ở định giá $30B. Lãi suất: HLBank 8% online vẫn dẫn đầu, Big4 tiếp tục chờ CPI tháng 4."
   },
   "news_ai": [
     {
-      "title": "Google ký deal tỷ đô với Thinking Machines Lab của Mira Murati — Nvidia GB300, mở rộng frontier AI",
+      "title": "SpaceX chốt quyền mua Cursor $60 tỷ — Musk chuẩn bị IPO với tham vọng AI coding",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google Cloud ký thỏa thuận hàng tỷ USD với Thinking Machines Lab — startup AI 14 tháng tuổi do Mira Murati (cựu CTO OpenAI) sáng lập. Deal cung cấp hạ tầng Nvidia GB300 cho model 'Tinker' — tự động tạo custom frontier AI và hỗ trợ reinforcement learning workloads. Đây là frontier AI lab thứ 3 ký với Google Cloud tháng 4/2026, sau Anthropic và Meta, củng cố vị thế Google trong cuộc chiến cloud AI.",
-      "source": "TechCrunch / SiliconANGLE, 22/4/2026",
-      "source_url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"
+      "body": "SpaceX thông báo đã đạt thỏa thuận cho quyền mua startup AI coding Cursor cuối 2026 với giá 60 tỷ USD, hoặc trả 10 tỷ USD cho 'hợp tác chung'. Deal này chặn vòng gọi vốn 2 tỷ USD định giá 50 tỷ mà Cursor đang chốt chỉ vài giờ trước. Cursor sẽ kết hợp với siêu máy tính Colossus của xAI (tương đương 1 triệu H100) để huấn luyện model coding mạnh nhất thế giới. Microsoft từng xem xét mua trước SpaceX. Deal làm dấy lên câu hỏi về tính trung lập model và data contract cho enterprise.",
+      "source": "TechCrunch / CNBC / Fortune, 22–23/4/2026",
+      "source_url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
     },
     {
-      "title": "Toyota ra mắt Woven City AI Vision Engine và Akio Toyoda AI — kỷ nguyên AI automotive bắt đầu",
+      "title": "Google Cloud ra mắt TPU 8t & TPU 8i — thế hệ 8 chia đôi để thách thức Nvidia",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Toyota và Woven by Toyota ra mắt AI Vision Engine — mô hình ngôn ngữ thị giác tiên tiến cho Woven City (mở cửa từ 9/2025). Đáng chú ý, Toyota Chairman Akio Toyoda đóng góp trực tiếp vào 'Akio Toyoda AI' — model phản ánh phong cách lãnh đạo của ông, nhằm thúc đẩy văn hóa AI trong Toyota Group. Inventor Garage — hub phát triển AI end-to-end — bắt đầu hoạt động tháng 4/2026.",
-      "source": "Woven by Toyota / Toyota Global Newsroom, 22/4/2026",
-      "source_url": "https://woven.toyota/en/news/20260422/"
+      "body": "Tại Google Cloud Next 2026, Google công bố thế hệ TPU thứ 8 gồm 2 chip riêng biệt: TPU 8t dành cho training (nhanh hơn 3× so với thế hệ trước) và TPU 8i dành cho inference (hiệu suất/chi phí tốt hơn 80%). Đây là bước đi trực diện thách thức Nvidia trong cả hai phân khúc. Anthropic xác nhận sẽ dùng 'nhiều gigawatt' TPU thế hệ mới từ 2027, đồng thời ký thêm 5 GW với Amazon cho Claude. Tech stock Alphabet và Broadcom phản ứng tích cực.",
+      "source": "TechCrunch / Fortune / Bloomberg, 22–23/4/2026",
+      "source_url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/"
     },
     {
-      "title": "Vercel bị tấn công qua Context.ai — chuỗi cung ứng AI trở thành vector tấn công mới nguy hiểm",
+      "title": "Vast Data gọi vốn $1B định giá $30B — hạ tầng AI infrastructure bùng nổ tiếp tục",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Ngày 23/4, Vercel xác nhận sự cố bảo mật nghiêm trọng: hacker truy cập hệ thống nội bộ thông qua Context.ai — một công cụ AI bên thứ ba được nhân viên Vercel sử dụng. Đây là ví dụ điển hình cho 'AI Supply Chain Attack' — kẻ tấn công nhắm vào công cụ AI trung gian thay vì hệ thống chính. Sự cố đặt ra câu hỏi về bảo mật của hàng nghìn SaaS tích hợp AI tools của bên thứ ba.",
-      "source": "Vercel Knowledge Base, 23/4/2026",
-      "source_url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident"
+      "body": "Startup hạ tầng AI Vast Data (được Nvidia hậu thuẫn) gọi vốn thành công $1 tỷ USD ở định giá $30 tỷ — gấp hơn 3 lần mức $9.1B của năm 2023. Vast xây dựng nền tảng lưu trữ/truy xuất dữ liệu khối lượng lớn cho workload AI. Thương vụ này cùng SpaceX-Cursor ($60B) và Blue Energy ($380M cho nhà máy hạt nhân phục vụ AI) xác lập tháng 4/2026 là một trong những tháng huy động vốn AI mạnh nhất lịch sử. Q1/2026 ghi nhận $300B VC toàn cầu, trong đó AI chiếm ~80%.",
+      "source": "Tech Startups / Crunchbase News, 22–23/4/2026",
+      "source_url": "https://techstartups.com/2026/04/22/nvidia-backed-ai-startup-vast-data-raises-1b-at-30b-valuation-as-ai-infrastructure-boom-accelerates/"
     },
     {
-      "title": "Anthropic Claude Mythos sắp ra mắt — dẫn đầu 17/18 benchmarks, 'step change in capabilities'",
+      "title": "Google tung AI Agents mới để cạnh tranh OpenAI và Anthropic — tự động hoá doanh nghiệp",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic tiết lộ mô hình frontier tiếp theo có tên nội bộ 'Claude Mythos' — được mô tả là 'bước nhảy vọt khả năng' so với Claude Opus 4.7. Mythos dẫn đầu 17 trong 18 benchmark Anthropic đo đạc, đặc biệt nổi bật trong cybersecurity, nghiên cứu học thuật và coding phức tạp. Model dự kiến ra mắt Q2/2026. Đây là thách thức trực tiếp với GPT-5.4 (OpenAI) và Gemini 3.1 Pro trong cuộc đua AI frontier 2026.",
-      "source": "RD World Online / Orange Cyberdefense, 4/2026",
-      "source_url": "https://www.rdworldonline.com/claude-mythos-leads-17-of-18-benchmarks-anthropic-measured-muse-spark-put-meta-back-in-the-frontier-club-and-openais-spud-model-is-reportedly-near-launch/"
+      "body": "Google công bố bộ công cụ xây dựng AI agent hướng doanh nghiệp tại Cloud Next 2026, nhắm trực tiếp vào thị trường đang nóng của OpenAI (Operator) và Anthropic (Computer Use/Claude Agent SDK). Các agent cho phép tự động hoá quy trình enterprise — từ trả lời email đến quản lý lịch, đặt hàng, và tương tác với hệ thống SaaS. Kết hợp với TPU mới và partnership Thinking Machines Lab (Mira Murati), Google đang xây dựng stack AI đầy đủ cạnh tranh toàn diện. OpenAI đã vượt $25B doanh thu hàng năm, Anthropic ~$19B.",
+      "source": "Bloomberg / CNBC, 22/4/2026",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-22/google-releases-new-ai-agents-to-challenge-openai-and-anthropic"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "red",
-      "text": "🔴 Vàng $4,691/oz chốt phiên 23/4 — giảm ngày 3 liên tiếp (−$137 từ đỉnh $4,828/21/4). SJC 167.5 mua / 170.0 bán, premium ~20 triệu (mức cao đáng lo ngại). BTC $77,809 sáng 23/4 ET — chưa phá $80K. Thinking Machines Lab (Murati) nhận deal tỷ đô từ Google Cloud."
+      "text": "🔴 Vàng $4,695/oz sáng 24/4 — tiếp tục đà giảm từ đỉnh $4,828 (21/4), tổng giảm ~$133 (−2.8%). SJC 166.7 mua / 169.23 bán (−800K), premium thu hẹp nhẹ. BTC $78,553 hồi nhẹ từ $77,800. SpaceX chốt quyền mua Cursor $60 tỷ — định hình lại thị trường AI coding. Google TPU 8 chia đôi chip challenge Nvidia."
     },
     "items": [
       {
-        "title": "Vàng $4,691/oz chốt phiên 23/4 — SJC 167.5 mua/170.0 bán, premium ~20 triệu — ngày giảm thứ 3",
+        "title": "Vàng $4,695/oz sáng 24/4 — SJC 166.7/169.23 triệu (−800K), áp lực bán tăng mạnh",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Giá vàng thế giới chốt phiên 23/4 ở mức $4,691/oz, giảm hơn $60 USD so với phiên trước — ngày giảm thứ 3 liên tiếp từ đỉnh $4,828 (21/4), tổng giảm ~$137 USD (−2.8%). SJC trong nước: DOJI 166.7/169.2, SJC Sài Gòn 167.5/170.0, BTMC 167.0/170.0. Premium SJC vs thế giới tăng lên ~20 triệu — mức cao bất thường, NHNN cần theo dõi sát. Vùng hỗ trợ $4,680–$4,700 đang bị kiểm tra.",
-        "source": "Techz / Vietnam.vn / Thanh Niên, 23/4/2026",
-        "source_url": "https://www.techz.vn/180-426-5-gia-vang-hom-nay-chot-phien-23-4-vang-sjc-nhan-9999-giam-nhieu-phien-muc-chenh-lech-lon-nguoi-mua-chiu-lo--ylt688804.html"
+        "body": "Giá vàng thế giới giảm tiếp về $4,695/oz sáng 24/4 (thấp hơn $4,734 phiên trước). SJC trong nước lao dốc: 166.7 triệu mua / 169.23 triệu bán, giảm 800K so với chốt phiên 23/4. Vàng nhẫn 9999 cũng giảm tương tự. Vùng hỗ trợ $4,680–$4,700 đang bị kiểm tra lần 2 sau 3 ngày giảm liên tiếp. Áp lực bán ngắn hạn tăng khi USD tiếp tục mạnh và đàm phán Mỹ-Iran có tiến triển. Premium SJC thu hẹp nhẹ về ~20 triệu. NĐT ngắn hạn được khuyến cáo chờ xác nhận đáy trước khi vào lệnh mua mới.",
+        "source": "Techz / Báo Văn Hóa / Vietnam.vn, 24/4/2026",
+        "source_url": "https://www.techz.vn/180-426-5-gia-vang-hom-nay-24-4-vang-sjc-nhan-9999-lao-doc-the-gioi-bien-dong-ap-luc-ban-tang-manh-ylt688841.html"
       },
       {
-        "title": "BTC $77,809 ngày 23/4 — Tesla lỗ $173M từ BTC Q1, breakout $80K tiếp tục trễ hẹn",
+        "title": "BTC $78,553 sáng 24/4 — hồi nhẹ về $78.5K, $80K vẫn là rào cản lớn",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin đứng ở $77,809 lúc 9 giờ sáng ET ngày 23/4 — giảm nhẹ $384 so với ngày trước. Tesla giữ nguyên 11,509 BTC nhưng ghi lỗ $173M tài sản kỹ thuật số Q1/2026 do biến động giá. Kháng cự $80,000–$82,000 vẫn là rào cản. Gold up 80% từ đầu 2025 trong khi BTC giảm ~20% từ đỉnh $126,000 (10/2025) — cạnh tranh safe-haven dồn về vàng trong 2026.",
-        "source": "Yahoo Finance / Fortune, 23/4/2026",
-        "source_url": "https://fortune.com/article/price-of-bitcoin-04-23-2026/"
+        "body": "Bitcoin hồi nhẹ lên $78,553 sáng 24/4 (so với $77,809 phiên 23/4) — nhưng vẫn chưa thể phá vùng kháng cự $80,000–$82,000. Altcoin giảm 2–3% (ETH, SOL, BNB). Tesla Q1 lỗ $173M từ tài sản số. Strategy (MicroStrategy) tiếp tục gom BTC, nâng tổng nắm giữ lên 815,061 BTC — củng cố thesis 'digital gold'. Trong bối cảnh vàng giảm 2.8% từ đỉnh, BTC có thể thu hút lại dòng vốn safe-haven nếu phá $80K thành công.",
+        "source": "Yahoo Finance / Blockchain Magazine / CoinPedia, 23–24/4/2026",
+        "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html"
       },
       {
-        "title": "Google + Thinking Machines Lab tỷ đô — tháng 4/2026 xác lập tháng đầu tư AI lớn nhất lịch sử",
+        "title": "SpaceX-Cursor $60B: thương vụ AI coding lớn nhất lịch sử — Musk thiết lập AI stack riêng",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Deal Google Cloud - Thinking Machines Lab (Mira Murati, Nvidia GB300) là thương vụ mới nhất trong chuỗi đầu tư AI khổng lồ tháng 4/2026: 3 vòng VC lớn nhất lịch sử AI, thương vụ M&A $1.25 nghìn tỷ USD, và nay là deal hàng tỷ USD Google-TMI. Thinking Machines Lab là frontend AI lab thứ 3 ký với Google (sau Anthropic, Meta) — dấu hiệu Google đang consolidate vị thế cloud provider cho toàn bộ frontier AI ecosystem.",
-        "source": "TechCrunch / AI Business Review, 22/4/2026",
-        "source_url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/"
+        "body": "SpaceX chốt quyền mua Cursor với giá 60 tỷ USD (hoặc 10 tỷ 'break fee'), chặn vòng gọi vốn $2B định giá $50B. Đây là thương vụ AI coding lớn nhất lịch sử, vượt cả Google-Windsurf ($3B). Musk đang chuẩn bị IPO SpaceX mùa hè 2026 — deal Cursor sẽ được hoàn tất sau IPO để tận dụng cổ phiếu niêm yết thanh toán. Kết hợp Cursor + Colossus (1M H100), xAI/SpaceX sẽ có stack coding AI mạnh nhất thế giới — thách thức OpenAI Codex và Anthropic Claude Code. Microsoft trước đó đã cân nhắc mua Cursor nhưng thua SpaceX.",
+        "source": "CNBC / TechCrunch / Bloomberg, 21–22/4/2026",
+        "source_url": "https://www.cnbc.com/2026/04/21/spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.html"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🔴 <b>23/4 — Chốt phiên, ngày giảm thứ 3:</b> Vàng thế giới $4,691/oz (−$55 USD vs hôm qua $4,746, tổng −$137 từ đỉnh $4,828/21/4). SJC 167.5 mua / 170.0 bán (−800K), premium ~20 triệu (mức cao đáng lo). Vùng hỗ trợ $4,680–$4,700 đang bị kiểm tra. Nếu mất $4,680, có thể về $4,600–$4,650. Dài hạn: JPMorgan $5,000/oz Q4 vẫn là mục tiêu.",
+    "summary": "🔴 <b>24/4 — Sáng sớm, tiếp đà giảm:</b> Vàng thế giới $4,695/oz (giảm tiếp ~$30 vs chốt 23/4 $4,725 trung bình, tổng −$133 từ đỉnh $4,828/21/4). SJC 166.7 mua / 169.23 bán (−800K), premium ~20 triệu (vẫn cao). Vùng hỗ trợ $4,680–$4,700 tiếp tục bị kiểm tra. Nếu mất $4,680 — về $4,600–$4,650. Dài hạn: JPMorgan $5,000/oz Q4 vẫn là mục tiêu, UBP $6,000.",
     "factors": [
       {
-        "name": "USD mạnh + dữ liệu kinh tế Mỹ — áp lực liên tiếp 3 ngày",
-        "pct": 72,
+        "name": "USD mạnh + chờ GDP Q1 Mỹ — áp lực liên tiếp sang ngày thứ 4",
+        "pct": 75,
         "direction": "down",
         "bar": "fh",
-        "desc": "Đồng USD tiếp tục mạnh sau điều trần Kevin Warsh và chờ GDP Q1 + PCE cuối tháng 4. Ba ngày giảm liên tiếp từ $4,828 phản ánh áp lực USD bền vững — không phải điều chỉnh ngắn hạn đơn thuần. Nếu GDP Q1 Mỹ vượt kỳ vọng → USD mạnh thêm → vàng chịu áp lực."
+        "desc": "Dollar Index tiếp tục mạnh trước dữ liệu GDP Q1 Mỹ (công bố tuần tới) và PCE core cuối tháng 4. Kỳ vọng Fed cắt giảm chậm lại đang đẩy USD lên. Bốn ngày giảm liên tiếp từ $4,828 cho thấy áp lực USD bền vững — không phải điều chỉnh ngắn hạn. Nếu GDP Q1 vượt kỳ vọng → vàng có thể về $4,600."
       },
       {
-        "name": "Đàm phán Iran-Mỹ tiến triển — safe-haven demand giảm thêm",
-        "pct": 60,
+        "name": "Đàm phán Iran-Mỹ tiến triển — safe-haven demand tiếp tục hạ",
+        "pct": 62,
         "direction": "down",
         "bar": "fm",
-        "desc": "Tin tức đàm phán Mỹ-Iran có tiến triển tích cực làm giảm nhu cầu vàng an toàn. Mỗi bước tiến trong đàm phán đều tạo áp lực bán vàng ngắn hạn. Nếu đạt thỏa thuận chính thức, vàng có thể test $4,600–$4,650."
+        "desc": "Tin đàm phán Mỹ-Iran tích cực và khả năng mở lại eo biển Hormuz làm giảm nhu cầu vàng an toàn. Trump gia hạn ceasefire cũng làm giảm premium địa chính trị. Mỗi bước tiến đàm phán đều tạo áp lực bán vàng ngắn hạn — nếu đạt thoả thuận chính thức, vàng có thể test $4,600–$4,650."
       },
       {
-        "name": "Vùng hỗ trợ $4,680–$4,700 đang bị kiểm tra — quyết định tuần tới",
-        "pct": 65,
+        "name": "Vùng hỗ trợ $4,680–$4,700 kiểm tra lần 2 — cuối tuần quyết định",
+        "pct": 68,
         "direction": "up",
         "bar": "fh",
-        "desc": "Sau 3 ngày giảm, $4,691 đang trực tiếp kiểm tra vùng hỗ trợ kỹ thuật quan trọng $4,680–$4,700. Nếu giữ vững qua phiên cuối tuần → hồi phục về $4,780–$4,820 đầu tuần tới. Nếu mất $4,680 → downside tiếp về $4,600."
+        "desc": "Sau 4 ngày giảm, $4,695 đang kiểm tra trực tiếp hỗ trợ kỹ thuật quan trọng $4,680–$4,700 lần 2 trong tuần. Nếu giữ vững qua phiên cuối tuần → hồi phục về $4,780–$4,820 đầu tuần tới. Nếu mất $4,680 — downside tiếp về $4,600. Volume giảm cho thấy lực bán yếu dần."
       },
       {
-        "name": "SJC premium ~20 triệu — bất thường, NHNN cần can thiệp",
+        "name": "SJC premium ~20 triệu thu hẹp nhẹ — vẫn bất thường",
         "pct": 55,
         "direction": "down",
         "bar": "fm",
-        "desc": "SJC 168.8 triệu (mid) vs world_vnd 149.1 triệu — premium ~20 triệu (~13.4%). Premium cao nhất trong nhiều tuần, tạo rủi ro cho người mua SJC vì họ đang 'trả thêm' quá nhiều so với giá thế giới. NHNN có thể cân nhắc nhập khẩu vàng để thu hẹp premium."
+        "desc": "SJC 168.0 triệu (mid) vs world_vnd 149.2 triệu — premium ~19 triệu (~12.7%), thu hẹp nhẹ vs hôm qua 20tr. Mức này vẫn là cao đáng lo ngại cho người mua SJC. NHNN có thể cân nhắc nhập khẩu vàng để giảm premium. Người tiêu dùng nên ưu tiên vàng nhẫn 9999 (premium 5–8 triệu, thấp hơn đáng kể)."
       },
       {
-        "name": "Xu hướng bullish dài hạn nguyên vẹn — $5,000–$6,000 mục tiêu năm 2026",
+        "name": "Xu hướng bullish dài hạn nguyên vẹn — $5,000–$6,000 vẫn là mục tiêu 2026",
         "pct": 75,
         "direction": "up",
         "bar": "fh",
-        "desc": "JPMorgan ($5,000/oz Q4) và UBP ($6,000/oz) duy trì dự báo bullish. Vàng vẫn up ~80% từ đầu 2025. NHTW toàn cầu tiếp tục mua Q1/2026. Đây là điều chỉnh bình thường sau chuỗi tăng mạnh — không đổi thesis đầu tư trung-dài hạn."
+        "desc": "JPMorgan ($5,000/oz Q4/2026) và UBP ($6,000/oz) duy trì dự báo bullish. Vàng vẫn up ~80% từ đầu 2025 dù điều chỉnh −2.8% tuần này. NHTW toàn cầu tiếp tục mua ròng Q1/2026. Đây là điều chỉnh kỹ thuật bình thường sau chuỗi tăng mạnh — không đổi thesis đầu tư trung-dài hạn."
       }
     ],
-    "outlook_label": "Ngày giảm thứ 3 — $4,680–$4,700 là vùng hỗ trợ then chốt cuối tuần",
+    "outlook_label": "Ngày giảm thứ 4 — $4,680–$4,700 vẫn là điểm then chốt cuối tuần",
     "outlook_class": "pbr",
-    "outlook_text": "Vàng $4,691/oz chốt phiên 23/4 — ngày giảm thứ 3 liên tiếp (−$137 từ đỉnh). SJC 167.5/170.0 triệu, premium ~20 triệu (cao đáng lo). Nhà đầu tư ngắn hạn: KHÔNG mua thêm khi vàng chưa xác nhận hỗ trợ tại $4,680–$4,700. Nhà đầu tư trung-dài hạn: vùng $4,680–$4,720 có thể là entry tốt nếu giữ được. SJC premium quá cao — ưu tiên vàng nhẫn 9999 (premium thấp hơn) nếu muốn mua. Dài hạn vẫn bullish: $5,000 (JPMorgan) đến $6,000 (UBP) cho 2026.",
+    "outlook_text": "Vàng $4,695/oz sáng 24/4 — tiếp đà giảm từ đỉnh $4,828 (tổng −$133). SJC 166.7/169.23 triệu, premium ~20 triệu (vẫn cao). Nhà đầu tư ngắn hạn: KHÔNG mua thêm khi vàng chưa xác nhận đáy tại $4,680–$4,700. Nhà đầu tư trung-dài hạn: vùng $4,680–$4,720 có thể là entry tốt nếu giữ được qua phiên cuối tuần. SJC premium cao — ưu tiên vàng nhẫn 9999 (premium thấp hơn) nếu cần mua. Dài hạn vẫn bullish: JPMorgan $5,000 đến UBP $6,000 cho 2026.",
     "sources": [
       {
-        "name": "Techz — Chốt phiên vàng SJC 23/4/2026",
-        "url": "https://www.techz.vn/180-426-5-gia-vang-hom-nay-chot-phien-23-4-vang-sjc-nhan-9999-giam-nhieu-phien-muc-chenh-lech-lon-nguoi-mua-chiu-lo--ylt688804.html"
+        "name": "Techz — Giá vàng hôm nay 24/4/2026 lao dốc",
+        "url": "https://www.techz.vn/180-426-5-gia-vang-hom-nay-24-4-vang-sjc-nhan-9999-lao-doc-the-gioi-bien-dong-ap-luc-ban-tang-manh-ylt688841.html"
       },
       {
-        "name": "Thanh Niên — Giá vàng 23/4 giảm gần 1 triệu",
-        "url": "https://thanhnien.vn/gia-vang-hom-nay-2342026-giam-gan-1-trieu-xuong-duoi-170-trieu-dong-185260423073629971.htm"
+        "name": "Báo Văn Hóa — Vàng 24/4 trong nước lao dốc",
+        "url": "https://baovanhoa.vn/kinh-te/gia-vang-hom-nay-244-trong-nuoc-lao-doc-ap-luc-ban-tang-manh-221952.html"
       },
       {
-        "name": "VietnamNet — Vàng SJC mất mốc cao 23/4",
-        "url": "https://vietnamnet.vn/gia-vang-hom-nay-23-4-2026-tiep-da-truot-doc-vang-sjc-mat-moc-cao-2509140.html"
+        "name": "Fortune — Current price of gold 23/4/2026",
+        "url": "https://fortune.com/article/current-price-of-gold-04-23-2026/"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 23/4 (Thứ Năm): HDBank trở thành NH thứ 31 cắt lãi suất sau họp NHNN 9/4 — giảm 0.5pp toàn bộ kỳ ≥6T (m12 xuống 5.3%). Đây là làn sóng cắt lãi suất rộng nhất Q2/2026. OCB 7.7% và HLBank 7.6% vẫn dẫn đầu. Techcombank 6.9% kỳ 12T vẫn hấp dẫn trong nhóm big private bank. Big4 tiếp tục chờ CPI tháng 4 (đầu tháng 5) và họp NHNN tháng 5.",
+    "alert": "📊 24/4 (Thứ Sáu): Lãi suất ổn định sau HDBank là NH thứ 31 cắt giảm hôm qua. HLBank 8% online và OCB 7.7% tại quầy tiếp tục dẫn đầu. Techcombank 6.9% kỳ 12T vẫn là lựa chọn nổi bật cho NH lớn. Big4 tiếp tục chờ CPI tháng 4 (đầu tháng 5) và họp NHNN tháng 5 trước khi ra quyết định. Xu hướng chung: lãi suất huy động có thể giảm tiếp trong Q2 và mạnh hơn Q3/2026 theo nhận định lãnh đạo NH.",
     "highlights": [
       {
-        "label": "Cao nhất thị trường",
+        "label": "Cao nhất online",
+        "value": "8.0%",
+        "sub": "HLBank online kỳ 12T",
+        "note": "Vẫn dẫn đầu hệ thống"
+      },
+      {
+        "label": "Cao nhất tại quầy",
         "value": "7.7%",
         "sub": "OCB gói ưu đãi kỳ 12T",
-        "note": "Vẫn dẫn đầu"
+        "note": "Ổn định nhiều tuần"
       },
       {
-        "label": "Techcombank duy trì cao",
+        "label": "Big Private Bank",
         "value": "6.9%",
-        "sub": "Kỳ 12T (tăng 0.9% từ tuần trước)",
-        "note": "Big Private Bank nổi bật"
+        "sub": "Techcombank kỳ 12T",
+        "note": "An toàn, hấp dẫn"
       },
       {
-        "label": "HDBank cắt −0.5pp",
+        "label": "31+ NH đã cắt",
         "value": "5.3%",
-        "sub": "Kỳ 12T (từ 5.9% → 5.3%, NH thứ 31)",
-        "note": "Làn sóng cắt lãi tiếp tục"
-      },
-      {
-        "label": "HLBank online dẫn đầu",
-        "value": "8.0%",
-        "sub": "Online kỳ 12T (cao nhất hệ thống kênh online)",
-        "note": "Vẫn hấp dẫn"
+        "sub": "HDBank kỳ 12T (mới giảm 0.5pp)",
+        "note": "Làn sóng tiếp diễn"
       }
     ],
     "banks": [
@@ -205,7 +205,7 @@
         "m6": "5.5%",
         "m12": "6.90%",
         "m12_hi": true,
-        "trend": "up"
+        "trend": "hold"
       },
       {
         "name": "LPBank",
@@ -227,7 +227,7 @@
         "m3": "4.5%",
         "m6": "5.8%",
         "m12": "6.5%",
-        "trend": "up"
+        "trend": "hold"
       },
       {
         "name": "SeABank",
@@ -248,14 +248,14 @@
         "m3": "4.75%",
         "m6": "6.2%",
         "m12": "6.2%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "SHB",
         "m3": "4.6%",
         "m6": "5.80%",
         "m12": "6.20%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "Sacombank",
@@ -279,13 +279,6 @@
         "trend": "hold"
       },
       {
-        "name": "HDBank",
-        "m3": "4.0%",
-        "m6": "5.0%",
-        "m12": "5.3%",
-        "trend": "down"
-      },
-      {
         "name": "TPBank",
         "m3": "4.4%",
         "m6": "5.8%",
@@ -300,6 +293,13 @@
         "trend": "hold"
       },
       {
+        "name": "HDBank",
+        "m3": "4.0%",
+        "m6": "5.0%",
+        "m12": "5.3%",
+        "trend": "hold"
+      },
+      {
         "name": "ACB",
         "m3": "4.0%",
         "m6": "5.3%",
@@ -308,105 +308,105 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 23/4 (Chiều tối): HDBank là NH thứ 31 cắt lãi suất — làn sóng cắt lãi rộng nhất Q2/2026",
-      "body": "Diễn biến đáng chú ý nhất ngày 23/4: HDBank chính thức giảm 0.5 điểm phần trăm toàn bộ kỳ hạn từ 6 tháng trở lên (m6: 5.5%→5.0%, m12: 5.9%→5.3%), trở thành ngân hàng thương mại trong nước thứ 31 tham gia làn sóng cắt lãi suất sau cuộc họp giữa NHNN và các NHTM ngày 9/4/2026. Đáng chú ý, lãi suất VIP (dành cho khách hàng giàu có/ưu tiên) của nhiều ngân hàng cũng giảm theo lãi suất thông thường — phá vỡ xu hướng trước đây khi khách VIP thường được giữ lãi suất cao hơn. Big4 (BIDV 5.9%, VCB 6.5% kỳ 24T, VietinBank 5.8%, Agribank 5.9%) tiếp tục giữ nguyên và chờ CPI tháng 4 (đầu tháng 5) + họp NHNN tháng 5 trước khi ra quyết định tiếp theo.",
+      "title": "Lãi suất 24/4 (Sáng): Thị trường ổn định sau HDBank cắt — 31 NH đã tham gia làn sóng",
+      "body": "Ngày 24/4 thị trường lãi suất ổn định sau động thái HDBank cắt 0.5pp hôm qua (NH thứ 31). Lãi suất huy động cao nhất tại quầy vẫn là HLBank 7.6% và OCB 7.7% (gói ưu đãi kỳ 12T). Kênh online, HLBank tiếp tục dẫn đầu với 8%/năm. MB Bank và OCB cùng ở 7.5% quầy. Big Private Bank: Techcombank giữ 6.9% kỳ 12T — ổn định sau đợt tăng tuần trước. Big4 (BIDV 5.9%, VCB 6.5% kỳ 24T, VietinBank 5.8%, Agribank 5.9%) tiếp tục giữ nguyên, chờ CPI tháng 4 công bố đầu tháng 5 và họp NHNN tháng 5. Lãnh đạo một số NH nhận định: lãi suất huy động có thể giảm dần trong Q2 và giảm mạnh hơn trong Q3/2026.",
       "sources": [
         {
-          "name": "VietnamNet — Lãi suất VIP giảm theo thông thường 23/4",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-23-4-lai-suat-vip-giam-theo-lai-suat-thong-thuong-2509207.html"
-        },
-        {
-          "name": "Vietnam.vn — HDBank giảm mạnh 23/4/2026",
-          "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-23-4-2026-hdbank-giam-manh"
-        },
-        {
-          "name": "Techcombank — Biểu lãi suất tiết kiệm 23/4/2026",
+          "name": "Techcombank — Biểu lãi suất tiết kiệm của 30+ NH 23/4/2026",
           "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
+        },
+        {
+          "name": "Topi — So sánh lãi suất ngân hàng 4/2026",
+          "url": "https://topi.vn/so-sanh-lai-suat-ngan-hang-moi-nhat.html"
+        },
+        {
+          "name": "Vietnam.vn — HDBank giảm mạnh lãi suất 23/4",
+          "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-23-4-2026-hdbank-giam-manh"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "HDBank là NH thứ 31 cắt lãi suất — lãi suất VIP cũng giảm theo",
+        "name": "31 NH đã cắt lãi suất — áp lực giảm lan rộng toàn hệ thống",
         "level": "main",
         "pct": 90,
         "bar": "fh",
-        "desc": "HDBank giảm 0.5pp kỳ ≥6T (m12: 5.9%→5.3%), là NH thứ 31 tham gia làn sóng sau họp NHNN 9/4. Điểm mới: lãi suất VIP của nhiều NH cũng giảm theo lãi suất thông thường — báo hiệu áp lực cắt lãi đang lan rộng toàn bộ phân khúc khách hàng."
+        "desc": "Sau HDBank hôm qua, tổng 31 NHTM trong nước đã tham gia làn sóng cắt lãi suất từ đầu Q2/2026 — kỷ lục làn sóng lớn nhất trong nhiều năm. Áp lực cắt lan từ NH lớn sang NH vừa và nhỏ, lãi suất VIP cũng giảm theo lãi suất thông thường."
       },
       {
-        "name": "Techcombank tăng mạnh lên 6.9% — chiến lược cạnh tranh hút vốn",
+        "name": "Thanh khoản hệ thống dồi dào — NHNN định hướng nới lỏng",
         "level": "main",
-        "pct": 82,
+        "pct": 80,
         "bar": "fh",
-        "desc": "Techcombank tăng 0.9 điểm % kỳ 12T lên 6.90% — mức tăng đơn lẻ lớn nhất tuần. Đây là chiến lược chủ động thu hút vốn từ phân khúc nhạy cảm lãi suất, đặc biệt khi MB và các NH khác cũng điều chỉnh tăng trong tuần."
+        "desc": "Thanh khoản VND toàn hệ thống dư thừa, lãi suất liên NH thấp. NHNN tiếp tục định hướng nới lỏng tiền tệ để hỗ trợ tăng trưởng tín dụng và kinh tế. Tăng trưởng tín dụng Q1/2026 thấp hơn cùng kỳ, cần kích thích."
       },
       {
-        "name": "Big4 giữ nguyên — chờ CPI tháng 4 trước khi xem xét đợt cắt thứ 2",
+        "name": "HLBank, OCB, Techcombank giữ cao để hút vốn — phân hóa tiếp diễn",
         "level": "sub",
         "pct": 72,
         "bar": "fm",
-        "desc": "BIDV (5.9%), Vietcombank (6.5% kỳ 24T), VietinBank (5.8%), Agribank (5.9%) đồng loạt giữ nguyên. Nhóm này đang theo dõi CPI tháng 4 (đầu tháng 5) và họp NHNN tháng 5 trước khi ra quyết định tiếp."
+        "desc": "HLBank 8% online, OCB 7.7% quầy, Techcombank 6.9% kỳ 12T — nhóm NH vừa và nhỏ vẫn giữ lãi suất cao để cạnh tranh hút vốn Q2. Phân hóa Big4 (5.8–6.5%) vs NH nhỏ (6.2–7.7%) dự kiến tiếp tục ít nhất đến Q3/2026."
       },
       {
-        "name": "MB tăng nhẹ 6.45%→6.5% — cạnh tranh hút vốn kỳ hạn dài",
-        "level": "sub",
-        "pct": 60,
-        "bar": "fm",
-        "desc": "MB điều chỉnh nhẹ kỳ hạn 12T từ 6.45% lên 6.5% — đồng thời duy trì 7.2–7.5% ở kỳ hạn 24–60 tháng. Phù hợp cho NĐT muốn lock lãi suất dài hạn trước khi NHNN cắt thêm."
-      },
-      {
-        "name": "31+ NH đã cắt lãi suất Q2/2026 — kỷ lục làn sóng cắt lãi",
+        "name": "Big4 chờ CPI tháng 4 trước khi ra quyết định đợt cắt thứ 2",
         "level": "sub",
         "pct": 70,
         "bar": "fm",
-        "desc": "Tổng số NH đã tham gia làn sóng cắt lãi suất đã vượt 31 — kỷ lục Q2/2026. Xu hướng giảm dần của nhóm NH vừa và nhỏ phản ánh thanh khoản hệ thống dư thừa và định hướng nới lỏng tiền tệ của NHNN."
+        "desc": "BIDV, Vietcombank, VietinBank, Agribank đồng loạt giữ nguyên, chờ dữ liệu CPI tháng 4 (đầu tháng 5) và họp NHNN tháng 5. Nếu CPI dưới 4.5%, khả năng Big4 cắt thêm 0.25–0.5% là cao."
+      },
+      {
+        "name": "Q3/2026 có thể là thời điểm lãi suất giảm mạnh nhất",
+        "level": "sub",
+        "pct": 62,
+        "bar": "fm",
+        "desc": "Lãnh đạo một số NH nhận định lãi suất huy động có thể giảm dần Q2 và mạnh hơn Q3/2026 khi chính sách tiền tệ nới lỏng rõ rệt hơn. NĐT nên lock kỳ hạn dài (12–24T) ngay trước đợt cắt lớn."
       }
     ],
     "rate_forecast": [
       {
-        "name": "Big4 giữ nguyên đến CPI tháng 4 công bố đầu tháng 5",
+        "name": "Big4 giữ nguyên đến CPI tháng 4 — khả năng cắt thêm 0.25–0.5% tháng 5",
         "pct": 80,
         "direction": "down",
         "bar": "fh",
-        "desc": "Với CPI tháng 4 dự kiến đầu tháng 5 và họp NHNN tháng 5, Big4 sẽ pause. Nếu lạm phát ổn định, đợt cắt thứ 2 của Big4 có thể xảy ra tháng 5–6."
+        "desc": "Với CPI tháng 4 dự kiến đầu tháng 5 và họp NHNN tháng 5, Big4 pause đợi dữ liệu. Nếu lạm phát ổn định dưới 4.5%, đợt cắt thứ 2 của Big4 có thể xảy ra tháng 5–6/2026."
       },
       {
-        "name": "Techcombank 6.9% hút dòng tiền — NH tư nhân khác phải cạnh tranh lại",
-        "pct": 65,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Với 6.9% kỳ 12T, Techcombank có thể hút dòng tiền từ nhóm NH tư nhân khác, buộc một số NH phải điều chỉnh tăng theo hoặc tăng ưu đãi online để giữ khách."
-      },
-      {
-        "name": "OCB & HLBank giữ cao để cạnh tranh Q2 — phân hóa Big4 vs NH nhỏ tiếp tục",
+        "name": "HLBank, OCB, MBV giữ mức cao đến hết Q2 — hút tiền gửi",
         "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "NH nhỏ cần thanh khoản Q2 duy trì mức cao thu hút tiền gửi. Phân hóa Big4 (5.8–6.5%) vs NH nhỏ/vừa (6.2–7.7%) sẽ tiếp tục ít nhất đến Q3/2026."
+        "desc": "NH nhỏ và vừa giữ 7.2–8% để hút thanh khoản Q2. Techcombank 6.9% có thể kéo dài 2–3 tuần trước khi cân nhắc điều chỉnh. NĐT muốn kỳ dài nên lock sớm."
       },
       {
-        "name": "Cuộc họp NHNN tháng 5 — quyết định hướng chính sách lãi suất nửa cuối 2026",
-        "pct": 65,
+        "name": "Lãi suất huy động có thể giảm mạnh hơn Q3/2026 theo định hướng NHNN",
+        "pct": 68,
         "direction": "down",
         "bar": "fm",
-        "desc": "NHNN họp tháng 5 xem xét CPI tháng 4 và tăng trưởng tín dụng Q1. Nếu GDP và tín dụng dưới kỳ vọng, NHNN có thể định hướng giảm thêm 0.25–0.5% để kích thích kinh tế nửa cuối năm."
+        "desc": "Nhiều lãnh đạo NH nhận định Q3 sẽ là thời điểm giảm mạnh nhất. Lock lãi suất 12–24T trước tháng 7/2026 để tối ưu lợi suất trước khi mặt bằng lãi suất hạ."
+      },
+      {
+        "name": "Cuộc họp NHNN tháng 5 — định hướng chính sách nửa cuối 2026",
+        "pct": 68,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "NHNN họp tháng 5 xem xét CPI tháng 4 + tăng trưởng tín dụng Q1. Nếu GDP/tín dụng dưới kỳ vọng, NHNN có thể cắt lãi suất điều hành 0.25% để kích thích. Điều này sẽ kéo mặt bằng lãi suất huy động giảm tiếp."
       }
     ],
-    "rate_outlook_label": "OCB 7.7% / HLBank 7.6–8% / Techcombank 6.9% — 31+ NH đã cắt, Big4 chờ CPI tháng 4",
+    "rate_outlook_label": "HLBank 8% online / OCB 7.7% quầy / Techcombank 6.9% — ổn định, chờ CPI tháng 4",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "Chiều tối 23/4: HDBank là NH thứ 31 cắt lãi suất, lãi suất VIP cũng hạ theo. Cơ hội tốt nhất: OCB 7.7% (ưu đãi), HLBank 7.6% quầy / 8% online, Techcombank 6.9% kỳ 12T (an toàn, NH lớn), Vietcombank 6.5% kỳ 24T. Big4 sẽ xem xét lại sau CPI tháng 4 (đầu tháng 5) — nếu CPI ổn định, khả năng cắt thêm 0.25–0.5% là có. Khuyến nghị: lock lãi suất 12–24T ngay trước khi đợt cắt thứ 2 xảy ra.",
+    "rate_outlook_text": "Sáng 24/4: Thị trường lãi suất ổn định sau HDBank cắt hôm qua (NH thứ 31). Cơ hội tốt nhất: HLBank 8% online / 7.6% quầy, OCB 7.7% ưu đãi, Techcombank 6.9% kỳ 12T (an toàn + NH lớn), Vietcombank 6.5% kỳ 24T. Big4 chờ CPI tháng 4 đầu tháng 5 — khả năng cắt thêm 0.25–0.5% tháng 5. Khuyến nghị: lock lãi suất 12–24T ngay trong tuần này trước khi đợt cắt thứ 2 Big4 xảy ra. Q3/2026 có thể là thời điểm lãi suất giảm mạnh nhất theo lãnh đạo NH.",
     "rate_sources": [
       {
-        "name": "VietnamNet — Lãi suất VIP giảm theo lãi suất thông thường 23/4",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-23-4-lai-suat-vip-giam-theo-lai-suat-thong-thuong-2509207.html"
+        "name": "Techcombank — Biểu lãi suất tiết kiệm của 30+ NH 23/4",
+        "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
       },
       {
-        "name": "Vietnam.vn — HDBank giảm mạnh lãi suất 23/4/2026",
+        "name": "Topi — Lãi suất tiết kiệm ngân hàng 4/2026",
+        "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+      },
+      {
+        "name": "Vietnam.vn — HDBank giảm mạnh 23/4",
         "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-23-4-2026-hdbank-giam-manh"
-      },
-      {
-        "name": "VnBiz — Big4 lãi suất ngày 23/4/2026",
-        "url": "https://vietnambiz.vn/lai-suat-ngan-hang-ngay-234-big4-vietinbank-vietcombank-agribank-bidv-dang-tra-lai-bao-nhieu-2026423112448510.htm"
       }
     ]
   },
@@ -523,7 +523,8 @@
       "20/04",
       "21/04",
       "22/04",
-      "23/04"
+      "23/04",
+      "24/04"
     ],
     "sjc": [
       152.8,
@@ -637,7 +638,8 @@
       172.0,
       171.3,
       169.3,
-      168.8
+      168.8,
+      168.0
     ],
     "world_vnd": [
       121,
@@ -651,107 +653,3 @@
       127,
       127.5,
       128,
-      129,
-      129.5,
-      130,
-      131,
-      132,
-      133,
-      134,
-      135,
-      135.5,
-      136,
-      137,
-      138,
-      139,
-      140,
-      141.5,
-      143,
-      148,
-      152,
-      148,
-      140,
-      139,
-      138.5,
-      138,
-      138,
-      139,
-      140,
-      141.5,
-      142,
-      143,
-      146,
-      147,
-      148,
-      149,
-      150,
-      150.5,
-      151,
-      152,
-      153,
-      153.5,
-      154,
-      154.5,
-      155,
-      156,
-      157,
-      158,
-      158.5,
-      159,
-      160,
-      160.5,
-      161,
-      161.5,
-      162,
-      162.5,
-      163,
-      163.5,
-      164,
-      164.5,
-      165,
-      165.5,
-      166,
-      165,
-      163,
-      162,
-      161.5,
-      160,
-      158,
-      148,
-      146,
-      142.6,
-      142.6,
-      142.6,
-      139.8,
-      140.2,
-      144.9,
-      141.6,
-      146.5,
-      148.2,
-      150.3,
-      151.7,
-      149.3,
-      149.5,
-      149.8,
-      150.0,
-      150.2,
-      150.4,
-      150.5,
-      150.6,
-      150.9,
-      150.8,
-      151.0,
-      148.4,
-      152.0,
-      152.8,
-      153.3,
-      152.9,
-      155.0,
-      153.6,
-      152.8,
-      153.0,
-      150.9,
-      149.1
-    ]
-  }
-}
