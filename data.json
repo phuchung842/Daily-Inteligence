@@ -1,138 +1,138 @@
 {
   "meta": {
-    "date": "24 tháng 4, 2026",
-    "day": "Thứ Sáu",
-    "updated": "2026-04-24 07:10"
+    "date": "25 tháng 4, 2026",
+    "day": "Thứ Bảy",
+    "updated": "2026-04-25 07:05"
   },
   "alert": {
-    "type": "red",
-    "text": "🔴 <b>24/4 — Sáng sớm:</b> Vàng thế giới $4,695/oz (tiếp đà giảm, ngày thứ 4 liên tiếp nếu chốt), SJC lao dốc còn 166.7 mua / 169.23 bán (−800K). BTC $78,553 — hồi nhẹ về gần $78,500. SpaceX chốt quyền mua Cursor $60 tỷ. Google ra mắt TPU 8t/8i thách thức Nvidia. Vast Data huy động $1B ở định giá $30B. Lãi suất: HLBank 8% online vẫn dẫn đầu, Big4 tiếp tục chờ CPI tháng 4."
+    "type": "green",
+    "text": "🟢 <b>25/4 — Sáng Thứ Bảy:</b> Vàng thế giới $4,723/oz bật tăng trở lại sau 4 ngày giảm — đàm phán Mỹ-Iran chưa đột phá. SJC phục hồi ~167–169 triệu/lượng. BTC $77,634 — tạm ổn. DeepSeek V4 ra mắt model 1.6T params, 1M context, giá chỉ 1/6 GPT-5.5 — cú sốc định giá AI mới. OpenAI GPT-5.5 chính thức available. Snap sa thải 1,000 nhân viên (16%) vì AI thay thế. Lãi suất: HLBank 8% / OCB 7.7% / Techcombank 6.9% dẫn đầu — thị trường nghỉ cuối tuần."
   },
   "news_ai": [
     {
-      "title": "SpaceX chốt quyền mua Cursor $60 tỷ — Musk chuẩn bị IPO với tham vọng AI coding",
+      "title": "DeepSeek V4 ra mắt — 1.6T params, 1M context, giá chỉ 1/6 GPT-5.5 và Opus 4.7",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "SpaceX thông báo đã đạt thỏa thuận cho quyền mua startup AI coding Cursor cuối 2026 với giá 60 tỷ USD, hoặc trả 10 tỷ USD cho 'hợp tác chung'. Deal này chặn vòng gọi vốn 2 tỷ USD định giá 50 tỷ mà Cursor đang chốt chỉ vài giờ trước. Cursor sẽ kết hợp với siêu máy tính Colossus của xAI (tương đương 1 triệu H100) để huấn luyện model coding mạnh nhất thế giới. Microsoft từng xem xét mua trước SpaceX. Deal làm dấy lên câu hỏi về tính trung lập model và data contract cho enterprise.",
-      "source": "TechCrunch / CNBC / Fortune, 22–23/4/2026",
-      "source_url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
+      "body": "DeepSeek tung bản preview V4-Pro (1.6 nghìn tỷ tham số, 49B active) và V4-Flash (284B) ngày 24/4/2026 — model open-weight lớn nhất từ trước đến nay. Đây là kiến trúc MoE với context window 1 triệu token, mã nguồn mở hoàn toàn (Apache 2.0). Hiệu suất sát GPT-5.4 và Gemini 3.1-Pro (lag khoảng 3–6 tháng), vượt mọi model mở khác về toán học và coding. Đặc biệt: giá API chỉ bằng 1/7 GPT-5.5 và 1/6 Claude Opus 4.7 — tạo áp lực định giá khổng lồ lên toàn ngành. Huawei cam kết 'hỗ trợ toàn diện' cho DeepSeek V4 bằng chip AI nội địa Trung Quốc.",
+      "source": "VentureBeat / TechCrunch / Fortune, 24/4/2026",
+      "source_url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5"
     },
     {
-      "title": "Google Cloud ra mắt TPU 8t & TPU 8i — thế hệ 8 chia đôi để thách thức Nvidia",
+      "title": "OpenAI ra mắt GPT-5.5 — coding nâng cao, computer use và deep research mới",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Tại Google Cloud Next 2026, Google công bố thế hệ TPU thứ 8 gồm 2 chip riêng biệt: TPU 8t dành cho training (nhanh hơn 3× so với thế hệ trước) và TPU 8i dành cho inference (hiệu suất/chi phí tốt hơn 80%). Đây là bước đi trực diện thách thức Nvidia trong cả hai phân khúc. Anthropic xác nhận sẽ dùng 'nhiều gigawatt' TPU thế hệ mới từ 2027, đồng thời ký thêm 5 GW với Amazon cho Claude. Tech stock Alphabet và Broadcom phản ứng tích cực.",
-      "source": "TechCrunch / Fortune / Bloomberg, 22–23/4/2026",
-      "source_url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/"
+      "body": "OpenAI chính thức phát hành GPT-5.5 ngày 23/4/2026, giá $5/triệu token input và $30/triệu token output. Model nâng cao khả năng coding, tương tác với máy tính (computer use), và nghiên cứu chuyên sâu. OpenAI hiện vượt $25B doanh thu hàng năm và đang cân nhắc IPO cuối 2026. Trong bối cảnh DeepSeek V4 tung ra chỉ 1 ngày sau với giá thấp hơn 7 lần — Nvidia phản ứng bằng cách đặt cược mạnh hơn vào GPT-5.5 để khẳng định chip H100/H200 vẫn cần thiết cho frontier model phương Tây.",
+      "source": "CNBC / Yahoo Tech, 23–24/4/2026",
+      "source_url": "https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html"
     },
     {
-      "title": "Vast Data gọi vốn $1B định giá $30B — hạ tầng AI infrastructure bùng nổ tiếp tục",
+      "title": "Snap sa thải 1,000 nhân viên (16%) — AI viết 65% code mới, CEO tuyên bố 'cách làm việc mới'",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Startup hạ tầng AI Vast Data (được Nvidia hậu thuẫn) gọi vốn thành công $1 tỷ USD ở định giá $30 tỷ — gấp hơn 3 lần mức $9.1B của năm 2023. Vast xây dựng nền tảng lưu trữ/truy xuất dữ liệu khối lượng lớn cho workload AI. Thương vụ này cùng SpaceX-Cursor ($60B) và Blue Energy ($380M cho nhà máy hạt nhân phục vụ AI) xác lập tháng 4/2026 là một trong những tháng huy động vốn AI mạnh nhất lịch sử. Q1/2026 ghi nhận $300B VC toàn cầu, trong đó AI chiếm ~80%.",
-      "source": "Tech Startups / Crunchbase News, 22–23/4/2026",
-      "source_url": "https://techstartups.com/2026/04/22/nvidia-backed-ai-startup-vast-data-raises-1b-at-30b-valuation-as-ai-infrastructure-boom-accelerates/"
+      "body": "Snap cắt giảm 16% nhân sự (khoảng 1,000 người) và đóng 300 vị trí tuyển dụng ngày 15/4/2026 — làn sóng sa thải AI lớn nhất trong ngành mạng xã hội. CEO Evan Spiegel xác nhận AI hiện tạo ra hơn 65% code mới tại Snap. Công ty kỳ vọng tiết kiệm $500M chi phí/năm từ H2/2026. Cổ phiếu Snap tăng 8% sau thông báo — phản ánh thị trường đánh giá cao hiệu quả hoạt động hơn số lượng nhân sự. Disney cũng sa thải hàng ngàn nhân viên cùng thời điểm — AI đang tái cấu trúc lực lượng lao động tech toàn cầu.",
+      "source": "TechCrunch / CNBC / TheStreet, 15–16/4/2026",
+      "source_url": "https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/"
     },
     {
-      "title": "Google tung AI Agents mới để cạnh tranh OpenAI và Anthropic — tự động hoá doanh nghiệp",
+      "title": "PwC: 75% lợi ích kinh tế AI chỉ thuộc về 20% doanh nghiệp — bất bình đẳng AI tăng mạnh",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google công bố bộ công cụ xây dựng AI agent hướng doanh nghiệp tại Cloud Next 2026, nhắm trực tiếp vào thị trường đang nóng của OpenAI (Operator) và Anthropic (Computer Use/Claude Agent SDK). Các agent cho phép tự động hoá quy trình enterprise — từ trả lời email đến quản lý lịch, đặt hàng, và tương tác với hệ thống SaaS. Kết hợp với TPU mới và partnership Thinking Machines Lab (Mira Murati), Google đang xây dựng stack AI đầy đủ cạnh tranh toàn diện. OpenAI đã vượt $25B doanh thu hàng năm, Anthropic ~$19B.",
-      "source": "Bloomberg / CNBC, 22/4/2026",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-22/google-releases-new-ai-agents-to-challenge-openai-and-anthropic"
+      "body": "Báo cáo PwC AI Performance Study 2026 tiết lộ 3/4 lợi ích kinh tế từ AI tập trung vào 20% công ty hàng đầu — nhóm này ưu tiên tăng trưởng thay vì chỉ tiết kiệm chi phí. Nghiên cứu trên hàng nghìn doanh nghiệp toàn cầu xác nhận khoảng cách AI đang mở rộng nhanh: công ty 'AI-native' tăng trưởng doanh thu nhanh hơn 3–5 lần đối thủ cùng ngành. Với DeepSeek V4 và GPT-5.5 ra mắt tuần này, làn sóng AI tiếp theo sẽ càng làm sâu thêm khoảng cách này. Doanh nghiệp Việt Nam cần chiến lược AI rõ ràng để không bị bỏ lại phía sau.",
+      "source": "PwC Global / MIT Technology Review, 4/2026",
+      "source_url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "red",
-      "text": "🔴 Vàng $4,695/oz sáng 24/4 — tiếp tục đà giảm từ đỉnh $4,828 (21/4), tổng giảm ~$133 (−2.8%). SJC 166.7 mua / 169.23 bán (−800K), premium thu hẹp nhẹ. BTC $78,553 hồi nhẹ từ $77,800. SpaceX chốt quyền mua Cursor $60 tỷ — định hình lại thị trường AI coding. Google TPU 8 chia đôi chip challenge Nvidia."
+      "type": "green",
+      "text": "🟢 Vàng $4,723/oz sáng 25/4 — bật tăng trở lại sau 4 ngày giảm, đàm phán Mỹ-Iran chưa đột phá làm safe-haven quay lại. SJC phục hồi ~167–169 triệu. BTC $77,634 — giảm nhẹ 0.3% từ hôm qua. DeepSeek V4 ra mắt giá 1/7 GPT-5.5 — cú sốc định giá AI mới cho toàn ngành tech."
     },
     "items": [
       {
-        "title": "Vàng $4,695/oz sáng 24/4 — SJC 166.7/169.23 triệu (−800K), áp lực bán tăng mạnh",
+        "title": "Vàng $4,723/oz bật tăng 25/4 — SJC ~167–169 triệu phục hồi, đàm phán Iran chưa đột phá",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Giá vàng thế giới giảm tiếp về $4,695/oz sáng 24/4 (thấp hơn $4,734 phiên trước). SJC trong nước lao dốc: 166.7 triệu mua / 169.23 triệu bán, giảm 800K so với chốt phiên 23/4. Vàng nhẫn 9999 cũng giảm tương tự. Vùng hỗ trợ $4,680–$4,700 đang bị kiểm tra lần 2 sau 3 ngày giảm liên tiếp. Áp lực bán ngắn hạn tăng khi USD tiếp tục mạnh và đàm phán Mỹ-Iran có tiến triển. Premium SJC thu hẹp nhẹ về ~20 triệu. NĐT ngắn hạn được khuyến cáo chờ xác nhận đáy trước khi vào lệnh mua mới.",
-        "source": "Techz / Báo Văn Hóa / Vietnam.vn, 24/4/2026",
-        "source_url": "https://www.techz.vn/180-426-5-gia-vang-hom-nay-24-4-vang-sjc-nhan-9999-lao-doc-the-gioi-bien-dong-ap-luc-ban-tang-manh-ylt688841.html"
+        "body": "Giá vàng thế giới bật tăng về $4,723.60/oz sáng 25/4 (từ đáy $4,695 hôm qua, +$28/+0.6%) — nguyên nhân chính là đàm phán Mỹ-Iran chưa đạt đột phá như kỳ vọng, nhu cầu vàng an toàn quay lại. SJC trong nước phục hồi nhẹ về vùng 166.5–169 triệu/lượng, premium ~18–20 triệu. Vàng nhẫn 9999 cũng tăng theo. Vùng hỗ trợ $4,680–$4,700 giữ vững qua cuối tuần → xác nhận khả năng hồi phục về $4,780–$4,820 tuần tới. Nhà đầu tư dài hạn: vùng này vẫn là entry hợp lý trước mục tiêu JPMorgan $5,000.",
+        "source": "NLD / Báo Quốc Tế / Vietnam.vn, 25/4/2026",
+        "source_url": "https://nld.com.vn/gia-vang-hom-nay-25-4-bat-tang-tro-lai-196260425061749945.htm"
       },
       {
-        "title": "BTC $78,553 sáng 24/4 — hồi nhẹ về $78.5K, $80K vẫn là rào cản lớn",
+        "title": "BTC $77,634 sáng 25/4 — tạm ổn, thị trường chờ catalyst phá vùng $80K",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin hồi nhẹ lên $78,553 sáng 24/4 (so với $77,809 phiên 23/4) — nhưng vẫn chưa thể phá vùng kháng cự $80,000–$82,000. Altcoin giảm 2–3% (ETH, SOL, BNB). Tesla Q1 lỗ $173M từ tài sản số. Strategy (MicroStrategy) tiếp tục gom BTC, nâng tổng nắm giữ lên 815,061 BTC — củng cố thesis 'digital gold'. Trong bối cảnh vàng giảm 2.8% từ đỉnh, BTC có thể thu hút lại dòng vốn safe-haven nếu phá $80K thành công.",
-        "source": "Yahoo Finance / Blockchain Magazine / CoinPedia, 23–24/4/2026",
-        "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html"
+        "body": "Bitcoin giao dịch ở $77,634.91 sáng 25/4 (giảm 0.32% so với $78,553 hôm qua) — thị trường cuối tuần trầm lắng, thiếu catalyst mới. Vùng kháng cự $80,000–$82,000 vẫn là rào cản lớn nhất. Strategy (MicroStrategy) tiếp tục nắm giữ 815,061 BTC. Trong bối cảnh vàng bật tăng trở lại, dòng vốn safe-haven phân chia giữa hai tài sản. Nếu vàng vượt $4,750 tuần tới → BTC có thể hưởng lợi đồng thời từ tâm lý risk-on. Hội tụ ETH, SOL ổn định cuối tuần.",
+        "source": "Yahoo Finance / Fortune, 25/4/2026",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       },
       {
-        "title": "SpaceX-Cursor $60B: thương vụ AI coding lớn nhất lịch sử — Musk thiết lập AI stack riêng",
+        "title": "DeepSeek V4 định giá API chỉ 1/7 GPT-5.5 — 'chiến tranh giá AI' gây áp lực toàn ngành",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "SpaceX chốt quyền mua Cursor với giá 60 tỷ USD (hoặc 10 tỷ 'break fee'), chặn vòng gọi vốn $2B định giá $50B. Đây là thương vụ AI coding lớn nhất lịch sử, vượt cả Google-Windsurf ($3B). Musk đang chuẩn bị IPO SpaceX mùa hè 2026 — deal Cursor sẽ được hoàn tất sau IPO để tận dụng cổ phiếu niêm yết thanh toán. Kết hợp Cursor + Colossus (1M H100), xAI/SpaceX sẽ có stack coding AI mạnh nhất thế giới — thách thức OpenAI Codex và Anthropic Claude Code. Microsoft trước đó đã cân nhắc mua Cursor nhưng thua SpaceX.",
-        "source": "CNBC / TechCrunch / Bloomberg, 21–22/4/2026",
-        "source_url": "https://www.cnbc.com/2026/04/21/spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.html"
+        "body": "DeepSeek V4-Pro có giá API chuẩn thấp hơn 7 lần GPT-5.5 và 6 lần Claude Opus 4.7 — tiếp tục xu hướng 'commoditization AI' đe dọa biên lợi nhuận của OpenAI, Anthropic, và Google. Nvidia phản ứng bằng cách đặt cược lớn hơn vào OpenAI GPT-5.5 để chứng minh giá trị chip cao cấp. Tuy nhiên, nếu model open-source DeepSeek V4 đạt chất lượng 90–95% frontier model với giá 1/7 → các startup AI SaaS sẽ chuyển sang DeepSeek hàng loạt. Dự phóng: áp lực margin sẽ lan tới Anthropic ($19B ARR) và OpenAI ($25B ARR) trong H2/2026.",
+        "source": "VentureBeat / Bloomberg, 24/4/2026",
+        "source_url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🔴 <b>24/4 — Sáng sớm, tiếp đà giảm:</b> Vàng thế giới $4,695/oz (giảm tiếp ~$30 vs chốt 23/4 $4,725 trung bình, tổng −$133 từ đỉnh $4,828/21/4). SJC 166.7 mua / 169.23 bán (−800K), premium ~20 triệu (vẫn cao). Vùng hỗ trợ $4,680–$4,700 tiếp tục bị kiểm tra. Nếu mất $4,680 — về $4,600–$4,650. Dài hạn: JPMorgan $5,000/oz Q4 vẫn là mục tiêu, UBP $6,000.",
+    "summary": "🟢 <b>25/4 — Sáng Thứ Bảy, bật tăng trở lại:</b> Vàng thế giới $4,723/oz (+$28, +0.6%) sau 4 ngày giảm liên tiếp từ đỉnh $4,828 (21/4). SJC phục hồi ~167–169 triệu/lượng, premium ~18–20 triệu. Đàm phán Mỹ-Iran chưa đột phá là yếu tố then chốt kéo vàng hồi. Vùng $4,680–$4,700 giữ vững — xác nhận đáy ngắn hạn. Mục tiêu tiếp theo: $4,780–$4,820. Dài hạn: JPMorgan $5,000 Q4 / UBP $6,000.",
     "factors": [
       {
-        "name": "USD mạnh + chờ GDP Q1 Mỹ — áp lực liên tiếp sang ngày thứ 4",
-        "pct": 75,
-        "direction": "down",
-        "bar": "fh",
-        "desc": "Dollar Index tiếp tục mạnh trước dữ liệu GDP Q1 Mỹ (công bố tuần tới) và PCE core cuối tháng 4. Kỳ vọng Fed cắt giảm chậm lại đang đẩy USD lên. Bốn ngày giảm liên tiếp từ $4,828 cho thấy áp lực USD bền vững — không phải điều chỉnh ngắn hạn. Nếu GDP Q1 vượt kỳ vọng → vàng có thể về $4,600."
-      },
-      {
-        "name": "Đàm phán Iran-Mỹ tiến triển — safe-haven demand tiếp tục hạ",
-        "pct": 62,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Tin đàm phán Mỹ-Iran tích cực và khả năng mở lại eo biển Hormuz làm giảm nhu cầu vàng an toàn. Trump gia hạn ceasefire cũng làm giảm premium địa chính trị. Mỗi bước tiến đàm phán đều tạo áp lực bán vàng ngắn hạn — nếu đạt thoả thuận chính thức, vàng có thể test $4,600–$4,650."
-      },
-      {
-        "name": "Vùng hỗ trợ $4,680–$4,700 kiểm tra lần 2 — cuối tuần quyết định",
-        "pct": 68,
+        "name": "Đàm phán Mỹ-Iran chưa đột phá — safe-haven vàng phục hồi",
+        "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "Sau 4 ngày giảm, $4,695 đang kiểm tra trực tiếp hỗ trợ kỹ thuật quan trọng $4,680–$4,700 lần 2 trong tuần. Nếu giữ vững qua phiên cuối tuần → hồi phục về $4,780–$4,820 đầu tuần tới. Nếu mất $4,680 — downside tiếp về $4,600. Volume giảm cho thấy lực bán yếu dần."
+        "desc": "Kỳ vọng thỏa thuận Mỹ-Iran không thành hiện thực ngay cuối tuần — nhu cầu vàng an toàn bật trở lại. Giá dầu duy trì cao $97.5/thùng cũng hỗ trợ lạm phát kỳ vọng, tốt cho vàng. Mỗi lần đàm phán thất bại tạo điểm mua vàng ngắn hạn. Rủi ro địa chính trị vẫn còn nhiều."
       },
       {
-        "name": "SJC premium ~20 triệu thu hẹp nhẹ — vẫn bất thường",
+        "name": "Vùng $4,680–$4,700 giữ vững qua cuối tuần — xác nhận đáy ngắn hạn",
+        "pct": 78,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "Sau 4 ngày giảm, vùng hỗ trợ kỹ thuật $4,680–$4,700 đã giữ vững và vàng bật tăng — đây là tín hiệu xác nhận đáy ngắn hạn. Volume bán giảm rõ rệt. Mục tiêu hồi phục: $4,780–$4,820 đầu tuần tới. Nếu vượt $4,820 → test lại $4,828 đỉnh."
+      },
+      {
+        "name": "USD hạ nhiệt nhẹ cuối tuần — áp lực giảm",
         "pct": 55,
-        "direction": "down",
+        "direction": "up",
         "bar": "fm",
-        "desc": "SJC 168.0 triệu (mid) vs world_vnd 149.2 triệu — premium ~19 triệu (~12.7%), thu hẹp nhẹ vs hôm qua 20tr. Mức này vẫn là cao đáng lo ngại cho người mua SJC. NHNN có thể cân nhắc nhập khẩu vàng để giảm premium. Người tiêu dùng nên ưu tiên vàng nhẫn 9999 (premium 5–8 triệu, thấp hơn đáng kể)."
+        "desc": "Dollar Index hạ nhẹ cuối tuần khi thị trường chờ GDP Q1 Mỹ (công bố đầu tuần tới). Nếu GDP yếu hơn kỳ vọng → USD giảm, vàng tăng mạnh hơn. Ngược lại GDP mạnh → USD phục hồi, vàng có thể test lại $4,700."
       },
       {
-        "name": "Xu hướng bullish dài hạn nguyên vẹn — $5,000–$6,000 vẫn là mục tiêu 2026",
-        "pct": 75,
+        "name": "SJC premium ~18–20 triệu — vẫn cao bất thường",
+        "pct": 52,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "SJC ~167.8 triệu (mid) vs world_vnd ~150.1 triệu — premium ~17.7 triệu (~11.8%), giảm nhẹ so với 24/4. Vẫn là mức cao đáng lo ngại. NHNN chưa can thiệp nhập khẩu vàng. Người tiêu dùng nên ưu tiên vàng nhẫn 9999 (premium 5–8 triệu thấp hơn đáng kể)."
+      },
+      {
+        "name": "Xu hướng bullish dài hạn nguyên vẹn — $5,000–$6,000 mục tiêu 2026",
+        "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "JPMorgan ($5,000/oz Q4/2026) và UBP ($6,000/oz) duy trì dự báo bullish. Vàng vẫn up ~80% từ đầu 2025 dù điều chỉnh −2.8% tuần này. NHTW toàn cầu tiếp tục mua ròng Q1/2026. Đây là điều chỉnh kỹ thuật bình thường sau chuỗi tăng mạnh — không đổi thesis đầu tư trung-dài hạn."
+        "desc": "JPMorgan ($5,000/oz Q4/2026), UBP ($6,000/oz) duy trì dự báo bullish. Điều chỉnh tuần qua −2.8% từ đỉnh là bình thường sau chuỗi tăng mạnh. NHTW toàn cầu tiếp tục mua ròng Q1/2026. Vàng vẫn tăng ~80% từ đầu 2025 — thesis dài hạn không đổi."
       }
     ],
-    "outlook_label": "Ngày giảm thứ 4 — $4,680–$4,700 vẫn là điểm then chốt cuối tuần",
-    "outlook_class": "pbr",
-    "outlook_text": "Vàng $4,695/oz sáng 24/4 — tiếp đà giảm từ đỉnh $4,828 (tổng −$133). SJC 166.7/169.23 triệu, premium ~20 triệu (vẫn cao). Nhà đầu tư ngắn hạn: KHÔNG mua thêm khi vàng chưa xác nhận đáy tại $4,680–$4,700. Nhà đầu tư trung-dài hạn: vùng $4,680–$4,720 có thể là entry tốt nếu giữ được qua phiên cuối tuần. SJC premium cao — ưu tiên vàng nhẫn 9999 (premium thấp hơn) nếu cần mua. Dài hạn vẫn bullish: JPMorgan $5,000 đến UBP $6,000 cho 2026.",
+    "outlook_label": "Bật tăng $4,723 — đáy $4,680–$4,700 giữ vững, mục tiêu $4,780–$4,820 tuần tới",
+    "outlook_class": "pbg",
+    "outlook_text": "Vàng $4,723/oz sáng 25/4 — bật tăng sau 4 ngày giảm, vùng $4,680–$4,700 xác nhận đáy ngắn hạn. SJC phục hồi ~167–169 triệu, premium ~18–20 triệu (vẫn cao). Nhà đầu tư ngắn hạn: có thể xem xét mua khi vượt xác nhận $4,730 — mục tiêu $4,780–$4,820. Nhà đầu tư dài hạn: vùng $4,700–$4,730 là entry tốt trước target $5,000. Ưu tiên vàng nhẫn 9999 thay SJC (premium thấp hơn). Catalyst tuần tới: GDP Q1 Mỹ và PCE core cuối tháng 4.",
     "sources": [
       {
-        "name": "Techz — Giá vàng hôm nay 24/4/2026 lao dốc",
-        "url": "https://www.techz.vn/180-426-5-gia-vang-hom-nay-24-4-vang-sjc-nhan-9999-lao-doc-the-gioi-bien-dong-ap-luc-ban-tang-manh-ylt688841.html"
+        "name": "NLD — Giá vàng hôm nay 25/4 bật tăng trở lại",
+        "url": "https://nld.com.vn/gia-vang-hom-nay-25-4-bat-tang-tro-lai-196260425061749945.htm"
       },
       {
-        "name": "Báo Văn Hóa — Vàng 24/4 trong nước lao dốc",
-        "url": "https://baovanhoa.vn/kinh-te/gia-vang-hom-nay-244-trong-nuoc-lao-doc-ap-luc-ban-tang-manh-221952.html"
+        "name": "Báo Quốc Tế — Giá vàng 25/4/2026 mất định hướng",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-2542026-mat-dinh-huong-den-luc-cac-quy-lon-xa-hang-mot-goc-nhin-khac-van-cho-thay-da-tang-chua-ket-thuc-385665.html"
       },
       {
-        "name": "Fortune — Current price of gold 23/4/2026",
-        "url": "https://fortune.com/article/current-price-of-gold-04-23-2026/"
+        "name": "Trading Economics — Gold price April 2026",
+        "url": "https://tradingeconomics.com/commodity/gold"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 24/4 (Thứ Sáu): Lãi suất ổn định sau HDBank là NH thứ 31 cắt giảm hôm qua. HLBank 8% online và OCB 7.7% tại quầy tiếp tục dẫn đầu. Techcombank 6.9% kỳ 12T vẫn là lựa chọn nổi bật cho NH lớn. Big4 tiếp tục chờ CPI tháng 4 (đầu tháng 5) và họp NHNN tháng 5 trước khi ra quyết định. Xu hướng chung: lãi suất huy động có thể giảm tiếp trong Q2 và mạnh hơn Q3/2026 theo nhận định lãnh đạo NH.",
+    "alert": "📊 25/4 (Thứ Bảy): Thị trường lãi suất nghỉ cuối tuần — không có biến động mới. HLBank 8% online và OCB 7.7% tại quầy tiếp tục dẫn đầu. Techcombank 6.9% kỳ 12T ổn định. Big4 tiếp tục chờ CPI tháng 4 (đầu tháng 5) và họp NHNN tháng 5. Khuyến nghị: lock kỳ 12–24T sớm trước khi đợt cắt thứ 2 Big4 xảy ra tháng 5–6.",
     "highlights": [
       {
         "label": "Cao nhất online",
@@ -155,7 +155,7 @@
       {
         "label": "31+ NH đã cắt",
         "value": "5.3%",
-        "sub": "HDBank kỳ 12T (mới giảm 0.5pp)",
+        "sub": "HDBank kỳ 12T (giảm 0.5pp)",
         "note": "Làn sóng tiếp diễn"
       }
     ],
@@ -308,11 +308,11 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 24/4 (Sáng): Thị trường ổn định sau HDBank cắt — 31 NH đã tham gia làn sóng",
-      "body": "Ngày 24/4 thị trường lãi suất ổn định sau động thái HDBank cắt 0.5pp hôm qua (NH thứ 31). Lãi suất huy động cao nhất tại quầy vẫn là HLBank 7.6% và OCB 7.7% (gói ưu đãi kỳ 12T). Kênh online, HLBank tiếp tục dẫn đầu với 8%/năm. MB Bank và OCB cùng ở 7.5% quầy. Big Private Bank: Techcombank giữ 6.9% kỳ 12T — ổn định sau đợt tăng tuần trước. Big4 (BIDV 5.9%, VCB 6.5% kỳ 24T, VietinBank 5.8%, Agribank 5.9%) tiếp tục giữ nguyên, chờ CPI tháng 4 công bố đầu tháng 5 và họp NHNN tháng 5. Lãnh đạo một số NH nhận định: lãi suất huy động có thể giảm dần trong Q2 và giảm mạnh hơn trong Q3/2026.",
+      "title": "Lãi suất 25/4 (Thứ Bảy): Nghỉ cuối tuần — Thị trường ổn định, chờ CPI tháng 4",
+      "body": "Ngày 25/4 (Thứ Bảy) thị trường lãi suất không có biến động mới — sau đợt HDBank cắt 0.5pp hôm 23/4 (NH thứ 31), hệ thống tạm nghỉ cuối tuần. HLBank 8% online và OCB 7.7% tại quầy vẫn là cặp đôi dẫn đầu toàn hệ thống. MB Bank và VPBank lần lượt ở 6.5% và 6.2% kỳ 12T. Big4 (BIDV 5.9%, Vietcombank 6.5% kỳ 24T, VietinBank 5.8%, Agribank 5.9%) tiếp tục giữ nguyên. Tuần tới, thị trường chú ý GDP Q1 Mỹ và PCE core Mỹ — nếu dữ liệu yếu, có thể ảnh hưởng định hướng Fed và gián tiếp tác động lãi suất Việt Nam. CPI tháng 4 Việt Nam dự kiến đầu tháng 5 — là trigger chính cho đợt cắt lãi suất thứ 2 của Big4.",
       "sources": [
         {
-          "name": "Techcombank — Biểu lãi suất tiết kiệm của 30+ NH 23/4/2026",
+          "name": "Techcombank — Biểu lãi suất tiết kiệm của 30+ NH 4/2026",
           "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
         },
         {
@@ -320,8 +320,8 @@
           "url": "https://topi.vn/so-sanh-lai-suat-ngan-hang-moi-nhat.html"
         },
         {
-          "name": "Vietnam.vn — HDBank giảm mạnh lãi suất 23/4",
-          "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-23-4-2026-hdbank-giam-manh"
+          "name": "VnEconomy — Lãi suất tiết kiệm cao nhất tháng 4/2026",
+          "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-42026.htm"
         }
       ]
     },
@@ -331,7 +331,7 @@
         "level": "main",
         "pct": 90,
         "bar": "fh",
-        "desc": "Sau HDBank hôm qua, tổng 31 NHTM trong nước đã tham gia làn sóng cắt lãi suất từ đầu Q2/2026 — kỷ lục làn sóng lớn nhất trong nhiều năm. Áp lực cắt lan từ NH lớn sang NH vừa và nhỏ, lãi suất VIP cũng giảm theo lãi suất thông thường."
+        "desc": "Sau HDBank hôm 23/4, tổng 31 NHTM trong nước đã tham gia làn sóng cắt lãi suất từ đầu Q2/2026 — kỷ lục làn sóng lớn nhất trong nhiều năm. Áp lực cắt lan từ NH lớn sang NH vừa và nhỏ, lãi suất VIP cũng giảm theo lãi suất thông thường."
       },
       {
         "name": "Thanh khoản hệ thống dồi dào — NHNN định hướng nới lỏng",
@@ -392,264 +392,66 @@
         "desc": "NHNN họp tháng 5 xem xét CPI tháng 4 + tăng trưởng tín dụng Q1. Nếu GDP/tín dụng dưới kỳ vọng, NHNN có thể cắt lãi suất điều hành 0.25% để kích thích. Điều này sẽ kéo mặt bằng lãi suất huy động giảm tiếp."
       }
     ],
-    "rate_outlook_label": "HLBank 8% online / OCB 7.7% quầy / Techcombank 6.9% — ổn định, chờ CPI tháng 4",
+    "rate_outlook_label": "HLBank 8% online / OCB 7.7% quầy / Techcombank 6.9% — ổn định cuối tuần",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "Sáng 24/4: Thị trường lãi suất ổn định sau HDBank cắt hôm qua (NH thứ 31). Cơ hội tốt nhất: HLBank 8% online / 7.6% quầy, OCB 7.7% ưu đãi, Techcombank 6.9% kỳ 12T (an toàn + NH lớn), Vietcombank 6.5% kỳ 24T. Big4 chờ CPI tháng 4 đầu tháng 5 — khả năng cắt thêm 0.25–0.5% tháng 5. Khuyến nghị: lock lãi suất 12–24T ngay trong tuần này trước khi đợt cắt thứ 2 Big4 xảy ra. Q3/2026 có thể là thời điểm lãi suất giảm mạnh nhất theo lãnh đạo NH.",
+    "rate_outlook_text": "Sáng 25/4 (Thứ Bảy): Không có biến động lãi suất mới. Cơ hội tốt nhất: HLBank 8% online / 7.6% quầy, OCB 7.7% ưu đãi, Techcombank 6.9% kỳ 12T (an toàn + NH lớn), Vietcombank 6.5% kỳ 24T. Big4 chờ CPI tháng 4 đầu tháng 5 — khả năng cắt thêm 0.25–0.5% tháng 5. Khuyến nghị: lock lãi suất 12–24T ngay tuần đầu tháng 5 trước khi đợt cắt thứ 2 Big4 xảy ra. Q3/2026 có thể là thời điểm lãi suất giảm mạnh nhất.",
     "rate_sources": [
       {
-        "name": "Techcombank — Biểu lãi suất tiết kiệm của 30+ NH 23/4",
+        "name": "Techcombank — Biểu lãi suất tiết kiệm của 30+ NH 4/2026",
         "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
+      },
+      {
+        "name": "VnEconomy — Lãi suất tiết kiệm cao nhất tháng 4/2026",
+        "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-42026.htm"
       },
       {
         "name": "Topi — Lãi suất tiết kiệm ngân hàng 4/2026",
         "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
-      },
-      {
-        "name": "Vietnam.vn — HDBank giảm mạnh 23/4",
-        "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-23-4-2026-hdbank-giam-manh"
       }
     ]
   },
   "charts": {
     "days": [
-      "01/01",
-      "02/01",
-      "03/01",
-      "04/01",
-      "05/01",
-      "06/01",
-      "07/01",
-      "08/01",
-      "09/01",
-      "10/01",
-      "11/01",
-      "12/01",
-      "13/01",
-      "14/01",
-      "15/01",
-      "16/01",
-      "17/01",
-      "18/01",
-      "19/01",
-      "20/01",
-      "21/01",
-      "22/01",
-      "23/01",
-      "24/01",
-      "25/01",
-      "26/01",
-      "27/01",
-      "28/01",
-      "29/01",
-      "30/01",
-      "31/01",
-      "01/02",
-      "02/02",
-      "03/02",
-      "04/02",
-      "05/02",
-      "06/02",
-      "07/02",
-      "08/02",
-      "09/02",
-      "10/02",
-      "11/02",
-      "12/02",
-      "13/02",
-      "14/02",
-      "15/02",
-      "16/02",
-      "17/02",
-      "18/02",
-      "19/02",
-      "20/02",
-      "21/02",
-      "22/02",
-      "23/02",
-      "24/02",
-      "25/02",
-      "26/02",
-      "27/02",
-      "28/02",
-      "01/03",
-      "02/03",
-      "03/03",
-      "04/03",
-      "05/03",
-      "06/03",
-      "07/03",
-      "08/03",
-      "09/03",
-      "10/03",
-      "11/03",
-      "12/03",
-      "13/03",
-      "14/03",
-      "15/03",
-      "16/03",
-      "17/03",
-      "18/03",
-      "19/03",
-      "20/03",
-      "21/03",
-      "22/03",
-      "23/03",
-      "24/03",
-      "25/03",
-      "26/03",
-      "27/03",
-      "28/03",
-      "30/03",
-      "31/03",
-      "01/04",
-      "02/04",
-      "03/04",
-      "04/04",
-      "05/04",
-      "06/04",
-      "07/04",
-      "08/04",
-      "09/04",
-      "10/04",
-      "11/04",
-      "12/04",
-      "13/04",
-      "14/04",
-      "15/04",
-      "16/04",
-      "17/04",
-      "18/04",
-      "19/04",
-      "20/04",
-      "21/04",
-      "22/04",
-      "23/04",
-      "24/04"
+      "01/01", "02/01", "03/01", "04/01", "05/01", "06/01", "07/01", "08/01", "09/01", "10/01",
+      "11/01", "12/01", "13/01", "14/01", "15/01", "16/01", "17/01", "18/01", "19/01", "20/01",
+      "21/01", "22/01", "23/01", "24/01", "25/01", "26/01", "27/01", "28/01", "29/01", "30/01",
+      "31/01", "01/02", "02/02", "03/02", "04/02", "05/02", "06/02", "07/02", "08/02", "09/02",
+      "10/02", "11/02", "12/02", "13/02", "14/02", "15/02", "16/02", "17/02", "18/02", "19/02",
+      "20/02", "21/02", "22/02", "23/02", "24/02", "25/02", "26/02", "27/02", "28/02", "01/03",
+      "02/03", "03/03", "04/03", "05/03", "06/03", "07/03", "08/03", "09/03", "10/03", "11/03",
+      "12/03", "13/03", "14/03", "15/03", "16/03", "17/03", "18/03", "19/03", "20/03", "21/03",
+      "22/03", "23/03", "24/03", "25/03", "26/03", "27/03", "28/03", "30/03", "31/03", "01/04",
+      "02/04", "03/04", "04/04", "05/04", "06/04", "07/04", "08/04", "09/04", "10/04", "11/04",
+      "12/04", "13/04", "14/04", "15/04", "16/04", "17/04", "18/04", "19/04", "20/04", "21/04",
+      "22/04", "23/04", "24/04", "25/04"
     ],
     "sjc": [
-      152.8,
-      153.5,
-      154,
-      152.8,
-      154.5,
-      155,
-      156.2,
-      157.8,
-      158.5,
-      159,
-      160.5,
-      161,
-      162,
-      163.5,
-      165,
-      166,
-      167.5,
-      169,
-      170,
-      171,
-      172,
-      173,
-      174,
-      175.5,
-      177,
-      178.5,
-      180,
-      182.5,
-      191.2,
-      186,
-      172,
-      172,
-      173.5,
-      174,
-      175,
-      175.5,
-      176.5,
-      179.3,
-      180.4,
-      180.4,
-      181,
-      181.5,
-      182,
-      182,
-      182,
-      181,
-      181,
-      181,
-      181,
-      181,
-      181,
-      181,
-      181,
-      181.6,
-      184.6,
-      185.3,
-      185,
-      184,
-      187,
-      187,
-      190.9,
-      188.2,
-      184.2,
-      184.7,
-      183.8,
-      185,
-      185,
-      184.1,
-      186.1,
-      187.2,
-      186.3,
-      184.8,
-      182.6,
-      182.6,
-      183.1,
-      183,
-      183,
-      175.5,
-      176.1,
-      171,
-      171,
-      163.8,
-      170.2,
-      175,
-      171.5,
-      170.6,
-      172.8,
-      173.8,
-      174.9,
-      176.7,
-      172.8,
-      173.0,
-      173.5,
-      174.0,
-      174.5,
-      175.0,
-      175.5,
-      175.8,
-      176.2,
-      176.0,
-      176.0,
-      173.4,
-      177.0,
-      177.8,
-      178.3,
-      177.9,
-      180.0,
-      178.5,
-      172.0,
-      171.3,
-      169.3,
-      168.8,
-      168.0
+      152.8, 153.5, 154, 152.8, 154.5, 155, 156.2, 157.8, 158.5, 159,
+      160.5, 161, 162, 163.5, 165, 166, 167.5, 169, 170, 171,
+      172, 173, 174, 175.5, 177, 178.5, 180, 182.5, 191.2, 186,
+      172, 172, 173.5, 174, 175, 175.5, 176.5, 179.3, 180.4, 180.4,
+      181, 181.5, 182, 182, 182, 181, 181, 181, 181, 181,
+      181, 181, 181, 181, 181.6, 184.6, 185.3, 185, 184, 187,
+      187, 190.9, 188.2, 184.2, 184.7, 183.8, 185, 185, 184.1, 186.1,
+      187.2, 186.3, 184.8, 182.6, 182.6, 183.1, 183, 183, 175.5, 176.1,
+      171, 171, 163.8, 170.2, 175, 171.5, 170.6, 172.8, 173.8, 174.9,
+      176.7, 172.8, 173.0, 173.5, 174.0, 174.5, 175.0, 175.5, 175.8, 176.2,
+      176.0, 176.0, 173.4, 177.0, 177.8, 178.3, 177.9, 180.0, 178.5, 172.0,
+      171.3, 169.3, 168.8, 168.0, 167.8
     ],
     "world_vnd": [
-      121,
-      121.5,
-      122,
-      121.8,
-      123,
-      124,
-      125,
-      126,
-      127,
-      127.5,
-      128,
+      121, 121.5, 122, 121.8, 123, 124, 125, 126, 127, 127.5,
+      128, 129, 129.5, 130, 131, 132, 133, 134, 135, 135.5,
+      136, 137, 138, 139, 140, 141.5, 143, 148, 152, 148,
+      140, 139, 138.5, 138, 138, 139, 140, 141.5, 142, 143,
+      146, 147, 148, 149, 150, 150.5, 151, 152, 153, 153.5,
+      154, 154.5, 155, 156, 157, 158, 158.5, 159, 160, 160.5,
+      161, 161.5, 162, 162.5, 163, 163.5, 164, 164.5, 165, 165.5,
+      166, 165, 163, 162, 161.5, 160, 158, 148, 146, 142.6,
+      142.6, 142.6, 139.8, 140.2, 144.9, 141.6, 146.5, 148.2, 150.3, 151.7,
+      149.3, 149.5, 149.8, 150.0, 150.2, 150.4, 150.5, 150.6, 150.9, 150.8,
+      151.0, 148.4, 152.0, 152.8, 153.3, 152.9, 155.0, 153.6, 152.8, 153.0,
+      150.9, 149.1, 149.2, 150.1
+    ]
+  }
+}
