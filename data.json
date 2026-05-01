@@ -1,129 +1,129 @@
 {
   "meta": {
-    "date": "30 tháng 4, 2026",
-    "day": "Thứ Năm",
-    "updated": "2026-04-30 17:15"
+    "date": "1 tháng 5, 2026",
+    "day": "Thứ Sáu",
+    "updated": "2026-05-01 00:05"
   },
   "alert": {
-    "type": "red",
-    "text": "🔴 <b>30/4 — Thứ Năm (Nghỉ lễ):</b> Vàng $4,554/oz giảm thêm -$59.5 (-1.29%) — thấp nhất kể từ tháng 3/2026. SJC ~164 triệu. BTC $76.3K ngày 3 liên tiếp không vượt $80K. FOMC giữ nguyên lãi suất, Powell thận trọng về tác động thuế quan. Vietcombank cắt 12T từ 6.5% → 5.9%. OpenAI GPT-5.5 ra mắt &amp; Google cam kết $40B vào Anthropic."
+    "type": "yellow",
+    "text": "🟡 <b>1/5 — Thứ Sáu (Quốc tế Lao động):</b> Vàng $4,630/oz hồi phục +$76 (+1.67%) sau 2 ngày giảm. SJC ~165 triệu. BTC $76,114 — thị trường 64% xác suất giữ trên $76K. Anthropic chuẩn bị vòng gọi vốn định giá $900B+, vượt OpenAI $852B. Microsoft-OpenAI giải thể thỏa thuận độc quyền — AWS triển khai 3 dịch vụ OpenAI trên Bedrock."
   },
   "news_ai": [
     {
-      "title": "OpenAI GPT-5.5 ra mắt — 'mô hình thông minh và trực quan nhất' từ trước đến nay",
+      "title": "Anthropic chuẩn bị vòng gọi vốn định giá $900B+ — vượt OpenAI $852B, lập kỷ lục ngành AI",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "OpenAI phát hành GPT-5.5 vào ngày 23/4, mô hình mới nhất mà hãng mô tả là 'thông minh và trực quan nhất' hiện có. Đây là bước tiếp theo trong lộ trình GPT-5 → 5.5 → 6, với khả năng hiểu ngữ cảnh và lý luận nâng cao đáng kể. GPT-5.5 được tích hợp vào ChatGPT, cho phép OpenAI cạnh tranh trực tiếp với Google Gemini 2.5 Pro và Anthropic Claude Opus. Đây là một phần trong chiến lược 'super app' AI của OpenAI nhắm đến $25B+ ARR cuối 2026.",
-      "source": "TechCrunch, 23/4/2026",
-      "source_url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/"
+      "body": "Anthropic đang chuẩn bị vòng gọi vốn mới sẽ định giá công ty trên $900 tỷ — vượt mức định giá $852 tỷ của OpenAI từ vòng trước. Chỉ trong chưa đầy 3 tháng, định giá Anthropic tăng từ $380B (tháng 2/2026) lên $350B (Google deal tháng 4) rồi $900B+. Với Google cam kết $40B và tiếp cận Google Cloud TPU, Anthropic đang trở thành đối thủ ngang hàng thực sự với OpenAI trong cuộc đua AI thế hệ tiếp theo.",
+      "source": "Gizmodo, 30/4/2026",
+      "source_url": "https://gizmodo.com/anthropic-reportedly-plotting-to-surpass-openais-valuation-in-next-funding-round-2000751535"
     },
     {
-      "title": "Google cam kết đầu tư $40B vào Anthropic — định giá $350B, kỷ lục ngành AI",
+      "title": "Microsoft-OpenAI giải thể thỏa thuận độc quyền — AWS tức thì triển khai 3 dịch vụ OpenAI trên Bedrock",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google công bố kế hoạch đầu tư tổng cộng $40 tỷ vào Anthropic — ngay lập tức $10B ở mức định giá $350B, và thêm $30B nếu Anthropic đạt các mốc hiệu suất nhất định. Đây là khoản đầu tư AI lớn nhất từ trước đến nay từ một nhà đầu tư đơn lẻ. Anthropic hiện tiệm cận $19B ARR. Thương vụ củng cố vị thế Anthropic như đối thủ hàng đầu của OpenAI, đồng thời nâng cao năng lực điện toán nhờ Google Cloud TPU.",
-      "source": "TechCrunch, 24/4/2026",
-      "source_url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
+      "body": "Microsoft và OpenAI chính thức giải thể thỏa thuận độc quyền phân phối hạ tầng AI. Ngay ngày hôm sau, Amazon Web Services (AWS) công bố triển khai ba dịch vụ OpenAI mới trên nền tảng Bedrock — bao gồm một agent service được cả hai bên cùng xây dựng. Đây là tín hiệu thay đổi lớn về cơ cấu phân phối AI: OpenAI mở rộng sang đa cloud, AWS và Azure không còn độc quyền, cạnh tranh hạ tầng AI gay gắt hơn.",
+      "source": "TechCrunch / AWS, 29-30/4/2026",
+      "source_url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
     },
     {
-      "title": "DeepSeek V4 ra mắt — mã nguồn mở mạnh nhất, thách thức GPT-5.5 và Claude",
+      "title": "Google cấp quyền AI cho Pentagon — White House soạn hướng dẫn cho phép dùng Anthropic Mythos",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Startup AI Trung Quốc DeepSeek công bố V4 Flash và V4 Pro vào ngày 24/4 — một năm sau cú sốc R1 làm rung chuyển Silicon Valley. V4 Pro đạt top coding benchmarks, với bước tiến vượt trội về lý luận (reasoning) và agentic tasks. Là mã nguồn mở, V4 tiếp tục chiến lược cạnh tranh bằng chi phí — đe dọa thị phần của các nhà cung cấp API trả phí. Cuộc đua model GPT-5.5 vs DeepSeek V4 vs Claude nảy lửa cuối tháng 4.",
-      "source": "Bloomberg / CNN Business, 24/4/2026",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough"
+      "body": "Google mở rộng quyền truy cập AI cho Bộ Quốc phòng Mỹ (DoD) vào mạng phân loại — cho phép mọi mục đích sử dụng hợp pháp. Cùng lúc, Nhà Trắng đang soạn thảo hướng dẫn cho phép các cơ quan liên bang trở lại làm việc với Anthropic, bao gồm truy cập model mới nhất Mythos. Trước đó, Anthropic đã từ chối yêu cầu của Lầu Năm Góc. Cạnh tranh AI quốc phòng Mỹ: Google vs Anthropic/AWS vs Microsoft/OpenAI.",
+      "source": "TechCrunch, 28/4/2026",
+      "source_url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
     },
     {
-      "title": "Factory đạt $1.5B valuation — AI agentic coding enterprise, Khosla + Sequoia dẫn đầu",
+      "title": "MCP vượt 97 triệu lượt cài đặt — Linux Foundation tiếp quản governance mã nguồn mở",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Factory, startup xây dựng AI agents cho nhóm kỹ thuật enterprise, huy động $150M ở mức định giá $1.5B — vòng do Khosla Ventures dẫn đầu với sự tham gia của Sequoia, Insight Partners và Blackstone. Factory đại diện cho làn sóng 'agentic coding AI': thay vì hỗ trợ lập trình viên, AI sẽ tự thực hiện toàn bộ engineering tasks. Cạnh tranh với Cursor, GitHub Copilot Enterprise và Devin (Cognition).",
-      "source": "TechCrunch, 16/4/2026",
-      "source_url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
+      "body": "Model Context Protocol (MCP) của Anthropic cán mốc 97 triệu lượt cài đặt tính đến tháng 3/2026 — mọi nhà cung cấp AI lớn đều đã hỗ trợ MCP-compatible tooling. Linux Foundation công bố tiếp quản MCP dưới dạng quản trị mã nguồn mở, đánh dấu MCP trở thành tiêu chuẩn ngành thực sự. Đây là thành tựu lớn cho Anthropic trong việc định hình hệ sinh thái công cụ AI tương tác, cạnh tranh với plugin ecosystem của OpenAI.",
+      "source": "MIT Technology Review / crescendo.ai, 4/2026",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "red",
-      "text": "🔴 Vàng $4,554/oz giảm -$59.5 (-1.29%) ngày 30/4 — thấp nhất kể từ tháng 3/2026, hai ngày giảm liên tiếp tổng -$133/oz. SJC ~164 triệu, premium ~19 triệu. BTC $76.3K — ngày 3 không vượt $80K. FOMC hawkish hơn kỳ vọng: Powell không cam kết cắt tháng 6 → USD mạnh."
+      "type": "yellow",
+      "text": "🟡 Vàng $4,630/oz hồi phục +$76 (+1.67%) từ đáy $4,554 ngày 30/4 — world_vnd ~147.2 triệu/lượng. SJC ~165 triệu, premium ~17.8 triệu. BTC $76,114 — thị trường 64% xác suất giữ trên $76K hôm nay. Iran-conflict + oil elevated tiếp tục hỗ trợ vàng dài hạn."
     },
     "items": [
       {
-        "title": "BTC $76.3K — ngày 3 liên tiếp không vượt $80K, chờ catalyst mới sau FOMC hawkish",
+        "title": "BTC $76,114 — 64% xác suất giữ trên $76K, hỗ trợ kỹ thuật Fibonacci 23.6%",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch ở mức $76,283 sáng 30/4 — ngày thứ 3 liên tiếp không vượt được $80,000. FOMC giữ lãi suất, Powell không tín hiệu cắt tháng 6 → USD mạnh, áp lực lên crypto. Coinbase premium tiếp tục âm — nhu cầu từ nhà đầu tư Mỹ suy yếu. Crypto market cap ~$2.62T. Michael Terpin duy trì dự báo đáy $57K tháng 10/2026. Dài hạn: làn sóng AI adoption và Google $40B vào Anthropic là yếu tố hỗ trợ.",
-        "source": "LatestLY / Fortune, 30/4/2026",
-        "source_url": "https://www.latestly.com/business/bitcoin-price-today-april-30-2026-btc-price-at-usd-76000-after-recently-trading-near-usd-79000-7412773.html"
+        "body": "Bitcoin giao dịch quanh $76,114 sáng 1/5 — thị trường dự báo 64% xác suất giữ trên $76,000 trong ngày. Hỗ trợ kỹ thuật chính: $76,200 (Fibonacci 23.6%). Nếu giữ vững: consolidation $76,200–$79,000. Nếu phá: test $73,500. Áp lực từ Fed hawkish + Iran conflict + oil cao tiếp tục đè nặng tâm lý risk-on. Hơn $110M Bitcoin long positions bị thanh lý. Thị trường chờ catalyst mới để vượt $80K.",
+        "source": "bitcoinethereumnews.com / Kalshi, 1/5/2026",
+        "source_url": "https://bitcoinethereumnews.com/bitcoin/crypto-markets-predict-bitcoin-price-for-may-1-2026/"
       },
       {
-        "title": "Vàng $4,554/oz — hai ngày giảm liên tiếp tổng -$133/oz, thấp nhất kể từ tháng 3",
+        "title": "Vàng $4,630/oz — hồi phục +$76 (+1.67%) sau đáy 2 tháng, world_vnd ~147.2 triệu",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Giá vàng thế giới giảm thêm -$59.5/oz xuống $4,554/oz ngày 30/4 — hai ngày giảm liên tiếp tổng cộng -$133/oz từ đỉnh $4,687 tuần trước. Đây là mức thấp nhất kể từ cuối tháng 3/2026. Nguyên nhân: FOMC hawkish (USD mạnh); đàm phán Mỹ-Iran bế tắc; eo biển Hormuz vẫn đóng. Quy đổi: ~144.8 triệu/lượng thế giới. SJC ~164 triệu, premium ~19.2 triệu (~13.3%).",
-        "source": "Trading Economics / MEXC News, 30/4/2026",
+        "body": "Giá vàng thế giới hồi phục lên $4,630/oz ngày 1/5 — tăng +$76 (+1.67%) từ đáy $4,554 ngày 30/4. Đây là đợt bounce kỹ thuật sau điều chỉnh -$133/oz trong 2 ngày. Quy đổi: ~147.2 triệu/lượng thế giới. SJC ~165 triệu, premium ~17.8 triệu (~12.1%). Yếu tố hỗ trợ hồi phục: Iran-Mỹ bế tắc, oil elevated, nhu cầu safe-haven tái tích lũy. Mục tiêu tiếp theo nếu vượt $4,650: test $4,700.",
+        "source": "Yahoo Finance / Trading Economics, 1/5/2026",
+        "source_url": "https://finance.yahoo.com/quote/BTG-USD/"
+      },
+      {
+        "title": "Ngày Lao động Quốc tế 1/5 — thị trường Việt Nam nghỉ lễ, thanh khoản thấp toàn cầu",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "Ngày Quốc tế Lao động 1/5: thị trường Việt Nam nghỉ lễ toàn bộ. Nhiều thị trường châu Âu cũng đóng cửa (Đức, Pháp, Ý, Tây Ban Nha). Thanh khoản toàn cầu thấp — biến động giá có thể khuếch đại. Nhà đầu tư Việt: không giao dịch được trên sàn chứng khoán và vàng SJC. Theo dõi diễn biến BTC (thị trường 24/7) và vàng quốc tế để chuẩn bị cho phiên mở cửa ngày 2/5.",
+        "source": "Market holiday calendar, 1/5/2026",
         "source_url": "https://tradingeconomics.com/commodity/gold"
-      },
-      {
-        "title": "FOMC giữ lãi suất 4.25–4.5% — Powell thận trọng thuế quan, không cam kết cắt tháng 6",
-        "badge": "Finance",
-        "badge_class": "bf",
-        "body": "Fed kết thúc họp FOMC tháng 4, giữ nguyên lãi suất mục tiêu 4.25–4.5%. Powell cho biết cần thêm dữ liệu để đánh giá tác động thuế quan — không cam kết cắt tháng 6/2026. Đây là tín hiệu hawkish hơn kỳ vọng (thị trường từng định giá ~70% khả năng cắt tháng 6). USD mạnh sau họp báo. NHNN Việt Nam sẽ thận trọng hơn — xác suất cắt lãi suất điều hành tháng 5 giảm từ ~65% về ~40%.",
-        "source": "Bloomberg / MEXC News, 29–30/4/2026",
-        "source_url": "https://www.mexc.com/news/1057795"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🔴 <b>30/4 — Thứ Năm (Nghỉ lễ VN):</b> Vàng $4,554/oz giảm thêm -$59.5 (-1.29%) — hai ngày giảm liên tiếp, thấp nhất kể từ tháng 3/2026. SJC ~164 triệu/lượng, world_vnd ~144.8 triệu. Premium SJC ~19.2 triệu (~13.3%). FOMC hawkish: Powell không cam kết cắt tháng 6 → USD mạnh. Đàm phán Mỹ-Iran bế tắc, Hormuz đóng. Dài hạn: JPMorgan $5,000 Q4/2026 vẫn nguyên.",
+    "summary": "🟡 <b>1/5 — Quốc tế Lao động:</b> Vàng $4,630/oz hồi phục +$76 (+1.67%) từ đáy $4,554 ngày 30/4. SJC ~165 triệu/lượng, world_vnd ~147.2 triệu. Premium SJC ~17.8 triệu (~12.1%). Bounce kỹ thuật sau 2 ngày giảm -$133/oz. Iran-Mỹ bế tắc + oil elevated tiếp tục hỗ trợ. Mục tiêu hồi phục: $4,650–$4,700. Dài hạn: JPMorgan $5,000 Q4/2026 vẫn nguyên.",
     "factors": [
       {
-        "name": "FOMC hawkish — Powell không cam kết cắt tháng 6, USD mạnh",
-        "pct": 85,
-        "direction": "down",
-        "bar": "fh",
-        "desc": "Fed giữ 4.25–4.5%, Powell thận trọng về tác động thuế quan — không tín hiệu cắt tháng 6/2026. Đây là tín hiệu hawkish hơn kỳ vọng (thị trường từng định giá ~70% cắt tháng 6). USD mạnh sau FOMC → áp lực giảm lên vàng ngắn hạn. Kịch bản cắt đẩy sang Q3/2026."
-      },
-      {
-        "name": "Vàng -$133/oz trong 2 ngày — điều chỉnh kỹ thuật sâu từ đỉnh",
-        "pct": 75,
-        "direction": "down",
-        "bar": "fh",
-        "desc": "Từ $4,687 xuống $4,554 trong 2 ngày (-2.84%) là đợt điều chỉnh đáng kể. Vùng hỗ trợ kỹ thuật: $4,500–$4,530. Nếu giữ trên $4,500, xu hướng tăng từ đầu năm vẫn nguyên (+22% YTD). Nếu phá $4,500: test $4,400–$4,450."
-      },
-      {
-        "name": "Đàm phán Mỹ-Iran bế tắc + Hormuz đóng — lo ngại lạm phát dầu mỏ",
-        "pct": 70,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Đàm phán hòa bình Mỹ-Iran tiếp tục bế tắc, eo biển Hormuz vẫn đóng gây lo ngại lạm phát dầu mỏ. Yếu tố này hỗ trợ vàng như hedge lạm phát nhưng đồng thời làm FOMC trì hoãn cắt lãi — short-term effect tiêu cực."
-      },
-      {
-        "name": "SJC premium ~19 triệu — giảm dần từ mức cao 25+ triệu",
-        "pct": 55,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "SJC ~164 triệu vs world_vnd ~144.8 triệu — premium ~19.2 triệu (~13.3%). Trend premium đang giảm từ 25+ triệu (tháng 3) về ~19 triệu (tháng 4). NHNN chưa mở nhập khẩu vàng. Ưu tiên vàng nhẫn 9999 thay SJC để tránh rủi ro premium."
-      },
-      {
-        "name": "Dự báo dài hạn bullish vẫn giữ — $5,000–$6,000 mục tiêu 2026",
+        "name": "Bounce kỹ thuật từ đáy $4,554 — hỗ trợ $4,500–$4,530 giữ vững",
         "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "JPMorgan ($5,000/oz Q4/2026), UBP ($6,000/oz), Goldman Sachs bullish — đợt điều chỉnh ngắn hạn không thay đổi luận điểm dài hạn. Nhu cầu safe-haven từ NHTW toàn cầu, căng thẳng địa chính trị và lạm phát tiếp diễn. Vùng $4,500–$4,600 là cơ hội tích lũy dài hạn."
-      }
-    ],
-    "outlook_label": "Vàng $4,554 — test hỗ trợ $4,500–$4,530 sau 2 ngày giảm liên tiếp",
-    "outlook_class": "pbr",
-    "outlook_text": "Vàng $4,554/oz giảm hai ngày liên tiếp sau FOMC hawkish. Hỗ trợ kỹ thuật quan trọng: $4,500–$4,530. Đàm phán Mỹ-Iran bế tắc và Hormuz đóng duy trì nhu cầu hedge lạm phát. Vùng $4,500–$4,600 là cơ hội tích lũy dài hạn tốt. Nhà đầu tư ngắn hạn: chờ vàng giữ vững $4,530 trước khi vào. Dài hạn: target $5,000 Q4/2026 (JPMorgan) vẫn nguyên.",
-    "sources": [
-      {
-        "name": "Trading Economics — Gold price April 30, 2026",
-        "url": "https://tradingeconomics.com/commodity/gold"
+        "desc": "Vàng hồi phục +$76 (+1.67%) sau đợt điều chỉnh -$133/oz trong 2 ngày. Vùng hỗ trợ kỹ thuật $4,500–$4,530 giữ vững, xác nhận xu hướng tăng từ đầu năm (+22% YTD) vẫn nguyên. Nếu vượt $4,650: test $4,700 là kịch bản tiếp theo."
       },
       {
-        "name": "MEXC News — Gold dropping, Bitcoin struggling April 2026",
-        "url": "https://www.mexc.com/news/1057795"
+        "name": "Iran-Mỹ bế tắc + Hormuz đóng — safe-haven demand tái tích lũy",
+        "pct": 72,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "Đàm phán hòa bình Mỹ-Iran tiếp tục bế tắc, eo biển Hormuz vẫn đóng → giá dầu elevated → lo ngại lạm phát → nhu cầu vàng như hedge tăng trở lại. Căng thẳng địa chính trị hỗ trợ safe-haven trong ngắn và trung hạn."
+      },
+      {
+        "name": "FOMC hawkish — USD còn mạnh, giới hạn đà hồi phục vàng",
+        "pct": 70,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Fed giữ 4.25–4.5%, Powell không tín hiệu cắt tháng 6 → USD mạnh → sức hút vàng như tài sản an toàn suy giảm một phần. Kịch bản cắt lãi đẩy sang Q3/2026 sẽ tiếp tục giới hạn đà tăng ngắn hạn của vàng."
+      },
+      {
+        "name": "SJC premium ~17.8 triệu — thu hẹp, ưu tiên vàng nhẫn 9999",
+        "pct": 55,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "SJC ~165 triệu vs world_vnd ~147.2 triệu — premium ~17.8 triệu (~12.1%). Trend premium giảm từ 25+ triệu (tháng 3) về ~18 triệu (tháng 5). NHNN chưa mở nhập khẩu vàng. Ưu tiên vàng nhẫn 9999 thay SJC để tránh rủi ro premium co lại."
+      },
+      {
+        "name": "Dự báo dài hạn bullish giữ nguyên — $5,000–$6,000 mục tiêu 2026",
+        "pct": 80,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "JPMorgan ($5,000/oz Q4/2026), UBP ($6,000/oz), Goldman Sachs bullish — đợt điều chỉnh ngắn hạn không thay đổi luận điểm dài hạn. Nhu cầu safe-haven từ NHTW toàn cầu, căng thẳng địa chính trị và lạm phát tiếp diễn. Vùng $4,550–$4,650 là cơ hội tích lũy dài hạn tốt."
+      }
+    ],
+    "outlook_label": "Vàng $4,630 — bounce +$76 từ đáy, test kháng cự $4,650–$4,700",
+    "outlook_class": "pbe",
+    "outlook_text": "Vàng $4,630/oz hồi phục kỹ thuật sau 2 ngày giảm mạnh. Hỗ trợ $4,500–$4,530 giữ vững. Kháng cự tiếp theo: $4,650–$4,700. Yếu tố hỗ trợ: Iran bế tắc, oil cao, nhu cầu safe-haven. Yếu tố cản: USD mạnh, FOMC hawkish. Vùng $4,550–$4,650 là cơ hội tích lũy dài hạn tốt. Dài hạn: JPMorgan $5,000 Q4/2026 vẫn nguyên.",
+    "sources": [
+      {
+        "name": "Yahoo Finance — Gold price May 1, 2026",
+        "url": "https://finance.yahoo.com/quote/BTG-USD/"
+      },
+      {
+        "name": "Trading Economics — Live Gold Commodity Price",
+        "url": "https://tradingeconomics.com/commodity/gold"
       },
       {
         "name": "KITCO — Live gold prices & news",
@@ -132,7 +132,7 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 30/4 (Thứ Năm — Nghỉ lễ): Vietcombank cắt 12T từ 6.5% → 5.9% — Big4 đồng loạt dưới 6% kỳ 12T. FOMC hawkish: NHNN khó cắt lãi suất điều hành tháng 5. OCB 7.7% và HLBank 7.6% vẫn dẫn đầu hệ thống.",
+    "alert": "📊 1/5 (Thứ Sáu — Nghỉ lễ Quốc tế Lao động): Không có thay đổi lãi suất mới hôm nay. Big4 giữ nguyên (5.8–5.9% kỳ 12T). OCB 7.7% và HLBank 7.6% vẫn dẫn đầu. Chờ CPI tháng 4 (đầu tuần tới) — catalyst quyết định NHNN cắt lãi suất điều hành hay không.",
     "highlights": [
       {
         "label": "Cao nhất tại quầy",
@@ -153,10 +153,10 @@
         "note": "Big private tốt nhất"
       },
       {
-        "label": "Vietcombank cắt 12T",
-        "value": "5.9%",
-        "sub": "Giảm từ 6.5% — cắt lần 2 tháng 4",
-        "note": "Big4 dưới 6% kỳ 12T"
+        "label": "Chờ CPI tháng 4",
+        "value": "~4.5%?",
+        "sub": "Công bố đầu tuần tới",
+        "note": "Catalyst NHNN quyết định"
       }
     ],
     "banks": [
@@ -307,12 +307,12 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 30/4: Vietcombank cắt 12T → 5.9%, FOMC hawkish làm chậm lộ trình nới lỏng NHNN",
-      "body": "Ngày 30/4 đánh dấu thay đổi quan trọng: Vietcombank cắt lãi suất kỳ 12T từ 6.5% xuống 5.9% — lần cắt thứ 2 trong tháng 4, đưa toàn bộ Big4 về dưới 6% kỳ 12T (5.8–5.9%). OCB 7.7%, HLBank 7.6%, Techcombank 6.9% vẫn dẫn đầu. Tuy nhiên, kết quả FOMC hawkish (Powell không tín hiệu cắt tháng 6) làm giảm kỳ vọng NHNN nới lỏng nhanh — xác suất NHNN cắt lãi suất điều hành tháng 5 giảm từ ~65% về ~40%. Khuyến nghị: lock ngay OCB/HLBank/Techcombank kỳ 12T trước khi NH tư nhân cũng cắt trong tháng 5–6/2026.",
+      "title": "Lãi suất 1/5: Ngày nghỉ lễ — giữ nguyên, chờ CPI tháng 4 tuần tới",
+      "body": "Ngày 1/5 (Quốc tế Lao động), toàn bộ ngân hàng Việt Nam nghỉ lễ — không có thay đổi lãi suất mới. Mặt bằng hiện tại: Big4 (Vietcombank, BIDV, Agribank, VietinBank) ở mức 5.8–5.9% kỳ 12T sau đợt cắt tháng 4. OCB 7.7%, HLBank 7.6%, Techcombank 6.9% vẫn dẫn đầu khối NH tư nhân. Catalyst quan trọng nhất tuần tới: CPI tháng 4 sẽ công bố đầu tháng 5 — nếu dưới 4.5% thì NHNN còn dư địa cắt lãi suất điều hành; nếu cao hơn thì giữ đến Q3. Khuyến nghị: lock ngay OCB/HLBank/Techcombank kỳ 12T trước khi các NH tư nhân này cũng theo xu hướng cắt trong tháng 5–6/2026.",
       "sources": [
         {
-          "name": "VietnamBiz — Lãi suất Big4 ngày 29/4/2026",
-          "url": "https://vietnambiz.vn/lai-suat-ngan-hang-ngay-294-agribank-vietcombank-vietinbank-va-bidv-lieu-con-giu-tran-6nam-2026429103429613.htm"
+          "name": "CafeF — Lãi suất ngân hàng 29/4/2026",
+          "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
         },
         {
           "name": "VnEconomy — Lãi suất tiết kiệm cao nhất tháng 4/2026",
@@ -326,85 +326,85 @@
     },
     "rate_reasons": [
       {
-        "name": "Vietcombank cắt 12T về 5.9% — Big4 đồng loạt dưới 6% kỳ 12T",
+        "name": "Ngày nghỉ lễ 1/5 — không có thay đổi, giữ nguyên mặt bằng tháng 4",
         "level": "main",
-        "pct": 92,
+        "pct": 100,
         "bar": "fh",
-        "desc": "Vietcombank giảm lãi suất kỳ 12T từ 6.5% xuống 5.9% — cắt lần 2 trong tháng 4. Big4 (Vietcombank, BIDV, Agribank, VietinBank) nay đều dưới 6% kỳ 12T (5.8–5.9%). Tín hiệu rõ ràng: NHNN định hướng mặt bằng lãi suất huy động xuống thấp hơn trong H2/2026."
+        "desc": "Toàn bộ ngân hàng nghỉ lễ Quốc tế Lao động. Big4: 5.8–5.9% kỳ 12T. NH tư nhân dẫn đầu: OCB 7.7%, HLBank 7.6%, Techcombank 6.9%."
       },
       {
-        "name": "FOMC hawkish — Powell làm chậm kỳ vọng NHNN nới lỏng Q2",
+        "name": "CPI tháng 4 tuần tới — catalyst quyết định NHNN cắt hay giữ",
         "level": "main",
+        "pct": 75,
+        "bar": "fh",
+        "desc": "CPI tháng 4 công bố đầu tháng 5 là dữ liệu quan trọng nhất. Dưới 4.5%: NHNN có dư địa cắt. Cao hơn: NHNN giữ đến Q3. FOMC hawkish làm xác suất cắt tháng 5 giảm về ~35–40%."
+      },
+      {
+        "name": "FOMC hawkish — Powell giữ 4.25–4.5%, trì hoãn cắt sang Q3",
+        "level": "sub",
         "pct": 80,
         "bar": "fh",
-        "desc": "Fed giữ 4.25–4.5%, Powell không cam kết cắt tháng 6. Xác suất NHNN cắt lãi suất điều hành tháng 5 giảm từ ~65% về ~40%. Thị trường cần điều chỉnh lại kỳ vọng về lộ trình nới lỏng Q2/2026."
+        "desc": "Fed không cắt tháng 6. NHNN Việt Nam khó đi ngược Fed trong bối cảnh USD mạnh và áp lực tỷ giá. Lộ trình nới lỏng trễ 4–8 tuần so với kỳ vọng ban đầu."
       },
       {
-        "name": "OCB, HLBank, Techcombank giữ cao — cạnh tranh hút vốn tư nhân",
+        "name": "OCB, HLBank, Techcombank giữ cao — window cơ hội thu hẹp dần",
+        "level": "sub",
+        "pct": 70,
+        "bar": "fm",
+        "desc": "Khi NHNN cắt lãi suất điều hành, các NH tư nhân sẽ theo. OCB 7.7%, HLBank 7.6%, Techcombank 6.9% là mức cao nhất hiện có — window lock lãi tốt có thể đóng trong 4–8 tuần tới."
+      },
+      {
+        "name": "Thanh khoản VND dồi dào — Big4 không áp lực tăng lãi",
         "level": "sub",
         "pct": 72,
         "bar": "fm",
-        "desc": "OCB 7.7%, HLBank 7.6%, Techcombank 6.9% kỳ 12T — NH tư nhân duy trì lãi cao để cạnh tranh thu hút vốn Q2. Phân hóa Big4 (5.8–5.9%) vs NH tư nhân (6.2–7.7%) ngày càng rõ rệt."
-      },
-      {
-        "name": "Thanh khoản VND dư thừa — Big4 không cần huy động cao",
-        "level": "sub",
-        "pct": 78,
-        "bar": "fm",
-        "desc": "Thanh khoản VND dư thừa, lãi suất liên NH thấp. Big4 không cần trả lãi suất cao để huy động — định hướng giảm chi phí vốn để hỗ trợ cho vay ưu đãi H2/2026."
-      },
-      {
-        "name": "Chờ CPI tháng 4 (đầu tháng 5) — catalyst quyết định NHNN",
-        "level": "sub",
-        "pct": 65,
-        "bar": "fm",
-        "desc": "CPI tháng 4 công bố đầu tháng 5 sẽ định hướng NHNN. Nếu CPI dưới 4.5% dù FOMC hawkish: NHNN vẫn có dư địa cắt. Nếu CPI cao hơn: NHNN giữ nguyên đến Q3."
+        "desc": "Lãi suất liên NH thấp, thanh khoản VND dư thừa. Big4 không cần tăng lãi để hút vốn — xu hướng giảm tiếp trong H2/2026 là kịch bản cơ sở."
       }
     ],
     "rate_forecast": [
       {
-        "name": "FOMC hawkish trì hoãn cắt lãi suất điều hành NHNN sang Q3/2026",
-        "pct": 75,
+        "name": "CPI tháng 4 dưới 4.5%: NHNN có thể cắt tháng 5 bất chấp FOMC hawkish",
+        "pct": 42,
         "direction": "down",
-        "bar": "fh",
-        "desc": "Powell không tín hiệu cắt tháng 6 → NHNN có thể trì hoãn cắt từ tháng 5 sang Q3/2026. Big4 có thể pause sau Vietcombank để chờ dữ liệu CPI tháng 4."
+        "bar": "fm",
+        "desc": "Nếu CPI tháng 4 thấp (dưới 4.5%), NHNN vẫn có dư địa nới lỏng trong nước. Xác suất kịch bản này: ~42%. Trigger: số liệu CPI đầu tuần tới."
       },
       {
         "name": "OCB, HLBank, Techcombank duy trì 7%+ đến ít nhất tháng 6",
         "pct": 70,
         "direction": "up",
         "bar": "fh",
-        "desc": "NH tư nhân và vừa tiếp tục duy trì lãi suất cao để hút thanh khoản Q2. OCB 7.7% và HLBank 7.6% có thể giữ đến hết tháng 6/2026."
+        "desc": "NH tư nhân và vừa tiếp tục duy trì lãi suất cao để cạnh tranh thu hút vốn Q2. OCB 7.7% và HLBank 7.6% có thể giữ đến hết tháng 6/2026 — lock ngay còn kịp."
       },
       {
-        "name": "Mặt bằng lãi suất Big4 tiếp tục giảm về 5.5–5.8% trong H2/2026",
+        "name": "Big4 giảm tiếp về 5.5–5.8% trong H2/2026 — theo xu hướng NHNN",
         "pct": 65,
         "direction": "down",
         "bar": "fm",
-        "desc": "Xu hướng cắt của Big4 vẫn nguyên nhưng timeline có thể chậm 4–8 tuần do FOMC. Lock lãi 12T tại OCB/HLBank/Techcombank ngay hôm nay là quyết định khôn ngoan."
+        "desc": "Xu hướng cắt Big4 vẫn nguyên. Timeline có thể chậm 4–8 tuần do FOMC. Lock lãi 12T tại OCB/HLBank/Techcombank ngay hôm nay là quyết định khôn ngoan."
       },
       {
-        "name": "CPI tháng 4 đầu tháng 5 — catalyst quyết định lộ trình NHNN",
-        "pct": 68,
+        "name": "CPI tháng 4 cao hơn kỳ vọng: NHNN giữ nguyên đến Q3/2026",
+        "pct": 58,
         "direction": "down",
         "bar": "fm",
-        "desc": "Nếu CPI tháng 4 dưới 4.5%: NHNN vẫn có dư địa cắt bất chấp FOMC hawkish. Nếu CPI cao hơn kỳ vọng: NHNN giữ nguyên đến Q3. Đây là dữ liệu quan trọng nhất tháng 5."
+        "desc": "Nếu CPI tháng 4 cao hơn 4.5% (do giá dầu và thuế quan), NHNN sẽ thận trọng, giữ nguyên lãi suất điều hành đến Q3/2026. Big4 cũng pause. NH tư nhân lock lãi cao kéo dài."
       }
     ],
-    "rate_outlook_label": "OCB 7.7% / HLBank 7.6% / Techcombank 6.9% — Vietcombank cắt về 5.9%",
+    "rate_outlook_label": "OCB 7.7% / HLBank 7.6% / Techcombank 6.9% — Chờ CPI tháng 4 tuần tới",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "30/4 (Nghỉ lễ): Vietcombank cắt 12T → 5.9% — Big4 đồng loạt dưới 6%. FOMC hawkish làm trễ kỳ vọng NHNN nới lỏng. Cơ hội tốt nhất: OCB 7.7%, HLBank 7.6% kỳ 12T, Techcombank 6.9% kỳ 12T. Lock lãi suất 12T ngay trước khi NH tư nhân cũng cắt tháng 5–6/2026.",
+    "rate_outlook_text": "1/5 (Nghỉ lễ): Không có thay đổi lãi suất hôm nay. Mặt bằng: Big4 5.8–5.9%, NH tư nhân 6.2–7.7% kỳ 12T. CPI tháng 4 (công bố đầu tuần tới) là catalyst quyết định NHNN. Cơ hội lock lãi tốt nhất: OCB 7.7%, HLBank 7.6% kỳ 12T — window có thể đóng tháng 5–6/2026.",
     "rate_sources": [
       {
-        "name": "VietnamBiz — Lãi suất Big4 ngày 29/4/2026",
-        "url": "https://vietnambiz.vn/lai-suat-ngan-hang-ngay-294-agribank-vietcombank-vietinbank-va-bidv-lieu-con-giu-tran-6nam-2026429103429613.htm"
+        "name": "CafeF — Lãi suất ngân hàng 29/4/2026",
+        "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
       },
       {
-        "name": "VnEconomy — Lãi suất tiết kiệm cao nhất tháng 4/2026",
-        "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-42026.htm"
+        "name": "div.gov.vn — Lãi suất tiết kiệm tăng trong tầm kiểm soát",
+        "url": "https://div.gov.vn/lai-suat-tiet-kiem-tang-trong-tam-kiem-soat-mt-bang-cho-vay-du-kien-tiep-tuc-on-dinh"
       },
       {
-        "name": "Topi — Lãi suất tiết kiệm ngân hàng 4/2026",
+        "name": "Topi — Lãi suất tiết kiệm ngân hàng tháng 4-5/2026",
         "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       }
     ]
@@ -529,7 +529,8 @@
       "27/04",
       "28/04",
       "29/04",
-      "30/04"
+      "30/04",
+      "01/05"
     ],
     "sjc": [
       152.8,
@@ -650,7 +651,8 @@
       167.8,
       167.6,
       166.0,
-      164.0
+      164.0,
+      165.0
     ],
     "world_vnd": [
       121,
@@ -771,7 +773,8 @@
       149.3,
       149.0,
       146.7,
-      144.8
+      144.8,
+      147.2
     ]
   }
 }
