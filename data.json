@@ -1,138 +1,138 @@
 {
   "meta": {
-    "date": "5 tháng 5, 2026",
-    "day": "Thứ Ba",
-    "updated": "2026-05-05 07:05"
+    "date": "6 tháng 5, 2026",
+    "day": "Thứ Tư",
+    "updated": "2026-05-06 07:00"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>5/5 — Thứ Ba:</b> Vàng $4,520/oz giảm tiếp 1.3% từ $4,580. SJC ~164.7 triệu điều chỉnh nhẹ. BTC vượt $80,000 — cao nhất 3 tháng — trước khi pullback về $79K. Lãi suất tiết kiệm tháng 5 đồng loạt hạ nhiệt: VPBank, Techcombank, SeABank giảm 0.3–0.5%/kỳ. Google Gemini tích hợp vào hàng triệu xe hơi."
+    "text": "🟡 <b>6/5 — Thứ Tư:</b> Vàng $4,530/oz tiếp tục suy yếu nhẹ, SJC ~163.5 triệu điều chỉnh từ 164.7. BTC $81,286 — cao nhất kể từ tháng 1/2026 — tín hiệu de-escalation Iran hỗ trợ crypto. Lầu Năm Góc ký AI deal với 8 Big Tech (Google, OpenAI, NVIDIA, AWS, SpaceX...). 20 NH kịch trần kỳ ngắn 4.75% — lãi suất tháng 5 phân hóa."
   },
   "news_ai": [
     {
-      "title": "Google Gemini tích hợp vào hàng triệu xe hơi — cuộc đua AI automotive bùng nổ 2026",
+      "title": "Lầu Năm Góc ký hợp đồng AI với 8 Big Tech — Anthropic bị loại do yêu cầu an toàn chiến tranh",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google xác nhận Gemini AI đang được tích hợp vào hàng triệu phương tiện, cung cấp khả năng hội thoại tự nhiên, điều hướng thông minh và trợ lý trong xe thế hệ mới. Đây là bước đi chiến lược sau khi Apple CarPlay mất ưu thế. Cuộc đua AI automotive 2026 có thêm Google, AWS và Nvidia — ba tên tuổi vừa ký hợp đồng AI quốc phòng với Lầu Năm Góc, giờ mở rộng sang mobility.",
-      "source": "AI and News / crescendo.ai, 5/2026",
-      "source_url": "https://www.aiandnews.com/blog/latest-ai-news-may-2026/"
-    },
-    {
-      "title": "Meta ra mắt Muse Spark — model AI trả phí đầu tiên, pivot khỏi open-source Llama",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Meta công bố Muse Spark, model AI thế hệ mới đánh dấu bước ngoặt chiến lược: chuyển từ mô hình open-source miễn phí (Llama) sang cung cấp quyền truy cập trả phí cho developers. Wall Street đón nhận tích cực nhưng đòi Zuckerberg làm rõ toàn bộ lộ trình AI. Muse Spark hướng tới thị trường enterprise — cạnh tranh trực tiếp với Claude API (Anthropic) và GPT-4 (OpenAI).",
-      "source": "CNBC, 28/4/2026",
-      "source_url": "https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html"
-    },
-    {
-      "title": "Pentagon ký hợp đồng AI với 8 Big Tech — Google, OpenAI, Microsoft, Nvidia, AWS, SpaceX, Reflection, Oracle",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Bộ Quốc phòng Mỹ (DoD) ký kết hợp đồng AI với 8 công ty công nghệ lớn để triển khai AI trên mạng phân loại. Danh sách gồm SpaceX, OpenAI, Google, Microsoft, Nvidia, Amazon Web Services, Oracle và Reflection. Anthropic ban đầu bị loại do yêu cầu các điều khoản an toàn AI trong chiến tranh, nhưng đàm phán đang được mở lại.",
+      "body": "Bộ Quốc phòng Mỹ (DoD) ký kết hợp đồng AI với 8 công ty: SpaceX, OpenAI, Google, Microsoft, Nvidia, Amazon Web Services, Oracle và Reflection để triển khai AI trên mạng phân loại. Anthropic bị loại vì chính quyền Trump đưa vào danh sách đen sau khi Anthropic yêu cầu các điều khoản an toàn AI trong chiến tranh. Đàm phán đang được mở lại.",
       "source": "CNN Business, 1/5/2026",
       "source_url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic"
     },
     {
-      "title": "DeepSeek V4 Flash/Pro — Hybrid Attention Architecture, context 1M token, dẫn đầu coding benchmark",
+      "title": "Big Tech Earnings: Google Cloud 63% tăng trưởng, Hyperscalers đổ $600-700 tỷ vào AI infrastructure 2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "DeepSeek (Trung Quốc) ra mắt V4 Flash và V4 Pro với Hybrid Attention Architecture, context window 1 triệu token. Dẫn đầu coding và reasoning benchmark, agentic task cải tiến vượt bậc. Tín hiệu mạnh từ Trung Quốc trong cuộc đua AI toàn cầu — chỉ 1 năm sau khi V3 gây chấn động Silicon Valley.",
-      "source": "Bloomberg, 24/4/2026",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough"
+      "body": "Kết quả Q1 Big Tech ấn tượng: Google Cloud đạt $20B doanh thu/quý (+63% YoY), vượt mốc $80B ARR. Các hyperscaler (AWS, Azure, GCP) cộng gộp đổ $600-700 tỷ vào AI infrastructure năm 2026. Cursor AI coding đạt $1B ARR chỉ trong 10 tháng. AI giải quyết 30% case hỗ trợ khách hàng.",
+      "source": "CNBC, 3/5/2026",
+      "source_url": "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html"
+    },
+    {
+      "title": "Goldman Sachs: AI software sell-off đã bị thổi phồng — đây là cơ hội mua tốt nhất 2026",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Goldman Sachs nhận định đợt bán tháo cổ phiếu AI software trong Q1/2026 là quá mức và không phản ánh nền tảng fundamentals. Báo cáo chỉ ra các growth stocks AI tốt nhất để mua vào hiện tại, khi kết quả Big Tech Q1 vượt kỳ vọng và AI infrastructure spending tiếp tục tăng tốc.",
+      "source": "The Motley Fool, 3/5/2026",
+      "source_url": "https://www.fool.com/investing/2026/05/03/goldman-sachs-says-the-artificial-intelligence-ai/"
+    },
+    {
+      "title": "AI Infrastructure Boom 2026: Chipmakers và Cloud Giants thống trị — Figma dự báo $1.4B doanh thu",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Báo cáo tổng hợp 2026 xác nhận AI đang chuyển sang giai đoạn infrastructure: compute access, control, sector rules, distribution và trust dẫn dắt — không còn là demo. Figma dự báo $1.4B doanh thu năm 2026. Nvidia và AWS tiếp tục thống trị chuỗi cung ứng AI chip. Gemini tích hợp vào hàng triệu xe hơi.",
+      "source": "AI Infrastructure / Spreaker, 5/2026",
+      "source_url": "https://www.spreaker.com/episode/ai-infrastructure-boom-reshapes-enterprise-tech-in-2026-as-chipmakers-and-cloud-giants-dominate--71872991"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Vàng $4,520/oz giảm 1.3% từ $4,580 (4/5). SJC ~164.7 triệu, world_vnd ~143.7 triệu, premium ~21 triệu. BTC vượt $80,393 — cao nhất từ 31/1/2026 — pullback về ~$79K. Lãi suất NH tháng 5 đồng loạt hạ nhiệt: VPBank, Techcombank, SeABank giảm 0.3–0.5%."
+      "text": "🟡 Vàng $4,530/oz suy yếu nhẹ (từ $4,531.9 hôm qua). SJC ~163.5 triệu, world_vnd ~143.5 triệu, premium ~20 triệu. BTC $81,286 — cao nhất kể từ 31/1/2026. CLARITY Act 60%+ trên Polymarket — crypto regulation đang tới gần. Goldman Sachs: $108M vị thế SOL ETF."
     },
     "items": [
       {
-        "title": "BTC vượt $80,000 — cao nhất 3 tháng; Iran de-escalation thúc đẩy crypto rally",
+        "title": "BTC $81,286 — cao nhất kể từ tháng 1/2026; Goldman Sachs $108M SOL ETF; CLARITY Act 60%+",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin chạm $80,393 vào sáng sớm 5/5 giờ Singapore — mức cao nhất kể từ 31/1/2026 — trước khi pullback về ~$79,000. Catalyst chính: tín hiệu de-escalation trong căng thẳng Iran-Mỹ làm giảm lo ngại địa chính trị, cùng với big tech earnings tích cực. XRP $1.40+ tiếp tục mạnh. BTC đang thử thách ngưỡng $80K — vượt và giữ sẽ mở cửa test $85K–$90K.",
-        "source": "Finance Magnates / Yahoo Finance, 4-5/5/2026",
-        "source_url": "https://www.financemagnates.com/trending/why-is-bitcoin-surging-today-btc-price-tops-80000-for-three-month-high-as-iran-de-escalation-lifts-crypto/"
+        "body": "Bitcoin tiếp tục ở vùng $80,000-$81,286 — cao nhất kể từ 31/1/2026. CLARITY Act odds vượt 60% trên Polymarket lần đầu trong 1 tháng — tín hiệu crypto regulation đang tiến gần. Goldman Sachs tiết lộ vị thế $108M trong spot SOL ETF. Tổng AUM Solana ETF (Bitwise, Fidelity, Morgan Stanley) vượt $1B.",
+        "source": "CoinDesk / Yahoo Finance, 5-6/5/2026",
+        "source_url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism"
       },
       {
-        "title": "Vàng $4,520/oz — suy yếu tiếp, world_vnd 143.7 triệu, SJC ~164.7 triệu",
+        "title": "Vàng $4,530/oz — tiếp tục suy yếu; world_vnd 143.5 triệu, SJC ~163.5 triệu",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Giá vàng thế giới giảm về $4,520/oz sáng 5/5 (-1.3% từ $4,580 hôm qua). Quy đổi theo tỷ giá VCB 26,362: world_vnd ≈ 143.7 triệu/lượng. SJC điều chỉnh về ~164.7 triệu — premium so với thế giới ~21 triệu (~14.6%). Nguyên nhân giảm: BTC và cổ phiếu risk-on hút dòng tiền từ vàng. Vùng hỗ trợ quan trọng $4,500–$4,510 đang được kiểm tra.",
-        "source": "FX Leaders / BaoQuocTe, 5/5/2026",
-        "source_url": "https://www.fxleaders.com/news/2026/05/04/gold-price-forecast-xau-usd-tests-4577-support-as-central-banks-buy-244-tonnes-4510-next/"
+        "body": "Giá vàng thế giới duy trì ~$4,530/oz (từ $4,531.9 ngày 5/5), tiếp tục trong vùng hỗ trợ $4,500-$4,550. Quy đổi theo tỷ giá VCB 26,362: world_vnd ≈ 143.5 triệu/lượng. SJC điều chỉnh về ~163.5 triệu — premium so với thế giới ~20 triệu (~13.9%). Risk-on (BTC, stocks) vẫn là yếu tố gây áp lực lên vàng.",
+        "source": "Trading Economics / Cafef, 6/5/2026",
+        "source_url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "title": "Lãi suất tháng 5 đồng loạt hạ nhiệt — VPBank, Techcombank, SeABank giảm 0.3–0.5%/kỳ",
+        "title": "Lãi suất tháng 5: 20 NH kịch trần 4.75% kỳ ngắn — xu hướng hạ nhiệt chưa dừng",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Sau sự kiện Vietcombank tung sản phẩm 7.4% (4/5), thị trường ghi nhận chiều ngược lại: VPBank giảm kỳ 6-9 tháng 0.5% xuống 6.1%/năm, Techcombank giảm 0.5% kỳ 6-36 tháng, SeABank giảm 0.2-0.3%. Xu hướng: NHNN hướng dẫn sau cuộc họp 9/4 thúc đẩy NH tối ưu hóa chi phí vốn. Window lock lãi cao tại NH tư nhân đang hẹp dần.",
-        "source": "CafeF / VnEconomy, 2-5/5/2026",
-        "source_url": "https://cafef.vn/lai-suat-tien-gui-tiet-kiem-thang-5-2026-dong-loat-ha-nhiet-188260502164039947.chn"
+        "body": "Con số NH niêm yết 4.75%/năm kỳ dưới 6 tháng nhảy vọt lên 20 (từ 9-13 NH đầu năm). Xu hướng kỳ dài (12T) vẫn phân hóa: OCB 7.7%, HLBank 7.6% dẫn đầu; VPBank, Techcombank, SeABank giảm 0.3-0.5% trong tuần qua. MB (Quân đội) vừa điều chỉnh lãi suất tháng 5 — mức cao nhất đang được xác nhận.",
+        "source": "Vietnamnet / CafeF, 5-6/5/2026",
+        "source_url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-5-2026-o-at-giam-rieng-1-ky-han-van-kich-tran-2512535.html"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>5/5 — Thứ Ba:</b> Vàng $4,520/oz giảm 1.3% từ $4,580. SJC ~164.7 triệu/lượng, world_vnd ≈ 143.7 triệu, premium ~21 triệu (~14.6%). Áp lực giảm từ risk-on market (BTC $80K, stocks cao). Hỗ trợ $4,500–$4,510 đang được kiểm tra. Central banks mua 244 tấn Q1/2026. JPMorgan $5,000 Q4/2026 vẫn nguyên.",
+    "summary": "🟡 <b>6/5 — Thứ Tư:</b> Vàng $4,530/oz duy trì suy yếu nhẹ từ $4,531.9 hôm qua. SJC ~163.5 triệu/lượng, world_vnd ≈ 143.5 triệu, premium ~20 triệu (~13.9%). Hỗ trợ $4,500–$4,510 vẫn đang giữ. Risk-on market (BTC $81K+, stocks) hút dòng tiền ngắn hạn. Central banks mua 244 tấn Q1/2026 tạo sàn dài hạn. JPMorgan $5,000 Q4/2026.",
     "factors": [
       {
-        "name": "Điều chỉnh từ $4,580 — hỗ trợ $4,500–$4,510 đang được kiểm tra",
-        "pct": 60,
+        "name": "Vùng hỗ trợ $4,500–$4,510 đang giữ — test quan trọng trong ngày 6/5",
+        "pct": 58,
         "direction": "down",
         "bar": "fm",
-        "desc": "Vàng giảm từ $4,580 (4/5) về $4,520 hôm nay (-1.3%). Vùng kháng cự $4,600–$4,650 chưa vượt được, điều chỉnh về hỗ trợ $4,500–$4,510. Nếu giữ vùng này, đây là điểm mua kỹ thuật tốt. Phá $4,500 sẽ mở test $4,441 (đáy weekly)."
+        "desc": "Vàng ổn định ~$4,530 (từ $4,531.9 ngày 5/5). Hỗ trợ $4,500–$4,510 chưa bị phá. Nếu giữ vùng này, xác nhận điểm mua kỹ thuật. Phá $4,500 sẽ mở test $4,441 (đáy weekly)."
       },
       {
-        "name": "Risk-on hút dòng tiền: BTC $80K, Nasdaq cao — safe-haven giảm tạm thời",
+        "name": "BTC $81K+ và Big Tech earnings tốt — risk-on hút tiền từ safe-haven",
         "pct": 65,
         "direction": "down",
         "bar": "fm",
-        "desc": "BTC vượt $80,000 và cổ phiếu big tech tiếp tục tăng đang hút dòng tiền khỏi vàng. Đây là áp lực ngắn hạn — không phải thay đổi cấu trúc. Khi risk-off quay lại (địa chính trị, Fed bất định), vàng sẽ phục hồi nhanh."
+        "desc": "Bitcoin $81,286 — cao nhất kể từ tháng 1 — kết hợp Big Tech Q1 vượt kỳ vọng tạo appetite risk-on mạnh. Vàng bị áp lực ngắn hạn từ dịch chuyển vốn sang BTC và cổ phiếu AI/tech."
       },
       {
         "name": "Central banks mua 244 tấn Q1/2026 — nền tảng cầu dài hạn rất vững",
         "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "Ngân hàng trung ương toàn cầu mua 244 tấn vàng Q1/2026 (+3% YoY). Đây là nền tảng cầu chiến lược phi-USD, đặc biệt từ Nga, Trung Quốc, Ấn Độ. Yếu tố này tạo sàn giá vàng dài hạn."
+        "desc": "Ngân hàng trung ương toàn cầu mua 244 tấn vàng Q1/2026 (+3% YoY). Đây là nền tảng cầu chiến lược phi-USD từ Nga, Trung Quốc, Ấn Độ. Yếu tố này tạo sàn giá vàng dài hạn vững chắc."
       },
       {
-        "name": "Iran de-escalation tạm thời — địa chính trị vẫn bất định, safe-haven duy trì",
-        "pct": 62,
+        "name": "De-escalation Iran-Mỹ tạm thời — địa chính trị vẫn bất định, safe-haven duy trì",
+        "pct": 60,
         "direction": "up",
         "bar": "fm",
-        "desc": "Tín hiệu de-escalation Iran-Mỹ nhẹ giảm áp lực safe-haven ngắn hạn, nhưng Hormuz chưa mở toàn bộ. Địa chính trị vẫn là yếu tố hỗ trợ trung hạn cho vàng."
+        "desc": "Tín hiệu de-escalation Iran-Mỹ giảm áp lực safe-haven ngắn hạn, hỗ trợ BTC và stocks. Tuy nhiên Hormuz chưa mở toàn bộ và căng thẳng địa chính trị toàn cầu duy trì nền tảng cho vàng trung hạn."
       },
       {
         "name": "Dự báo dài hạn bullish giữ nguyên — $5,000–$6,000 mục tiêu 2026",
         "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "JPMorgan ($5,000/oz Q4/2026), UBP ($6,000/oz), Goldman Sachs bullish. Điều chỉnh $4,520 là cơ hội tích lũy trong xu hướng tăng dài hạn. Vùng $4,500–$4,550 là vùng mua tích lũy tốt nhất hiện tại."
+        "desc": "JPMorgan ($5,000/oz Q4/2026), UBP ($6,000/oz), Goldman Sachs bullish. Điều chỉnh $4,530 là cơ hội tích lũy trong xu hướng tăng dài hạn. Vùng $4,500–$4,550 là vùng mua tích lũy tốt nhất hiện tại."
       }
     ],
-    "outlook_label": "Vàng $4,520 — kiểm tra hỗ trợ $4,500; SJC 164.7 triệu premium 21 triệu — tích lũy trung-dài hạn",
+    "outlook_label": "Vàng $4,530 — hỗ trợ $4,500 đang giữ; SJC 163.5 triệu premium 20 triệu — tích lũy trung-dài hạn",
     "outlook_class": "pbe",
-    "outlook_text": "Vàng $4,520/oz điều chỉnh 1.3% hôm nay do risk-on market. Hỗ trợ: $4,500–$4,510. Kháng cự: $4,580–$4,650. Central banks mua 244 tấn Q1 tạo nền tảng vững. SJC ~164.7 triệu, premium ~21 triệu (~14.6%) — ưu tiên vàng nhẫn 9999. Dài hạn: JPMorgan $5,000 Q4/2026 vẫn nguyên. Vùng $4,500–$4,550 là cơ hội tích lũy trung-dài hạn.",
+    "outlook_text": "Vàng $4,530/oz tiếp tục trong vùng điều chỉnh ngắn hạn từ đỉnh $4,600+. Hỗ trợ: $4,500–$4,510. Kháng cự: $4,580–$4,650. SJC ~163.5 triệu, premium ~20 triệu (~13.9%) — ưu tiên vàng nhẫn 9999. Central banks mua 244 tấn Q1 tạo sàn vững. Dài hạn: JPMorgan $5,000 Q4/2026. Vùng $4,500–$4,550 là cơ hội tích lũy trung-dài hạn.",
     "sources": [
-      {
-        "name": "FX Leaders — Gold XAU/USD Forecast 4-5/5/2026",
-        "url": "https://www.fxleaders.com/news/2026/05/04/gold-price-forecast-xau-usd-tests-4577-support-as-central-banks-buy-244-tonnes-4510-next/"
-      },
-      {
-        "name": "BaoQuocTe — Giá vàng hôm nay 5/5/2026 suy yếu",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-552026-suy-yeu-co-the-van-con-gap-kho-khan-mo-ra-co-hoi-mua-vao-trong-trung-han-389433.html"
-      },
       {
         "name": "Trading Economics — Live Gold Commodity Price",
         "url": "https://tradingeconomics.com/commodity/gold"
+      },
+      {
+        "name": "Vietnam.vn — Giá vàng hôm nay 5/5/2026",
+        "url": "https://www.vietnam.vn/en/gia-vang-hom-nay-5-5-2026-gia-vang-sjc-nhan-9999-va-vang-the-gioi-thu-3-ngay-moi"
+      },
+      {
+        "name": "CafeF — Giá vàng SJC hôm nay",
+        "url": "https://cafef.vn/du-lieu/gia-vang-hom-nay/trong-nuoc.chn"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📉 5/5 (Thứ Ba): Lãi suất tháng 5 đồng loạt hạ nhiệt — VPBank giảm kỳ 6-9T xuống 6.1%/năm, Techcombank giảm 0.5% kỳ 6-36T, SeABank giảm 0.2-0.3%. NHNN thúc đẩy tối ưu chi phí vốn. Ngược chiều: Vietcombank 7.4%/năm linh hoạt (Big4). OCB 7.7% vẫn số 1. Window lock lãi cao đang hẹp dần — cân nhắc sớm.",
+    "alert": "📉 6/5 (Thứ Tư): 20 NH kịch trần 4.75% kỳ ngắn — nhảy vọt từ 9-13 NH đầu năm. MB (Quân đội) vừa điều chỉnh lãi suất tháng 5. OCB 7.7%, HLBank 7.6% vẫn dẫn đầu. Vietcombank 7.4%/năm linh hoạt. VPBank, Techcombank, SeABank đã giảm 0.3-0.5% tuần qua. Window lock lãi cao đang hẹp — cân nhắc sớm.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -308,8 +308,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 5/5: Xu hướng hạ nhiệt toàn hệ thống — Vietcombank 7.4% là ngoại lệ chiến lược",
-      "body": "Tháng 5/2026 ghi nhận xu hướng trái chiều rõ nét: trong khi Vietcombank tung sản phẩm linh hoạt 7.4%/năm (sự kiện 4/5), phần lớn hệ thống NH đang hạ nhiệt. VPBank giảm kỳ 6-9T xuống 6.1%/năm (từ 6.2%), Techcombank giảm ~0.5% nhiều kỳ hạn, SeABank giảm 0.2-0.3%. Nguyên nhân: NHNN thúc đẩy NH tối ưu chi phí vốn để hạ lãi suất cho vay, hỗ trợ tăng trưởng tín dụng Q2. Nhận định: OCB 7.7%, HLBank 7.6% vẫn số 1-2 toàn hệ thống. Khuyến nghị ngày 5/5: lock kỳ 12T tại OCB/HLBank hoặc VCB sản phẩm linh hoạt 7.4% — window đang hẹp dần.",
+      "title": "Lãi suất 6/5: 20 NH kịch trần kỳ ngắn — phân hóa mạnh kỳ dài, window OCB/HLBank/VCB đang hẹp",
+      "body": "Ngày 6/5/2026, xu hướng phân hóa lãi suất tiếp tục rõ nét. Điểm nổi bật: 20 NH niêm yết 4.75%/năm kỳ dưới 6 tháng (tăng gấp đôi so với đầu năm). Kỳ 12 tháng: OCB 7.7%, HLBank 7.6%, Vietcombank 7.4% vẫn là top 3. VPBank, Techcombank, SeABank đã giảm 0.3-0.5% tuần trước. MB (Quân đội) vừa điều chỉnh — mức cao nhất được xác nhận giữ ~6.5%. Xu hướng: NHNN thúc đẩy NH tối ưu chi phí vốn để hạ lãi cho vay, hỗ trợ tín dụng Q2. Nhận định 6/5: Cửa sổ lock lãi cao đang hẹp dần — ưu tiên OCB/HLBank/VCB kỳ 12T ngay trong tuần này.",
       "sources": [
         {
           "name": "CafeF — Lãi suất tiết kiệm tháng 5/2026 đồng loạt hạ nhiệt",
@@ -320,25 +320,25 @@
           "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-52026.htm"
         },
         {
-          "name": "Vietnam.vn — Lãi suất tiết kiệm tháng 5/2026 online 7.7%",
-          "url": "https://www.vietnam.vn/lai-suat-tiet-kiem-thang-5-2026-gui-tien-truc-tuyen-dat-muc-cao-nhat-7-7-nam"
+          "name": "Vietnamnet — 20 NH kịch trần kỳ ngắn 5/5/2026",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-5-2026-o-at-giam-rieng-1-ky-han-van-kich-tran-2512535.html"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "VPBank, Techcombank, SeABank giảm lãi — xu hướng hạ nhiệt toàn hệ thống tháng 5",
+        "name": "20 NH kịch trần 4.75% kỳ ngắn — nhảy vọt từ 9-13 NH đầu năm",
         "level": "main",
         "pct": 90,
         "bar": "fh",
-        "desc": "VPBank giảm 6-9T xuống 6.1%/năm, Techcombank giảm 0.5% kỳ 6-36T, SeABank giảm 0.2-0.3%. NHNN thúc đẩy NH tối ưu chi phí vốn để hạ lãi suất cho vay, hỗ trợ tăng trưởng tín dụng Q2/2026."
+        "desc": "Con số NH niêm yết 4.75%/năm kỳ dưới 6 tháng tăng gấp đôi, cho thấy cạnh tranh huy động vốn ngắn hạn rất quyết liệt. Điều này trái chiều với xu hướng giảm ở kỳ dài — phản ánh NH cần thanh khoản ngắn hạn nhưng kiểm soát chi phí vốn dài hạn."
       },
       {
-        "name": "Vietcombank 7.4%/năm linh hoạt — ngược dòng Big4, cạnh tranh hút vốn trung hạn",
+        "name": "VPBank, Techcombank, SeABank giảm lãi — xu hướng hạ nhiệt kỳ dài",
         "level": "main",
-        "pct": 80,
+        "pct": 85,
         "bar": "fh",
-        "desc": "VCB tung sản phẩm đặc biệt 7.4% kỳ 12T trong khi phần lớn hệ thống giảm lãi. Smart capital management — cạnh tranh thu hút vốn mà không phải tăng lãi cơ bản."
+        "desc": "VPBank giảm 6-9T xuống 6.1%/năm, Techcombank giảm 0.5% kỳ 6-36T, SeABank giảm 0.2-0.3%. NHNN thúc đẩy NH tối ưu chi phí vốn để hạ lãi suất cho vay, hỗ trợ tăng trưởng tín dụng Q2/2026."
       },
       {
         "name": "FOMC/Warsh — chuyển giao Fed 15/5, NHNN thận trọng về nới lỏng",
@@ -352,14 +352,14 @@
         "level": "sub",
         "pct": 72,
         "bar": "fm",
-        "desc": "Q2/2026 là mùa cho vay cao điểm. NH giảm lãi huy động để giảm chi phí vốn → hạ lãi cho vay → hỗ trợ tăng trưởng tín dụng mục tiêu 15-16%."
+        "desc": "Q2/2026 là mùa cho vay cao điểm. NH giảm lãi huy động dài hạn để giảm chi phí vốn → hạ lãi cho vay → hỗ trợ tăng trưởng tín dụng mục tiêu 15-16%."
       },
       {
         "name": "CPI tháng 4 dưới 4.5% — NHNN có dư địa điều hành lãi suất linh hoạt",
         "level": "sub",
         "pct": 55,
         "bar": "fm",
-        "desc": "Lạm phát kiểm soát tốt cho NHNN dư địa linh hoạt. Nhưng bất định từ Warsh/Fed và tỷ giá USD/VND sẽ là yếu tố quyết định hành động chính sách trong tháng 5-6."
+        "desc": "Lạm phát kiểm soát tốt cho NHNN dư địa linh hoạt. Bất định từ Warsh/Fed và tỷ giá USD/VND sẽ là yếu tố quyết định hành động chính sách trong tháng 5-6."
       }
     ],
     "rate_forecast": [
@@ -368,7 +368,7 @@
         "pct": 65,
         "direction": "up",
         "bar": "fh",
-        "desc": "OCB 7.7% và HLBank 7.6% có thể giữ đến hết Q2/2026. Nhưng xu hướng hạ nhiệt toàn hệ thống cho thấy window đang hẹp dần. Khuyến nghị: lock kỳ 12T ngay trong tháng 5."
+        "desc": "OCB 7.7% và HLBank 7.6% có thể giữ đến hết Q2/2026. Nhưng xu hướng hạ nhiệt toàn hệ thống cho thấy window đang hẹp dần. Khuyến nghị: lock kỳ 12T ngay trong tuần này."
       },
       {
         "name": "Big4 standard 12T tiếp tục giảm nhẹ về 5.5–5.8% trong H2/2026",
@@ -392,9 +392,9 @@
         "desc": "Nếu Warsh phát tín hiệu dovish trong điều trần đầu tiên (giữa tháng 5), NHNN có thể cắt lãi điều hành 25bp. Xác suất ~30% — thấp nhưng cần theo dõi."
       }
     ],
-    "rate_outlook_label": "Tháng 5 hạ nhiệt / OCB 7.7% / HLBank 7.6% / Vietcombank 7.4% — window lock đang hẹp dần",
+    "rate_outlook_label": "Tháng 5 phân hóa / OCB 7.7% / HLBank 7.6% / Vietcombank 7.4% — 20 NH kịch trần kỳ ngắn",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "5/5: Xu hướng lãi suất tháng 5 phân hóa — VCB 7.4% ngược dòng trong khi VPBank, Techcombank, SeABank giảm 0.3-0.5%. OCB 7.7%, HLBank 7.6% vẫn dẫn đầu. Big4 standard 12T vẫn 5.8-5.9%. Khuyến nghị: ưu tiên OCB/HLBank kỳ 12T hoặc VCB sản phẩm linh hoạt 7.4% — lock ngay trước khi window đóng.",
+    "rate_outlook_text": "6/5: 20 NH kịch trần 4.75% kỳ ngắn — cạnh tranh huy động vốn ngắn hạn đỉnh điểm. Kỳ 12T phân hóa: OCB 7.7%, HLBank 7.6%, VCB 7.4% dẫn đầu; VPBank, Techcombank, SeABank đã giảm. Khuyến nghị: ưu tiên OCB/HLBank kỳ 12T hoặc VCB sản phẩm linh hoạt 7.4% — lock ngay tuần này trước khi window đóng.",
     "rate_sources": [
       {
         "name": "CafeF — Lãi suất tiết kiệm tháng 5/2026 đồng loạt hạ nhiệt",
@@ -405,8 +405,8 @@
         "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-52026.htm"
       },
       {
-        "name": "Vietnam.vn — Vietcombank 7.4%/năm hôm nay 4/5/2026",
-        "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-4-5-2026-vietcombank-ap-dung-muc-7-4-nam"
+        "name": "Vietnamnet — Lãi suất NH 5/5/2026 ồ ạt giảm",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-5-2026-o-at-giam-rieng-1-ky-han-van-kich-tran-2512535.html"
       }
     ]
   },
@@ -535,7 +535,8 @@
       "02/05",
       "03/05",
       "04/05",
-      "05/05"
+      "05/05",
+      "06/05"
     ],
     "sjc": [
       152.8,
@@ -661,7 +662,8 @@
       165.3,
       165.8,
       166.3,
-      164.7
+      164.7,
+      163.5
     ],
     "world_vnd": [
       121,
@@ -787,7 +789,8 @@
       146.7,
       146.1,
       145.6,
-      143.7
+      143.7,
+      143.5
     ]
   }
 }
