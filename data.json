@@ -1,129 +1,129 @@
 {
   "meta": {
-    "date": "6 tháng 5, 2026",
-    "day": "Thứ Tư",
-    "updated": "2026-05-06 07:00"
+    "date": "7 tháng 5, 2026",
+    "day": "Thứ Năm",
+    "updated": "2026-05-07 07:00"
   },
   "alert": {
-    "type": "yellow",
-    "text": "🟡 <b>6/5 — Thứ Tư:</b> Vàng $4,530/oz tiếp tục suy yếu nhẹ, SJC ~163.5 triệu điều chỉnh từ 164.7. BTC $81,286 — cao nhất kể từ tháng 1/2026 — tín hiệu de-escalation Iran hỗ trợ crypto. Lầu Năm Góc ký AI deal với 8 Big Tech (Google, OpenAI, NVIDIA, AWS, SpaceX...). 20 NH kịch trần kỳ ngắn 4.75% — lãi suất tháng 5 phân hóa."
+    "type": "green",
+    "text": "🟢 <b>7/5 — Thứ Năm:</b> Vàng $4,697/oz tăng mạnh +3.67% — bất ngờ với risk-on market. SJC ~167.5 triệu/lượng, world_vnd 149.4 triệu. BTC $81,437 tiếp tục đỉnh 4 tháng. S&P 500 lên đỉnh mới 7,365 (+1.46%); Nasdaq 25,838 (+2.02%). Snap cắt 16% nhân sự (~1,000 người) vì AI. SpaceX–xAI sáp nhập. AMD +13% sau guidance mạnh."
   },
   "news_ai": [
     {
-      "title": "Lầu Năm Góc ký hợp đồng AI với 8 Big Tech — Anthropic bị loại do yêu cầu an toàn chiến tranh",
+      "title": "Snap cắt 16% nhân sự (~1,000 người) + đóng 300 vị trí — CEO viện dẫn AI thay thế lao động",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Bộ Quốc phòng Mỹ (DoD) ký kết hợp đồng AI với 8 công ty: SpaceX, OpenAI, Google, Microsoft, Nvidia, Amazon Web Services, Oracle và Reflection để triển khai AI trên mạng phân loại. Anthropic bị loại vì chính quyền Trump đưa vào danh sách đen sau khi Anthropic yêu cầu các điều khoản an toàn AI trong chiến tranh. Đàm phán đang được mở lại.",
-      "source": "CNN Business, 1/5/2026",
-      "source_url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic"
+      "body": "CEO Evan Spiegel thông báo Snap cắt giảm khoảng 1,000 nhân viên (16% toàn bộ nhân sự) và đóng hơn 300 vị trí đang tuyển dụng. Lý do chính thức: AI cho phép các nhóm nhỏ hơn đạt cùng năng suất. Đây là làn sóng sa thải Big Tech lớn nhất Q1-Q2/2026: 81,747 lao động trong Q1 — cao nhất trong 2 năm. Meta cắt 8,000 người, Amazon 16,000 người.",
+      "source": "Deadline / Fox Business, 7/5/2026",
+      "source_url": "https://deadline.com/2026/04/snap-layoffs-ceo-evan-spiegel-ai-1236861335/"
     },
     {
-      "title": "Big Tech Earnings: Google Cloud 63% tăng trưởng, Hyperscalers đổ $600-700 tỷ vào AI infrastructure 2026",
+      "title": "SpaceX và xAI sáp nhập — Elon Musk hợp nhất công ty tên lửa và AI dưới một mái nhà",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Kết quả Q1 Big Tech ấn tượng: Google Cloud đạt $20B doanh thu/quý (+63% YoY), vượt mốc $80B ARR. Các hyperscaler (AWS, Azure, GCP) cộng gộp đổ $600-700 tỷ vào AI infrastructure năm 2026. Cursor AI coding đạt $1B ARR chỉ trong 10 tháng. AI giải quyết 30% case hỗ trợ khách hàng.",
-      "source": "CNBC, 3/5/2026",
-      "source_url": "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html"
+      "body": "Elon Musk thông báo sáp nhập SpaceX và xAI — hai công ty hàng đầu về tên lửa và trí tuệ nhân tạo của ông. Thương vụ này diễn ra ngay sau khi SpaceX được DoD ký hợp đồng AI cùng 7 Big Tech khác. xAI hiện có mô hình Grok và đang cạnh tranh trực tiếp với OpenAI, Anthropic. Anthropic đang đàm phán lại hợp đồng DoD sau khi bị loại tuần trước.",
+      "source": "Crescendo AI / CNN Business, 7/5/2026",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     },
     {
-      "title": "Goldman Sachs: AI software sell-off đã bị thổi phồng — đây là cơ hội mua tốt nhất 2026",
+      "title": "AMD +13% sau guidance mạnh; Nvidia + Corning xây 3 nhà máy quang học 10x công suất tại Mỹ",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Goldman Sachs nhận định đợt bán tháo cổ phiếu AI software trong Q1/2026 là quá mức và không phản ánh nền tảng fundamentals. Báo cáo chỉ ra các growth stocks AI tốt nhất để mua vào hiện tại, khi kết quả Big Tech Q1 vượt kỳ vọng và AI infrastructure spending tiếp tục tăng tốc.",
-      "source": "The Motley Fool, 3/5/2026",
-      "source_url": "https://www.fool.com/investing/2026/05/03/goldman-sachs-says-the-artificial-intelligence-ai/"
+      "body": "AMD tăng vọt 13% sau khi công bố dự báo tăng trưởng vượt kỳ vọng. Nvidia hợp tác với Corning xây 3 nhà máy quang học mới ở North Carolina và Texas — tăng công suất optical manufacturing lên 10 lần, tạo 3,000 việc làm. Corning tăng 17%. Super Micro Computer tăng 18% với EPS guidance 65-79 cents so với ước tính 55 cents.",
+      "source": "CNBC, 7/5/2026",
+      "source_url": "https://www.cnbc.com/2026/05/05/stock-market-today-live-updates.html"
     },
     {
-      "title": "AI Infrastructure Boom 2026: Chipmakers và Cloud Giants thống trị — Figma dự báo $1.4B doanh thu",
+      "title": "Big Tech $725B capex 2026 (+77% YoY) — AI infrastructure bùng nổ khi S&P 500 chạm đỉnh mới 7,365",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Báo cáo tổng hợp 2026 xác nhận AI đang chuyển sang giai đoạn infrastructure: compute access, control, sector rules, distribution và trust dẫn dắt — không còn là demo. Figma dự báo $1.4B doanh thu năm 2026. Nvidia và AWS tiếp tục thống trị chuỗi cung ứng AI chip. Gemini tích hợp vào hàng triệu xe hơi.",
-      "source": "AI Infrastructure / Spreaker, 5/2026",
-      "source_url": "https://www.spreaker.com/episode/ai-infrastructure-boom-reshapes-enterprise-tech-in-2026-as-chipmakers-and-cloud-giants-dominate--71872991"
+      "body": "Google, Amazon, Microsoft và Meta cộng gộp chi $725 tỷ vào capex 2026, tăng 77% so với mức kỷ lục $410 tỷ năm 2025. S&P 500 lần đầu vượt 7,365 — đỉnh mới lịch sử. Nasdaq Composite 25,838 (+2.02%). Nghịch lý: Big Tech đổ tiền khổng lồ vào AI infrastructure trong khi đồng thời sa thải hàng chục nghìn nhân viên.",
+      "source": "Invezz / CNBC, 7/5/2026",
+      "source_url": "https://invezz.com/news/2026/05/04/is-big-techs-725b-ai-splurge-being-funded-by-mass-layoffs/"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "yellow",
-      "text": "🟡 Vàng $4,530/oz suy yếu nhẹ (từ $4,531.9 hôm qua). SJC ~163.5 triệu, world_vnd ~143.5 triệu, premium ~20 triệu. BTC $81,286 — cao nhất kể từ 31/1/2026. CLARITY Act 60%+ trên Polymarket — crypto regulation đang tới gần. Goldman Sachs: $108M vị thế SOL ETF."
+      "type": "green",
+      "text": "🟢 Vàng $4,697/oz (+3.67% so với $4,530 hôm qua) — tăng mạnh bất chấp risk-on. SJC ~167.5 triệu, world_vnd ~149.4 triệu, premium ~18 triệu (~12%). BTC $81,437 cao nhất kể từ tháng 1/2026. S&P 500 đỉnh mới 7,365, Nasdaq 25,838. CoinDesk20 +2.5%."
     },
     "items": [
       {
-        "title": "BTC $81,286 — cao nhất kể từ tháng 1/2026; Goldman Sachs $108M SOL ETF; CLARITY Act 60%+",
+        "title": "S&P 500 đỉnh mới 7,365 (+1.46%), Nasdaq 25,838 (+2.02%) — US-Iran agreement đẩy risk-on toàn diện",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin tiếp tục ở vùng $80,000-$81,286 — cao nhất kể từ 31/1/2026. CLARITY Act odds vượt 60% trên Polymarket lần đầu trong 1 tháng — tín hiệu crypto regulation đang tiến gần. Goldman Sachs tiết lộ vị thế $108M trong spot SOL ETF. Tổng AUM Solana ETF (Bitwise, Fidelity, Morgan Stanley) vượt $1B.",
-        "source": "CoinDesk / Yahoo Finance, 5-6/5/2026",
-        "source_url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism"
+        "body": "Chứng khoán Mỹ lập đỉnh mới khi thị trường phản ứng tích cực trước tin Mỹ-Iran gần đạt thỏa thuận kết thúc chiến tranh. Dow Jones tăng 612 điểm (+1.24%) lên 49,910. AMD +13%, Corning +17%, Super Micro +18% dẫn dắt Nasdaq. Morgan Stanley triển khai crypto trading trên E*Trade với phí thấp hơn Coinbase và Robinhood.",
+        "source": "CNBC, 6-7/5/2026",
+        "source_url": "https://www.cnbc.com/2026/05/05/stock-market-today-live-updates.html"
       },
       {
-        "title": "Vàng $4,530/oz — tiếp tục suy yếu; world_vnd 143.5 triệu, SJC ~163.5 triệu",
+        "title": "Vàng $4,697/oz tăng mạnh +3.67% — bất ngờ với môi trường risk-on; SJC ~167.5 triệu",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Giá vàng thế giới duy trì ~$4,530/oz (từ $4,531.9 ngày 5/5), tiếp tục trong vùng hỗ trợ $4,500-$4,550. Quy đổi theo tỷ giá VCB 26,362: world_vnd ≈ 143.5 triệu/lượng. SJC điều chỉnh về ~163.5 triệu — premium so với thế giới ~20 triệu (~13.9%). Risk-on (BTC, stocks) vẫn là yếu tố gây áp lực lên vàng.",
-        "source": "Trading Economics / Cafef, 6/5/2026",
+        "body": "Giá vàng tăng mạnh lên $4,697/oz (+3.67% từ $4,530), bất chấp thị trường chứng khoán tăng điểm và BTC ở vùng cao. Quy đổi tỷ giá VCB 26,362: world_vnd ≈ 149.4 triệu/lượng. SJC ước tính ~167.5 triệu — premium so với thế giới ~18 triệu (~12%). Yếu tố hỗ trợ: Central banks tiếp tục mua vàng chiến lược, uncertainty về Warsh/Fed.",
+        "source": "Trading Economics / Vietnam.vn, 7/5/2026",
         "source_url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "title": "Lãi suất tháng 5: 20 NH kịch trần 4.75% kỳ ngắn — xu hướng hạ nhiệt chưa dừng",
+        "title": "BTC $81,437 — CoinDesk20 +2.5%; Near Protocol +16%; Morgan Stanley đưa crypto vào E*Trade",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Con số NH niêm yết 4.75%/năm kỳ dưới 6 tháng nhảy vọt lên 20 (từ 9-13 NH đầu năm). Xu hướng kỳ dài (12T) vẫn phân hóa: OCB 7.7%, HLBank 7.6% dẫn đầu; VPBank, Techcombank, SeABank giảm 0.3-0.5% trong tuần qua. MB (Quân đội) vừa điều chỉnh lãi suất tháng 5 — mức cao nhất đang được xác nhận.",
-        "source": "Vietnamnet / CafeF, 5-6/5/2026",
-        "source_url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-5-2026-o-at-giam-rieng-1-ky-han-van-kich-tran-2512535.html"
+        "body": "Bitcoin duy trì $81,437 — tiếp tục vùng cao nhất kể từ 31/1/2026. CoinDesk 20 index tăng 2.5%; Near Protocol +16%, Internet Computer +10.4%. Morgan Stanley ra mắt crypto trading trên E*Trade với phí thấp hơn đối thủ. CLARITY Act odds vẫn trên 60% trên Polymarket — crypto regulation đang tới gần.",
+        "source": "CoinDesk / Yahoo Finance, 7/5/2026",
+        "source_url": "https://www.coindesk.com/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>6/5 — Thứ Tư:</b> Vàng $4,530/oz duy trì suy yếu nhẹ từ $4,531.9 hôm qua. SJC ~163.5 triệu/lượng, world_vnd ≈ 143.5 triệu, premium ~20 triệu (~13.9%). Hỗ trợ $4,500–$4,510 vẫn đang giữ. Risk-on market (BTC $81K+, stocks) hút dòng tiền ngắn hạn. Central banks mua 244 tấn Q1/2026 tạo sàn dài hạn. JPMorgan $5,000 Q4/2026.",
+    "summary": "🟢 <b>7/5 — Thứ Năm:</b> Vàng $4,697/oz tăng mạnh +3.67% từ $4,530 — bất ngờ khi môi trường risk-on. SJC ~167.5 triệu/lượng, world_vnd ≈ 149.4 triệu, premium ~18 triệu (~12%). Vàng phá vỡ kháng cự $4,650 lên vùng $4,700. Central banks 244 tấn Q1 tạo sàn vững. JPMorgan $5,000 Q4/2026. Dù risk-on mạnh (S&P 500 đỉnh mới 7,365), vàng vẫn tăng — tín hiệu cầu chiến lược đặc biệt mạnh.",
     "factors": [
       {
-        "name": "Vùng hỗ trợ $4,500–$4,510 đang giữ — test quan trọng trong ngày 6/5",
-        "pct": 58,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Vàng ổn định ~$4,530 (từ $4,531.9 ngày 5/5). Hỗ trợ $4,500–$4,510 chưa bị phá. Nếu giữ vùng này, xác nhận điểm mua kỹ thuật. Phá $4,500 sẽ mở test $4,441 (đáy weekly)."
-      },
-      {
-        "name": "BTC $81K+ và Big Tech earnings tốt — risk-on hút tiền từ safe-haven",
-        "pct": 65,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Bitcoin $81,286 — cao nhất kể từ tháng 1 — kết hợp Big Tech Q1 vượt kỳ vọng tạo appetite risk-on mạnh. Vàng bị áp lực ngắn hạn từ dịch chuyển vốn sang BTC và cổ phiếu AI/tech."
+        "name": "Vàng phá kháng cự $4,650 — tăng lên $4,697 (+3.67%) bất chấp risk-on",
+        "pct": 72,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "Vàng tăng mạnh từ $4,530 lên $4,697 (+3.67%), phá vỡ kháng cự $4,650. Điều bất thường: thị trường risk-on (S&P 500 đỉnh mới, BTC $81K) thường áp lực vàng nhưng vàng vẫn tăng — cho thấy cầu chiến lược phi-USD đặc biệt mạnh từ central banks."
       },
       {
         "name": "Central banks mua 244 tấn Q1/2026 — nền tảng cầu dài hạn rất vững",
-        "pct": 78,
-        "direction": "up",
-        "bar": "fh",
-        "desc": "Ngân hàng trung ương toàn cầu mua 244 tấn vàng Q1/2026 (+3% YoY). Đây là nền tảng cầu chiến lược phi-USD từ Nga, Trung Quốc, Ấn Độ. Yếu tố này tạo sàn giá vàng dài hạn vững chắc."
-      },
-      {
-        "name": "De-escalation Iran-Mỹ tạm thời — địa chính trị vẫn bất định, safe-haven duy trì",
-        "pct": 60,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Tín hiệu de-escalation Iran-Mỹ giảm áp lực safe-haven ngắn hạn, hỗ trợ BTC và stocks. Tuy nhiên Hormuz chưa mở toàn bộ và căng thẳng địa chính trị toàn cầu duy trì nền tảng cho vàng trung hạn."
-      },
-      {
-        "name": "Dự báo dài hạn bullish giữ nguyên — $5,000–$6,000 mục tiêu 2026",
         "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "JPMorgan ($5,000/oz Q4/2026), UBP ($6,000/oz), Goldman Sachs bullish. Điều chỉnh $4,530 là cơ hội tích lũy trong xu hướng tăng dài hạn. Vùng $4,500–$4,550 là vùng mua tích lũy tốt nhất hiện tại."
+        "desc": "Ngân hàng trung ương toàn cầu mua 244 tấn vàng Q1/2026 (+3% YoY). Nga, Trung Quốc, Ấn Độ tiếp tục chiến lược phi-đô la hóa. Đây là yếu tố tạo sàn dài hạn vững chắc và đang đẩy giá tăng mạnh ngay cả khi risk-on."
+      },
+      {
+        "name": "Uncertainty Warsh/Fed — thị trường lo ngại chính sách tiền tệ hậu 15/5",
+        "pct": 65,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Warsh thay Powell ngày 15/5 với quan điểm không chắc chắn về lãi suất. Uncertainty về hướng chính sách Fed tạo nhu cầu hedge vào vàng. Dù US-Iran de-escalation giảm geopolitical risk, monetary uncertainty bù lại."
+      },
+      {
+        "name": "SJC premium thu hẹp về ~12% — vàng nhẫn 9999 hấp dẫn hơn",
+        "pct": 55,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Premium SJC so với thế giới thu hẹp từ 13.9% (143.5→163.5M) xuống ~12% (149.4→167.5M). Xu hướng thu hẹp premium là tích cực — vàng nhẫn 9999 tiếp tục là lựa chọn ưu tiên. SJC ~167.5 triệu."
+      },
+      {
+        "name": "Dự báo $5,000–$6,000 ngày càng gần — $4,697 là mốc kỹ thuật quan trọng",
+        "pct": 82,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "JPMorgan $5,000/oz Q4/2026, UBP $6,000/oz. Vàng vừa phá $4,650 — mốc tiếp theo $4,800–$4,900 trước khi test $5,000. Vùng $4,680–$4,700 là vùng breakout quan trọng. Momentum rất mạnh."
       }
     ],
-    "outlook_label": "Vàng $4,530 — hỗ trợ $4,500 đang giữ; SJC 163.5 triệu premium 20 triệu — tích lũy trung-dài hạn",
-    "outlook_class": "pbe",
-    "outlook_text": "Vàng $4,530/oz tiếp tục trong vùng điều chỉnh ngắn hạn từ đỉnh $4,600+. Hỗ trợ: $4,500–$4,510. Kháng cự: $4,580–$4,650. SJC ~163.5 triệu, premium ~20 triệu (~13.9%) — ưu tiên vàng nhẫn 9999. Central banks mua 244 tấn Q1 tạo sàn vững. Dài hạn: JPMorgan $5,000 Q4/2026. Vùng $4,500–$4,550 là cơ hội tích lũy trung-dài hạn.",
+    "outlook_label": "Vàng $4,697 (+3.67%) phá kháng cự $4,650 — SJC 167.5 triệu, premium 18M; momentum mạnh về $4,800–$5,000",
+    "outlook_class": "pbg",
+    "outlook_text": "Vàng $4,697/oz tăng mạnh +3.67% — phá vỡ kháng cự $4,650 lên vùng đỉnh mới. SJC ~167.5 triệu, world_vnd 149.4 triệu, premium ~18 triệu (~12%) đang thu hẹp. Hỗ trợ: $4,650–$4,680. Kháng cự tiếp theo: $4,800–$4,900. Ưu tiên vàng nhẫn 9999. Central banks 244 tấn Q1 + Warsh/Fed uncertainty duy trì momentum. Dài hạn: $5,000 Q4/2026 ngày càng gần.",
     "sources": [
       {
         "name": "Trading Economics — Live Gold Commodity Price",
         "url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "name": "Vietnam.vn — Giá vàng hôm nay 5/5/2026",
-        "url": "https://www.vietnam.vn/en/gia-vang-hom-nay-5-5-2026-gia-vang-sjc-nhan-9999-va-vang-the-gioi-thu-3-ngay-moi"
+        "name": "Yahoo Finance — Bitcoin & Gold prices May 6-7/2026",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html"
       },
       {
         "name": "CafeF — Giá vàng SJC hôm nay",
@@ -132,7 +132,7 @@
     ]
   },
   "interest_rates": {
-    "alert": "📉 6/5 (Thứ Tư): 20 NH kịch trần 4.75% kỳ ngắn — nhảy vọt từ 9-13 NH đầu năm. MB (Quân đội) vừa điều chỉnh lãi suất tháng 5. OCB 7.7%, HLBank 7.6% vẫn dẫn đầu. Vietcombank 7.4%/năm linh hoạt. VPBank, Techcombank, SeABank đã giảm 0.3-0.5% tuần qua. Window lock lãi cao đang hẹp — cân nhắc sớm.",
+    "alert": "📉 7/5 (Thứ Năm): 20 NH vẫn kịch trần 4.75% kỳ ngắn. OCB 7.7%, HLBank 7.6%, Vietcombank 7.4% giữ nguyên. Warsh nhậm chức thay Powell 15/5 — NHNN theo dõi. Cửa sổ lock lãi cao đang hẹp — còn ~1 tuần để tận dụng.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -308,8 +308,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 6/5: 20 NH kịch trần kỳ ngắn — phân hóa mạnh kỳ dài, window OCB/HLBank/VCB đang hẹp",
-      "body": "Ngày 6/5/2026, xu hướng phân hóa lãi suất tiếp tục rõ nét. Điểm nổi bật: 20 NH niêm yết 4.75%/năm kỳ dưới 6 tháng (tăng gấp đôi so với đầu năm). Kỳ 12 tháng: OCB 7.7%, HLBank 7.6%, Vietcombank 7.4% vẫn là top 3. VPBank, Techcombank, SeABank đã giảm 0.3-0.5% tuần trước. MB (Quân đội) vừa điều chỉnh — mức cao nhất được xác nhận giữ ~6.5%. Xu hướng: NHNN thúc đẩy NH tối ưu chi phí vốn để hạ lãi cho vay, hỗ trợ tín dụng Q2. Nhận định 6/5: Cửa sổ lock lãi cao đang hẹp dần — ưu tiên OCB/HLBank/VCB kỳ 12T ngay trong tuần này.",
+      "title": "Lãi suất 7/5: Thị trường ổn định — 20 NH kịch trần kỳ ngắn, window lock lãi cao dưới 10 ngày",
+      "body": "Ngày 7/5/2026, lãi suất tiết kiệm không có biến động lớn. Điểm nổi bật: 20 NH vẫn niêm yết 4.75%/năm kỳ dưới 6 tháng. Kỳ 12 tháng: OCB 7.7%, HLBank 7.6%, Vietcombank 7.4% — top 3 duy trì ổn định. Rủi ro chính: Warsh nhậm chức 15/5 với quan điểm hawkish hơn Powell — NHNN khó cắt lãi điều hành trong tháng 5. Xu hướng: NH tư nhân (VPBank, Techcombank, SeABank) đã giảm lãi kỳ 12T trong tuần trước, xu hướng có thể lan sang MSB, MB trong 2-3 tuần tới. Khuyến nghị: Lock lãi OCB 7.7% hoặc HLBank 7.6% ngay trong tuần này — window đóng trước ngày 15/5.",
       "sources": [
         {
           "name": "CafeF — Lãi suất tiết kiệm tháng 5/2026 đồng loạt hạ nhiệt",
@@ -392,9 +392,9 @@
         "desc": "Nếu Warsh phát tín hiệu dovish trong điều trần đầu tiên (giữa tháng 5), NHNN có thể cắt lãi điều hành 25bp. Xác suất ~30% — thấp nhưng cần theo dõi."
       }
     ],
-    "rate_outlook_label": "Tháng 5 phân hóa / OCB 7.7% / HLBank 7.6% / Vietcombank 7.4% — 20 NH kịch trần kỳ ngắn",
+    "rate_outlook_label": "Tháng 5 ổn định / OCB 7.7% / HLBank 7.6% / Vietcombank 7.4% — window lock lãi cao dưới 10 ngày",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "6/5: 20 NH kịch trần 4.75% kỳ ngắn — cạnh tranh huy động vốn ngắn hạn đỉnh điểm. Kỳ 12T phân hóa: OCB 7.7%, HLBank 7.6%, VCB 7.4% dẫn đầu; VPBank, Techcombank, SeABank đã giảm. Khuyến nghị: ưu tiên OCB/HLBank kỳ 12T hoặc VCB sản phẩm linh hoạt 7.4% — lock ngay tuần này trước khi window đóng.",
+    "rate_outlook_text": "7/5: 20 NH kịch trần 4.75% kỳ ngắn — cạnh tranh huy động vốn ngắn hạn đỉnh điểm. Kỳ 12T: OCB 7.7%, HLBank 7.6%, VCB 7.4% giữ nguyên. Warsh nhậm chức 15/5 tạo áp lực. Khuyến nghị: Lock OCB/HLBank kỳ 12T hoặc VCB 7.4% linh hoạt ngay hôm nay — window đang đóng.",
     "rate_sources": [
       {
         "name": "CafeF — Lãi suất tiết kiệm tháng 5/2026 đồng loạt hạ nhiệt",
@@ -536,7 +536,8 @@
       "03/05",
       "04/05",
       "05/05",
-      "06/05"
+      "06/05",
+      "07/05"
     ],
     "sjc": [
       152.8,
@@ -663,7 +664,8 @@
       165.8,
       166.3,
       164.7,
-      163.5
+      163.5,
+      167.5
     ],
     "world_vnd": [
       121,
@@ -790,7 +792,8 @@
       146.1,
       145.6,
       143.7,
-      143.5
+      143.5,
+      149.3
     ]
   }
 }
