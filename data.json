@@ -1,138 +1,138 @@
 {
   "meta": {
-    "date": "10 tháng 5, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-05-10 15:59"
+    "date": "12 tháng 5, 2026",
+    "day": "Thứ Ba",
+    "updated": "2026-05-12 07:03"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>10/5 — Chủ Nhật:</b> Vàng thế giới $4,713.7/oz (+0.16%) tăng nhẹ. SJC ~167.5 triệu/lượng giữ nguyên, world_vnd 149.8 triệu. BTC ~$80,000 ổn định sau jobs report. Warsh nhậm chức Fed 15/5 — còn 5 ngày. Sierra AI nâng valuation $15B+ sau vòng gần $1B. AI VC Q1/2026 phá kỷ lục $242B. Lãi suất VN ổn định: OCB 7.7%, HLBank 7.6%."
+    "text": "🟡 <b>12/5 — Thứ Ba:</b> Vàng $4,699/oz giảm mạnh liên tiếp — đàm phán Mỹ-Iran bế tắc, Trung Quốc kêu gọi ngừng mua vàng vật lý. BTC $82K+ với $999M ETF inflows. CPI Mỹ tháng 4 công bố hôm nay (dự báo 3.9%). Warsh nhậm chức Fed 15/5 — còn 3 ngày. SJC ~163.5 triệu, world_vnd ~149.4 triệu."
   },
   "news_ai": [
     {
-      "title": "Sierra AI của đồng sáng lập OpenAI Bret Taylor huy động ~$1B — valuation vượt $15B",
+      "title": "4 lab Trung Quốc tung model AI coding mã nguồn mở trong 12 ngày — GLM-5.1, MiniMax M2.7, Kimi K2.6, DeepSeek V4",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Sierra, startup AI chuyên về customer service agents do Bret Taylor (cựu chủ tịch OpenAI, cựu CEO Salesforce) đồng sáng lập, hoàn tất vòng gần $1 tỷ USD, đẩy valuation vượt $15 tỷ — tăng từ $10 tỷ cuối năm 2025. Sierra là đại diện điển hình của thế hệ AI agent mới xây trên GPT và Claude, định vị thay thế hoàn toàn contact center truyền thống.",
-      "source": "CNBC, 4/5/2026",
-      "source_url": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html"
+      "body": "Trong một đợt tấn công dồn dập, 4 lab AI Trung Quốc (Z.ai, MiniMax, Moonshot, DeepSeek) tung 4 model coding mã nguồn mở trong 12 ngày với hiệu suất ngang ngửa frontier phương Tây tại chi phí inference thấp hơn đáng kể. Đây là tín hiệu rõ nét AI đa cực — Trung Quốc không còn là đối thủ kém cạnh trong cuộc đua mô hình lớn.",
+      "source": "Air Street Press / Crescendo AI, 5/2026",
+      "source_url": "https://press.airstreet.com/p/state-of-ai-may-2026"
     },
     {
-      "title": "Q1/2026 kỷ lục: AI hút $242B VC — 80% tổng vốn đầu tư mạo hiểm toàn cầu",
+      "title": "Google TurboQuant tại ICLR 2026 — giảm đáng kể KV cache memory, mở đường cho LLM rẻ hơn",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Quý I/2026 xác lập kỷ lục lịch sử: $242 tỷ USD đổ vào AI, chiếm 80% tổng VC toàn cầu. Bốn deal lớn nhất: OpenAI $122B, Anthropic $30B, xAI $20B, Waymo $16B — cộng lại $188B. Q1 2026 ghi nhận 4 trong 5 vòng VC lớn nhất lịch sử, cho thấy AI frontier đang hút vốn chưa từng có.",
-      "source": "Crunchbase News, 5/2026",
-      "source_url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
+      "body": "Google Research ra mắt TurboQuant tại ICLR 2026 — thuật toán giảm đáng kể bộ nhớ KV cache, một trong những nút thắt lớn nhất khi vận hành LLM quy mô lớn. Đây là bước đột phá kỹ thuật giúp hạ chi phí inference và mở rộng khả năng triển khai AI trên thiết bị hạn chế tài nguyên.",
+      "source": "Crescendo AI / llm-stats.com, 5/2026",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     },
     {
-      "title": "Bộ Quốc phòng Mỹ ký hợp đồng AI với 8 Big Tech — SpaceX, OpenAI, Google, NVIDIA, AWS, Oracle",
+      "title": "Claude Mythos Preview & GPT-5.5 vượt bài test tấn công mạng 32 bước — alarm đỏ về AI an ninh",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Lầu Năm Góc công bố thỏa thuận với 8 công ty công nghệ lớn gồm SpaceX, OpenAI, Google, Microsoft, NVIDIA, Amazon Web Services, Oracle và Reflection để triển khai AI trong mạng lưới bảo mật. Đây là lần đầu tiên OpenAI và Google được phép dùng AI trong hệ thống phân loại bí mật quốc gia Mỹ.",
-      "source": "CNN Business, 5/2026",
-      "source_url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic"
+      "body": "Anthropic Claude Mythos Preview và OpenAI GPT-5.5 đều hoàn thành bài kiểm tra tấn công mạng end-to-end 32 bước trong phòng thí nghiệm chính phủ Mỹ. Đây là lý do chính khiến Google, Microsoft, xAI phải ký thỏa thuận chia sẻ model với CISA trước khi phát hành công khai.",
+      "source": "Air Street Press / imfounder.com, 5/2026",
+      "source_url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/"
     },
     {
-      "title": "Snap cắt 1,000 nhân viên — AI tạo ra >65% code mới, dấu hiệu AI thay lao động phần mềm",
+      "title": "Big Tech $725B AI capex 2026 (+75% YoY) — Chính phủ Mỹ yêu cầu test AI trước phát hành",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "CEO Snap tuyên bố sa thải ~1,000 nhân viên với lý do 'AI đang tiến bộ nhanh', trong đó AI hiện tạo ra hơn 65% code mới của Snap. Đây là ví dụ thực tiễn đầu tiên của làn sóng AI thay thế lao động phần mềm theo quy mô lớn tại các công ty công nghệ. Anthropic dẫn đầu bảng xếp hạng model AI tháng 3/2026, sát nút xAI, Google và OpenAI.",
-      "source": "Microsoft on the Issues / MIT Technology Review, 7/5/2026",
-      "source_url": "https://blogs.microsoft.com/on-the-issues/2026/05/07/the-state-of-global-ai-diffusion-in-2026/"
+      "body": "Meta, Amazon, Microsoft, Alphabet cam kết tổng cộng $725 tỷ chi phí vốn năm 2026, tăng 75% so với năm trước, chủ yếu cho data center và chip AI. Song song, Bộ Thương mại Mỹ yêu cầu Microsoft, Google, xAI chia sẻ model chưa phát hành để kiểm định an ninh quốc gia.",
+      "source": "CNN Business / Air Street Press, 5/2026",
+      "source_url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Vàng thế giới $4,713.7/oz (+0.16% từ $4,706 ngày 8/5) sáng Chủ Nhật 10/5. world_vnd ≈ 149.8 triệu/lượng. SJC 167.5 triệu giữ nguyên, premium ~17.7 triệu (~11.8%). BTC ~$80,000 ổn định sau jobs report mạnh. Warsh nhậm chức Fed 15/5 — còn 5 ngày."
+      "text": "🟡 Vàng $4,699/oz giảm mạnh — SJC ~163.5 triệu, world_vnd ~149.4 triệu, premium ~14 triệu (~9.4%). BTC $82K+ ETF inflows $999M. CPI tháng 4 công bố hôm nay (dự báo 3.9%). Warsh nhậm chức Fed 15/5 — còn 3 ngày."
     },
     "items": [
       {
-        "title": "BTC ~$80,103 giữ nguyên sau jobs report mạnh 8/5 — tích lũy chờ catalyst mới",
+        "title": "BTC $82K+ với $999M ETF inflows — CPI tháng 4 Mỹ công bố hôm nay; Warsh nhậm chức 15/5",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch ổn định quanh $80,103 sau báo cáo việc làm Mỹ tháng 4 tốt hơn kỳ vọng (8/5). Jobs report mạnh = Fed ít dovish = áp lực nhẹ lên crypto. Tuy nhiên BTC vẫn giữ vùng cao nhất 4 tháng. Warsh nhậm chức 15/5 và chính sách tiền tệ mới là catalyst lớn tiếp theo cho crypto.",
-        "source": "Yahoo Finance / Fortune, 8/5/2026",
-        "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-following-strong-jobs-report-113214250.html"
+        "body": "Bitcoin tiếp tục duy trì trên $82,000 với $999 triệu chảy vào BTC ETF trong phiên gần nhất — mức inflow cao nhất nhiều tuần. Hôm nay 12/5 công bố CPI tháng 4 Mỹ (dự báo 3.9%), tiếp theo PPI thứ Tư. Powell kết thúc nhiệm kỳ Fed 15/5, Warsh nhậm chức — sự kiện tiền tệ quan trọng nhất tuần.",
+        "source": "CoinGabbar / CoinDesk, 12/5/2026",
+        "source_url": "https://www.coingabbar.com/en/crypto-currency-news/fed-cpi-powell-trump-xi-bitcoin-volatility-may-2026"
       },
       {
-        "title": "Vàng $4,713.7/oz (+0.16%) sáng 10/5 — SJC giữ 167.5 triệu; world_vnd 149.8 triệu; premium 11.8%",
+        "title": "Vàng $4,699/oz giảm mạnh liên tiếp — SJC ~163.5 triệu; đàm phán Mỹ-Iran bế tắc, Trung Quốc kêu gọi ngừng mua",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Giá vàng thế giới tăng nhẹ 0.16% lên $4,713.7/oz lúc 4h sáng 10/5 (giờ VN), trong khi vàng trong nước đứng giá. SJC bán ra ~167.5 triệu/lượng giữ nguyên từ phiên 9/5. Quy đổi VCB 26,362: world_vnd ≈ 149.8 triệu. Premium SJC còn ~17.7 triệu (~11.8%). Vàng nhẫn 9999 tiếp tục là lựa chọn tối ưu.",
-        "source": "VOV / Vietnamnet / VietnamTV, 10/5/2026",
-        "source_url": "https://vov.vn/thi-truong/gia-vang-hom-nay-105-vang-trong-nuoc-di-ngang-sjc-o-muc-1675-trieu-dongluong-post1290444.vov"
+        "body": "Giá vàng thế giới tiếp tục giảm xuống $4,699/oz ngày 12/5, giảm ~1% từ đỉnh $4,747.5 ngày 11/5. Hai yếu tố kìm hãm: (1) đàm phán hòa bình Mỹ-Iran bế tắc nhưng war premium deflate; (2) quốc gia tiêu thụ vàng thứ 2 thế giới kêu gọi người dân ngừng mua vàng vật lý. SJC ước ~163.5 triệu, premium ~14 triệu (~9.4%).",
+        "source": "Báo Quốc Tế / CafeF, 12/5/2026",
+        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-1252026-giam-manh-lien-tiep-dam-phan-hoa-binh-my-iran-be-tac-quoc-gia-tieu-thu-vang-thu-hai-the-gioi-keu-goi-nguoi-dan-ngung-mua-392421.html"
       },
       {
-        "title": "Microsoft đầu tư $10 tỷ vào Nhật Bản 2026–2029 — hạ tầng AI châu Á mở rộng với SoftBank",
+        "title": "Ondo Finance +9.16% — JPMorgan, Mastercard, Ripple hoàn thành pilot tokenized Treasury; APT -3.44% trước token unlock",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Microsoft công bố đầu tư $10 tỷ (¥1.6 nghìn tỷ) vào Nhật Bản từ 2026 đến 2029, xây dựng hạ tầng AI data center cùng SoftBank và Sakura Internet. Đây là thỏa thuận AI lớn nhất tại châu Á trong lịch sử. Trong bối cảnh Q1/2026 toàn cầu đầu tư $300B vào startup (kỷ lục mọi thời đại), đầu tư hạ tầng AI của Big Tech tiếp tục tăng tốc.",
-        "source": "Foundation Capital / Crunchbase, 5/2026",
-        "source_url": "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/"
+        "body": "Ondo Finance tăng 9.16% sau khi JPMorgan, Mastercard và Ripple hoàn thành pilot tokenized US Treasury sử dụng Ondo's OUSG fund — cột mốc trong tokenization tài sản truyền thống. Ngược lại, Aptos (APT) giảm 3.44% khi trader front-run token unlock ngày 12/5 giải phóng 0.54% supply.",
+        "source": "Spotted Crypto / CoinGabbar, 12/5/2026",
+        "source_url": "https://www.spotedcrypto.com/crypto-market-significant-moves-may-2026/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>10/5 — Chủ Nhật:</b> Vàng thế giới $4,713.7/oz (+0.16%) tăng nhẹ sáng sớm. SJC ~167.5 triệu/lượng giữ nguyên từ phiên 9/5, world_vnd ≈ 149.8 triệu, premium ~17.7 triệu (~11.8%). Vàng trong nước 'đứng giá' — trong khi thế giới 'rung lắc mạnh'. Hỗ trợ $4,680–$4,700. Warsh nhậm chức Fed 15/5 — còn 5 ngày. Central banks 244 tấn Q1. JPMorgan $5,000 Q4/2026.",
+    "summary": "🟡 <b>12/5 — Thứ Ba:</b> Vàng $4,699/oz giảm mạnh liên tiếp (-1% từ đỉnh). Hai áp lực kìm hãm: đàm phán Mỹ-Iran bế tắc (war premium deflate) + Trung Quốc kêu gọi ngừng mua vàng vật lý. world_vnd ≈ 149.4 triệu. SJC ~163.5 triệu, premium ~14 triệu (~9.4%). CPI Mỹ tháng 4 công bố hôm nay (3.9%). Warsh nhậm chức 15/5 — còn 3 ngày.",
     "factors": [
       {
-        "name": "Vàng $4,713.7/oz (+0.16%) sáng 10/5 — thế giới tăng nhẹ, trong nước đứng giá SJC 167.5 triệu",
-        "pct": 73,
-        "direction": "up",
-        "bar": "fh",
-        "desc": "Vàng thế giới tăng nhẹ 0.16% lên $4,713.7/oz lúc 4h sáng 10/5 (VN). Trong nước đứng giá: SJC bán ra ~167.5 triệu giữ từ phiên 9/5. Thị trường Chủ Nhật giao dịch thưa — nhưng xu hướng tăng chậm vẫn rõ. World_vnd ≈ 149.8 triệu, premium ~17.7 triệu (~11.8%)."
+        "name": "Vàng $4,699/oz giảm mạnh — war premium deflate; đàm phán Mỹ-Iran bế tắc",
+        "pct": 55,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Vàng giảm về $4,699/oz ngày 12/5 (-1% từ đỉnh $4,747.5 ngày 11/5). Dù đàm phán Mỹ-Iran vẫn bế tắc, thị trường đã discount phần lớn risk premium địa chính trị. SJC ước ~163.5 triệu, world_vnd ≈ 149.4 triệu, premium giảm về ~14 triệu (~9.4%)."
       },
       {
-        "name": "Central banks mua 244 tấn Q1/2026 — nền tảng cầu dài hạn cực kỳ vững chắc",
+        "name": "Trung Quốc kêu gọi ngừng mua vàng vật lý — áp lực cầu từ thị trường lớn thứ 2 thế giới",
+        "pct": 65,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Quốc gia tiêu thụ vàng thứ 2 thế giới (Trung Quốc) phát tín hiệu kêu gọi người dân ngừng mua vàng vật lý — biện pháp kiểm soát dòng vốn và ổn định tiêu dùng nội địa. Đây là áp lực giảm cầu đáng kể trên quy mô toàn cầu."
+      },
+      {
+        "name": "CPI tháng 4 Mỹ công bố hôm nay — dự báo 3.9%; catalyst hai chiều cho vàng",
+        "pct": 72,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "CPI tháng 4 Mỹ công bố hôm nay 12/5, dự báo tăng từ 3.3% lên 3.9%. Nếu CPI vượt kỳ vọng → vàng phục hồi mạnh như hedge lạm phát. Nếu dưới kỳ vọng → vàng tiếp tục giảm về $4,600. Stagflation scenario là chất xúc tác quan trọng nhất trong ngắn hạn."
+      },
+      {
+        "name": "Central banks mua 244 tấn Q1/2026 — nền tảng cầu dài hạn vững chắc",
         "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "Ngân hàng trung ương toàn cầu mua 244 tấn vàng Q1/2026 (+3% YoY). Nga, Trung Quốc, Ấn Độ tiếp tục chiến lược phi-đô la hóa. Đây là yếu tố tạo sàn dài hạn vững chắc và dẫn dắt giá tăng ngay cả khi risk-on market."
+        "desc": "Ngân hàng trung ương toàn cầu mua 244 tấn vàng Q1/2026 (+3% YoY). Nga, Trung Quốc (cấp nhà nước), Ấn Độ tiếp tục chiến lược phi-đô la hóa. Dòng mua thể chế này tạo sàn dài hạn vững chắc bất kể biến động ngắn hạn."
       },
       {
-        "name": "Warsh nhậm chức Fed 15/5 — còn 5 ngày, uncertainty tiền tệ đẩy cầu hedge vàng",
-        "pct": 68,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Còn đúng 5 ngày đến khi Kevin Warsh nhậm chức thay Powell. Quan điểm hawkish hơn của Warsh tạo ra uncertainty về hướng lãi suất Fed. Jobs report mạnh (8/5) củng cố thêm áp lực. Nhà đầu tư tích cực hedge vào vàng trước sự kiện chính sách tiền tệ quan trọng này."
-      },
-      {
-        "name": "Premium SJC ~11.8% (17.7M) — vàng nhẫn 9999 ngày càng hấp dẫn",
-        "pct": 55,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Premium SJC ở mức 11.8%: SJC ~167.5 triệu vs world_vnd 149.8 triệu. Khoảng cách này vẫn còn cao nhưng xu hướng thu hẹp dần từ 13.9% đầu tháng 5. Vàng nhẫn 9999 (giá gần world_vnd hơn) tiếp tục là lựa chọn ưu tiên cho nhà đầu tư cá nhân muốn nắm giữ vàng vật chất."
-      },
-      {
-        "name": "Mục tiêu $4,750 → $4,800 — JPMorgan $5,000 Q4/2026, UBP $6,000",
-        "pct": 77,
+        "name": "Mục tiêu $4,800 → $5,000 — hỗ trợ $4,650–$4,700; JPMorgan $5,000 Q4/2026",
+        "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "Vàng tiếp tục uptrend từ đáy $4,650. Mốc kỹ thuật tiếp theo: $4,750 → $4,800 trước khi test $5,000. JPMorgan dự báo $5,000/oz Q4/2026, UBP đặt mục tiêu $6,000/oz dài hạn. Momentum tích lũy dần — mỗi đợt điều chỉnh là cơ hội mua thêm."
+        "desc": "Hỗ trợ kỹ thuật tại $4,650–$4,700 — ngưỡng vàng hiện đang test. Nếu giữ vững sau CPI hôm nay, có thể phục hồi về $4,750–$4,800. JPMorgan giữ mục tiêu $5,000/oz Q4/2026. UBP đặt mục tiêu $6,000/oz dài hạn."
       }
     ],
-    "outlook_label": "Vàng $4,713.7 (+0.16%) — SJC 167.5 triệu giữ nguyên; world_vnd 149.8 triệu; Warsh 15/5 còn 5 ngày",
-    "outlook_class": "pbg",
-    "outlook_text": "Vàng $4,713.7/oz tăng nhẹ sáng Chủ Nhật 10/5. SJC giữ nguyên 167.5 triệu, world_vnd 149.8 triệu, premium ~17.7 triệu (~11.8%). Hỗ trợ: $4,680–$4,700. Kháng cự tiếp theo: $4,750–$4,800. Ưu tiên vàng nhẫn 9999. Warsh nhậm chức 15/5 — uncertainty Fed là yếu tố duy trì cầu hedge. Dài hạn: $5,000 Q4/2026 (JPMorgan).",
+    "outlook_label": "Vàng $4,699/oz giảm mạnh — SJC 163.5 triệu; world_vnd 149.4 triệu; CPI hôm nay; Warsh 15/5 còn 3 ngày",
+    "outlook_class": "pbr",
+    "outlook_text": "Vàng $4,699/oz ngày 12/5 — giảm ~1% liên tiếp. SJC ước ~163.5 triệu, world_vnd 149.4 triệu, premium ~14 triệu (~9.4%). Hỗ trợ: $4,650–$4,700 — ngưỡng quan trọng cần giữ vững. CPI hôm nay là catalyst chính: vượt 3.9% → phục hồi; dưới kỳ vọng → giảm về $4,600. Warsh nhậm chức 15/5 là risk event lớn. Chiến lược: chờ xác nhận CPI trước khi vào thêm. Dài hạn: $5,000 Q4/2026 (JPMorgan).",
     "sources": [
       {
-        "name": "VOV — Giá vàng hôm nay 10/5: SJC 167.5 triệu, trong nước đi ngang",
-        "url": "https://vov.vn/thi-truong/gia-vang-hom-nay-105-vang-trong-nuoc-di-ngang-sjc-o-muc-1675-trieu-dongluong-post1290444.vov"
+        "name": "Báo Quốc Tế — Giá vàng hôm nay 12/5/2026",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-1252026-giam-manh-lien-tiep-dam-phan-hoa-binh-my-iran-be-tac-quoc-gia-tieu-thu-vang-thu-hai-the-gioi-keu-goi-nguoi-dan-ngung-mua-392421.html"
       },
       {
-        "name": "Vietnamnet — Giá vàng 10/5: Vàng thế giới tăng bung nóc, trong nước diễn biến lạ",
-        "url": "https://vietnamnet.vn/gia-vang-hom-nay-10-5-2026-vang-tang-bung-noc-trong-nuoc-dien-bien-la-2514188.html"
+        "name": "TradingEconomics — Gold price today",
+        "url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "name": "Vietnam.vn — Giá vàng 10/5/2026: Bảng giá SJC, nhẫn 9999, vàng thế giới",
-        "url": "https://www.vietnam.vn/gia-vang-hom-nay-10-5-2026-bang-gia-vang-sjc-nhan-9999-vang-the-gioi"
+        "name": "Dự báo giá vàng 12/5/2026",
+        "url": "https://doanhnghiephoinhap.vn/du-bao-gia-vang-1252026-gia-vang-co-the-tiep-da-giam-135171.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 10/5 (Chủ Nhật): Lãi suất ổn định toàn hệ thống — không có thay đổi cuối tuần. OCB 7.7%, HLBank 7.6%, Vietcombank 7.4% tiếp tục dẫn đầu. Warsh nhậm chức Fed 15/5 — còn 5 ngày. NHNN giữ nguyên lãi điều hành. Tuần tới là window quan trọng trước Warsh.",
+    "alert": "📊 12/5 (Thứ Ba): Mặt bằng lãi suất ổn định. Big4 ổn định: BIDV/Agribank/VietinBank/VCB 5.9% kỳ 12T standard. HLBank dẫn đầu 7.3%, MB Bank 7.2%, OCB 7.7% gói ưu đãi. 30+ NH đã giảm lãi 0.1–0.5% sau cuộc họp NHNN ngày 9/4. CPI Mỹ công bố hôm nay — biến số quan trọng. Warsh nhậm chức Fed 15/5 — còn 3 ngày.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -141,22 +141,22 @@
         "note": "Dẫn đầu toàn hệ thống"
       },
       {
-        "label": "Vietcombank 7.4%",
-        "value": "7.4%",
-        "sub": "Sản phẩm linh hoạt 12T online",
-        "note": "Big4 duy nhất vượt 7%"
-      },
-      {
-        "label": "HLBank kỳ 12T",
-        "value": "7.6%",
-        "sub": "HLBank Hong Leong kỳ 12T",
+        "label": "HLBank kỳ 6&12T",
+        "value": "7.3%",
+        "sub": "HLBank Hong Leong kỳ 6-12T",
         "note": "Dẫn đầu NH nước ngoài"
       },
       {
-        "label": "Techcombank 12T",
-        "value": "6.9%",
-        "sub": "Techcombank kỳ 12T",
-        "note": "Big private tốt nhất"
+        "label": "MB Bank kỳ 12T",
+        "value": "7.2%",
+        "sub": "MB Bank kỳ 12T — tăng gần đây",
+        "note": "Top 3 hệ thống"
+      },
+      {
+        "label": "Big4 kỳ 12T",
+        "value": "5.9%",
+        "sub": "Agribank, BIDV, VietinBank, VCB",
+        "note": "Big4 ổn định tháng 5"
       }
     ],
     "banks": [
@@ -171,10 +171,18 @@
       {
         "name": "HLBank",
         "m3": "4.75%",
-        "m6": "7.0%",
-        "m12": "7.6%",
+        "m6": "7.3%",
+        "m12": "7.3%",
         "m12_hi": true,
-        "trend": "hold"
+        "trend": "down"
+      },
+      {
+        "name": "MB",
+        "m3": "4.5%",
+        "m6": "5.8%",
+        "m12": "7.2%",
+        "m12_hi": true,
+        "trend": "up"
       },
       {
         "name": "PGBank",
@@ -195,10 +203,9 @@
       {
         "name": "Vietcombank",
         "m3": "2.1%",
-        "m6": "6.6%",
-        "m12": "7.4%",
-        "m12_hi": true,
-        "trend": "up"
+        "m6": "3.5%",
+        "m12": "5.9%",
+        "trend": "hold"
       },
       {
         "name": "BVBank",
@@ -211,8 +218,7 @@
         "name": "Techcombank",
         "m3": "4.75%",
         "m6": "5.5%",
-        "m12": "6.90%",
-        "m12_hi": true,
+        "m12": "6.25%",
         "trend": "down"
       },
       {
@@ -220,13 +226,6 @@
         "m3": "4.5%",
         "m6": "6.3%",
         "m12": "6.6%",
-        "trend": "hold"
-      },
-      {
-        "name": "MB",
-        "m3": "4.5%",
-        "m6": "5.8%",
-        "m12": "6.5%",
         "trend": "hold"
       },
       {
@@ -255,7 +254,7 @@
         "m3": "4.6%",
         "m6": "5.80%",
         "m12": "6.20%",
-        "trend": "hold"
+        "trend": "up"
       },
       {
         "name": "Sacombank",
@@ -308,105 +307,105 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 10/5 (Chủ Nhật): Ổn định — OCB 7.7%, HLBank 7.6%, VCB 7.4%; 5 ngày trước Warsh",
-      "body": "Ngày 10/5/2026 (Chủ Nhật), lãi suất không có biến động — thị trường nghỉ cuối tuần. Big4 duy trì mức đồng thuận: 1T=2.1%, 3T=2.1-2.6%, 6T=3.5-4.0%, 12T=5.8-5.9%. Vietcombank tiếp tục nổi bật với sản phẩm linh hoạt 7.4%/năm kỳ 12 tháng — Big4 duy nhất vượt 7%. OCB 7.7% và HLBank 7.6% dẫn đầu toàn hệ thống. Warsh nhậm chức 15/5 — còn 5 ngày — tạo áp lực giữ lãi cao. NHNN không có hành động trong tuần này. Jobs report Mỹ tháng 4 tốt hơn kỳ vọng (8/5) → Fed ít có khả năng dovish → NHNN thận trọng hơn. Xu hướng: làn sóng hạ lãi NH tư nhân (VPBank, Techcombank, SeABank đầu tháng 5) có thể lan sang MSB, MB sau Warsh nếu tín hiệu rõ ràng. Khuyến nghị tuần tới: Lock OCB 7.7% hoặc HLBank 7.6% đầu tuần — trước khi Warsh nhậm chức 15/5.",
+      "title": "Lãi suất 12/5 (Thứ Ba): Ổn định — Big4 5.9%; HLBank 7.3%, MB 7.2%; CPI Mỹ hôm nay là biến số",
+      "body": "Ngày 12/5/2026 (Thứ Ba), mặt bằng lãi suất tiếp tục ổn định sau đợt điều chỉnh đầu tháng 5. Big4 (Agribank, Vietcombank, VietinBank, BIDV) đồng loạt duy trì 5.9%/năm kỳ 12T standard. Theo khảo sát tháng 5, HLBank dẫn đầu với 7.3% kỳ 6-12T, MB Bank 7.2%, OCB 7.7% gói ưu đãi. Hơn 30 ngân hàng đã giảm lãi 0.1–0.5%/năm sau cuộc họp với NHNN ngày 9/4. Hôm nay CPI tháng 4 Mỹ công bố (dự báo 3.9%) — nếu cao hơn kỳ vọng, NHNN sẽ thận trọng hơn. Warsh nhậm chức Fed 15/5 — còn 3 ngày. Khuyến nghị: Lock HLBank 7.3% hoặc MB 7.2% kỳ 12T ngay trước Warsh 15/5.",
       "sources": [
         {
-          "name": "CafeF — Lãi suất tiết kiệm tháng 5/2026 mới nhất",
-          "url": "https://cafef.vn/lai-suat-ngan-hang-vietcombank-moi-nhat-thang-5-2026-ky-han-nao-co-lai-suat-cao-nhat-188260503085728523.chn"
+          "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
+          "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
         },
         {
-          "name": "VnEconomy — Lãi suất tiết kiệm NH cao nhất tháng 5/2026",
-          "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-52026.htm"
+          "name": "Kenh14 — Lãi suất Big4 đầu tháng 5/2026",
+          "url": "https://kenh14.vn/lai-suat-tiet-kiem-agribank-vietcombank-vietinbank-bidv-moi-nhat-dau-thang-5-2026-215260506174222654.chn"
         },
         {
-          "name": "Vietnamnet — Big4 bất ngờ xuất hiện mức 7.4%/năm",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-4-5-2026-big4-bat-ngo-xuat-hien-muc-7-4-nam-2512233.html"
+          "name": "Techcombank — Lãi suất tiết kiệm 30+ ngân hàng tháng 5/2026",
+          "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "20 NH kịch trần 4.75% kỳ ngắn — cạnh tranh thanh khoản ngắn hạn quyết liệt",
+        "name": "30+ NH giảm lãi 0.1–0.5% sau cuộc họp NHNN ngày 9/4 — xu hướng giảm lãi bắt đầu",
         "level": "main",
-        "pct": 90,
+        "pct": 82,
         "bar": "fh",
-        "desc": "Con số NH niêm yết 4.75%/năm kỳ dưới 6 tháng tăng gấp đôi so với đầu năm. NH cần thanh khoản ngắn hạn nhưng kiểm soát chi phí vốn dài hạn. Đây là phản ứng với áp lực thanh khoản hệ thống và nhu cầu tín dụng Q2/2026 tăng tốc."
+        "desc": "Sau cuộc họp với NHNN ngày 9/4, hơn 30 ngân hàng đồng loạt giảm lãi suất huy động, mức giảm phổ biến 0.1–0.5%/năm. Đây là tín hiệu NHNN muốn hạ mặt bằng lãi suất để hỗ trợ tăng trưởng — tuy nhiên tốc độ giảm chậm do CPI Mỹ áp lực."
       },
       {
-        "name": "VPBank, Techcombank, SeABank giảm lãi đầu tháng 5 — xu hướng hạ nhiệt kỳ dài",
+        "name": "HLBank 7.3%, MB Bank 7.2% — cạnh tranh huy động thanh khoản kỳ dài vẫn mạnh",
         "level": "main",
         "pct": 85,
         "bar": "fh",
-        "desc": "VPBank giảm 6-9T xuống 6.1%/năm, Techcombank giảm 0.5% kỳ 6-36T, SeABank giảm 0.2-0.3%. NHNN thúc đẩy NH tối ưu chi phí vốn để hạ lãi suất cho vay, hỗ trợ tăng trưởng tín dụng Q2/2026."
+        "desc": "Dù xu hướng chung giảm, một số NH vẫn duy trì lãi cao để hút thanh khoản kỳ dài. HLBank (7.3% kỳ 6-12T) và MB Bank (7.2% kỳ 12T) tiếp tục cạnh tranh mạnh, phản ánh nhu cầu vốn dài hạn cao của hai nhà băng này."
       },
       {
-        "name": "Jobs report Mỹ mạnh 8/5 + Warsh 15/5 — NHNN thận trọng nới lỏng",
+        "name": "CPI Mỹ dự báo 3.9% hôm nay — áp lực lạm phát toàn cầu kìm giảm lãi",
         "level": "sub",
-        "pct": 72,
+        "pct": 70,
+        "bar": "fm",
+        "desc": "CPI tháng 4 Mỹ công bố hôm nay, dự báo tăng từ 3.3% lên 3.9%. Lạm phát cao toàn cầu buộc NHNN thận trọng khi cắt lãi điều hành — tiếp tục là yếu tố duy trì lãi huy động cao ở mức tương đối."
+      },
+      {
+        "name": "Warsh nhậm chức Fed 15/5 — 3 ngày cuối của window lãi cao",
+        "level": "sub",
+        "pct": 75,
         "bar": "fh",
-        "desc": "Báo cáo việc làm Mỹ tháng 4 tốt hơn kỳ vọng (8/5) → Fed ít dovish → NHNN khó cắt lãi điều hành tháng 5. Warsh thay Powell 15/5 với quan điểm hawkish hơn. NH tư nhân giảm lãi huy động là điều chỉnh nội bộ, không phải phản ứng chính sách."
+        "desc": "Chỉ còn 3 ngày trước khi Warsh nhậm chức. Với quan điểm hawkish, Warsh có thể giữ hoặc tăng lãi suất Fed — NHNN sẽ thận trọng theo. NH đang tranh thủ thu hút tiền gửi trước khi chính sách tiền tệ toàn cầu có thể thay đổi hướng."
       },
       {
-        "name": "Tín dụng Q2 tăng tốc — NH cần giảm chi phí vốn để mở rộng cho vay",
+        "name": "Tín dụng Q2 tăng tốc — NH cần thanh khoản dài hạn để mở rộng cho vay",
         "level": "sub",
-        "pct": 72,
+        "pct": 68,
         "bar": "fm",
-        "desc": "Q2/2026 là mùa cho vay cao điểm. NH giảm lãi huy động dài hạn để giảm chi phí vốn → hạ lãi cho vay → hỗ trợ tăng trưởng tín dụng mục tiêu 15-16%."
-      },
-      {
-        "name": "CPI tháng 4 dưới 4.5% — NHNN có dư địa điều hành lãi suất linh hoạt",
-        "level": "sub",
-        "pct": 55,
-        "bar": "fm",
-        "desc": "Lạm phát kiểm soát tốt cho NHNN dư địa linh hoạt. Bất định từ Warsh/Fed và tỷ giá USD/VND sẽ là yếu tố quyết định hành động chính sách trong tháng 5-6."
+        "desc": "Mùa tín dụng cao điểm Q2/2026 thúc đẩy một số NH duy trì lãi cao để thu hút tiền gửi kỳ dài. Mục tiêu tăng trưởng tín dụng 15–16% đòi hỏi nguồn vốn ổn định từ tiết kiệm dân cư."
       }
     ],
     "rate_forecast": [
       {
-        "name": "OCB, HLBank duy trì 7.6–7.7% đến hết Q2 — lock ngay đầu tuần trước Warsh 15/5",
-        "pct": 65,
+        "name": "HLBank 7.3%, MB 7.2% duy trì đến hết Q2 — lock ngay trước Warsh 15/5",
+        "pct": 70,
         "direction": "up",
         "bar": "fh",
-        "desc": "OCB 7.7% và HLBank 7.6% có thể giữ đến hết Q2/2026. Nhưng xu hướng hạ nhiệt toàn hệ thống cho thấy window đang hẹp dần. Khuyến nghị: lock kỳ 12T ngay đầu tuần tới — trước ngày 15/5."
+        "desc": "HLBank 7.3%, MB 7.2% có thể giữ đến hết Q2/2026. Warsh 15/5 và CPI hôm nay là biến số lớn. Khuyến nghị: lock kỳ 12T ngay hôm nay hoặc ngày mai — trước sự kiện Warsh."
       },
       {
-        "name": "Big4 standard 12T tiếp tục giảm nhẹ về 5.5–5.8% trong H2/2026",
+        "name": "Big4 standard 12T tiếp tục giảm về 5.5–5.8% trong H2/2026",
         "pct": 75,
         "direction": "down",
         "bar": "fm",
-        "desc": "Lãi suất cơ bản Big4 kỳ 12T (5.8-5.9%) sẽ tiếp tục giảm trong H2/2026. Sản phẩm 7.4% VCB là ngoại lệ đặc biệt. Dự báo: standard rate Big4 về 5.5% cuối năm nếu NHNN cắt lãi điều hành."
+        "desc": "Lãi suất cơ bản Big4 kỳ 12T (5.9%) sẽ tiếp tục giảm trong H2/2026. Dự báo: standard rate Big4 về 5.5% cuối năm nếu NHNN cắt lãi điều hành sau khi lạm phát Mỹ ổn định."
       },
       {
-        "name": "NH tư nhân giảm tiếp 0.2–0.3% kỳ 6-12T trong tháng 5-6",
-        "pct": 65,
-        "direction": "down",
+        "name": "NH tư nhân phân hóa: nhóm tăng (MB, SHB) và nhóm giảm (VPBank, Techcombank, SeABank)",
+        "pct": 72,
+        "direction": "up",
         "bar": "fm",
-        "desc": "VPBank, Techcombank, SeABank đã giảm đầu tháng 5. Xu hướng sẽ lan sang MSB, MB, Sacombank trong 2-4 tuần. Lãi suất huy động tư nhân kỳ 12T có thể về 6.0-6.3% trước cuối Q2."
+        "desc": "Thị trường đang phân hóa rõ: MB, SHB tăng để cạnh tranh thanh khoản, trong khi VPBank, Techcombank, SeABank đã giảm đầu tháng 5. Xu hướng này phản ánh chiến lược khác nhau giữa các NH về quản lý chi phí vốn."
       },
       {
-        "name": "NHNN cắt lãi điều hành sau Warsh nếu dovish — xác suất thấp 25%",
-        "pct": 25,
+        "name": "NHNN cắt lãi điều hành sau Warsh nếu dovish — xác suất thấp 20-25%",
+        "pct": 22,
         "direction": "down",
         "bar": "fl",
-        "desc": "Nếu Warsh phát tín hiệu dovish sau nhậm chức (từ 15/5), NHNN có thể cắt lãi điều hành 25bp trong tháng 6. Jobs report mạnh giảm xác suất xuống còn ~25% — thấp hơn dự báo 30% trước đó."
+        "desc": "Nếu Warsh phát tín hiệu dovish sau nhậm chức (từ 15/5), NHNN có thể cắt lãi điều hành 25bp trong tháng 6. Tuy nhiên CPI 3.9% và stagflation risk giảm xác suất xuống còn ~20-25%."
       }
     ],
-    "rate_outlook_label": "10/5 ổn định / OCB 7.7% / HLBank 7.6% / Vietcombank 7.4% — 5 ngày trước Warsh nhậm chức Fed",
+    "rate_outlook_label": "12/5 — HLBank 7.3% / MB 7.2% / OCB 7.7% — Big4 5.9% ổn định — CPI hôm nay — Warsh 15/5 còn 3 ngày",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "10/5 (Chủ Nhật): Lãi suất ổn định toàn hệ thống cuối tuần. 20 NH kịch trần 4.75% kỳ ngắn. Kỳ 12T: OCB 7.7%, HLBank 7.6%, VCB 7.4% giữ nguyên. Jobs report Mỹ mạnh 8/5 → NHNN thận trọng hơn. Warsh nhậm chức 15/5 — còn 5 ngày. Khuyến nghị: Lock lãi cao đầu tuần tới — window đang hẹp.",
+    "rate_outlook_text": "12/5 (Thứ Ba): Mặt bằng lãi suất ổn định. HLBank dẫn đầu 7.3% kỳ 6-12T, MB Bank 7.2% kỳ 12T, OCB 7.7% gói ưu đãi. Big4 ổn định 5.9% standard. 30+ NH đã giảm đầu tháng 5. CPI Mỹ công bố hôm nay (3.9%) — biến số quan trọng. Warsh nhậm chức 15/5 — còn 3 ngày. Khuyến nghị: Lock lãi cao ngay hôm nay — window đang đóng.",
     "rate_sources": [
       {
-        "name": "CafeF — Lãi suất tiết kiệm tháng 5/2026 mới nhất",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-vietcombank-moi-nhat-thang-5-2026-ky-han-nao-co-lai-suat-cao-nhat-188260503085728523.chn"
+        "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
+        "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       },
       {
-        "name": "VnEconomy — Lãi suất tiết kiệm NH cao nhất tháng 5/2026",
-        "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-52026.htm"
+        "name": "Kenh14 — Lãi suất Big4 đầu tháng 5/2026",
+        "url": "https://kenh14.vn/lai-suat-tiet-kiem-agribank-vietcombank-vietinbank-bidv-moi-nhat-dau-thang-5-2026-215260506174222654.chn"
       },
       {
-        "name": "Vietnamnet — Big4 bất ngờ xuất hiện mức 7.4%/năm",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-4-5-2026-big4-bat-ngo-xuat-hien-muc-7-4-nam-2512233.html"
+        "name": "24HMoney — Lãi suất gửi ngân hàng",
+        "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
       }
     ]
   },
@@ -540,7 +539,9 @@
       "07/05",
       "08/05",
       "09/05",
-      "10/05"
+      "10/05",
+      "11/05",
+      "12/05"
     ],
     "sjc": [
       152.8,
@@ -671,7 +672,9 @@
       167.5,
       167.2,
       167.2,
-      167.5
+      167.5,
+      167.8,
+      163.5
     ],
     "world_vnd": [
       121,
@@ -802,7 +805,9 @@
       149.3,
       149.7,
       149.7,
-      149.8
+      149.8,
+      150.9,
+      149.4
     ]
   }
 }
