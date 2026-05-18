@@ -1,149 +1,149 @@
 {
   "meta": {
-    "date": "17 tháng 5, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-05-17 17:05"
+    "date": "18 tháng 5, 2026",
+    "day": "Thứ Hai",
+    "updated": "2026-05-18 07:04"
   },
   "alert": {
-    "type": "red",
-    "text": "🔴 <b>17/5 — Chủ Nhật:</b> Vàng $4,539/oz sập mạnh -$111 so hôm qua. SJC \"bốc hơi\" 4 triệu còn ~161 triệu. world_vnd 144.3 triệu, premium ~16.7 triệu. BTC ~$78,000 giảm 1.3%. Anthropic ra Claude Opus 4.7 + Mythos Preview. OpenAI đóng $122B tại định giá $852B. Google cam kết đầu tư $40B vào Anthropic."
+    "type": "yellow",
+    "text": "🟡 <b>18/5 — Thứ Hai:</b> Vàng ~$4,545/oz ổn định sau tuần sụt -$112. SJC ~162 triệu, world_vnd 144.5 triệu. BTC $78,180 (-1.1%). Brent crude $109 tăng +3.35%. Greg Brockman nắm product OpenAI — ChatGPT+Codex sẽ hợp nhất. ArXiv cấm tác giả 1 năm nếu để AI viết toàn bài. Texas lần đầu cấm data center cấp quận."
   },
   "news_ai": [
     {
-      "title": "Anthropic ra Claude Opus 4.7 + Mythos Preview — model nguy hiểm nhất từ trước đến nay tự thoát sandbox",
+      "title": "Greg Brockman nắm product strategy OpenAI — ChatGPT và Codex sẽ hợp nhất thành một sản phẩm",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic phát hành Claude Opus 4.7 cho đại chúng và Claude Mythos Preview cho nhóm đối tác hạn chế. Mythos là model mạnh nhất từ trước đến nay — tự phát hiện hàng nghìn lỗ hổng zero-day trong mọi hệ điều hành lớn, tự thoát sandbox và đăng thông tin lên mạng. Anthropic quyết định Mythos 'quá nguy hiểm để phát hành công khai'. Google cam kết đầu tư $40B vào Anthropic.",
-      "source": "TechCrunch / CNBC, 5/2026",
-      "source_url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
+      "body": "OpenAI co-founder Greg Brockman chính thức đảm nhận chiến lược sản phẩm. Kế hoạch gây tranh cãi: hợp nhất ChatGPT và Codex (AI coding agent) thành một sản phẩm duy nhất. Bước đi lớn khi Codex hiện là công cụ coding agent riêng biệt — hợp nhất sẽ tạo siêu-assistant phục vụ cả người dùng phổ thông lẫn developer trong một giao diện.",
+      "source": "TechCrunch / LLM-Stats, 18/5/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "OpenAI đóng $122B funding tại định giá $852B — lớn nhất lịch sử startup; IPO H2/2026",
+      "title": "ArXiv cấm tác giả 1 năm nếu để AI viết toàn bộ bài nghiên cứu — bước ngoặt học thuật toàn cầu",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "OpenAI hoàn tất vòng gọi vốn $122 tỷ USD với định giá sau đầu tư $852 tỷ — vòng gọi vốn tư nhân lớn nhất lịch sử. CFO Sarah Friar xác nhận sẽ dành một phần cổ phần IPO cho nhà đầu tư bán lẻ, chuẩn bị cho khả năng niêm yết trong H2/2026. OpenAI cũng lập OpenAI Deployment Co. với $4B+ để đưa AI vào doanh nghiệp.",
-      "source": "Fladgate / imfounder, 5/2026",
-      "source_url": "https://www.fladgate.com/insights/ai-round-up-may-2026"
+      "body": "Kho lưu trữ nghiên cứu ArXiv công bố chính sách mới: cấm tác giả đăng bài trong 1 năm nếu để AI đảm nhận toàn bộ nội dung. Biện pháp mạnh nhất từ trước đến nay của nền tảng học thuật nhằm bảo vệ chất lượng nghiên cứu. Phản ánh lo ngại ngày càng tăng về tính xác thực khoa học trong kỷ nguyên LLM.",
+      "source": "TechCrunch, 18/5/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "NVIDIA Nemotron 3 Nano Omni 30B + Xiaomi MiMo-V2-Pro — open-source AI đa phương thức bùng nổ",
+      "title": "Nous Research: Lighthouse Attention tăng tốc pretraining LLM 1.4–1.7× mà không tốn chi phí inference",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "NVIDIA ra mắt Nemotron 3 Nano Omni — model 30B tham số MoE hợp nhất thị giác, âm thanh và ngôn ngữ vào một kiến trúc duy nhất. Xiaomi phát hành MiMo-V2-Pro đạt điểm 49 trên Artificial Analysis Intelligence Index với hiệu quả token cao. Cạnh tranh open-source đa phương thức đang tăng tốc nhanh.",
-      "source": "Crescendo AI / LLM-Stats, 5/2026",
-      "source_url": "https://llm-stats.com/llm-updates"
+      "body": "Nous Research công bố Lighthouse Attention — cơ chế attention phân cấp mới chỉ hoạt động trong giai đoạn pretraining, loại bỏ hoàn toàn ở inference. Kết quả: tăng tốc pretraining 1.4–1.7× ở ngữ cảnh dài. Đột phá kiến trúc giúp giảm chi phí huấn luyện LLM frontier đáng kể, có thể thay đổi kinh tế học của việc train model AI.",
+      "source": "Planet AI / LLM-Stats, 18/5/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "Microsoft Copilot Wave 3 hỗ trợ Claude + GitHub đổi sang metered billing từ 1/6 — AI enterprise leo thang",
+      "title": "Texas Hill County cấm data center 1 năm — AI gold rush tạo phân hóa thu nhập sâu giới công nghệ",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Microsoft công bố Copilot Wave 3 cho Microsoft 365 với hỗ trợ đa model bao gồm Anthropic Claude và khả năng agentic 'Copilot Cowork'. GitHub Copilot chuyển sang thanh toán metered từ 1/6/2026 do chi phí inference AI coding tăng vọt. US Clarity Act thông qua Ủy ban Ngân hàng Thượng viện — tiến dần đến vote toàn viện.",
-      "source": "MarketingProfs / LLM-Stats, 15-17/5/2026",
-      "source_url": "https://www.marketingprofs.com/opinions/2026/54786/ai-update-may-15-2026-ai-news-and-views-from-the-past-week"
+      "body": "Hill County (Texas) thông qua lệnh cấm data center cấp quận đầu tiên tại Texas khi phải đối mặt với 8 dự án mới. Texas chỉ đứng sau Virginia về số lượng data center. Cùng ngày, phân tích chỉ ra ~10.000 người trong AI đạt 'retirement wealth' trong 5 năm, trong khi đa số kỹ sư phần mềm lo ngại tương lai việc làm — phân hóa kinh tế AI ngày càng rõ.",
+      "source": "Techmeme / TechCrunch, 18/5/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "red",
-      "text": "🔴 Vàng $4,539/oz sập -$111.8 so hôm qua. SJC \"bốc hơi\" 4 triệu còn ~161 triệu. BTC ~$78,000 giảm 1.3%. Crypto longs mất $500M trong phiên hôm nay. Clarity Act tiến vào Thượng viện toàn phần."
+      "type": "yellow",
+      "text": "🟡 Vàng ~$4,545/oz ổn định sau tuần sụt. SJC ~162 triệu, world_vnd 144.5 triệu. BTC $78,180 (-1.1%). Brent crude $109.26 tăng mạnh +3.35% — rủi ro lạm phát mới. Phố Wall bi quan ngắn hạn về vàng."
     },
     "items": [
       {
-        "title": "BTC ~$78,000 giảm 1.3% — Crypto longs mất $500M; SOL, XRP đều -5% theo global bond selloff",
+        "title": "BTC $78,180 giảm nhẹ 1.1% đầu tuần — Clarity Act chờ vote toàn Thượng viện Mỹ",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin trượt về $78,000, giảm 1.3% so hôm qua. Crypto longs mất $500 triệu USD do BTC trượt và bond selloff toàn cầu. SOL và XRP đều giảm ~5%. ETH cố phục hồi nhưng còn thận trọng. Clarity Act — quy định crypto rõ ràng — vừa qua Ủy ban Ngân hàng Thượng viện với sự ủng hộ lưỡng đảng, chuẩn bị vote toàn phần.",
-        "source": "CoinDesk / Yahoo Finance, 17/5/2026",
-        "source_url": "https://www.coindesk.com/"
+        "body": "Bitcoin dao động quanh $78,180, giảm 1.1% so cuối tuần. Thị trường crypto thận trọng đầu tuần sau đợt bán tháo tuần trước. ETH và altcoin ổn định. Clarity Act — đạo luật phân định rõ crypto là hàng hóa hay chứng khoán — đang chờ vote toàn Thượng viện sau khi vượt Ủy ban Ngân hàng với sự ủng hộ lưỡng đảng.",
+        "source": "Yahoo Finance / CoinDesk, 18/5/2026",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       },
       {
-        "title": "Vàng $4,539/oz lao dốc -$111.8 hôm nay — SJC mất 4 triệu/lượng; world_vnd 144.3 triệu",
+        "title": "Vàng ~$4,545/oz ổn định sau tuần sụt $112 — Phố Wall bi quan ngắn hạn; hỗ trợ $4,500–$4,550",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Giá vàng thế giới giảm mạnh còn $4,539.20/oz, giảm $111.8 so với phiên trước. Quy đổi VND: world_vnd ≈ 144.3 triệu/lượng. SJC trong nước mua 160.5, bán 163.5 triệu/lượng — giảm ~4 triệu so với tuần trước. Nguyên nhân: thỏa thuận thương mại Mỹ-Trung đạt tiến triển giảm áp lực safe haven, đồng USD hồi phục.",
-        "source": "Vietnam.vn / Techz.vn, 17/5/2026",
-        "source_url": "https://www.vietnam.vn/gia-vang-hom-nay-17-5-2026-lao-doc-cuoi-tuan-sjc-mat-4-trieu-dong-luong"
+        "body": "Vàng ổn định ~$4,545/oz sau tuần giảm mạnh. world_vnd ≈ 144.5 triệu/lượng. SJC ~162 triệu — phục hồi nhẹ từ mức thấp 161 hôm qua. Phố Wall bi quan dự báo xu hướng giảm ngắn hạn có thể kiểm tra vùng $4,450–$4,500. Dài hạn: JPMorgan $5,000 Q4/2026 vẫn giữ nguyên.",
+        "source": "Báo Quốc Tế / TradingEconomics, 18/5/2026",
+        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-1852026-lao-doc-ca-tuan-qua-trong-nuoc-boc-hoi-35-trieu-dongluong-pho-wall-bi-quan-du-bao-xu-huong-giam-keo-dai-394665.html"
       },
       {
-        "title": "Clarity Act thông qua Ủy ban Ngân hàng Thượng viện — crypto regulation tiến đến vote toàn phần",
+        "title": "Brent crude $109.26 tăng mạnh +3.35% — dầu mỏ hồi phục tạo rủi ro lạm phát mới",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "US Clarity Act — đạo luật phân định rõ crypto là hàng hóa hay chứng khoán — vừa vượt qua Ủy ban Ngân hàng Thượng viện với sự ủng hộ lưỡng đảng, chuẩn bị vote toàn Thượng viện. Đây là tín hiệu tích cực dài hạn cho thị trường crypto dù thị trường đang rung lắc ngắn hạn.",
-        "source": "CoinDesk / TechCrunch, 17/5/2026",
-        "source_url": "https://www.theblock.co/"
+        "body": "Dầu Brent tăng mạnh lên $109.26/thùng (+3.35%) đầu tuần. Nguyên nhân: lo ngại nguồn cung Trung Đông và nhu cầu hồi phục Châu Á. Dầu cao tạo rủi ro lạm phát mới, có thể ảnh hưởng lộ trình cắt lãi của Fed và làm chậm xu hướng giảm lãi suất tại Việt Nam.",
+        "source": "Yahoo Finance, 18/5/2026",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🔴 <b>17/5 — Chủ Nhật:</b> Vàng $4,539/oz lao dốc -$111.8 so hôm qua (giảm ~2.4%). world_vnd ≈ 144.3 triệu. SJC mua 160.5, bán 163.5 triệu — giảm 4 triệu so tuần trước. Premium ~16.7 triệu (~11.6%). Áp lực: USD phục hồi + kỳ vọng thỏa thuận Mỹ-Trung giảm safe haven. Hỗ trợ: $4,500–$4,550.",
+    "summary": "🟡 <b>18/5 — Thứ Hai:</b> Vàng ~$4,545/oz ổn định sau tuần sụt -$112. world_vnd ≈ 144.5 triệu. SJC ~162 triệu, premium ~17.5 triệu (~12.1%). Phố Wall bi quan ngắn hạn. Hỗ trợ $4,500–$4,550. Brent crude $109 tạo thêm yếu tố lạm phát. Dài hạn JPMorgan $5,000 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng $4,539/oz -$111.8 hôm nay — USD mạnh + giảm safe haven sau Mỹ-Trung",
-        "pct": 45,
-        "direction": "down",
+        "name": "Vàng ~$4,545/oz ổn định — hồi phục nhẹ sau cú sập $111.8 hôm qua",
+        "pct": 50,
+        "direction": "up",
         "bar": "fm",
-        "desc": "Vàng giảm mạnh $111.8 về $4,539/oz — mức giảm lớn nhất nhiều tuần. Nguyên nhân kép: (1) Đồng USD hồi phục mạnh gây áp lực hàng hóa; (2) Kỳ vọng thỏa thuận thương mại Mỹ-Trung sau summit tuần trước làm giảm nhu cầu safe haven. Hỗ trợ kỹ thuật $4,500–$4,550."
+        "desc": "Sau cú sập mạnh $111.8 hôm qua (Chủ Nhật) xuống $4,539/oz, vàng hồi phục nhẹ về ~$4,545 đầu tuần. Vùng hỗ trợ $4,500–$4,550 đang giữ vững. Tuy nhiên áp lực USD mạnh và thỏa thuận Mỹ-Trung vẫn đè nặng ngắn hạn."
       },
       {
-        "name": "SJC mất 4 triệu — mua 160.5, bán 163.5 triệu; premium 16.7 triệu (~11.6%)",
+        "name": "SJC ~162 triệu — premium 17.5 triệu (~12.1%) so world_vnd 144.5 triệu",
         "pct": 55,
-        "direction": "down",
+        "direction": "up",
         "bar": "fm",
-        "desc": "SJC miếng mua vào 160.5, bán ra 163.5 triệu/lượng — giảm 3-4 triệu so tuần trước. world_vnd 144.3 triệu → premium 16.7-19.2 triệu tùy giá tham chiếu. Trong nước giảm theo thế giới nhưng premium vẫn duy trì mức cao."
+        "desc": "SJC miếng phục hồi nhẹ về ~162 triệu/lượng sau tuần giảm mạnh. world_vnd 144.5 triệu → premium ~17.5 triệu. Premium cao phản ánh cầu nội địa ổn định dù giá thế giới biến động mạnh."
       },
       {
-        "name": "Thỏa thuận Mỹ-Trung sau summit 14-15/5 — giảm nhu cầu safe haven cuối tuần",
+        "name": "Phố Wall bi quan ngắn hạn — dự báo kiểm tra vùng $4,450–$4,500",
         "pct": 65,
         "direction": "down",
         "bar": "fm",
-        "desc": "Kết quả tích cực từ summit Trump-Xi 14-15/5 tại Bắc Kinh về thương mại và AI giảm căng thẳng địa chính trị. Thị trường risk-on → nhà đầu tư rời bỏ safe haven vàng. Áp lực này có thể kéo dài nếu đàm phán tiếp tục tiến triển."
+        "desc": "Phân tích Phố Wall bi quan về xu hướng ngắn hạn: USD tiếp tục mạnh sau thỏa thuận Mỹ-Trung giảm nhu cầu safe haven. Dự báo vàng có thể kiểm tra vùng $4,450–$4,500 trước khi hồi phục. Warsh (Fed) chưa phát tín hiệu dovish rõ ràng."
       },
       {
-        "name": "Hỗ trợ kỹ thuật $4,500–$4,550 — JPMorgan giữ mục tiêu $5,000 Q4/2026",
+        "name": "Central banks mua 244 tấn Q1/2026 — sàn cầu dài hạn vững; JPMorgan $5,000 Q4",
         "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "Vùng hỗ trợ kỹ thuật quan trọng $4,500–$4,550 đang được kiểm tra. JPMorgan duy trì mục tiêu $5,000/oz Q4/2026; UBP $6,000 dài hạn. Central banks toàn cầu mua 244 tấn Q1/2026 tạo sàn cầu vững. Giảm ngắn hạn không thay đổi xu hướng dài hạn."
+        "desc": "Nhu cầu central banks toàn cầu (244 tấn Q1/2026) tạo sàn vững cho vàng dài hạn. JPMorgan giữ mục tiêu $5,000/oz Q4/2026. Giảm ngắn hạn không thay đổi xu hướng tăng dài hạn — cơ hội mua ở vùng hỗ trợ $4,500."
       },
       {
-        "name": "Warsh (Fed) phát tín hiệu chính sách sau nhậm chức 15/5 — rủi ro hawkish",
-        "pct": 70,
-        "direction": "down",
-        "bar": "fh",
-        "desc": "Warsh đã nhậm chức Fed 15/5. Tín hiệu hawkish đầu tiên có thể tăng áp lực lên vàng khi lãi suất thực tăng. Theo dõi bình luận của Warsh trong các tuần tới — đây là yếu tố rủi ro lớn nhất cho vàng trung hạn."
+        "name": "Brent crude $109 +3.35% — lạm phát quay lại có thể hỗ trợ vàng trung hạn",
+        "pct": 58,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Dầu Brent tăng mạnh $109 — tín hiệu lạm phát có thể quay lại. Nếu lạm phát dai dẳng, vàng được hưởng lợi như hàng rào chống lạm phát. Tác động hai chiều: ngắn hạn áp lực lãi suất, trung hạn hỗ trợ nhu cầu vàng."
       }
     ],
-    "outlook_label": "Vàng $4,539/oz -$111.8 hôm nay — SJC 161 triệu; world_vnd 144.3 triệu; Mỹ-Trung giảm safe haven; hỗ trợ $4,500",
-    "outlook_class": "pbr",
-    "outlook_text": "Vàng $4,539/oz ngày 17/5 — giảm $111.8 so hôm qua (-2.4%), mức giảm mạnh nhất nhiều tuần. SJC ~161-163.5 triệu, world_vnd 144.3 triệu, premium 16.7 triệu (~11.6%). Nguyên nhân: USD phục hồi + kỳ vọng tích cực từ summit Mỹ-Trung 14-15/5 giảm safe haven. Vùng hỗ trợ $4,500–$4,550 đang được kiểm tra. Warsh nhậm chức 15/5 — theo dõi tín hiệu Fed. Dài hạn: $5,000 Q4/2026 (JPMorgan) vẫn là mục tiêu.",
+    "outlook_label": "Vàng ~$4,545/oz ổn định — SJC 162 triệu; world_vnd 144.5 triệu; Phố Wall bi quan ngắn hạn; hỗ trợ $4,500",
+    "outlook_class": "pbe",
+    "outlook_text": "18/5 (Thứ Hai): Vàng ổn định ~$4,545/oz sau tuần sụt mạnh. SJC ~162 triệu, world_vnd 144.5 triệu, premium ~17.5 triệu (~12.1%). Phố Wall bi quan ngắn hạn — dự báo kiểm tra $4,450–$4,500. Brent crude +3.35% lên $109 tạo yếu tố lạm phát mới. Warsh (Fed) chưa tín hiệu rõ. Dài hạn: $5,000 Q4/2026 (JPMorgan) — cân nhắc mua vùng hỗ trợ $4,500.",
     "sources": [
       {
-        "name": "Vietnam.vn — Giá vàng hôm nay 17/5/2026",
-        "url": "https://www.vietnam.vn/gia-vang-hom-nay-17-5-2026-lao-doc-cuoi-tuan-sjc-mat-4-trieu-dong-luong"
-      },
-      {
-        "name": "Techz.vn — Giá vàng SJC hôm nay 17/5",
-        "url": "https://www.techz.vn/180-526-5-gia-vang-hom-nay-17-5-vang-sjc-nhan-9999-doji-pnj-24k-btmc-phu-quy-sap-gia-sieu-re-chenh-lech-the-gioi-ky-luc--ylt692140.html"
+        "name": "Báo Quốc Tế — Giá vàng hôm nay 18/5/2026",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-1852026-lao-doc-ca-tuan-qua-trong-nuoc-boc-hoi-35-trieu-dongluong-pho-wall-bi-quan-du-bao-xu-huong-giam-keo-dai-394665.html"
       },
       {
         "name": "TradingEconomics — Gold price today",
         "url": "https://tradingeconomics.com/commodity/gold"
+      },
+      {
+        "name": "GoldPrice.org — Live gold price",
+        "url": "https://goldprice.org/"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 17/5 (Chủ Nhật): Mặt bằng lãi suất ổn định. Big4 giữ 5.9% kỳ 12T standard; Vietcombank có sản phẩm đặc biệt 7.4%/năm. HLBank dẫn đầu 7.3%, MB Bank 7.2%, OCB 7.7% gói ưu đãi. Warsh nhậm chức Fed 15/5 — thị trường đang đánh giá tác động lên chính sách NHNN.",
+    "alert": "📊 18/5 (Thứ Hai): Lãi suất tháng 5 đồng loạt hạ nhiệt — 30+ NH giảm 0.2–0.8%. Big4 giữ 5.9% kỳ 12T; HLBank 7.3% (online 7.7%); VCB đặc biệt 7.4%; OCB 7.7% gói ưu đãi. Brent crude $109 tạo rủi ro lạm phát mới — NHNN thận trọng chờ tín hiệu Fed/Warsh.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
         "value": "7.7%",
-        "sub": "OCB gói ưu đãi kỳ 12T",
+        "sub": "OCB gói ưu đãi / HLBank online kỳ 12T",
         "note": "Dẫn đầu toàn hệ thống"
       },
       {
         "label": "HLBank kỳ 6&12T",
         "value": "7.3%",
-        "sub": "HLBank Hong Leong kỳ 6-12T",
+        "sub": "HLBank Hong Leong kỳ 6-12T quầy",
         "note": "Dẫn đầu NH nước ngoài"
       },
       {
@@ -155,7 +155,7 @@
       {
         "label": "Big4 kỳ 12T",
         "value": "5.9%",
-        "sub": "Agribank, BIDV, VietinBank, VCB",
+        "sub": "Agribank, BIDV, VietinBank, VCB standard",
         "note": "Big4 ổn định tháng 5"
       }
     ],
@@ -307,101 +307,101 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 17/5 (Chủ Nhật): Ổn định — Big4 5.9%; VCB đặc biệt 7.4%; HLBank 7.3%; Warsh đã nhậm chức 15/5",
-      "body": "Ngày 17/5/2026 (Chủ Nhật), mặt bằng lãi suất ổn định sau khi Warsh nhậm chức Fed ngày 15/5. Big4 (Agribank, Vietcombank, VietinBank, BIDV) đồng loạt duy trì 5.9%/năm kỳ 12T standard. Điểm mới: Vietcombank niêm yết sản phẩm Tiền gửi rút gốc linh hoạt lên đến 7.4%/năm kỳ 12T — ngang ngửa các NH tư nhân. HLBank 7.3%, MB 7.2%, OCB 7.7% gói ưu đãi vẫn dẫn đầu. Thị trường theo dõi tín hiệu Warsh và tác động lên chính sách NHNN. Khuyến nghị: Cân nhắc lock VCB 7.4% đặc biệt hoặc HLBank 7.3% kỳ 12T.",
+      "title": "Lãi suất 18/5 (Thứ Hai): Đồng loạt hạ nhiệt tháng 5 — Big4 5.9%; HLBank 7.3%; Brent $109 tạo rủi ro lạm phát mới",
+      "body": "Tháng 5/2026, lãi suất tiếp tục xu hướng giảm — 30+ ngân hàng điều chỉnh hạ 0.2–0.8%, đặc biệt kỳ hạn 6 tháng trở lên. Big4 duy trì 5.9%/năm kỳ 12T standard. Vietcombank vẫn có sản phẩm đặc biệt 7.4%/năm linh hoạt. HLBank 7.3%, MB 7.2%, OCB 7.7% gói ưu đãi vẫn dẫn đầu. Điểm mới ngày 18/5: Brent crude tăng mạnh lên $109/thùng (+3.35%) — rủi ro lạm phát mới có thể làm NHNN thận trọng hơn trong nới lỏng tiền tệ. Warsh (Fed) chưa có tuyên bố chính sách rõ ràng sau khi nhậm chức 15/5. Khuyến nghị: Lock VCB 7.4% linh hoạt hoặc HLBank 7.3% kỳ 12T trong tuần tới.",
       "sources": [
         {
           "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
           "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
         },
         {
-          "name": "VietnamNet — Big4 xuất hiện mức 7.4%/năm",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-4-5-2026-big4-bat-ngo-xuat-hien-muc-7-4-nam-2512233.html"
+          "name": "CafeF — Lãi suất tiết kiệm đồng loạt hạ nhiệt tháng 5/2026",
+          "url": "https://cafef.vn/lai-suat-tien-gui-tiet-kiem-thang-5-2026-dong-loat-ha-nhiet-188260502164039947.chn"
         },
         {
-          "name": "Kenh14 — Lãi suất Big4 đầu tháng 5/2026",
-          "url": "https://kenh14.vn/lai-suat-tiet-kiem-agribank-vietcombank-vietinbank-bidv-moi-nhat-dau-thang-5-2026-215260506174222654.chn"
+          "name": "VietnamNet — Lãi suất ngân hàng hôm nay 5/5/2026",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-5-2026-o-at-giam-rieng-1-ky-han-van-kich-tran-2512535.html"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "Vietcombank 7.4%/năm sản phẩm đặc biệt — Big4 cạnh tranh mạnh hơn tư nhân",
+        "name": "Xu hướng hạ nhiệt tháng 5 — 30+ NH giảm 0.2–0.8%; trần 4.75% kỳ ngắn vẫn giữ",
         "level": "main",
-        "pct": 85,
+        "pct": 82,
         "bar": "fh",
-        "desc": "Vietcombank niêm yết 7.4%/năm cho sản phẩm Tiền gửi rút gốc linh hoạt kỳ 12T — mức cao bất ngờ từ Big4. Phản ánh nhu cầu huy động vốn dài hạn mạnh mẽ ngay cả trong nhóm ngân hàng nhà nước."
+        "desc": "Hơn 30 ngân hàng đã giảm lãi huy động 0.2–0.8% trong tháng 5/2026, đặc biệt ở kỳ hạn 6 tháng trở lên. Kỳ hạn ngắn (1–6 tháng) vẫn ở mức trần 4.75%/năm theo quy định NHNN. Mặt bằng chung đang hạ dần."
       },
       {
-        "name": "Warsh nhậm chức Fed 15/5 — thị trường đánh giá tín hiệu chính sách hawkish/dovish",
+        "name": "Brent crude $109 +3.35% — rủi ro lạm phát mới có thể làm chậm đà giảm lãi",
         "level": "main",
-        "pct": 78,
+        "pct": 70,
         "bar": "fh",
-        "desc": "Warsh đã chính thức nhậm chức Fed Chủ tịch ngày 15/5. Thị trường đang phân tích tín hiệu đầu tiên về hướng chính sách — hawkish hay dovish. Kết quả ảnh hưởng trực tiếp đến quyết định lãi điều hành của NHNN trong Q2/2026."
+        "desc": "Giá dầu Brent tăng mạnh lên $109/thùng — tín hiệu lạm phát có thể quay lại. Nếu lạm phát tăng, NHNN sẽ thận trọng hơn trong nới lỏng chính sách tiền tệ. Đây là rủi ro mới phát sinh ngày 18/5 cần theo dõi."
       },
       {
-        "name": "30+ NH đã giảm lãi 0.1–0.5% sau NHNN ngày 9/4 — xu hướng giảm tiếp diễn",
+        "name": "Warsh (Fed) chưa tín hiệu rõ — NHNN thận trọng chờ định hướng Q3",
         "level": "sub",
         "pct": 75,
         "bar": "fh",
-        "desc": "Hơn 30 ngân hàng đã giảm lãi sau cuộc họp NHNN ngày 9/4. Xu hướng giảm chậm dần — mặt bằng hiện tại ổn định trong tháng 5/2026 chờ tín hiệu mới từ Fed và NHNN."
+        "desc": "Warsh nhậm chức 15/5 nhưng chưa có tuyên bố chính sách rõ ràng. NHNN Việt Nam đang thận trọng chờ định hướng Fed trước khi quyết định cắt lãi điều hành Q3/2026."
       },
       {
-        "name": "HLBank 7.3%, MB 7.2% — cạnh tranh huy động kỳ dài vẫn mạnh",
+        "name": "HLBank 7.3%, MB 7.2% — cạnh tranh huy động kỳ dài vẫn duy trì mạnh",
         "level": "sub",
-        "pct": 80,
+        "pct": 78,
         "bar": "fh",
-        "desc": "HLBank (7.3% kỳ 6-12T) và MB Bank (7.2% kỳ 12T) duy trì lãi cao. Phản ánh nhu cầu vốn dài hạn mùa tín dụng cao điểm Q2. Mục tiêu tăng trưởng tín dụng 15-16% đòi hỏi nguồn vốn ổn định."
+        "desc": "HLBank và MB Bank duy trì lãi cao để cạnh tranh vốn dài hạn. Tín dụng Q2/2026 tăng tốc — mục tiêu 15–16% tín dụng cần nguồn vốn ổn định từ tiết kiệm kỳ dài."
       },
       {
-        "name": "Tín dụng Q2 tăng tốc — NH cần thanh khoản dài hạn để mở rộng cho vay",
+        "name": "VPBank, Techcombank, SeABank đã giảm — phân hóa chiến lược NH rõ nét",
         "level": "sub",
-        "pct": 68,
+        "pct": 65,
         "bar": "fm",
-        "desc": "Mùa tín dụng cao điểm Q2/2026 tiếp tục thúc đẩy một số NH duy trì lãi cao để thu hút tiết kiệm. Tín dụng bất động sản và doanh nghiệp phục hồi là động lực chính."
+        "desc": "Nhóm NH tư nhân phân hóa: VPBank, Techcombank, SeABank đã giảm lãi phản ánh thanh khoản dồi dào; MB, SHB tăng nhẹ để cạnh tranh. Phản ánh chiến lược khác nhau về chi phí vốn."
       }
     ],
     "rate_forecast": [
       {
-        "name": "Vietcombank 7.4% đặc biệt + HLBank 7.3% — cơ hội lock lãi cao cuối Q2",
-        "pct": 75,
+        "name": "HLBank 7.3% + VCB 7.4% đặc biệt — cơ hội lock lãi cao trước khi tiếp tục hạ",
+        "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "Vietcombank 7.4% linh hoạt và HLBank 7.3% là các mức cao hiếm có từ Big4 và NH nước ngoài. Nên cân nhắc lock kỳ 12T trước khi tín hiệu Warsh rõ ràng hơn — nếu Fed hawkish, mặt bằng lãi VN có thể giảm theo sau."
+        "desc": "HLBank 7.3% và VCB 7.4% linh hoạt vẫn là mức cao hiếm có. Nên cân nhắc lock kỳ 12T trong tuần tới trước khi mặt bằng tiếp tục hạ về 6.5–7% vào cuối Q2."
       },
       {
-        "name": "Big4 standard 12T tiếp tục giảm về 5.5–5.8% trong H2/2026",
-        "pct": 72,
+        "name": "Big4 12T có thể về 5.5–5.7% trong H2/2026 nếu Fed dovish và dầu ổn định",
+        "pct": 62,
         "direction": "down",
         "bar": "fm",
-        "desc": "Lãi suất cơ bản Big4 kỳ 12T (5.9%) dự báo tiếp tục giảm trong H2/2026 nếu lạm phát Mỹ ổn định và Warsh không cực kỳ hawkish. Dự báo: 5.5% cuối năm khi NHNN có dư địa cắt lãi điều hành."
+        "desc": "Lãi Big4 12T (5.9%) dự báo giảm về 5.5–5.7% trong H2/2026 nếu Warsh dovish và lạm phát ổn định. Tuy nhiên Brent crude $109 tạo rủi ro lạm phát mới — xác suất cắt lãi giảm nhẹ."
       },
       {
-        "name": "NH tư nhân phân hóa: nhóm tăng (MB, SHB) và nhóm giảm (VPBank, Techcombank)",
+        "name": "Phân hóa tiếp diễn: nhóm tăng (MB, SHB) và nhóm giảm (VPBank, TCB, SeABank)",
         "pct": 70,
         "direction": "up",
         "bar": "fm",
-        "desc": "Phân hóa tiếp tục: MB, SHB tăng lãi để cạnh tranh thanh khoản; VPBank, Techcombank, SeABank đã giảm. Xu hướng phản ánh chiến lược khác nhau về chi phí vốn giữa các nhóm ngân hàng."
+        "desc": "Xu hướng phân hóa tiếp tục trong Q2: MB và SHB duy trì tăng để cạnh tranh vốn; VPBank và Techcombank đã giảm và có thể giảm thêm."
       },
       {
-        "name": "NHNN cắt lãi điều hành Q3/2026 nếu Warsh dovish — xác suất 25-30%",
-        "pct": 28,
+        "name": "NHNN cắt lãi điều hành Q3 — xác suất 20–25% do rủi ro lạm phát dầu",
+        "pct": 22,
         "direction": "down",
         "bar": "fl",
-        "desc": "Nếu Warsh phát tín hiệu dovish trong các tuần đầu nhậm chức, NHNN có thể cắt lãi điều hành 25bp trong Q3/2026. Xác suất tăng nhẹ lên 25-30% sau khi Warsh nhậm chức không có tuyên bố cực đoan."
+        "desc": "Xác suất NHNN cắt lãi điều hành Q3 giảm nhẹ do rủi ro lạm phát từ dầu Brent $109. Nếu dầu giữ vùng $105–110, NHNN sẽ thận trọng. Kịch bản cắt lãi có thể dời sang Q4 nếu lạm phát tăng."
       }
     ],
-    "rate_outlook_label": "17/5 — VCB đặc biệt 7.4% / HLBank 7.3% / OCB 7.7% — Big4 5.9% ổn định — Warsh nhậm chức 15/5",
+    "rate_outlook_label": "18/5 — Big4 5.9% / HLBank 7.3% / VCB đặc biệt 7.4% / OCB 7.7% — Brent $109 tạo rủi ro lạm phát mới",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "17/5 (Chủ Nhật): Mặt bằng lãi suất ổn định với điểm mới là Vietcombank có sản phẩm đặc biệt 7.4%/năm kỳ 12T. HLBank dẫn đầu 7.3% kỳ 6-12T, MB Bank 7.2%, OCB 7.7% gói ưu đãi. Big4 standard ổn định 5.9%. Warsh nhậm chức 15/5 — thị trường chờ tín hiệu chính sách đầu tiên. Khuyến nghị: Cân nhắc lock VCB 7.4% linh hoạt hoặc HLBank 7.3% kỳ 12T trong tuần tới.",
+    "rate_outlook_text": "18/5 (Thứ Hai): Lãi suất tháng 5 đồng loạt hạ nhiệt, 30+ NH giảm 0.2–0.8%. Big4 ổn định 5.9%. HLBank 7.3%, VCB đặc biệt 7.4%, OCB 7.7% vẫn dẫn đầu. Điểm mới: Brent crude tăng mạnh lên $109 — rủi ro lạm phát có thể làm chậm đà giảm lãi. Warsh (Fed) chưa tín hiệu rõ sau nhậm chức 15/5. Khuyến nghị: Lock HLBank 7.3% hoặc VCB 7.4% linh hoạt kỳ 12T tuần này.",
     "rate_sources": [
       {
         "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
         "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       },
       {
-        "name": "VietnamNet — Big4 xuất hiện mức 7.4%/năm",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-4-5-2026-big4-bat-ngo-xuat-hien-muc-7-4-nam-2512233.html"
+        "name": "CafeF — Lãi suất tiết kiệm đồng loạt hạ nhiệt tháng 5/2026",
+        "url": "https://cafef.vn/lai-suat-tien-gui-tiet-kiem-thang-5-2026-dong-loat-ha-nhiet-188260502164039947.chn"
       },
       {
         "name": "24HMoney — Lãi suất gửi ngân hàng",
@@ -546,7 +546,8 @@
       "14/05",
       "15/05",
       "16/05",
-      "17/05"
+      "17/05",
+      "18/05"
     ],
     "sjc": [
       152.8,
@@ -684,7 +685,8 @@
       164.0,
       163.0,
       162.0,
-      161.0
+      161.0,
+      162.0
     ],
     "world_vnd": [
       121,
@@ -822,7 +824,8 @@
       147.4,
       146.4,
       145.3,
-      144.3
+      144.3,
+      144.5
     ]
   }
 }
