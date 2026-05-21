@@ -1,138 +1,138 @@
 {
   "meta": {
-    "date": "20 tháng 5, 2026",
-    "day": "Thứ Tư",
-    "updated": "2026-05-20 07:03"
+    "date": "21 tháng 5, 2026",
+    "day": "Thứ Năm",
+    "updated": "2026-05-21 07:05"
   },
   "alert": {
-    "type": "red",
-    "text": "🔴 <b>20/5 — Thứ Tư:</b> Vàng ~$4,502/oz (-4.56% tuần) tiếp tục giảm, thấp nhất hơn 1 tháng. SJC ~162 triệu; world_vnd ~143.1 triệu. BTC $76,985 (+0.23%) nhẹ hồi. Google I/O: Gemini 3.5 Flash + Gemini Spark ra mắt; Anthropic tiến gần $900B valuation — ARR $44 tỷ (+80× YoY)."
+    "type": "yellow",
+    "text": "🟡 <b>21/5 — Thứ Năm:</b> Vàng ~$4,535/oz (+0.73%) hồi nhẹ sau đáy $4,502. SJC 159–162 triệu (-1.5 triệu); world_vnd ~144.1 triệu. S&P 500 +1% phục hồi nhờ Nvidia beat Q1 ($81.6B). Anthropic đàm phán raise $30–50B ở định giá $950B — vượt OpenAI thành startup tư nhân giá trị nhất thế giới. Andrej Karpathy gia nhập Anthropic."
   },
   "news_ai": [
     {
-      "title": "Google I/O 2026: Gemini 3.5 Flash ra mắt — nhanh, rẻ 1/3; Gemini Spark AI agent tích hợp toàn hệ sinh thái",
+      "title": "Anthropic đàm phán raise $30–50B tại định giá $950B — vượt OpenAI thành startup tư nhân giá trị nhất",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Tại Google I/O 2026, Google ra mắt Gemini 3.5 Flash — model nhẹ với năng lực frontier, giá chỉ bằng 1/2 đến 1/3 so với các model tương đương. Đồng thời Google giới thiệu Gemini Spark — AI agent đa năng tích hợp trong Gemini App, có thể suy luận xuyên suốt nhiều ứng dụng kết nối. Gemini Spark bắt đầu beta cho Google AI Ultra subscribers.",
-      "source": "CNBC, 19/5/2026",
-      "source_url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html"
+      "body": "Anthropic đang trong các cuộc đàm phán để gọi vốn từ $30–50 tỷ USD ở mức định giá $950 tỷ — sẽ vượt OpenAI để trở thành startup tư nhân giá trị nhất thế giới. ARR Anthropic đã đạt >$44 tỷ, tăng 80× YoY. Vòng gọi vốn dự kiến đóng cuối tháng 5/2026 với sự tham gia của các nhà đầu tư chiến lược lớn.",
+      "source": "Fortune / Air Street Press, 21/5/2026",
+      "source_url": "https://press.airstreet.com/p/state-of-ai-may-2026"
     },
     {
-      "title": "Anthropic tiến gần $900B valuation — ARR $44 tỷ, tăng 80× YoY; hợp tác PwC, Gates Foundation, SpaceX",
+      "title": "Andrej Karpathy rời OpenAI gia nhập Anthropic — 'Vài năm tới tại frontier LLMs sẽ đặc biệt có tính hình thành'",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic đang hoàn tất vòng gọi vốn với mức định giá tiệm cận $900 tỷ, ít nhất $30 tỷ dự kiến đóng vào cuối tháng 5/2026. Q1/2026: ARR vượt $44 tỷ, tăng 80× so cùng kỳ 2025. Anthropic đồng thời công bố hàng loạt đối tác mới gồm PwC, Gates Foundation ($200 triệu), SpaceX và ra mắt Claude for Small Business.",
-      "source": "LLM-Stats / IMFounder, 20/5/2026",
+      "body": "Andrej Karpathy — người đồng sáng lập OpenAI, cha đẻ của nanoGPT và micrograd — chính thức thông báo gia nhập Anthropic tuần này. Ông chia sẻ trên X: những năm tới tại frontier LLMs sẽ đặc biệt có tính hình thành. Đây là cú hích lớn về nhân tài cho Anthropic trong giai đoạn công ty đang tăng tốc mạnh mẽ.",
+      "source": "Fortune / LLM-Stats, 21/5/2026",
+      "source_url": "https://fortune.com/2026/05/20/google-i-o-2026/"
+    },
+    {
+      "title": "Claude Mythos Preview — AI đầu tiên vượt 32 bước tấn công mạng của UK AI Security Institute",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Anthropic công bố Claude Mythos Preview là model AI đầu tiên vượt qua thành công thử nghiệm 32 bước tấn công mạng của UK AI Security Institute, đạt 3/10 lần chạy đầy đủ và 73% thành công trên các tác vụ cấp chuyên gia. Đây là cột mốc quan trọng trong đánh giá năng lực AI cho an ninh mạng.",
+      "source": "Air Street Press / LLM-Stats, 21/5/2026",
       "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "OpenAI ra mắt Ads Manager trong ChatGPT — nhắm $2.5 tỷ quảng cáo 2026 và $100 tỷ/năm đến 2030",
+      "title": "Nvidia Q1/2026 beat mạnh: $81.62B doanh thu; Q2 outlook $91B — Tech bật +2.1%, S&P 500 phục hồi",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "OpenAI chính thức ra mắt nền tảng Ads Manager tự phục vụ ngay trong ChatGPT, cho phép nhà quảng cáo tạo và tối ưu chiến dịch trực tiếp. OpenAI nhắm doanh thu quảng cáo $2.5 tỷ trong năm 2026 và $100 tỷ/năm vào 2030 — bước chuyển chiến lược lớn từ subscription sang đa dạng hóa doanh thu.",
-      "source": "IMFounder / LLM-Stats, 20/5/2026",
-      "source_url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/"
-    },
-    {
-      "title": "Mỹ: Google & Microsoft đồng ý cho kiểm tra AI trước phát hành — bước ngoặt quản trị AI toàn cầu",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Google và Microsoft chính thức gia nhập OpenAI và Anthropic trong cam kết cho phép Bộ Thương mại Mỹ kiểm tra các model AI trước khi phát hành công khai. Đây là bước ngoặt quản trị AI lớn nhất từ trước đến nay, phù hợp với AI Action Plan của Trump. Xu hướng này sẽ ảnh hưởng đến tốc độ release và chiến lược go-to-market của toàn ngành.",
-      "source": "CNN Business, 20/5/2026",
-      "source_url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models"
+      "body": "Nvidia báo cáo Q1/2026 vượt kỳ vọng: doanh thu $81.62 tỷ (so với dự báo $79.19 tỷ), EPS điều chỉnh $1.87 (vs $1.77). Q2 outlook $91 tỷ — tiếp tục tăng trưởng mạnh nhờ nhu cầu GPU AI. Cổ phiếu NVDA tăng hơn 2.1% trong phiên, kéo toàn bộ nhóm Tech dẫn đầu thị trường.",
+      "source": "TheStreet / CNBC, 21/5/2026",
+      "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-nasdaq-dow-jones-sp-500-updates-may-20-2026"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "red",
-      "text": "🔴 Vàng $4,502/oz (-4.56% tuần) thấp nhất hơn 1 tháng — SJC ~162 triệu; world_vnd ~143.1 triệu. BTC $76,985 (+0.23%) nhẹ hồi. S&P 500 giảm phiên thứ 3 liên tiếp — Dow -322 điểm; lợi suất TP tăng gây áp lực."
+      "type": "yellow",
+      "text": "🟡 Vàng $4,535/oz (+0.73%) hồi nhẹ sau đáy — SJC 159–162 triệu. S&P 500 +1% phục hồi: Nvidia $81.6B beat, Tech +2.1%. BTC ~$77,700 ổn định. Tâm lý thị trường cải thiện sau 3 phiên giảm liên tiếp."
     },
     "items": [
       {
-        "title": "Vàng $4,502/oz — giảm 4.56% trong 7 ngày, thấp nhất hơn 1 tháng; SJC giảm thêm 300K xuống ~162 triệu",
+        "title": "Vàng $4,535/oz (+0.73%) hồi nhẹ sau đáy; SJC giảm về 159–162 triệu — Goldman Sachs giữ mục tiêu $5,400 cuối năm",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Vàng thế giới tiếp tục xu hướng giảm, về ~$4,502/oz — giảm $215 trong 7 ngày (-4.56%), thấp nhất hơn 1 tháng. SJC đồng loạt giảm 300.000đ/lượng về 161–163.5 triệu (mua-bán). world_vnd ~143.1 triệu. Premium SJC ~18.9 triệu (~13.2%). Nguyên nhân: USD mạnh, lợi suất TP Mỹ tăng, thỏa thuận Mỹ-Trung giảm safe haven.",
-        "source": "CafeF / VOV, 20/5/2026",
-        "source_url": "https://cafef.vn/du-lieu/gia-vang-hom-nay/trong-nuoc.chn"
+        "body": "Vàng thế giới hồi nhẹ về ~$4,535/oz (+0.73%) sau khi chạm đáy hơn 1 tháng tại $4,502/oz ngày 20/5. Trong nước, SJC tiếp tục giảm 1.5–2 triệu về 159–162 triệu (mua-bán); world_vnd ~144.1 triệu. Premium SJC ~16.4 triệu (~11.4%). Goldman Sachs vẫn tin vàng có thể lên $5,400/oz vào cuối 2026 nhờ cầu central bank và địa chính trị.",
+        "source": "BaoQuocTe / Techz.vn, 21/5/2026",
+        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-2152026-giam-manh-toan-thi-truong-con-sot-dang-ha-nhiet-ly-do-goldman-sachs-van-tin-vang-co-the-len-5400-usd-vao-cuoi-nam-396193.html"
       },
       {
-        "title": "S&P 500 giảm phiên thứ 3 liên tiếp — Dow -322 điểm; lợi suất trái phiếu Mỹ tăng đe dọa bull market",
+        "title": "S&P 500 +1%, Nasdaq +1.2% phục hồi mạnh — Nvidia beat Q1, Tech +2.1% dẫn đầu sau 3 phiên giảm liên tiếp",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "S&P 500 đóng cửa -0.67% (7.353 điểm), Nasdaq -0.84% (25.870 điểm), Dow Jones -322 điểm (-0.65%) xuống 49.363 điểm. Đây là phiên giảm thứ 3 liên tiếp. Lợi suất trái phiếu Mỹ tăng mạnh là nguyên nhân chính — làm tăng chi phí vốn và áp lực định giá cổ phiếu tăng trưởng.",
-        "source": "CNBC Stock Market, 19/5/2026",
-        "source_url": "https://www.cnbc.com/2026/05/18/stock-market-today-live-updates.html"
+        "body": "Phố Wall phục hồi trong phiên 20/5: S&P 500 +1%, Nasdaq 100 +1.2%, Dow Jones cũng tăng sau 3 phiên giảm liên tiếp. Động lực chính: Nvidia công bố Q1 doanh thu $81.62 tỷ (beat +3%), Q2 outlook $91 tỷ — kéo nhóm Tech (+2.11%) và Discretionary (+2.39%) dẫn đầu. Lợi suất trái phiếu Mỹ hạ nhiệt nhẹ hỗ trợ đà hồi.",
+        "source": "TheStreet / Crestwood Advisors, 21/5/2026",
+        "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-nasdaq-dow-jones-sp-500-updates-may-20-2026"
       },
       {
-        "title": "BTC $76,985 (+0.23%) nhẹ hồi phục — Clarity Act chờ vote toàn Thượng viện Mỹ",
+        "title": "BTC ~$77,700 ổn định — thị trường crypto thận trọng chờ Clarity Act và tín hiệu Fed từ tân Chủ tịch Warsh",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin hồi nhẹ lên $76,985 (+0.23%) sau 2 phiên giảm liên tiếp. Thị trường crypto thận trọng chờ kết quả vote Clarity Act tại Thượng viện — đạo luật phân định rõ crypto là hàng hóa hay chứng khoán, ủng hộ lưỡng đảng mạnh. ETH và altcoin ổn định. Market cap BTC ~$1.54 nghìn tỷ.",
-        "source": "OKX / Yahoo Finance, 20/5/2026",
-        "source_url": "https://www.okx.com/en-us/price/bitcoin-btc"
+        "body": "Bitcoin dao động quanh $77,700, thị trường crypto tương đối ổn định trong bối cảnh chờ kết quả Clarity Act tại Thượng viện Mỹ — đạo luật sẽ phân định rõ crypto là hàng hóa hay chứng khoán. Warsh (tân Chủ tịch Fed) chưa phát tín hiệu chính sách rõ ràng; Fear & Greed index duy trì ở vùng Fear.",
+        "source": "CoinDesk / Fortune, 21/5/2026",
+        "source_url": "https://fortune.com/article/price-of-bitcoin-05-20-2026/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🔴 <b>20/5 — Thứ Tư:</b> Vàng $4,502/oz (-4.56% tuần) tiếp tục suy yếu — thấp nhất hơn 1 tháng. world_vnd ~143.1 triệu. SJC ~162 triệu, premium ~18.9 triệu (~13.2%). USD mạnh và lợi suất TP Mỹ tăng tạo áp lực. Dài hạn: JPMorgan $5,000 Q4/2026 — cơ hội tích lũy ở vùng $4,500.",
+    "summary": "🟡 <b>21/5 — Thứ Năm:</b> Vàng $4,535/oz (+0.73%) hồi nhẹ sau đáy 1 tháng. world_vnd ~144.1 triệu. SJC 159–162 triệu, giảm thêm 1.5–2 triệu; premium ~16.4 triệu (~11.4%). Goldman Sachs giữ mục tiêu $5,400 cuối 2026. Ngắn hạn: USD nhẹ hồi và Nvidia kéo tâm lý thị trường hỗ trợ. Dài hạn: tích lũy vùng $4,500–$4,600.",
     "factors": [
       {
-        "name": "Vàng $4,502/oz (-4.56% tuần) — thấp nhất hơn 1 tháng, áp lực USD mạnh",
+        "name": "Vàng $4,535/oz (+0.73%) hồi nhẹ sau đáy — USD nhẹ hạ, tâm lý thị trường cải thiện",
+        "pct": 45,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Vàng hồi phục nhẹ về ~$4,535/oz sau khi chạm đáy 1 tháng tại $4,502/oz ngày 20/5. USD nhẹ hạ và Phố Wall phục hồi nhờ Nvidia beat hỗ trợ tâm lý. Tuy nhiên đà hồi còn yếu, chưa xác nhận đảo chiều."
+      },
+      {
+        "name": "SJC 159–162 triệu — giảm thêm 1.5–2 triệu; world_vnd 144.1 triệu, premium ~16.4 triệu",
         "pct": 38,
         "direction": "down",
         "bar": "fm",
-        "desc": "Vàng tiếp tục giảm xuống ~$4,502/oz, mất $215 trong 7 ngày (-4.56%) — mức thấp nhất trong hơn 1 tháng. USD mạnh do lợi suất trái phiếu Mỹ tăng và thỏa thuận Mỹ-Trung giảm nhu cầu safe haven ngắn hạn."
+        "desc": "SJC tiếp tục giảm về 159–162 triệu (mua-bán), mất thêm 1.5–2 triệu so ngày 20/5. world_vnd ~144.1 triệu/lượng. Premium SJC giảm xuống ~16.4 triệu (~11.4%) — thu hẹp so mức 18.9 triệu ngày 20/5."
       },
       {
-        "name": "SJC 161–163.5 triệu — giảm 300K; world_vnd 143.1 triệu, premium ~18.9 triệu",
-        "pct": 45,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "SJC miếng giảm thêm 300.000đ/lượng về 161–163.5 triệu (mua-bán). world_vnd ~143.1 triệu/lượng. Premium SJC tăng lên ~18.9 triệu (~13.2%) do giá trong nước giảm ít hơn thế giới. PNJ, DOJI và Bảo Tín Minh Châu cùng xu hướng."
-      },
-      {
-        "name": "Lợi suất TP Mỹ tăng — áp lực kép: cổ phiếu giảm + vàng suy yếu ngắn hạn",
-        "pct": 65,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Lợi suất trái phiếu Mỹ tăng mạnh gây áp lực lên cả thị trường cổ phiếu (S&P 500 -0.67%, Dow -322) và vàng. Khi TP sinh lời hấp dẫn hơn, vốn rút khỏi vàng — xu hướng ngắn hạn bất lợi cho giá vàng."
-      },
-      {
-        "name": "Central banks mua 244 tấn Q1/2026 — sàn cầu dài hạn vẫn vững; JPMorgan $5,000 Q4",
-        "pct": 72,
+        "name": "Goldman Sachs $5,400 cuối 2026 — central bank 244 tấn Q1, nền cầu dài hạn vững",
+        "pct": 70,
         "direction": "up",
         "bar": "fh",
-        "desc": "Bất chấp giảm ngắn hạn, cầu từ central banks toàn cầu (244 tấn Q1/2026) tạo sàn cầu vững. JPMorgan giữ mục tiêu $5,000/oz Q4/2026. Vùng $4,500–$4,550 là cơ hội tích lũy dài hạn."
+        "desc": "Goldman Sachs duy trì mục tiêu $5,400/oz cuối 2026. JPMorgan giữ $5,000 Q4/2026. Central banks toàn cầu mua 244 tấn Q1/2026 tạo sàn cầu vững. Vùng $4,500–$4,600 là cơ hội tích lũy dài hạn."
       },
       {
-        "name": "Vàng vẫn +40.98% so cùng kỳ năm ngoái — xu hướng tăng dài hạn chưa đảo chiều",
+        "name": "Lợi suất TP Mỹ hạ nhiệt nhẹ — Nvidia beat kéo thị trường, giảm tạm áp lực vàng",
+        "pct": 55,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Lợi suất trái phiếu Mỹ hạ nhiệt nhẹ khi Nvidia báo cáo kết quả tốt kéo tâm lý thị trường. Áp lực bán trái phiếu giảm tạm thời — hỗ trợ ngắn hạn cho vàng. Lợi suất tổng thể vẫn cao, rủi ro chưa loại bỏ."
+      },
+      {
+        "name": "Vàng vẫn +40%+ so cùng kỳ 2025 — xu hướng tăng dài hạn chưa đảo chiều",
         "pct": 68,
         "direction": "up",
         "bar": "fh",
-        "desc": "Dù giảm 4.56% trong tuần, vàng vẫn tăng 40.98% so với cùng kỳ năm 2025. Xu hướng tăng dài hạn chưa đảo chiều — giảm ngắn hạn là cơ hội tích lũy, không phải tín hiệu đảo chiều."
+        "desc": "Bất chấp giảm gần 5% trong tuần qua, vàng vẫn tăng trên 40% so cùng kỳ năm 2025. Đây là đợt điều chỉnh trong xu hướng tăng dài hạn. Yếu tố địa chính trị, nợ công Mỹ và đa dạng hóa dự trữ central bank vẫn hỗ trợ dài hạn."
       }
     ],
-    "outlook_label": "Vàng $4,502/oz (-4.56% tuần) — thấp nhất 1 tháng; SJC 162 triệu; world_vnd 143.1 triệu",
-    "outlook_class": "pbr",
-    "outlook_text": "20/5 (Thứ Tư): Vàng tiếp tục suy yếu về ~$4,502/oz — mất $215 trong 7 ngày, thấp nhất hơn 1 tháng. SJC giảm 300K về 161–163.5 triệu. world_vnd ~143.1 triệu, premium ~18.9 triệu (~13.2%). Áp lực: USD mạnh, lợi suất TP Mỹ tăng, thỏa thuận Mỹ-Trung giảm safe haven. Hỗ trợ quan trọng: $4,500/oz. Dài hạn: JPMorgan $5,000 Q4/2026 — vùng $4,500–$4,550 là cơ hội tích lũy.",
+    "outlook_label": "Vàng $4,535/oz (+0.73%) hồi nhẹ — SJC 159–162 triệu; world_vnd 144.1 triệu; premium ~16.4 triệu",
+    "outlook_class": "pbg",
+    "outlook_text": "21/5 (Thứ Năm): Vàng hồi nhẹ về ~$4,535/oz sau đáy 1 tháng. SJC tiếp tục giảm về 159–162 triệu, world_vnd ~144.1 triệu, premium thu hẹp về ~16.4 triệu (~11.4%). Ngắn hạn: USD nhẹ hạ và Nvidia hỗ trợ. Dài hạn: Goldman $5,400 và JPMorgan $5,000 Q4/2026 — vùng $4,500–$4,600 là cơ hội tích lũy. Chờ ổn định trên $4,550 trước khi vào thêm.",
     "sources": [
       {
-        "name": "CafeF — Giá vàng hôm nay 20/5/2026",
-        "url": "https://cafef.vn/du-lieu/gia-vang-hom-nay/trong-nuoc.chn"
+        "name": "BaoQuocTe — Giá vàng 21/5/2026, Goldman Sachs tin $5,400",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-2152026-giam-manh-toan-thi-truong-con-sot-dang-ha-nhiet-ly-do-goldman-sachs-van-tin-vang-co-the-len-5400-usd-vao-cuoi-nam-396193.html"
       },
       {
-        "name": "VOV — Giá vàng thế giới và trong nước đều giảm 20/5",
-        "url": "https://vov.vn/thi-truong/gia-vang-hom-nay-205-gia-vang-the-gioi-va-trong-nuoc-deu-giam-post1293235.vov"
+        "name": "Techz.vn — Bảng giá vàng SJC nhẫn 9999 hôm nay 21/5",
+        "url": "https://www.techz.vn/216-526-4-bang-gia-vang-hom-nay-21-5-vang-mieng-sjc-nhan-9999-re-den-ngo-ngang-canh-bao-mua-dinh-ban-day-ylt692792.html"
       },
       {
-        "name": "BaoQuocTe — Giá vàng hôm nay 20/5/2026",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-2052026-tiep-tuc-ha-gia-thi-truong-chua-du-manh-de-dao-chieu-xu-huong-cac-ngan-hang-trung-uong-van-quan-tam-dac-biet-toi-vang-395501.html"
+        "name": "GoldPrice.org — XAU/USD Live Chart",
+        "url": "https://goldprice.org/"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 20/5 (Thứ Tư): Lãi suất tháng 5 tiếp tục ổn định — Big4 giữ 5.9% kỳ 12T; HLBank online 7.7%, SHB kỳ 6T 7.7%; VCB đặc biệt 7.4%; MB 7.5%. Lãi suất đồng loạt hạ nhiệt tháng 5 — cơ hội lock cao trước khi mặt bằng giảm tiếp.",
+    "alert": "📊 21/5 (Thứ Năm): Lãi suất tháng 5 tiếp tục xu hướng — 19 ngân hàng kỳ 3T chạm trần 4.75%; HLBank online 7.7%, SHB kỳ 6T 7.7%; MB 7.5%; VCB đặc biệt 7.4%. Lock lãi cao kỳ 12T ưu tiên trong tuần này.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -307,44 +307,44 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 20/5 (Thứ Tư): Big4 5.9% ổn định; HLBank online 7.7%; SHB kỳ 6T 7.7%; MB 7.5% — đồng loạt hạ nhiệt tháng 5",
-      "body": "Tháng 5/2026, lãi suất đồng loạt hạ nhiệt — nhiều ngân hàng giảm 0.2–0.8% so tháng 4, đặc biệt kỳ hạn 6 tháng trở lên. Big4 duy trì 5.9%/năm kỳ 12T standard; Vietcombank vẫn có sản phẩm đặc biệt 7.4%/năm linh hoạt. HLBank dẫn đầu online với 7.7% (kỳ 12T), SHB đạt 7.7% kỳ 6T. MB Bank tăng lên 7.5%. Techcombank cập nhật kỳ 3T: 4.35%, kỳ 6T: 6.05% (quầy). VPBank giảm 0.3–0.5% kỳ 6–36 tháng. Cập nhật 20/5: Vàng suy yếu mạnh, S&P 500 giảm phiên 3 liên tiếp — tín hiệu thị trường bất ổn, NHNN thận trọng nới lỏng. Khuyến nghị: Ưu tiên HLBank 7.7% online hoặc MB 7.5% — lock kỳ 12T trước khi mặt bằng tiếp tục giảm.",
+      "title": "Lãi suất 21/5 (Thứ Năm): 19 ngân hàng kỳ 3T chạm trần 4.75%; HLBank 7.7% online; SHB 7.7% kỳ 6T; MB 7.5%",
+      "body": "Tháng 5/2026, lãi suất đồng loạt hạ nhiệt — nhiều ngân hàng giảm 0.2–0.8% so tháng 4. Điểm đáng chú ý: 19 ngân hàng đẩy kỳ 3T lên trần 4.75%, phản ánh áp lực thanh khoản ngắn hạn. HLBank dẫn đầu online với 7.7% (kỳ 12T), SHB đạt 7.7% kỳ 6T. MB Bank 7.5% dẫn đầu nhóm tư nhân lớn. VCB đặc biệt 7.4% linh hoạt. Techcombank và VPBank tiếp tục hạ nhiệt kỳ hạn dài. Nvidia beat kéo S&P 500 +1% — tín hiệu thị trường cải thiện giúp NHNN tự tin duy trì chính sách ổn định. Khuyến nghị: Ưu tiên HLBank 7.7% online hoặc MB 7.5% kỳ 12T — lock ngay tuần này.",
       "sources": [
+        {
+          "name": "VietnamNet — Lãi suất 20/5/2026: 19 ngân hàng chạm trần 4.75%",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-20-5-2026-nha-bang-nao-tra-cao-nhat-ky-han-3-thang-2517471.html"
+        },
+        {
+          "name": "MotTheGioi — Lãi suất 20/5: 19 ngân hàng chạm trần 4.75%",
+          "url": "https://motthegioi.vn/lai-suat-ngan-hang-cham-tran/"
+        },
         {
           "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
           "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
-        },
-        {
-          "name": "VietnamBiz — Lãi suất Techcombank tháng 5/2026",
-          "url": "https://cafef.vn/lai-suat-ngan-hang-techcombank-thang-5-2026-dieu-chinh-o-nhieu-ky-han-muc-cao-nhat-la-bao-nhieu-188260517235620541.chn"
-        },
-        {
-          "name": "DNSE — Lãi suất tiết kiệm tháng 5/2026 đồng loạt hạ nhiệt",
-          "url": "https://www.dnse.com.vn/senses/tin-tuc/lai-suat-tien-gui-tiet-kiem-thang-52026-dong-loat-ha-nhiet-35222842"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "Đồng loạt hạ nhiệt tháng 5 — nhiều NH giảm 0.2–0.8%; trần kỳ ngắn 4.75% giữ nguyên",
+        "name": "19 ngân hàng kỳ 3T chạm trần 4.75% — áp lực thanh khoản ngắn hạn tháng 5",
         "level": "main",
-        "pct": 82,
+        "pct": 80,
         "bar": "fh",
-        "desc": "Lãi suất tháng 5/2026 đồng loạt hạ nhiệt — nhiều ngân hàng giảm 0.2–0.8%, đặc biệt kỳ hạn 6 tháng trở lên. Kỳ hạn ngắn (1–6 tháng) vẫn ở mức trần 4.75%/năm theo quy định NHNN."
+        "desc": "Có tới 19 ngân hàng đẩy lãi suất kỳ 3T lên mức trần 4.75%/năm. Điều này phản ánh nhu cầu huy động vốn ngắn hạn tăng trong tháng 5 và áp lực đáp ứng tỷ lệ an toàn thanh khoản trước mùa tín dụng cao điểm Q2."
       },
       {
         "name": "HLBank 7.7% online + SHB 7.7% kỳ 6T — cạnh tranh huy động kỳ dài vẫn gay gắt",
         "level": "main",
         "pct": 78,
         "bar": "fh",
-        "desc": "HLBank duy trì 7.7% online cho kỳ 12T — dẫn đầu hệ thống. SHB đạt 7.7% kỳ 6T cao nhất nhóm NH tư nhân cho kỳ hạn này. MB 7.5%. Tín dụng Q2 tăng tốc cần nguồn vốn dài hạn ổn định."
+        "desc": "HLBank duy trì 7.7% online cho kỳ 12T. SHB đạt 7.7% kỳ 6T cao nhất nhóm NH tư nhân cho kỳ hạn này. MB 7.5%. Tín dụng Q2 tăng tốc cần nguồn vốn dài hạn ổn định."
       },
       {
-        "name": "Vàng $4,502/oz và S&P 500 giảm — tín hiệu bất ổn tài chính toàn cầu",
+        "name": "Nvidia beat + S&P 500 +1% — tín hiệu thị trường cải thiện, NHNN duy trì ổn định",
         "level": "sub",
-        "pct": 68,
+        "pct": 60,
         "bar": "fm",
-        "desc": "Vàng giảm 4.56% trong tuần, S&P 500 giảm phiên 3 liên tiếp — tín hiệu bất ổn. NHNN thận trọng hơn trong việc nới lỏng chính sách tiền tệ. Xu hướng giảm lãi ngân hàng có thể chậm lại."
+        "desc": "Nvidia báo cáo Q1 vượt kỳ vọng kéo thị trường Mỹ phục hồi +1%. Tâm lý toàn cầu cải thiện tạm thời, giảm áp lực lên NHNN trong việc nới lỏng thêm."
       },
       {
         "name": "VPBank, Techcombank đã giảm — phân hóa chiến lược NH tư nhân rõ nét",
@@ -356,14 +356,14 @@
       {
         "name": "Warsh (Fed) chưa tín hiệu rõ — NHNN thận trọng chờ định hướng Q3",
         "level": "sub",
-        "pct": 72,
+        "pct": 70,
         "bar": "fh",
-        "desc": "Warsh nhậm chức 15/5 nhưng chưa có tuyên bố chính sách rõ ràng. NHNN Việt Nam đang thận trọng chờ định hướng Fed. Lợi suất TP Mỹ tăng là tín hiệu chính sách thắt chặt — ảnh hưởng dòng vốn vào Việt Nam."
+        "desc": "Warsh nhậm chức 15/5 nhưng chưa có tuyên bố chính sách rõ ràng. NHNN Việt Nam đang thận trọng chờ định hướng Fed. Lợi suất TP Mỹ vẫn cao là tín hiệu cần theo dõi."
       }
     ],
     "rate_forecast": [
       {
-        "name": "HLBank 7.7% online + MB 7.5% — cơ hội lock lãi cao trước khi mặt bằng tiếp tục hạ",
+        "name": "HLBank 7.7% online + MB 7.5% — lock lãi cao trước khi mặt bằng tiếp tục hạ",
         "pct": 75,
         "direction": "up",
         "bar": "fh",
@@ -374,38 +374,38 @@
         "pct": 58,
         "direction": "down",
         "bar": "fm",
-        "desc": "Lãi Big4 12T (5.9%) dự báo giảm về 5.5–5.7% trong H2/2026 nếu Warsh dovish. Tuy nhiên tín hiệu lợi suất TP Mỹ tăng hôm nay gây lo ngại — xác suất cắt lãi giảm nhẹ."
+        "desc": "Lãi Big4 12T (5.9%) dự báo giảm về 5.5–5.7% trong H2/2026 nếu Warsh dovish. Tuy nhiên lợi suất TP Mỹ cao vẫn gây lo ngại."
       },
       {
         "name": "Phân hóa tiếp diễn: nhóm tăng (MB, SHB) và nhóm giảm (VPBank, TCB, SeABank)",
         "pct": 70,
         "direction": "up",
         "bar": "fm",
-        "desc": "Xu hướng phân hóa tiếp tục trong Q2: MB và SHB duy trì tăng cạnh tranh vốn; VPBank và Techcombank đã giảm và có thể giảm thêm khi thanh khoản dồi dào."
+        "desc": "Xu hướng phân hóa tiếp tục trong Q2: MB và SHB duy trì tăng cạnh tranh vốn; VPBank và Techcombank đã giảm và có thể giảm thêm."
       },
       {
-        "name": "NHNN cắt lãi điều hành Q3 — xác suất 18–22% do tín hiệu toàn cầu bất ổn",
+        "name": "NHNN cắt lãi điều hành Q3 — xác suất 18–22% do tín hiệu toàn cầu chưa rõ",
         "pct": 20,
         "direction": "down",
         "bar": "fl",
-        "desc": "Xác suất NHNN cắt lãi điều hành Q3 thấp do Warsh chưa tín hiệu rõ và lợi suất TP Mỹ tăng. Kịch bản cắt lãi có thể dời sang Q4 nếu Fed giữ chặt chính sách tiền tệ."
+        "desc": "Xác suất NHNN cắt lãi điều hành Q3 thấp do Warsh chưa tín hiệu rõ và lợi suất TP Mỹ cao. Kịch bản cắt lãi có thể dời sang Q4."
       }
     ],
-    "rate_outlook_label": "20/5 — Big4 5.9% / HLBank online 7.7% / SHB 7.7% kỳ 6T / MB 7.5% / VCB đặc biệt 7.4%",
+    "rate_outlook_label": "21/5 — Big4 5.9% / HLBank online 7.7% / SHB 7.7% kỳ 6T / MB 7.5% / VCB đặc biệt 7.4%",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "20/5 (Thứ Tư): Lãi suất tháng 5 đồng loạt hạ nhiệt. Big4 duy trì 5.9%. HLBank online 7.7% và SHB kỳ 6T 7.7% dẫn đầu hệ thống. MB 7.5% dẫn đầu nhóm tư nhân lớn. VCB đặc biệt 7.4% vẫn hấp dẫn. Techcombank cập nhật thấp hơn. VPBank giảm 0.3–0.5%. Khuyến nghị: Lock HLBank 7.7% online hoặc MB 7.5% kỳ 12T ngay tuần này.",
+    "rate_outlook_text": "21/5 (Thứ Năm): Lãi suất tháng 5 tiếp tục ổn định. 19 ngân hàng kỳ 3T chạm trần 4.75%. HLBank online 7.7% và SHB kỳ 6T 7.7% dẫn đầu. MB 7.5% dẫn đầu nhóm tư nhân lớn. Khuyến nghị: Lock HLBank 7.7% online hoặc MB 7.5% kỳ 12T ngay tuần này.",
     "rate_sources": [
+      {
+        "name": "VietnamNet — Lãi suất 20/5/2026: 19 ngân hàng chạm trần kỳ 3T",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-20-5-2026-nha-bang-nao-tra-cao-nhat-ky-han-3-thang-2517471.html"
+      },
       {
         "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
         "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       },
       {
-        "name": "CafeF — Techcombank lãi suất tháng 5/2026",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-techcombank-thang-5-2026-dieu-chinh-o-nhieu-ky-han-muc-cao-nhat-la-bao-nhieu-188260517235620541.chn"
-      },
-      {
-        "name": "VPBank — Lãi suất tiết kiệm tháng 5/2026",
-        "url": "https://www.vpbank.com.vn/bi-kip-va-chia-se/retail-story-and-tips/savings-category/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-hien-nay"
+        "name": "24HMoney — Lãi suất gửi tiết kiệm tháng 5/2026",
+        "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
       }
     ]
   },
@@ -549,7 +549,8 @@
       "17/05",
       "18/05",
       "19/05",
-      "20/05"
+      "20/05",
+      "21/05"
     ],
     "sjc": [
       152.8,
@@ -690,7 +691,8 @@
       161.0,
       162.0,
       162.5,
-      162.0
+      162.0,
+      160.5
     ],
     "world_vnd": [
       121,
@@ -831,7 +833,8 @@
       144.3,
       144.5,
       145.3,
-      143.1
+      143.1,
+      144.1
     ]
   }
 }
