@@ -1,121 +1,121 @@
 {
   "meta": {
-    "date": "22 tháng 5, 2026",
-    "day": "Thứ Sáu",
-    "updated": "2026-05-22 07:05"
+    "date": "23 tháng 5, 2026",
+    "day": "Thứ Bảy",
+    "updated": "2026-05-23 00:03"
   },
   "alert": {
-    "type": "green",
-    "text": "🟢 <b>22/5 — Thứ Sáu:</b> Vàng ~$4,540/oz ổn định; world_vnd ~144.3 triệu; SJC ~161 triệu. Google I/O 2026: Gemini 3.5 Flash GA (4× tốc độ), Gemini Spark agent, Antigravity 2.0. Techcombank tăng kỳ 12T lên 6.75%. Thị trường bình ổn đầu tuần."
+    "type": "yellow",
+    "text": "🟡 <b>23/5 — Thứ Bảy:</b> Vàng ~$4,510/oz giảm nhẹ từ $4,540; world_vnd ~143.4 triệu; SJC ~160.5 triệu. Karpathy (OpenAI co-founder) gia nhập Anthropic — cuộc chiến AI talent bùng nổ. Meta cắt 8,000 nhân sự. BTC ~$77,854 ổn định."
   },
   "news_ai": [
     {
-      "title": "Google I/O 2026: Gemini 3.5 Flash GA — frontier intelligence tốc độ 4×, Gemini Omni xử lý mọi loại input",
+      "title": "Andrej Karpathy (đồng sáng lập OpenAI) gia nhập Anthropic — cuộc chiến AI talent đỉnh điểm",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google ra mắt Gemini 3.5 Flash chính thức (GA) tại I/O 2026: tốc độ gấp 4× mô hình cùng phân khúc, giá $1.50/$9 per 1M token, context 1M, đạt 76.2% Terminal-Bench 2.1 — vượt Gemini 3.1 Pro về coding và agentic. Gemini Omni cũng được giới thiệu: xử lý và tạo ra bất kỳ nội dung nào từ mọi loại đầu vào (text, ảnh, video, file).",
-      "source": "Google Blog / 9to5Google, 20/5/2026",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/"
+      "body": "Andrej Karpathy, đồng sáng lập OpenAI và cựu lãnh đạo AI của Tesla, chính thức gia nhập Anthropic từ ngày 19/5 để làm việc trong nhóm pre-training dưới sự dẫn dắt của Nick Joseph. Ông sẽ xây dựng đội ngũ sử dụng Claude để tăng tốc nghiên cứu pre-training — tín hiệu mạnh mẽ về sức hút của Anthropic trong cuộc đua thu hút nhân tài AI hàng đầu thế giới.",
+      "source": "TechCrunch / CNBC / Bloomberg, 19/5/2026",
+      "source_url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
     },
     {
-      "title": "Gemini Spark — AI personal agent 'làm thay bạn' ra mắt tuần tới cho Google AI Ultra",
+      "title": "OpenAI ra mắt Ads Manager — quảng cáo self-serve trực tiếp trong ChatGPT",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google Gemini Spark biến đổi Gemini từ trợ lý trả lời câu hỏi thành 'đối tác hành động' thực sự — tự điều hướng, thực hiện nhiệm vụ thay người dùng. Đi kèm là Daily Brief cá nhân hóa: tổng hợp Gmail, Calendar, Tasks vào buổi sáng với gợi ý ưu tiên. Google Antigravity 2.0 cho phép điều phối nhiều agent song song (code + thiết kế cùng lúc).",
-      "source": "Google Developers Blog / Gizmodo, 20/5/2026",
-      "source_url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/"
+      "body": "OpenAI giới thiệu nền tảng Ads Manager tự phục vụ, cho phép nhà quảng cáo tạo, quản lý và tối ưu chiến dịch trực tiếp bên trong ChatGPT. Đây là bước đi đánh dấu sự chuyển mình từ mô hình subscription sang mô hình doanh thu quảng cáo — thay đổi cơ bản cách AI hội thoại được thương mại hóa.",
+      "source": "NeuralBuddies / Crescendo AI, 22/5/2026",
+      "source_url": "https://www.neuralbuddies.com/p/ai-news-recap-may-22-2026"
     },
     {
-      "title": "Chính phủ toàn cầu siết kiểm soát AI: Microsoft và xAI đồng ý cho cơ quan quản lý tiếp cận model trước khi phát hành",
+      "title": "Meta cắt giảm 8,000 nhân sự (10%) — tái cơ cấu toàn diện quanh AI và hiệu quả vận hành",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Xu hướng nổi bật tháng 5/2026: các chính phủ lớn đẩy mạnh yêu cầu kiểm tra AI model trước khi công bố ra công chúng. Microsoft và xAI đã đồng ý cung cấp quyền truy cập sớm cho các cơ quan quản lý — tín hiệu cho thấy kỷ nguyên AI 'tự do phát hành' đang dần kết thúc, thay thế bằng khung giám sát chặt chẽ hơn.",
-      "source": "imFounder / Crescendo AI, 22/5/2026",
-      "source_url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/"
+      "body": "Meta khởi động đợt cắt giảm đầu tiên trong kế hoạch giảm 10% nhân lực, khoảng 8,000 vị trí. Cloudflare cũng thông báo cắt 1,100 nhân sự (20% tổng lực lượng) sau khi mức sử dụng AI nội bộ tăng tới 600% trong 3 tháng — làn sóng tái cơ cấu doanh nghiệp quanh AI đang tăng tốc.",
+      "source": "Yahoo Finance / TechStartups, 23/5/2026",
+      "source_url": "https://finance.yahoo.com/sectors/technology/articles/layoffs-accelerate-may-2026-firms-040430218.html"
     },
     {
-      "title": "Google Search AI: hộp tìm kiếm thông minh nhất trong 25 năm — nhận text, ảnh, video, file, Chrome tab",
+      "title": "EU mở tham vấn phân loại AI rủi ro cao theo AI Act — hạn chót 23/6/2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google I/O 2026 ra mắt hộp tìm kiếm được gọi là 'nâng cấp lớn nhất trong hơn 25 năm': người dùng có thể search bằng text, hình ảnh, file, video và cả Chrome tab đang mở — AI sẽ reasoning xuyên suốt tất cả để trả về kết quả. Tính năng SynthID xác thực AI-generated content được thêm vào Search, đã dùng 50 triệu lần toàn cầu.",
-      "source": "Google Blog / 9to5Google, 20/5/2026",
-      "source_url": "https://9to5google.com/2026/05/19/google-io-2026-news/"
+      "body": "Ủy ban Châu Âu mở tham vấn công khai về hướng dẫn phân loại hệ thống AI rủi ro cao theo AI Act, hạn chót 23/6/2026. Các lĩnh vực bị ảnh hưởng gồm y tế, tuyển dụng, sinh trắc học, kiểm soát biên giới và hệ thống an toàn. Đây là văn bản định hình cách startup AI EU triển khai sản phẩm.",
+      "source": "Crescendo AI / wadeswatch, 23/5/2026",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Vàng $4,540/oz ổn định; world_vnd 144.3 triệu; SJC ~161 triệu. BTC ~$77,540. Fed: 67% khả năng không cắt lãi 2026 — áp lực USD cao. J.P. Morgan mục tiêu vàng $5,055 Q4/2026."
+      "text": "🟡 Vàng $4,510/oz giảm nhẹ; world_vnd 143.4 triệu; SJC ~160.5 triệu. BTC ~$77,854 ổn định biên độ hẹp $76,000–$78,000. Fed 67% không cắt lãi 2026 — thị trường thận trọng cuối tuần."
     },
     "items": [
       {
-        "title": "Vàng $4,540/oz ổn định; US-Iran peace deal giảm áp địa chính trị — J.P. Morgan $5,055 Q4/2026",
+        "title": "Vàng $4,510/oz — giảm nhẹ từ $4,540; world_vnd 143.4 triệu; SJC ~160.5 triệu",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Vàng thế giới dao động quanh $4,540/oz trong phiên 22/5, được hỗ trợ bởi tâm lý tích cực từ đàm phán hòa bình US-Iran có thể giảm áp lực lạm phát. Ngắn hạn: dự báo LiteFinance có thể điều chỉnh về $4,369 trong 7 ngày. Dài hạn: J.P. Morgan giữ mục tiêu $5,055/oz Q4/2026; Goldman Sachs $5,400 cuối năm.",
-        "source": "LiteFinance / ValueTheMarkets, 22/5/2026",
+        "body": "Vàng thế giới giảm nhẹ về ~$4,510/oz trong phiên 23/5 (từ $4,524 ngày 22/5), ổn định quanh $4,500–$4,550. world_vnd tính theo tỷ giá 26,362 VND/USD đạt ~143.4 triệu/lượng. SJC ước tính ~160.5 triệu — premium thu hẹp còn ~17.1 triệu (~11.9%). Dài hạn: J.P. Morgan $5,055 Q4/2026; Goldman Sachs $5,400 cuối năm.",
+        "source": "GoldPrice.org / TradingEconomics, 23/5/2026",
+        "source_url": "https://goldprice.org/"
+      },
+      {
+        "title": "BTC $77,854 — ổn định biên độ $76,000–$78,000; thị trường chờ tín hiệu Fed",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "Bitcoin dao động ổn định quanh $77,854 sáng 23/5, sau khi phục hồi từ đáy $76,300 ngày 19/5. Tuần mở cửa tại $80,560 rồi điều chỉnh — tín hiệu tích lũy trong vùng $76,000–$78,000. Fed 67% không cắt lãi 2026 tiếp tục gây áp lực lên tài sản rủi ro. Market cap BTC ~$1.56 nghìn tỷ USD.",
+        "source": "BlockchainReporter / Fortune, 22–23/5/2026",
+        "source_url": "https://blockchainreporter.net/bitcoin-price-today-btc-at-77350-after-weekly-recovery-from-76300-low/"
+      },
+      {
+        "title": "Vàng tháng 5/2026: dự báo biên độ $4,380–$5,100; Kitco $6,300 nếu đà tăng tiếp diễn",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "LiteFinance dự báo biên độ tháng 5/2026 là $4,380–$5,100/oz. Kitco dẫn phân tích: vàng có thể tăng 22% lên $6,300 cuối năm nếu nợ công Mỹ, nhu cầu central bank (244 tấn Q1/2026) và địa chính trị tiếp diễn. Ngắn hạn: rủi ro từ USD mạnh và lợi suất trái phiếu Mỹ cao vẫn còn.",
+        "source": "Kitco / LiteFinance, 23/5/2026",
         "source_url": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/"
-      },
-      {
-        "title": "BTC ~$77,540 — thị trường crypto bình ổn; Fed 67% không cắt lãi năm 2026",
-        "badge": "Finance",
-        "badge_class": "bf",
-        "body": "Bitcoin dao động quanh $77,540, ổn định trong biên độ $76,000–$78,000 (Polymarket: 60% xác suất). Thị trường chờ tín hiệu từ Fed: 67% dự báo không có cắt giảm lãi suất năm 2026, gây áp lực lên tài sản rủi ro. Crypto Fear & Greed vẫn duy trì ở vùng Fear.",
-        "source": "Polymarket / Coinbase / Changelly, 22/5/2026",
-        "source_url": "https://polymarket.com/event/bitcoin-price-on-may-22-2026"
-      },
-      {
-        "title": "Vàng tháng 5/2026 dự báo $4,380–$5,100 — Kitco: $6,300 cuối năm nếu đà tăng tiếp diễn",
-        "badge": "Finance",
-        "badge_class": "bf",
-        "body": "Theo LiteFinance, biên độ vàng tháng 5/2026 dự kiến $4,380–$5,100/oz. Kitco dẫn phân tích rằng giá vàng có thể tăng thêm 22% lên $6,300/oz vào cuối 2026 nếu các yếu tố hỗ trợ (nợ công Mỹ, nhu cầu central bank, địa chính trị) tiếp diễn. Tuy nhiên, rủi ro ngắn hạn vẫn còn từ USD mạnh và lợi suất TP Mỹ cao.",
-        "source": "Kitco / LiteFinance, 22/5/2026",
-        "source_url": "https://www.kitco.com/news/article/2026-02-25/gold-price-will-rise-22-above-current-level-reach-6300-year-end-2026-jp"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>22/5 — Thứ Sáu:</b> Vàng $4,540/oz ổn định quanh vùng $4,500–$4,550. world_vnd ~144.3 triệu. SJC ~161 triệu; premium ~16.7 triệu (~11.6%). US-Iran peace deal hỗ trợ tâm lý ngắn hạn. Dài hạn: J.P. Morgan $5,055 Q4/2026; Goldman $5,400 cuối năm; Kitco $6,300 optimistic.",
+    "summary": "🟡 <b>23/5 — Thứ Bảy:</b> Vàng $4,510/oz giảm nhẹ từ $4,540. world_vnd ~143.4 triệu. SJC ~160.5 triệu; premium ~17.1 triệu (~11.9%). Thị trường cuối tuần thận trọng, chờ tín hiệu Fed. Dài hạn: J.P. Morgan $5,055 Q4/2026; Goldman $5,400 cuối năm.",
     "factors": [
       {
-        "name": "Vàng $4,540/oz ổn định — US-Iran peace deal giảm lo ngại địa chính trị",
-        "pct": 48,
-        "direction": "up",
+        "name": "Vàng $4,510/oz — giảm nhẹ từ $4,540; vùng $4,500–$4,550 vẫn là tích lũy",
+        "pct": 45,
+        "direction": "down",
         "bar": "fm",
-        "desc": "Vàng ổn định quanh $4,540/oz, được hỗ trợ bởi kỳ vọng đàm phán hòa bình US-Iran có thể giảm áp lực lạm phát và địa chính trị. Ngắn hạn còn biến động, chưa xác nhận phá vỡ $4,550 rõ ràng."
+        "desc": "Vàng điều chỉnh nhẹ về $4,510/oz trong phiên cuối tuần, sau giai đoạn ổn định tại $4,524–$4,540. Vùng $4,500–$4,550 vẫn được xem là vùng tích lũy — chưa phá vỡ hỗ trợ quan trọng."
       },
       {
-        "name": "world_vnd 144.3 triệu; SJC ~161 triệu — premium ~16.7 triệu (~11.6%)",
+        "name": "world_vnd 143.4 triệu; SJC ~160.5 triệu — premium ~17.1 triệu (~11.9%)",
         "pct": 40,
-        "direction": "up",
+        "direction": "down",
         "bar": "fm",
-        "desc": "world_vnd tính theo gold $4,540/oz và tỷ giá 26,362 VND/USD đạt ~144.3 triệu/lượng. SJC ~161 triệu (ước tính), premium thu hẹp về ~16.7 triệu (~11.6%) — xu hướng premium giảm dần từ đỉnh >25 triệu cuối 2025."
+        "desc": "world_vnd tính theo gold $4,510/oz và tỷ giá 26,362 VND/USD đạt ~143.4 triệu/lượng. SJC ~160.5 triệu (ước tính), premium ~17.1 triệu (~11.9%) — thu hẹp dần từ đỉnh >25 triệu cuối 2025."
       },
       {
-        "name": "J.P. Morgan $5,055 Q4/2026 — central bank mua 244 tấn Q1; nền cầu dài hạn vững chắc",
+        "name": "J.P. Morgan $5,055 Q4/2026 — central bank 244 tấn Q1; nền cầu dài hạn vững chắc",
         "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "J.P. Morgan duy trì mục tiêu $5,055/oz Q4/2026. Goldman Sachs $5,400 cuối năm. Central banks toàn cầu mua 244 tấn Q1/2026 — nền cầu vững chắc. Kitco optimistic $6,300 nếu đà tăng tiếp diễn."
+        "desc": "J.P. Morgan duy trì mục tiêu $5,055/oz Q4/2026. Goldman Sachs $5,400 cuối năm. Central banks toàn cầu mua 244 tấn Q1/2026 — nền cầu vững chắc bất chấp điều chỉnh ngắn hạn."
       },
       {
         "name": "Fed 67% không cắt lãi 2026 — USD áp lực nhẹ lên vàng ngắn hạn",
         "pct": 52,
         "direction": "down",
         "bar": "fm",
-        "desc": "Thị trường dự báo 67% Fed không cắt lãi năm 2026. USD mạnh tạo áp lực nhẹ lên vàng ngắn hạn. Tuy nhiên, lạm phát vẫn trên mục tiêu 2% — vàng vẫn là công cụ phòng ngừa hiệu quả."
+        "desc": "Thị trường dự báo 67% Fed không cắt lãi năm 2026. USD mạnh và lợi suất TP Mỹ cao tạo áp lực ngắn hạn. Tuy nhiên, lạm phát trên mục tiêu 2% — vàng vẫn là công cụ phòng ngừa hiệu quả."
       },
       {
-        "name": "Vàng +40%+ so cùng kỳ 2025 — xu hướng tăng dài hạn vẫn còn nguyên",
+        "name": "Vàng +40%+ so cùng kỳ 2025 — xu hướng tăng dài hạn còn nguyên",
         "pct": 68,
         "direction": "up",
         "bar": "fh",
-        "desc": "Bất chấp điều chỉnh trong tháng 5, vàng vẫn tăng >40% so cùng kỳ 2025. Vùng $4,500–$4,600 là vùng tích lũy dài hạn. Yếu tố địa chính trị, nợ công Mỹ và đa dạng hóa dự trữ central bank vẫn hỗ trợ."
+        "desc": "Bất chấp điều chỉnh tháng 5, vàng vẫn tăng >40% so cùng kỳ 2025. Yếu tố địa chính trị, nợ công Mỹ và đa dạng hóa dự trữ central bank vẫn hỗ trợ xu hướng tăng dài hạn."
       }
     ],
-    "outlook_label": "Vàng $4,540/oz ổn định — world_vnd 144.3 triệu; SJC ~161 triệu; premium ~16.7 triệu",
+    "outlook_label": "Vàng $4,510/oz giảm nhẹ — world_vnd 143.4 triệu; SJC ~160.5 triệu; premium ~17.1 triệu",
     "outlook_class": "pbg",
-    "outlook_text": "22/5 (Thứ Sáu): Vàng ổn định quanh $4,540/oz. world_vnd ~144.3 triệu, SJC ~161 triệu, premium ~16.7 triệu (~11.6%). US-Iran peace deal hỗ trợ tâm lý ngắn hạn. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026 — vùng $4,500–$4,600 vẫn là cơ hội tích lũy. Chờ xác nhận vượt $4,550 bền vững.",
+    "outlook_text": "23/5 (Thứ Bảy): Vàng giảm nhẹ về $4,510/oz. world_vnd ~143.4 triệu, SJC ~160.5 triệu, premium ~17.1 triệu (~11.9%). Thị trường cuối tuần thận trọng — Fed 67% không cắt lãi 2026 là rủi ro ngắn hạn. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026 — vùng $4,500–$4,600 vẫn là cơ hội tích lũy.",
     "sources": [
       {
         "name": "LiteFinance — Gold Price Forecast May 2026",
@@ -132,7 +132,7 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 22/5 (Thứ Sáu): Techcombank tăng kỳ 12T lên 6.75% (kỳ 6T 6.55%); MB 4.7% kỳ 3T. HLBank online 7.7%, SHB kỳ 6T 7.7% vẫn dẫn đầu. VPBank tiếp tục hạ nhiệt kỳ 3T xuống 4.65%. Mặt bằng lãi suất phân hóa rõ nét.",
+    "alert": "📊 23/5 (Thứ Bảy): Mặt bằng lãi suất ổn định. HLBank online 7.7% + SHB kỳ 6T 7.7% dẫn đầu; Techcombank 6.75% kỳ 12T (tăng từ 22/5); MB 7.5%; Big4 giữ 5.9% kỳ 12T. Toàn thị trường xu hướng hạ nhiệt tháng 5/2026.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -147,10 +147,10 @@
         "note": "Ngân hàng tư nhân lớn dẫn đầu"
       },
       {
-        "label": "Techcombank tăng",
+        "label": "Techcombank",
         "value": "6.75%",
         "sub": "TCB kỳ 12T online (tăng từ 6.25%)",
-        "note": "Điều chỉnh tăng nhiều kỳ hạn"
+        "note": "Điều chỉnh tăng từ 22/5"
       },
       {
         "label": "Big4 kỳ 12T",
@@ -307,16 +307,16 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 22/5 (Thứ Sáu): Techcombank tăng lên 6.75% kỳ 12T; MB 4.7% kỳ 3T; HLBank 7.7% và SHB 7.7% dẫn đầu",
-      "body": "Ngày 22/5, điểm nổi bật là Techcombank điều chỉnh tăng nhiều kỳ hạn: kỳ 6T lên 6.55% (từ 6.05%), kỳ 12T lên 6.75% (từ 6.25%) — phản ánh nhu cầu huy động vốn dài hạn tăng cao. MB tăng nhẹ kỳ 3T lên 4.7%. Trong khi đó VPBank tiếp tục xu hướng giảm kỳ ngắn xuống 4.65%. HLBank online 7.7% và SHB kỳ 6T 7.7% vẫn dẫn đầu toàn hệ thống. Big4 giữ nguyên 5.9% kỳ 12T. Khuyến nghị: Ưu tiên HLBank 7.7% online hoặc MB 7.5% kỳ 12T; nếu muốn linh hoạt hơn, Techcombank 6.75% là lựa chọn tốt từ ngân hàng tư nhân lớn.",
+      "title": "Lãi suất 23/5 (Thứ Bảy): Ổn định sau điều chỉnh Techcombank; HLBank 7.7% và MB 7.5% vẫn dẫn đầu",
+      "body": "Ngày 23/5, mặt bằng lãi suất ổn định sau điều chỉnh Techcombank (lên 6.75% kỳ 12T) từ 22/5. HLBank online 7.7% và SHB kỳ 6T 7.7% vẫn dẫn đầu. MB giữ 7.5% kỳ 12T. Big4 (Vietcombank, BIDV, Agribank, VietinBank) duy trì 5.9% kỳ 12T ổn định. Xu hướng tháng 5/2026: hơn 30 ngân hàng điều chỉnh giảm, nhưng nhóm tư nhân vừa vẫn giữ mức cao. Khuyến nghị: Lock HLBank 7.7% online hoặc MB 7.5%; Techcombank 6.75% là lựa chọn an toàn từ NH tư nhân lớn.",
       "sources": [
         {
-          "name": "Kenh14 — Techcombank tháng 5/2026 điều chỉnh nhiều kỳ hạn",
-          "url": "https://kenh14.vn/lai-suat-ngan-hang-techcombank-thang-5-2026-dieu-chinh-o-nhieu-ky-han-muc-cao-nhat-la-bao-nhieu-215260518101636027.chn"
+          "name": "Kenh14 — Big4 lãi suất đầu tháng 5/2026",
+          "url": "https://kenh14.vn/lai-suat-tiet-kiem-agribank-vietcombank-vietinbank-bidv-moi-nhat-dau-thang-5-2026-215260506174222654.chn"
         },
         {
-          "name": "VietnamNet — Lãi suất 20/5/2026: nhà băng nào cao nhất kỳ 3T",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-20-5-2026-nha-bang-nao-tra-cao-nhat-ky-han-3-thang-2517471.html"
+          "name": "CafeF — Lãi suất tháng 5/2026 đồng loạt hạ nhiệt",
+          "url": "https://cafef.vn/lai-suat-tien-gui-tiet-kiem-thang-5-2026-dong-loat-ha-nhiet-188260502164039947.chn"
         },
         {
           "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
@@ -326,62 +326,62 @@
     },
     "rate_reasons": [
       {
-        "name": "Techcombank tăng kỳ 6T lên 6.55% và kỳ 12T lên 6.75% — nhu cầu vốn dài hạn tăng Q2",
+        "name": "Techcombank tăng kỳ 12T lên 6.75% (từ 22/5) — nhu cầu vốn dài hạn Q2",
         "level": "main",
         "pct": 80,
         "bar": "fh",
-        "desc": "Techcombank điều chỉnh tăng đáng kể: kỳ 6T từ 6.05% lên 6.55%, kỳ 12T từ 6.25% lên 6.75%. Phản ánh nhu cầu huy động vốn dài hạn tăng cao trong Q2/2026, cạnh tranh với MB và SHB để giữ khách hàng ưu đãi."
+        "desc": "Techcombank điều chỉnh tăng từ 22/5: kỳ 6T từ 6.05% lên 6.55%, kỳ 12T từ 6.25% lên 6.75%. Phản ánh nhu cầu huy động vốn dài hạn tăng cao trong Q2/2026."
       },
       {
-        "name": "HLBank 7.7% online + SHB 7.7% kỳ 6T — cạnh tranh kỳ dài tiếp tục gay gắt",
+        "name": "HLBank 7.7% online + SHB 7.7% kỳ 6T — cạnh tranh kỳ dài gay gắt",
         "level": "main",
         "pct": 78,
         "bar": "fh",
-        "desc": "HLBank duy trì 7.7% online cho kỳ 12T. SHB đạt 7.7% kỳ 6T. MB 7.5% kỳ dài. Nhóm NH tư nhân vừa tiếp tục đẩy lãi cao để cạnh tranh vốn, nhất là kỳ hạn 6-12 tháng."
+        "desc": "HLBank duy trì 7.7% online cho kỳ 12T. SHB đạt 7.7% kỳ 6T. MB 7.5% kỳ dài. Nhóm NH tư nhân vừa tiếp tục đẩy lãi cao để cạnh tranh vốn, nhất là kỳ 6-12 tháng."
       },
       {
-        "name": "VPBank tiếp tục giảm kỳ ngắn xuống 4.65% — phân hóa chiến lược NH rõ nét",
+        "name": "VPBank tiếp tục giảm kỳ ngắn về 4.65% — phân hóa chiến lược ngân hàng rõ nét",
         "level": "sub",
         "pct": 65,
         "bar": "fm",
-        "desc": "VPBank giảm kỳ 3T từ 4.75% xuống 4.65%, tiếp tục xu hướng hạ nhiệt kỳ ngắn sau đợt giảm kỳ dài tháng trước. Phân hóa rõ: nhóm tăng (TCB, MB) và nhóm giảm (VPBank, SeABank)."
+        "desc": "VPBank giảm kỳ 3T xuống 4.65%, tiếp tục xu hướng hạ nhiệt kỳ ngắn. Phân hóa rõ: nhóm tăng (TCB, MB) và nhóm giảm (VPBank, SeABank)."
       },
       {
-        "name": "MB tăng nhẹ kỳ 3T lên 4.7% — chiến lược thu hút tiền gửi ngắn hạn",
+        "name": "MB duy trì 7.5% kỳ dài + tăng nhẹ kỳ 3T — chiến lược toàn diện cạnh tranh vốn",
         "level": "sub",
         "pct": 60,
         "bar": "fm",
-        "desc": "MB điều chỉnh tăng nhẹ kỳ 3T từ 4.5% lên 4.7%, đồng thời duy trì kỳ 12T ở mức cao 7.5%. Chiến lược toàn diện: cạnh tranh cả kỳ ngắn lẫn kỳ dài."
+        "desc": "MB giữ mức cao 7.5% kỳ 12T, đồng thời tăng nhẹ kỳ 3T lên 4.7%. Chiến lược toàn diện: cạnh tranh cả kỳ ngắn lẫn kỳ dài để thu hút nhiều nhóm khách hàng."
       },
       {
-        "name": "Fed 67% không cắt lãi 2026 — NHNN thận trọng, mặt bằng lãi suất duy trì cao",
+        "name": "Fed 67% không cắt lãi 2026 — NHNN thận trọng, mặt bằng duy trì cao",
         "level": "sub",
         "pct": 70,
         "bar": "fh",
-        "desc": "Dự báo 67% Fed không cắt lãi năm 2026 khiến NHNN Việt Nam thận trọng. Mặt bằng lãi suất cao duy trì — hỗ trợ ngân hàng tư nhân tiếp tục cạnh tranh ở ngưỡng 7-7.7%."
+        "desc": "Dự báo 67% Fed không cắt lãi năm 2026 khiến NHNN Việt Nam thận trọng. Mặt bằng lãi suất cao duy trì — hỗ trợ nhóm NH tư nhân tiếp tục cạnh tranh ở ngưỡng 7–7.7%."
       }
     ],
     "rate_forecast": [
       {
-        "name": "HLBank 7.7% online + MB 7.5% — cơ hội lock lãi cao còn trong tháng 5",
+        "name": "HLBank 7.7% online + MB 7.5% — cơ hội lock lãi cao hiếm có tháng 5",
         "pct": 75,
         "direction": "up",
         "bar": "fh",
-        "desc": "HLBank 7.7% online và MB 7.5% là mức cao hiếm có của tháng 5. Nên lock kỳ 12T trước khi mặt bằng có thể tiếp tục hạ về 6.5–7% trong Q3/2026."
+        "desc": "HLBank 7.7% online và MB 7.5% là mức cao hiếm của tháng 5. Nên lock kỳ 12T trước khi mặt bằng có thể hạ về 6.5–7% trong Q3/2026."
       },
       {
-        "name": "Techcombank 6.75% kỳ 12T — lựa chọn tốt từ NH tư nhân lớn sau khi tăng",
+        "name": "Techcombank 6.75% kỳ 12T — lựa chọn tốt từ NH tư nhân lớn sau khi tăng 22/5",
         "pct": 65,
         "direction": "up",
         "bar": "fm",
-        "desc": "Techcombank tăng lên 6.75% là mức hấp dẫn cho khách hàng tìm kiếm sự ổn định từ NH tư nhân lớn. Cân nhắc nếu HLBank/MB đã đầy quota."
+        "desc": "Techcombank tăng lên 6.75% là mức hấp dẫn cho khách hàng tìm sự ổn định từ NH tư nhân lớn. Cân nhắc nếu HLBank/MB đã đầy quota."
       },
       {
-        "name": "Big4 12T có thể về 5.5–5.7% trong H2/2026 nếu Fed dovish",
+        "name": "Big4 kỳ 12T có thể về 5.5–5.7% trong H2/2026 nếu Fed dovish",
         "pct": 55,
         "direction": "down",
         "bar": "fm",
-        "desc": "Lãi Big4 12T (5.9%) dự báo giảm về 5.5–5.7% trong H2/2026 nếu Fed pivot. Tuy nhiên Fed 67% không cắt lãi 2026 làm kịch bản này ít khả năng hơn."
+        "desc": "Lãi Big4 12T (5.9%) dự báo giảm về 5.5–5.7% trong H2/2026 nếu Fed pivot. Tuy nhiên xác suất thấp với Fed 67% không cắt lãi 2026."
       },
       {
         "name": "NHNN cắt lãi điều hành Q3 — xác suất thấp ~18–22%, có thể dời Q4",
@@ -391,13 +391,13 @@
         "desc": "Xác suất NHNN cắt lãi Q3 thấp. Fed không cắt lãi + lợi suất TP Mỹ cao = NHNN thận trọng. Kịch bản cắt lãi nhiều khả năng dời sang Q4/2026 hoặc H1/2027."
       }
     ],
-    "rate_outlook_label": "22/5 — TCB 6.75% / Big4 5.9% / HLBank 7.7% online / SHB 7.7% kỳ 6T / MB 7.5%",
+    "rate_outlook_label": "23/5 — TCB 6.75% / Big4 5.9% / HLBank 7.7% online / SHB 7.7% kỳ 6T / MB 7.5%",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "22/5 (Thứ Sáu): Techcombank tăng lên 6.75% kỳ 12T và 6.55% kỳ 6T — điểm mới nhất hôm nay. MB 4.7% kỳ 3T tăng nhẹ. HLBank online 7.7% và SHB kỳ 6T 7.7% vẫn dẫn đầu. VPBank giảm về 4.65% kỳ 3T. Khuyến nghị: Lock HLBank 7.7% hoặc MB 7.5%; nếu muốn NH lớn hơn chọn Techcombank 6.75% kỳ 12T.",
+    "rate_outlook_text": "23/5 (Thứ Bảy): Mặt bằng ổn định sau điều chỉnh Techcombank (6.75% kỳ 12T từ 22/5). HLBank online 7.7% và SHB kỳ 6T 7.7% vẫn dẫn đầu. MB 7.5%. Big4 giữ 5.9% kỳ 12T. Khuyến nghị: Lock HLBank 7.7% hoặc MB 7.5%; nếu muốn NH lớn hơn chọn Techcombank 6.75% kỳ 12T.",
     "rate_sources": [
       {
-        "name": "Kenh14 — Techcombank tháng 5/2026 điều chỉnh nhiều kỳ hạn",
-        "url": "https://kenh14.vn/lai-suat-ngan-hang-techcombank-thang-5-2026-dieu-chinh-o-nhieu-ky-han-muc-cao-nhat-la-bao-nhieu-215260518101636027.chn"
+        "name": "Kenh14 — Big4 lãi suất đầu tháng 5/2026",
+        "url": "https://kenh14.vn/lai-suat-tiet-kiem-agribank-vietcombank-vietinbank-bidv-moi-nhat-dau-thang-5-2026-215260506174222654.chn"
       },
       {
         "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
@@ -551,7 +551,8 @@
       "19/05",
       "20/05",
       "21/05",
-      "22/05"
+      "22/05",
+      "23/05"
     ],
     "sjc": [
       152.8,
@@ -694,7 +695,8 @@
       162.5,
       162.0,
       160.5,
-      161.0
+      161.0,
+      160.5
     ],
     "world_vnd": [
       121,
@@ -837,7 +839,8 @@
       145.3,
       143.1,
       144.1,
-      144.3
+      144.3,
+      143.4
     ]
   }
 }
