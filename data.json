@@ -1,109 +1,109 @@
 {
   "meta": {
-    "date": "24 tháng 5, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-05-24 00:05"
+    "date": "25 tháng 5, 2026",
+    "day": "Thứ Hai",
+    "updated": "2026-05-25 00:05"
   },
   "alert": {
-    "type": "yellow",
-    "text": "🟡 <b>24/5 — Chủ Nhật:</b> Vàng ~$4,500/oz, tuần thứ 2 giảm liên tiếp; world_vnd ~143.0 triệu; SJC ~160.0 triệu. Google I/O 2026 ra mắt Gemini Spark và Gemini 3.5 Flash. Anthropic ra mắt Claude Opus mới + Claude Design. BTC ~$76,571 ổn định."
+    "type": "green",
+    "text": "🟢 <b>25/5 — Thứ Hai:</b> Vàng $4,542/oz (+0.9% so thứ 6), world_vnd ~144.4 triệu; SJC ~161.0 triệu. BTC ~$76,500 ổn định đầu tuần. OpenAI vượt $25B ARR + chuẩn bị IPO; Google Gemini 3.1 Flash-Lite ra mắt."
   },
   "news_ai": [
     {
-      "title": "Google I/O 2026: Gemini Spark ra mắt — Gemini thành AI agent đa nền tảng, Ask YouTube, Gemini 3.5 Flash",
+      "title": "OpenAI vượt $25B ARR — chuẩn bị IPO cuối 2026, đối tác Dell cho Codex on-prem",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google I/O 2026 tập trung hoàn toàn vào AI: ra mắt Gemini Spark (AI agent đa ứng dụng, beta cho Google AI Ultra), Gemini 3.5 Flash (chi phí bằng 1/3 model frontier), tính năng Ask YouTube và tích hợp Gemini vào Search dưới dạng giao diện hội thoại. Google định vị Gemini không còn là sản phẩm độc lập mà là lớp trí tuệ xuyên suốt Android, Chrome, Workspace và YouTube.",
-      "source": "CNBC / Fortune / Google I/O, 19–20/5/2026",
-      "source_url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html"
+      "body": "OpenAI xác nhận vượt mốc $25 tỷ doanh thu hàng năm (ARR) và đang thực hiện các bước đầu tiên hướng tới phát hành cổ phiếu lần đầu (IPO), có thể vào cuối năm 2026. Cùng lúc, OpenAI công bố hợp tác với Dell Technologies để đưa Codex vào môi trường doanh nghiệp on-premises và hybrid. Model AI của OpenAI cũng mới bác bỏ một bổ đề quan trọng trong hình học rời rạc (22/5).",
+      "source": "OpenAI News / CNN Business, 22–25/5/2026",
+      "source_url": "https://openai.com/news/"
     },
     {
-      "title": "Anthropic ra mắt Claude Opus mới + Claude Design — cuộc đua AI frontier không nhường bước",
+      "title": "Google Gemini 3.1 Flash-Lite ra mắt — 2.5× nhanh hơn, $0.25/M token",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic công bố phiên bản Claude Opus mới với hiệu suất mạnh hơn về coding, agents, vision và multi-step tasks. Đồng thời ra mắt Claude Design, sản phẩm mới từ Anthropic Labs. Cùng tuần đó, Andrej Karpathy (đồng sáng lập OpenAI) chính thức gia nhập nhóm pre-training của Anthropic — tín hiệu mạnh về tham vọng mở rộng năng lực research.",
-      "source": "Anthropic News / Fortune, 20–24/5/2026",
-      "source_url": "https://fortune.com/2026/05/20/google-i-o-2026/"
+      "body": "Google tung ra Gemini 3.1 Flash-Lite, model hiệu suất cao với tốc độ phản hồi nhanh hơn 2.5× và tốc độ xuất token nhanh hơn 45% so với phiên bản trước, giá chỉ $0.25/triệu token đầu vào. Đây là bước đi chiến lược của Google để cạnh tranh trong phân khúc model nhỏ-nhanh-rẻ, đối đầu trực tiếp với GPT-4o mini và Claude Haiku.",
+      "source": "llm-stats.com / AI Updates Today, 25/5/2026",
+      "source_url": "https://llm-stats.com/llm-updates"
     },
     {
-      "title": "Anthropic & Gates Foundation đối tác $200 triệu — AI cho y tế, giáo dục, nông nghiệp toàn cầu",
+      "title": "Google AI Search tái thiết kế hoàn toàn — thay đổi lớn nhất trong 25 năm",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic và Quỹ Gates ký kết hợp tác 4 năm trị giá $200 triệu để phát triển công cụ AI cho y tế, giáo dục, nông nghiệp và phát triển kinh tế tại các khu vực chưa được phục vụ đầy đủ. Anthropic cũng cam kết đầu tư trên $200 tỷ vào hạ tầng cloud và chip, phần lớn qua hợp tác với Google Cloud.",
-      "source": "wadeswatch / IMFounder, 24/5/2026",
-      "source_url": "https://www.wadeswatch.com/news-about-artificial-intelligence-may-2026-round-up/"
+      "body": "Google chính thức tuyên bố thanh tìm kiếm sẽ được 'tái thiết kế hoàn toàn với AI', đánh dấu thay đổi lớn nhất trong 25+ năm lịch sử Google Search. Tính năng mới cho phép tạo đồ họa tùy chỉnh, biểu đồ tương tác và mini-app ngay trong trang kết quả tìm kiếm. AI agent Gemini Spark có thể xử lý task nền kể cả khi người dùng tắt máy.",
+      "source": "CNN Business / Time, 23–25/5/2026",
+      "source_url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search"
     },
     {
-      "title": "AI toàn cầu: 17.8% dân số lao động dùng AI hàng ngày — tăng 1.5pp trong Q1/2026",
+      "title": "Chính phủ Mỹ kiểm định AI trước phát hành — Google, Microsoft, xAI đồng thuận",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Báo cáo Microsoft: tỷ lệ người lao động sử dụng AI tăng từ 16.3% lên 17.8% trong Q1/2026, tương đương hàng trăm triệu người. Chính phủ Mỹ đẩy mạnh kiểm định AI trước phát hành; Microsoft và xAI đã đồng ý cung cấp quyền truy cập sớm cho cơ quan quản lý.",
-      "source": "Microsoft On the Issues / Medium AI Week, 24/5/2026",
-      "source_url": "https://blogs.microsoft.com/on-the-issues/2026/05/07/the-state-of-global-ai-diffusion-in-2026/"
+      "body": "Trung tâm Tiêu chuẩn và Đổi mới AI Mỹ (CAISI) ký thỏa thuận với Google DeepMind, Microsoft và xAI cho phép kiểm định model trước khi phát hành công khai. Anthropic và OpenAI cũng triển khai bộ phận enterprise deployment và công bố các quan hệ đối tác tài chính lớn trong cùng 72 giờ. 76% trong số 2,000+ tổ chức được khảo sát đã thành lập vị trí Chief AI Officer (CAIO) — tăng từ 26% năm 2025.",
+      "source": "CNBC / CNN Business, 5–25/5/2026",
+      "source_url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "yellow",
-      "text": "🟡 Vàng $4,500/oz cuối tuần — giảm 2 tuần liên tiếp. world_vnd ~143.0 triệu; SJC ~160.0 triệu. BTC $76,571 (+0.13%). Đàm phán Mỹ–Iran + lo ngại lạm phát tiếp tục áp lực ngắn hạn. GDP Mỹ Q1 và jobless claims tuần tới là catalyst chính."
+      "type": "green",
+      "text": "🟢 Vàng $4,542/oz đầu tuần — tăng +0.9% so đóng cửa thứ 6. world_vnd ~144.4 triệu; SJC ~161.0 triệu. BTC ~$76,500 ổn định. Thị trường chờ GDP Mỹ Q1 và jobless claims là catalyst tuần 25–30/5."
     },
     "items": [
       {
-        "title": "Vàng $4,500/oz — giảm 2 tuần liên tiếp; world_vnd 143.0 triệu; SJC ~160.0 triệu",
+        "title": "Vàng $4,542/oz đầu tuần Thứ Hai — tăng +0.9% so thứ 6; world_vnd 144.4 triệu; SJC ~161.0 triệu",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Vàng thế giới đóng cửa ~$4,500/oz phiên 22/5, giảm tuần thứ 2 liên tiếp do lo ngại lạm phát từ giá dầu cao. Thị trường đóng cửa Thứ 7–CN. world_vnd ~143.0 triệu/lượng; SJC ~160.0 triệu, premium ~17 triệu (~11.9%). Ngày 25/5 dự báo dao động $4,441–$4,577.",
-        "source": "GoldPrice.org / LiteFinance / TradingEconomics, 23–24/5/2026",
+        "body": "Vàng mở cửa $4,542/oz sáng 25/5 (Thứ Hai), tăng nhẹ +0.9% so mức đóng cửa $4,500 thứ 6. Range ngày hôm nay dự báo $4,491–$4,553/oz. world_vnd ~144.4 triệu/lượng; SJC ~161.0 triệu, premium ~16.6 triệu (~11.5%). Dài hạn: J.P. Morgan $5,055 Q4/2026; Goldman $5,400 cuối năm vẫn nguyên vẹn.",
+        "source": "LiteFinance / GoldPrice.org, 25/5/2026",
         "source_url": "https://goldprice.org/"
       },
       {
-        "title": "BTC $76,571 (+0.13%) — ổn định cuối tuần; thị trường chờ GDP Mỹ Q1 tuần tới",
+        "title": "BTC ~$76,500 ổn định đầu tuần — thị trường chờ GDP Mỹ Q1 và jobless claims",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch tại $76,571 sáng 24/5 (+0.13% trong 24h), tiếp tục ổn định trong biên độ $76,000–$77,000. Thị trường chờ GDP Mỹ Q1 và initial jobless claims tuần tới để xác định hướng. Fed 67% không cắt lãi 2026 vẫn là áp lực lên tài sản rủi ro.",
-        "source": "CoinGecko / Binance, 24/5/2026",
+        "body": "Bitcoin giao dịch tại ~$76,500 đầu tuần, tiếp tục ổn định trong biên độ $76,000–$77,000. Catalyst lớn tuần này: GDP Mỹ Q1 (dự báo -0.2%) và initial jobless claims (thứ 5, 28/5) sẽ xác định hướng đi của tài sản rủi ro. Fed 67% không cắt lãi 2026 vẫn là áp lực nền.",
+        "source": "CoinGecko / Yahoo Finance, 25/5/2026",
         "source_url": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
-        "title": "Đàm phán Mỹ–Iran & dầu cao — lạm phát trở lại, thách thức chiến lược Fed đến cuối 2026",
+        "title": "Tuần 25–30/5: GDP Mỹ Q1, jobless claims và Fed minutes là catalyst chính",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Tín hiệu đàm phán hạt nhân Mỹ–Iran làm giảm lo ngại cung dầu, nhưng giá dầu vẫn cao và tiếp tục thúc đẩy lo ngại lạm phát dai dẳng. Lợi suất TP Mỹ tăng, tạo sức ép kép lên vàng và bitcoin. Volatility cao dự báo trong tuần 26–30/5.",
-        "source": "CNBC / TradingEconomics, 22–24/5/2026",
+        "body": "Tuần giao dịch 25–30/5 có lịch kinh tế dày đặc: GDP Mỹ Q1 (revision), initial jobless claims (thứ 5), PCE deflator và Fed minutes. Thị trường đang định giá kịch bản 'higher for longer' với xác suất cắt lãi 2026 chỉ 33%. Dầu và lạm phát tiếp tục là biến số chính.",
+        "source": "CNBC / TradingEconomics, 25/5/2026",
         "source_url": "https://tradingeconomics.com/commodity/gold"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>24/5 — Chủ Nhật:</b> Vàng ~$4,500/oz — giảm tuần thứ 2. world_vnd ~143.0 triệu. SJC ~160.0 triệu; premium ~17 triệu (~11.9%). Thị trường đóng cửa cuối tuần. Ngày 25/5 mở cửa biên độ $4,441–$4,577. Dài hạn: J.P. Morgan $5,055 Q4/2026; Goldman $5,400 cuối năm.",
+    "summary": "🟢 <b>25/5 — Thứ Hai:</b> Vàng $4,542/oz — tăng +0.9% so thứ 6. world_vnd ~144.4 triệu. SJC ~161.0 triệu; premium ~16.6 triệu (~11.5%). Biên độ hôm nay $4,491–$4,553. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng $4,500/oz — giảm 2 tuần liên tiếp; áp lực lạm phát và giá dầu cao",
-        "pct": 42,
-        "direction": "down",
+        "name": "Vàng $4,542/oz đầu tuần — hồi phục nhẹ +0.9% sau 2 tuần giảm liên tiếp",
+        "pct": 55,
+        "direction": "up",
         "bar": "fm",
-        "desc": "Vàng đóng cửa ~$4,500/oz phiên 22/5, giảm tuần thứ 2. Giá dầu cao tái kích lo ngại lạm phát, tăng kỳ vọng Fed giữ lãi cao — áp lực ngắn hạn lên vàng. Ngày 25/5 biên độ dự báo $4,441–$4,577."
+        "desc": "Vàng mở cửa $4,542/oz sáng thứ Hai 25/5, tăng +0.9% so đóng cửa thứ 6. Tín hiệu hồi phục kỹ thuật sau 2 tuần giảm. Range hôm nay $4,491–$4,553. GDP Mỹ Q1 và jobless claims là catalyst tuần này."
       },
       {
-        "name": "world_vnd 143.0 triệu; SJC ~160.0 triệu — premium ~17 triệu (~11.9%)",
-        "pct": 40,
-        "direction": "down",
+        "name": "world_vnd 144.4 triệu; SJC ~161.0 triệu — premium ~16.6 triệu (~11.5%)",
+        "pct": 55,
+        "direction": "up",
         "bar": "fm",
-        "desc": "world_vnd tính theo gold $4,500/oz và tỷ giá 26,362 VND/USD đạt ~143.0 triệu/lượng. SJC ~160.0 triệu (ước tính), premium ~17 triệu (~11.9%) — tiếp tục thu hẹp từ đỉnh >25 triệu cuối 2025."
+        "desc": "world_vnd tính theo $4,542/oz và tỷ giá 26,362 VND/USD đạt ~144.4 triệu/lượng. SJC ~161.0 triệu (ước tính), premium ~16.6 triệu (~11.5%) — tiếp tục xu hướng thu hẹp từ đỉnh >25 triệu cuối 2025."
       },
       {
         "name": "J.P. Morgan $5,055 Q4/2026 — central bank 244 tấn Q1; nền cầu dài hạn vững chắc",
         "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "J.P. Morgan duy trì mục tiêu $5,055/oz Q4/2026. Goldman Sachs $5,400 cuối năm. Kitco: $6,300 nếu xu thế tiếp diễn. Central banks toàn cầu mua 244 tấn Q1/2026 — nền cầu vững chắc."
+        "desc": "J.P. Morgan duy trì mục tiêu $5,055/oz Q4/2026. Goldman Sachs $5,400 cuối năm. Central banks toàn cầu mua 244 tấn Q1/2026 — nền cầu vững chắc cho xu hướng tăng dài hạn."
       },
       {
-        "name": "Đàm phán Mỹ–Iran — giảm rủi ro địa chính trị ngắn hạn, áp lực lên vàng",
+        "name": "GDP Mỹ Q1 + jobless claims tuần này — catalyst xác định hướng ngắn hạn",
         "pct": 48,
         "direction": "down",
         "bar": "fm",
-        "desc": "Tín hiệu đàm phán Mỹ–Iran làm giảm căng thẳng địa chính trị ngắn hạn. Tuy nhiên bất ổn khu vực còn tiềm ẩn; vàng vẫn là công cụ phòng ngừa chiến lược dài hạn."
+        "desc": "GDP Mỹ Q1 revision (dự báo -0.2%) và initial jobless claims thứ 5 (28/5) là yếu tố chính. Nếu GDP xấu hơn dự kiến, Fed có thể pivot sớm — hỗ trợ vàng. Ngược lại, data tốt = hawk tiếp tục = áp lực."
       },
       {
         "name": "Vàng +40%+ so cùng kỳ 2025 — xu hướng tăng dài hạn còn nguyên vẹn",
@@ -113,9 +113,9 @@
         "desc": "Bất chấp điều chỉnh tháng 5, vàng vẫn tăng >40% so cùng kỳ 2025. Nợ công Mỹ, đa dạng hóa dự trữ central bank và địa chính trị hỗ trợ xu hướng tăng dài hạn."
       }
     ],
-    "outlook_label": "Vàng $4,500/oz cuối tuần — world_vnd 143.0 triệu; SJC ~160.0 triệu; premium ~17 triệu",
+    "outlook_label": "Vàng $4,542/oz Thứ Hai — world_vnd 144.4 triệu; SJC ~161.0 triệu; premium ~16.6 triệu",
     "outlook_class": "pbg",
-    "outlook_text": "24/5 (Chủ Nhật): Vàng ~$4,500/oz — giảm tuần thứ 2. world_vnd ~143.0 triệu, SJC ~160.0 triệu, premium ~17 triệu (~11.9%). Thị trường đóng cửa; 25/5 mở cửa biên độ $4,441–$4,577. Rủi ro: Fed hawk + đàm phán Iran. Cơ hội dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
+    "outlook_text": "25/5 (Thứ Hai): Vàng $4,542/oz — tăng +0.9% so thứ 6 ($4,500). world_vnd ~144.4 triệu, SJC ~161.0 triệu, premium ~16.6 triệu (~11.5%). Biên độ hôm nay $4,491–$4,553. Catalyst tuần: GDP Mỹ Q1 + jobless claims (thứ 5). Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
     "sources": [
       {
         "name": "LiteFinance — Gold Price Forecast May 2026",
@@ -132,7 +132,7 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 24/5 (Chủ Nhật): Làn sóng hạ lãi suất kỳ 6–12T tăng tốc. SHB hạ sâu kỳ 6T từ 7.7% về 5.8% (giảm 1.9pp); MB 12T về 6.3%. HLBank vẫn dẫn đầu 7.7% online. Techcombank 6.9% Private / 6.75% standard. Big4 giữ 5.9% kỳ 12T.",
+    "alert": "📊 25/5 (Thứ Hai): Lãi suất ổn định so cuối tuần. HLBank 7.7% online vẫn dẫn đầu. Big4 giữ 5.9% kỳ 12T. Xu hướng hạ nhiệt kỳ 6–12T tiếp diễn trong tháng 5/2026. OCB và HLBank vẫn là lựa chọn cao nhất >7%.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -150,7 +150,7 @@
         "label": "SHB giảm mạnh",
         "value": "5.8%",
         "sub": "SHB kỳ 6T (từ 7.7%) — giảm 1.9pp",
-        "note": "Thay đổi lớn nhất tuần này"
+        "note": "Thay đổi lớn nhất tuần trước"
       },
       {
         "label": "Big4 kỳ 12T",
@@ -306,16 +306,16 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 24/5 (Chủ Nhật): SHB hạ sâu kỳ 6T về 5.8%; MB giảm 12T về 6.3%; HLBank 7.7% vẫn dẫn đầu",
-      "body": "Tuần 21–24/5, làn sóng hạ lãi suất kỳ 6–12T tăng tốc rõ rệt. SHB hạ mạnh kỳ 6T từ 7.7% xuống 5.8% (giảm 1.9pp) và MB điều chỉnh kỳ 12T từ 7.5% về 6.3%. Nguyên nhân: thanh khoản ngân hàng dồi dào, nhu cầu tín dụng chậm lại sau Q1. HLBank vẫn giữ 7.7% online — mức cao nhất toàn hệ thống. Big4 duy trì 5.9% kỳ 12T ổn định. Khuyến nghị: Lock HLBank 7.7% online trước khi xu hướng hạ tiếp diễn; Techcombank 6.75% standard là lựa chọn an toàn từ NH tư nhân lớn.",
+      "title": "Lãi suất 25/5 (Thứ Hai): Ổn định sau làn sóng giảm tuần trước — HLBank 7.7% vẫn dẫn đầu, Big4 giữ 5.9%",
+      "body": "Đầu tuần 25/5, mặt bằng lãi suất huy động ổn định sau làn sóng điều chỉnh giảm của tuần 19–24/5. SHB đã hạ kỳ 6T từ 7.7% về 5.8% (giảm 1.9pp) và MB điều chỉnh kỳ 12T từ 7.5% về 6.3% trong tuần trước. HLBank vẫn giữ 7.7% online — cao nhất toàn hệ thống. Big4 duy trì 5.9% kỳ 12T ổn định. Tháng 5/2026 đánh dấu xu hướng hạ lãi suất huy động rõ rệt, phản ánh thanh khoản ngân hàng dồi dào và nhu cầu tín dụng chậm. Khuyến nghị: Lock HLBank 7.7% online hoặc Techcombank 6.75% standard kỳ 12T trước khi thị trường tiếp tục hạ nhiệt trong Q3/2026.",
       "sources": [
-        {
-          "name": "VietnamNet — Lãi suất ngân hàng 21/5/2026 hạ sâu kỳ 6-12T",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-21-5-2026-bat-ngo-giam-sau-ky-han-6-12-thang-2517798.html"
-        },
         {
           "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
           "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+        },
+        {
+          "name": "CafeF — Lãi suất tiền gửi đồng loạt hạ nhiệt tháng 5/2026",
+          "url": "https://cafef.vn/lai-suat-tien-gui-tiet-kiem-thang-5-2026-dong-loat-ha-nhiet-188260502164039947.chn"
         },
         {
           "name": "Techcombank Blog — Lãi suất 23/5/2026",
@@ -350,7 +350,7 @@
         "level": "sub",
         "pct": 65,
         "bar": "fm",
-        "desc": "TCB duy trì 6.75% standard và 6.9% cho khách Private gửi 3T+ online. Điều chỉnh giảm nhẹ kỳ từ 13T+ cho thấy TCB tối ưu chi phí vốn dài hạn trong bối cảnh thị trường hạ nhiệt."
+        "desc": "TCB duy trì 6.75% standard và 6.9% cho khách Private gửi 3T+ online. Điều chỉnh nhẹ cho thấy TCB tối ưu chi phí vốn dài hạn trong bối cảnh thị trường hạ nhiệt."
       },
       {
         "name": "Fed 67% không cắt lãi 2026 — NHNN thận trọng; mặt bằng hạ chậm, không đột biến",
@@ -390,17 +390,17 @@
         "desc": "Kịch bản NHNN cắt lãi Q3 gần như bị loại. Xác suất nhỏ dồn về Q4/2026 hoặc H1/2027 nếu Fed pivot muộn hoặc kinh tế VN cần kích thích."
       }
     ],
-    "rate_outlook_label": "24/5 — HLBank 7.7% online / Techcombank 6.75% / SHB 5.8% (6T) / MB 6.3% (12T) / Big4 5.9%",
+    "rate_outlook_label": "25/5 — HLBank 7.7% online / Techcombank 6.75% / SHB 5.8% (6T) / MB 6.3% (12T) / Big4 5.9%",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "24/5 (Chủ Nhật): Làn sóng hạ lãi suất kỳ 6–12T tăng tốc — SHB giảm 1.9pp xuống 5.8% (6T); MB về 6.3% (12T). HLBank vẫn dẫn đầu 7.7% online. Big4 giữ 5.9% kỳ 12T. Khuyến nghị: Ưu tiên lock HLBank 7.7% hoặc Techcombank 6.75% kỳ 12T trước khi xu hướng hạ tiếp diễn trong Q3/2026.",
+    "rate_outlook_text": "25/5 (Thứ Hai): Lãi suất ổn định đầu tuần sau làn sóng hạ nhiệt tuần trước. HLBank vẫn dẫn đầu 7.7% online. Big4 giữ 5.9% kỳ 12T. Xu hướng: Mặt bằng kỳ 6–12T sẽ tiếp tục hạ về 5.5–6.5% trong Q3/2026. Khuyến nghị: Ưu tiên lock HLBank 7.7% hoặc Techcombank 6.75% kỳ 12T sớm.",
     "rate_sources": [
       {
-        "name": "VietnamNet — Lãi suất hạ sâu kỳ 6-12T tuần 21/5",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-21-5-2026-bat-ngo-giam-sau-ky-han-6-12-thang-2517798.html"
+        "name": "Topi.vn — So sánh lãi suất ngân hàng tháng 5/2026",
+        "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       },
       {
-        "name": "Topi.vn — So sánh lãi suất ngân hàng tháng 5/2026",
-        "url": "https://topi.vn/so-sanh-lai-suat-ngan-hang-moi-nhat.html"
+        "name": "CafeF — Lãi suất đồng loạt hạ nhiệt tháng 5/2026",
+        "url": "https://cafef.vn/lai-suat-tien-gui-tiet-kiem-thang-5-2026-dong-loat-ha-nhiet-188260502164039947.chn"
       },
       {
         "name": "24HMoney — Lãi suất gửi tiết kiệm tháng 5/2026",
@@ -552,7 +552,8 @@
       "21/05",
       "22/05",
       "23/05",
-      "24/05"
+      "24/05",
+      "25/05"
     ],
     "sjc": [
       152.8,
@@ -697,7 +698,8 @@
       160.5,
       161.0,
       160.5,
-      160.0
+      160.0,
+      161.0
     ],
     "world_vnd": [
       121,
@@ -842,7 +844,8 @@
       144.1,
       144.3,
       143.4,
-      143.0
+      143.0,
+      144.4
     ]
   }
 }
