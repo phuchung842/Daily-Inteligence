@@ -1,102 +1,102 @@
 {
   "meta": {
-    "date": "27 tháng 5, 2026",
-    "day": "Thứ Tư",
-    "updated": "2026-05-27 00:04"
+    "date": "31 tháng 5, 2026",
+    "day": "Chủ Nhật",
+    "updated": "2026-05-31 07:00"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>27/5 — Thứ Tư:</b> Vàng $4,525.5/oz (ổn định), world_vnd ~143.9 triệu; SJC 161.5 triệu (bán ra). BTC ~$77,400 sideway. Sierra AI $950M tại định giá $15B. Shield AI $1.5B Series G. AI traffic tới retail sites tăng 393% YoY (Adobe). Catalyst: GDP Mỹ Q1 revision 28/5."
+    "text": "🟡 <b>31/5 — Chủ Nhật:</b> Vàng $4,538.3/oz (tăng nhẹ cuối tháng), world_vnd ~144.4 triệu; SJC 159 triệu bán ra (giảm 2.5 triệu trong tuần). BTC ~$73,877 sideway. Dell +32% — AI server revenue tăng 757% YoY đạt $16.1B. Google Gemini 3.5 Flash ra mắt tại I/O 2026. Meta subscription $7.99–$19.99/tháng toàn cầu."
   },
   "news_ai": [
     {
-      "title": "AI shopping bùng nổ: Traffic từ AI tới retail sites tăng 393% YoY Q1/2026 — Google, Meta, Amazon, OpenAI đổ bộ",
+      "title": "Dell +32% ngày tốt nhất lịch sử — AI server revenue tăng 757% lên $16.1B, cổ phiếu tăng 234% trong 2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Adobe công bố: Traffic từ các dịch vụ AI tới website bán lẻ Mỹ tăng 393% so cùng kỳ 2025 trong Q1. Meta, Amazon, Google và OpenAI đồng loạt ra mắt công cụ AI shopping. Google I/O 2026 giới thiệu Gemini tích hợp sâu vào Search, YouTube, Workspace — tìm kiếm dạng hội thoại (11+ từ) tăng từ 3.27% lên 5.37% toàn cầu.",
-      "source": "CNN Business / Adobe, 23/5/2026",
-      "source_url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search"
+      "body": "Dell báo cáo Q1 FY2027 với doanh thu tăng 88% YoY — AI server revenue tăng 757% lên $16.1 tỷ USD, vượt kỳ vọng. EPS $4.86 so với dự báo $2.94. Tổng đơn đặt hàng AI đạt $24.4 tỷ, nâng guidance cả năm về AI server lên $60 tỷ. Cổ phiếu +32% — ngày tốt nhất trong lịch sử niêm yết.",
+      "source": "CNBC / Yahoo Finance, 29/5/2026",
+      "source_url": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html"
     },
     {
-      "title": "Sierra AI $950M tại định giá $15B — Agentic AI enterprise đang thay thế call center toàn cầu",
+      "title": "Google I/O 2026: Gemini 3.5 Flash, Gemini Omni, Gemini Spark ra mắt — tích hợp sâu Search, Android, YouTube, Workspace",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Sierra (SF) huy động $950 triệu tại định giá $15 tỷ — backed bởi Tiger Global, GV, Sequoia và Benchmark. Sierra chuyển dịch customer service từ call center sang AI agents tự động thực thi workflow thực tế. Phản ánh xu hướng agentic AI đang thay thế chatbot wrapper trong doanh nghiệp.",
-      "source": "CyberNewsCenter / TechCrunch, 6/5/2026",
-      "source_url": "https://www.cybernewscentre.com/ai-startup-sierra-raises-950m/"
+      "body": "Google I/O 2026 giới thiệu loạt model Gemini mới: 3.5 Flash, Omni và Spark — tích hợp sâu vào toàn bộ hệ sinh thái Google. AI coding tools mới, tìm kiếm hội thoại tăng từ 3.27% lên 5.37% toàn cầu. Adobe xác nhận traffic từ AI đến retail sites tăng 393% YoY Q1/2026.",
+      "source": "imfounder.com / blog.mean.ceo, 5/2026",
+      "source_url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/"
     },
     {
-      "title": "Shield AI $1.5B Series G tại định giá $12.7B (+140% trong 1 năm) — Defense AI tăng tốc chưa từng có",
+      "title": "Meta ra mắt subscription toàn cầu: Instagram/Facebook/WhatsApp Plus + Meta AI $7.99–$19.99/tháng",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Shield AI đóng vòng Series G $1.5 tỷ tại định giá $12.7 tỷ — tăng 140% chỉ trong 1 năm. Công ty phát triển AI pilot tự động cho máy bay chiến đấu. Tháng 5/2026, AI defense và AI infrastructure là 2 lĩnh vực hút vốn mạnh nhất. OpenAI đồng thời hoàn tất thâu tóm Hiro Finance (thứ 7 trong 2026).",
-      "source": "AI Funding Tracker / imfounder.com, 5/2026",
-      "source_url": "https://aifundingtracker.com/ai-startup-funding-news-today/"
+      "body": "Meta triển khai gói Plus subscription cho Instagram, Facebook, WhatsApp toàn cầu đồng thời thử nghiệm gói Meta AI trả phí $7.99 và $19.99/tháng — bước đa dạng hóa doanh thu ngoài quảng cáo. Wix cắt giảm ~1,000 nhân sự do AI tăng năng suất.",
+      "source": "blog.mean.ceo / techstartups.com, 5/2026",
+      "source_url": "https://blog.mean.ceo/ai-news-may-2026/"
     },
     {
-      "title": "Mỹ yêu cầu kiểm tra AI trước khi phát hành — Microsoft và xAI đồng ý cung cấp model sớm cho cơ quan quản lý",
+      "title": "Mỹ thắt chặt quản lý AI: Microsoft & xAI đồng ý cho cơ quan quản lý kiểm tra model trước khi ra mắt",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Chính phủ Mỹ đẩy mạnh yêu cầu kiểm tra (test) các model AI lớn trước khi ra công chúng. Microsoft và xAI (Elon Musk) đồng ý cung cấp model sớm cho cơ quan quản lý. Đây là bước đầu tiên hướng đến framework AI governance toàn quốc — khi EU hoãn quy định AI rủi ro cao sang 12/2027.",
-      "source": "TLT AI Brief / imfounder.com, 5/2026",
+      "body": "Chính phủ Mỹ đẩy mạnh yêu cầu kiểm tra AI model trước khi phát hành công khai. Microsoft và xAI (Elon Musk) đồng ý cung cấp model sớm cho cơ quan quản lý — bước đầu tiên hướng đến AI governance framework toàn quốc. EU đồng thời hoãn quy định AI rủi ro cao sang tháng 12/2027.",
+      "source": "imfounder.com / TLT AI Brief, 5/2026",
       "source_url": "https://www.tlt.com/insights-and-events/insight/ai-brief-may-2026"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Vàng $4,525.5/oz Thứ Tư — ổn định nhẹ so hôm qua. SJC 161.5 triệu, chênh lệch mua-bán nới rộng 3 triệu. world_vnd ~143.9 triệu. BTC ~$77,400 sideway. Catalyst: GDP Mỹ Q1 revision (thứ 5, 28/5) — dự báo -0.2%."
+      "text": "🟡 Vàng $4,538.3/oz chốt tháng 5 — tăng nhẹ. SJC 159 triệu bán ra (giảm 2.5 triệu so tuần trước, chênh lệch mua-bán 3 triệu). world_vnd ~144.4 triệu. BTC $73,877 sideway. Dell AI server +757% YoY. Tháng 5/2026: vàng tăng >6 triệu so đầu năm."
     },
     "items": [
       {
-        "title": "Vàng $4,525.5/oz Thứ Tư — SJC 161.5 triệu; chênh lệch mua-bán nới rộng 3 triệu; 'đối mặt áp lực mới'",
+        "title": "Vàng $4,538.3/oz chốt tháng 5 — SJC 159 triệu bán ra; world_vnd 144.4 triệu; premium ~14.6 triệu; vàng tăng 6 triệu từ đầu năm",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Vàng thế giới $4,525.5/oz ngày 27/5 — ổn định so hôm qua ($4,523). world_vnd ~143.9 triệu/lượng. SJC bán ra 161.5 triệu, mua vào 158.5 triệu — chênh lệch 3 triệu/lượng đang nới rộng. Kho vàng chiến lược Nga cạn xuống đáy 24 năm là tin tức đáng chú ý hôm nay.",
-        "source": "VOV / BaoQuocTe, 27/5/2026",
-        "source_url": "https://vov.vn/thi-truong/gia-vang-hom-nay-275-vang-sjc-on-dinh-o-muc-1615-dongluong-post1295161.vov"
+        "body": "Vàng thế giới chốt phiên tháng 5 ở $4,538.3/oz. world_vnd ~144.4 triệu/lượng. SJC bán ra 159 triệu, mua vào 156 triệu — premium so thế giới ~14.6 triệu, chênh lệch mua-bán 3 triệu. Vàng nhẫn 9999 bán ra 158.8 triệu (+500K so hôm qua). Tính từ đầu năm, SJC tăng hơn 6 triệu đồng/lượng.",
+        "source": "Vietnam.vn / 24h.com.vn, 31/5/2026",
+        "source_url": "https://www.vietnam.vn/bang-gia-vang-hom-nay-31-5-2026-gia-vang-sjc-gia-vang-24k-9999-vang-the-gioi-cuoi-thang"
       },
       {
-        "title": "Solana Alpenglow lên testnet — Q3/2026 mainnet; RWA market tăng 431% lên $30.8B; BTC $77,400 sideway",
+        "title": "BTC $73,877 sideway cuối tháng — Dell AI server +757% YoY; RWA market $30.8B tăng 431% từ đầu 2025",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Solana ra mắt nâng cấp Alpenglow lên testnet ngày 11/5 — dự kiến mainnet Q3/2026, tăng đáng kể tốc độ và throughput. Thị trường tokenized RWA tăng 431% từ 1/2025 đến 4/2026, từ $5.8B lên $30.8B — BlackRock và Fidelity dẫn đầu. BTC $77,400 sideway ổn định chờ catalyst.",
-        "source": "CoinDesk / Crypto.com Research, 5/2026",
-        "source_url": "https://www.coindesk.com/"
+        "body": "Bitcoin $73,877 (+0.41%) — sideway ổn định cuối tháng 5. Thị trường tokenized RWA đạt $30.8B (+431% từ 1/2025), BlackRock và Fidelity dẫn đầu. Dell AI server revenue tăng 757% lên $16.1B — tín hiệu mạnh cho infrastructure AI cycle tiếp theo.",
+        "source": "Yahoo Finance / CoinDesk, 31/5/2026",
+        "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       },
       {
-        "title": "StablR bị hack: $13.5M token không có bảo chứng được mint, thiệt hại thực $2.8M — cảnh báo bảo mật DeFi",
+        "title": "Thị trường tài chính tháng 5/2026 tổng kết: S&P mạnh nhờ AI, vàng +6 triệu, crypto sideway chờ catalyst",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "StablR đóng băng USDR và EURR sau khi attacker khai thác lỗ hổng multisig 1-of-3 để mint $13.5 triệu token không có bảo chứng. Thực tế thu lợi $2.8M. Vụ việc làm dấy lên lo ngại về bảo mật stablecoin DeFi khi thị trường RWA và stablecoin đang bùng nổ.",
-        "source": "InvestingNews / TheBlock, 5/2026",
-        "source_url": "https://investingnews.com/cryptocurrency-market-recap/"
+        "body": "Tháng 5/2026 tổng kết: Cổ phiếu AI dẫn dắt thị trường (Dell +32%, NVIDIA tiếp đà tăng). Vàng tăng hơn 6 triệu đồng/lượng từ đầu năm tại thị trường Việt Nam. BTC sideway $70K-$74K trong tháng. Mỹ-EU tiếp tục xây dựng khung pháp lý AI — tin tức tích cực dài hạn cho sector.",
+        "source": "CNBC / techstartups.com, 5/2026",
+        "source_url": "https://techstartups.com/2026/05/28/top-tech-news-today-may-28-2026/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>27/5 — Thứ Tư:</b> Vàng $4,525.5/oz — ổn định so hôm qua. world_vnd ~143.9 triệu. SJC 161.5 triệu (bán ra); premium ~17.6 triệu (~12.2%). Chênh lệch mua-bán nới rộng 3 triệu. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
+    "summary": "🟡 <b>31/5 — Chủ Nhật (chốt tháng):</b> Vàng $4,538.3/oz — tăng nhẹ cuối tháng. world_vnd ~144.4 triệu. SJC 159 triệu bán ra, premium ~14.6 triệu (~10.1%). SJC giảm 2.5 triệu trong tuần. Tính từ đầu năm: +6 triệu/lượng. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng $4,525.5/oz Thứ Tư — ổn định nhẹ; biên độ $4,490–$4,545; chờ GDP Mỹ Q1 ngày mai",
+        "name": "Vàng $4,538.3/oz chốt tháng 5 — tăng nhẹ; SJC bốc hơi 2.5 triệu trong tuần do áp lực bán",
+        "pct": 50,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Vàng thế giới phục hồi nhẹ chốt tháng 5 ở $4,538.3/oz. SJC giảm 2.5 triệu/lượng trong tuần (từ 161.5 xuống 159 bán ra). Áp lực chốt lời cuối tháng và thanh khoản thị trường là nguyên nhân chính."
+      },
+      {
+        "name": "world_vnd ~144.4 triệu; SJC 159 triệu — premium ~14.6 triệu (~10.1%), chênh lệch M/B 3 triệu",
         "pct": 52,
         "direction": "up",
         "bar": "fm",
-        "desc": "Vàng phục hồi nhẹ từ $4,523 lên $4,525.5/oz ngày 27/5. Range $4,490–$4,545. Catalyst chính: GDP Mỹ Q1 revision (ngày mai 28/5, dự báo -0.2%) sẽ xác định hướng đi ngắn hạn."
+        "desc": "world_vnd tính theo tỷ giá Vietcombank đạt ~144.4 triệu/lượng. SJC bán ra 159 triệu — premium ~14.6 triệu so thế giới (~10.1%). Chênh lệch mua-bán duy trì 3 triệu/lượng."
       },
       {
-        "name": "world_vnd ~143.9 triệu; SJC 161.5 triệu — premium ~17.6 triệu (~12.2%), chênh lệch M/B nới rộng",
-        "pct": 55,
+        "name": "Vàng SJC tăng >6 triệu từ đầu năm (152.8 → 159 triệu) — momentum dương dù điều chỉnh ngắn hạn",
+        "pct": 60,
         "direction": "up",
         "bar": "fm",
-        "desc": "world_vnd tăng nhẹ về 143.9 triệu/lượng (từ 143.8 hôm qua). SJC bán ra 161.5 triệu, mua vào 158.5 — chênh lệch 3 triệu/lượng đang nới rộng. Premium SJC so thế giới ~17.6 triệu (~12.2%)."
-      },
-      {
-        "name": "Kho vàng chiến lược Nga xuống đáy 24 năm — tín hiệu bán vàng dự trữ toàn cầu cực hiếm",
-        "pct": 45,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Nga cạn dần kho vàng chiến lược về đáy 24 năm — có thể phải bán để tài trợ chiến tranh. Đây là tín hiệu bán áp lực trong ngắn hạn nhưng không ảnh hưởng xu hướng dài hạn mua ròng của central banks."
+        "desc": "Nhìn từ đầu năm 2026: SJC tăng từ 152.8 triệu lên 159 triệu bán ra (+6.2 triệu). Momentum dài hạn vẫn tích cực dù tháng 5 có sự điều chỉnh từ đỉnh 191.2 triệu (tháng 1)."
       },
       {
         "name": "J.P. Morgan $5,055 Q4/2026 — Goldman $5,400 cuối năm; central banks mua 244 tấn Q1",
@@ -106,24 +106,24 @@
         "desc": "J.P. Morgan duy trì $5,055/oz Q4/2026. Goldman Sachs $5,400 cuối năm. Central banks toàn cầu mua 244 tấn Q1/2026 — nền cầu vững cho xu hướng tăng dài hạn."
       },
       {
-        "name": "GDP Mỹ Q1 revision 28/5 (dự báo -0.2%) — nếu tệ hơn, Fed pivot sớm hỗ trợ vàng",
-        "pct": 60,
+        "name": "Tháng 6/2026 catalyst: Fed meeting, dữ liệu việc làm Mỹ, USD index — định hướng tiếp theo của vàng",
+        "pct": 58,
         "direction": "up",
         "bar": "fm",
-        "desc": "GDP Mỹ Q1 revision ngày mai (28/5) dự báo -0.2%. Nếu xấu hơn kỳ vọng → tín hiệu suy thoái → Fed pivot sớm → vàng tăng. Ngược lại data tốt → hawk tiếp tục → áp lực giảm giá vàng ngắn hạn."
+        "desc": "Tháng 6/2026 có Fed meeting và dữ liệu NFP quan trọng. Nếu kinh tế Mỹ tiếp tục yếu → Fed pivot → vàng tăng. Ngược lại USD mạnh thêm → áp lực ngắn hạn. Dự phóng range $4,450–$4,700."
       }
     ],
-    "outlook_label": "Vàng $4,525.5/oz Thứ Tư — world_vnd 143.9 triệu; SJC 161.5 triệu; premium ~17.6 triệu",
+    "outlook_label": "Vàng $4,538.3/oz chốt tháng 5 — world_vnd 144.4 triệu; SJC 159 triệu; premium ~14.6 triệu",
     "outlook_class": "pbg",
-    "outlook_text": "27/5 (Thứ Tư): Vàng $4,525.5/oz — ổn định nhẹ so hôm qua ($4,523). world_vnd ~143.9 triệu, SJC 161.5 triệu (bán ra), premium ~17.6 triệu (~12.2%). Chênh lệch mua-bán nới rộng 3 triệu. Catalyst chính: GDP Mỹ Q1 revision ngày mai (28/5). Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
+    "outlook_text": "31/5 (Chủ Nhật — chốt tháng): Vàng $4,538.3/oz — tăng nhẹ. world_vnd ~144.4 triệu, SJC 159 triệu bán ra, premium ~14.6 triệu (~10.1%). SJC giảm 2.5 triệu trong tuần nhưng vẫn tăng >6 triệu so đầu năm. Tháng 6/2026: Fed meeting và NFP là catalyst chính. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
     "sources": [
       {
-        "name": "VOV — Giá vàng SJC 27/5/2026",
-        "url": "https://vov.vn/thi-truong/gia-vang-hom-nay-275-vang-sjc-on-dinh-o-muc-1615-dongluong-post1295161.vov"
+        "name": "Vietnam.vn — Bảng giá vàng SJC 31/5/2026",
+        "url": "https://www.vietnam.vn/bang-gia-vang-hom-nay-31-5-2026-gia-vang-sjc-gia-vang-24k-9999-vang-the-gioi-cuoi-thang"
       },
       {
-        "name": "BaoQuocTe — Giá vàng 27/5 đối mặt áp lực mới",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-2752026-doi-mat-ap-luc-moi-chenh-lech-gia-mua-ban-noi-rong-kho-vang-chien-luoc-cua-nga-can-dan-xuong-day-24-nam-398217.html"
+        "name": "24h.com.vn — Giá vàng 31/5 tăng trở lại, SJC bốc hơi 2.5 triệu sau tuần",
+        "url": "https://www.24h.com.vn/kinh-doanh/gia-vang-hom-nay-31-5-2026-tang-tro-lai-sjc-van-boc-hoi-25-trieu-sau-mot-tuan-c161a1766227.html"
       },
       {
         "name": "TradingEconomics — Gold Commodity",
@@ -132,7 +132,7 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 27/5 (Thứ Tư): Lãi suất ổn định — không có thay đổi mới. HLBank 7.7% online vẫn dẫn đầu. Big4 giữ 5.9% kỳ 12T. Tháng 5/2026 đồng loạt hạ nhiệt. Khuyến nghị lock HLBank 7.7% hoặc Techcombank 6.75% trước Q3.",
+    "alert": "📊 31/5 (Chủ Nhật — cuối tháng): Lãi suất ổn định. HLBank 7.7% online vẫn dẫn đầu. Big4 giữ 5.9% kỳ 12T. Tháng 5/2026 đồng loạt hạ nhiệt — không có thay đổi mới cuối tháng. Khuyến nghị lock HLBank 7.7% hoặc Techcombank 6.75% trước Q3.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -150,13 +150,13 @@
         "label": "SHB giảm mạnh",
         "value": "5.8%",
         "sub": "SHB kỳ 6T (từ 7.7%) — giảm 1.9pp",
-        "note": "Thay đổi lớn nhất tuần trước"
+        "note": "Thay đổi lớn nhất tháng 5"
       },
       {
         "label": "Big4 kỳ 12T",
         "value": "5.9%",
         "sub": "Agribank, BIDV, VietinBank, VCB",
-        "note": "Big4 ổn định tháng 5"
+        "note": "Big4 ổn định cuối tháng 5"
       }
     ],
     "banks": [
@@ -306,8 +306,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 27/5 (Thứ Tư): Ổn định — tháng 5/2026 đồng loạt hạ nhiệt, HLBank 7.7% vẫn dẫn đầu",
-      "body": "Ngày 27/5, mặt bằng lãi suất huy động ổn định không có thay đổi mới. Tháng 5/2026 đánh dấu xu hướng hạ nhiệt rõ nét toàn hệ thống. HLBank vẫn giữ 7.7% online — cao nhất toàn hệ thống. Vietcombank 3.5% (6-9T), 5.9% (12T), 6.0% (24T+) xác nhận Big4 ổn định. OCB 7.7% (12T quầy), PGBank 7.2%, MBV 7.2% nhóm cao. Khuyến nghị: Lock HLBank 7.7% online hoặc Techcombank 6.75% kỳ 12T trước khi thị trường tiếp tục hạ về 5.5–6.5% trong Q3/2026.",
+      "title": "Lãi suất 31/5 (Chủ Nhật — chốt tháng 5): Ổn định, HLBank 7.7% dẫn đầu, xu hướng hạ nhiệt tiếp diễn sang tháng 6",
+      "body": "Cuối tháng 5/2026, mặt bằng lãi suất huy động không có thay đổi mới. Tháng 5 đánh dấu xu hướng hạ nhiệt rõ nét: SHB giảm 1.9pp (6T), MB giảm 1.2pp (12T). HLBank vẫn dẫn đầu 7.7% online. VPBank 6.6% (12T online), Techcombank 6.75% standard. Big4 ổn định 5.9% kỳ 12T. Khuyến nghị: Lock HLBank 7.7% hoặc Techcombank 6.75% trước khi thị trường tiếp tục hạ về 5.5–6.5% trong Q3/2026.",
       "sources": [
         {
           "name": "Topi.vn — Lãi suất tiết kiệm cao nhất tháng 5/2026",
@@ -318,8 +318,8 @@
           "url": "https://cafef.vn/lai-suat-tien-gui-tiet-kiem-thang-5-2026-dong-loat-ha-nhiet-188260502164039947.chn"
         },
         {
-          "name": "ThuvienlPhapluat — Lãi suất Vietcombank tháng 5/2026",
-          "url": "https://thuvienphapluat.vn/phap-luat-doanh-nghiep/bai-viet/chi-tiet-lai-suat-ngan-hang-vietcombank-thang-5-2026-20806.html"
+          "name": "Vietnam.vn — Lãi suất ngân hàng 25/5/2026 tăng mạnh 6.9%",
+          "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-25-5-2026-tang-manh-co-ky-han-len-toi-6-9-nam"
         }
       ]
     },
@@ -329,21 +329,21 @@
         "level": "main",
         "pct": 85,
         "bar": "fh",
-        "desc": "Toàn hệ thống ngân hàng hạ lãi suất huy động trong tháng 5/2026. SHB giảm 1.9pp (6T), MB giảm 1.2pp (12T) là hai ví dụ điển hình. Thanh khoản dồi dào, tăng trưởng tín dụng Q2 chưa đủ mạnh để hấp thụ lãi suất cao."
+        "desc": "Toàn hệ thống ngân hàng hạ lãi suất huy động trong tháng 5/2026. SHB giảm 1.9pp (6T), MB giảm 1.2pp (12T). Thanh khoản dồi dào, tăng trưởng tín dụng Q2 chưa đủ mạnh để hấp thụ lãi suất cao."
       },
       {
         "name": "MB giảm kỳ 12T từ 7.5% về 6.3% — chi phí vốn điều chỉnh theo thực tế cầu tín dụng",
         "level": "main",
         "pct": 80,
         "bar": "fh",
-        "desc": "MB Bank giảm kỳ 12T về 6.3%, kỳ 6T về 4.6%. Chi phí vốn huy động cao không còn cần thiết khi tăng trưởng tín dụng Q2 chưa đủ mạnh để hấp thụ lãi suất cao."
+        "desc": "MB Bank giảm kỳ 12T về 6.3%, kỳ 6T về 4.6%. Chi phí vốn huy động cao không còn cần thiết khi tăng trưởng tín dụng Q2 chưa đủ mạnh."
       },
       {
         "name": "HLBank 7.7% online vẫn dẫn đầu — chiến lược niche thu hút tiền gửi online",
         "level": "sub",
         "pct": 70,
         "bar": "fh",
-        "desc": "HLBank duy trì 7.7% online kỳ 12T, mức cao nhất hệ thống. Chiến lược tập trung kênh online để thu hút tiền gửi với chi phí vận hành thấp — đặc thù ngân hàng nước ngoài tại Việt Nam."
+        "desc": "HLBank duy trì 7.7% online kỳ 12T — mức cao nhất hệ thống. Chiến lược tập trung kênh online để thu hút tiền gửi với chi phí vận hành thấp."
       },
       {
         "name": "Techcombank 6.9% Private / 6.75% standard — tối ưu chi phí vốn dài hạn",
@@ -390,9 +390,9 @@
         "desc": "Kịch bản NHNN cắt lãi Q3 gần như bị loại. Xác suất nhỏ dồn về Q4/2026 hoặc H1/2027 nếu Fed pivot muộn hoặc kinh tế VN cần kích thích."
       }
     ],
-    "rate_outlook_label": "27/5 — HLBank 7.7% online / Techcombank 6.75% / SHB 5.8% (6T) / MB 6.3% (12T) / Big4 5.9%",
+    "rate_outlook_label": "31/5 — HLBank 7.7% online / Techcombank 6.75% / SHB 5.8% (6T) / MB 6.3% (12T) / Big4 5.9%",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "27/5 (Thứ Tư): Lãi suất ổn định — không có thay đổi mới. HLBank vẫn dẫn đầu 7.7% online. Big4 giữ 5.9% kỳ 12T. Xu hướng: Mặt bằng kỳ 6–12T sẽ tiếp tục hạ về 5.5–6.5% trong Q3/2026. Khuyến nghị: Ưu tiên lock HLBank 7.7% hoặc Techcombank 6.75% kỳ 12T sớm.",
+    "rate_outlook_text": "31/5 (Chủ Nhật — chốt tháng 5): Lãi suất ổn định — không có thay đổi mới. HLBank vẫn dẫn đầu 7.7% online. Big4 giữ 5.9% kỳ 12T. Xu hướng: Mặt bằng kỳ 6–12T sẽ tiếp tục hạ về 5.5–6.5% trong Q3/2026. Khuyến nghị: Ưu tiên lock HLBank 7.7% hoặc Techcombank 6.75% kỳ 12T sớm.",
     "rate_sources": [
       {
         "name": "Topi.vn — So sánh lãi suất ngân hàng tháng 5/2026",
@@ -555,7 +555,11 @@
       "24/05",
       "25/05",
       "26/05",
-      "27/05"
+      "27/05",
+      "28/05",
+      "29/05",
+      "30/05",
+      "31/05"
     ],
     "sjc": [
       152.8,
@@ -703,7 +707,11 @@
       160.0,
       161.0,
       160.5,
-      161.5
+      161.5,
+      161.0,
+      160.5,
+      160.0,
+      159.0
     ],
     "world_vnd": [
       121,
@@ -851,7 +859,11 @@
       143.0,
       144.4,
       143.8,
-      143.9
+      143.9,
+      144.0,
+      144.1,
+      144.2,
+      144.4
     ]
   }
 }
