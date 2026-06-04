@@ -1,129 +1,129 @@
 {
   "meta": {
-    "date": "3 tháng 6, 2026",
-    "day": "Thứ Tư",
-    "updated": "2026-06-03 00:03"
+    "date": "4 tháng 6, 2026",
+    "day": "Thứ Năm",
+    "updated": "2026-06-04 07:00"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>3/6 — Thứ Tư:</b> Vàng $4,520/oz (tăng nhẹ từ đáy $4,505), world_vnd ~143.7 triệu; SJC ~159 triệu. BTC ~$69,000 tiếp tục giảm (-14% trong 30 ngày). Google ra mắt Gemini 3.1 Ultra (2M token context). BIDV 6.8% kỳ 12T vẫn hiệu lực — OCB 7.7% dẫn đầu hệ thống."
+    "text": "🟡 <b>4/6 — Thứ Năm:</b> Vàng ~$4,440/oz giảm (world_vnd ~141.1 triệu; SJC ~158 triệu). BTC ~$67,000 tiếp tục trượt. Microsoft ra mắt 7 model AI tự xây (MAI-Thinking-1), Anthropic IPO $965B. LPBank giảm lãi suất đồng loạt; Big4 giữ mặt bằng 6.5-6.8%/12T."
   },
   "news_ai": [
     {
-      "title": "Google ra mắt Gemini 3.1 Ultra — context window 2 triệu token, multimodal đa chiều đầu tiên",
+      "title": "Microsoft ra mắt 7 model AI tự xây — MAI-Thinking-1 và MAI-Code-1-Flash tại Build 2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google công bố Gemini 3.1 Ultra với 2 triệu token context window, tích hợp suy luận đa chiều qua text, hình ảnh, âm thanh và video. Cùng ngày, Gemini 3.1 Flash-Lite ra mắt — nhanh hơn 2.5× và tiết kiệm chi phí inference hơn 45% so với thế hệ trước.",
-      "source": "llm-stats.com / AI News, 3/6/2026",
-      "source_url": "https://llm-stats.com/llm-updates"
+      "body": "Microsoft công bố 7 model AI xây từ đầu tại Build 2026: MAI-Thinking-1 (reasoning model, beating Claude Sonnet 4.6 trong blind eval) và MAI-Code-1-Flash (code generation). Microsoft tuyên bố 'long-term self-sufficiency' — giảm phụ thuộc OpenAI và Anthropic.",
+      "source": "CNBC / GeekWire, 4/6/2026",
+      "source_url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
     },
     {
-      "title": "Google Search chuyển toàn bộ sang Gemini 3.5 Flash — AI summary thay thế danh sách link truyền thống",
+      "title": "Anthropic nộp hồ sơ IPO bí mật — định giá $965B sau vòng Series H $65B",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google tuyên bố thanh Search bar sẽ chạy hoàn toàn trên Gemini 3.5 Flash — tạo trang tóm tắt AI tùy chỉnh thay vì danh sách link. Đây là thay đổi lớn nhất trong lịch sử Google Search kể từ 1998.",
-      "source": "blog.mean.ceo / AI News, 3/6/2026",
-      "source_url": "https://blog.mean.ceo/ai-news-june-2026/"
+      "body": "Anthropic confidentially filed for IPO ngày 1/6, ngay sau khi huy động $65B Series H đẩy định giá lên $965B. OpenAI cũng đang theo đuổi IPO. Hai big AI lab cùng tiến ra thị trường chứng khoán trong năm 2026.",
+      "source": "Euronews / CNBC, 4/6/2026",
+      "source_url": "https://www.euronews.com/next/2026/06/03/microsoft-launches-its-own-ai-models-to-take-on-openai-and-anthropic"
     },
     {
-      "title": "OpenAI vượt $25B doanh thu hàng năm — đang chuẩn bị các bước tiến tới IPO",
+      "title": "Trump ký Executive Order AI — yêu cầu chia sẻ model mới với chính phủ 30 ngày trước khi ra mắt",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "OpenAI xác nhận doanh thu annualized vượt $25B, đang thực hiện các bước sơ bộ cho lộ trình IPO. Anthropic tiến gần $19B. Cạnh tranh AI frontier tháng 6/2026 hội tụ quanh agentic capabilities và sustainable business model.",
-      "source": "blog.mean.ceo / crescendo.ai, 3/6/2026",
-      "source_url": "https://blog.mean.ceo/open-ai-news-june-2026/"
+      "body": "Tổng thống Trump ký EO về AI, yêu cầu các công ty tech tự nguyện chia sẻ AI model mới với chính phủ Mỹ trong 30 ngày trước khi công bố rộng rãi. Mục tiêu: đảm bảo an ninh quốc gia và duy trì vị thế dẫn đầu AI toàn cầu của Mỹ.",
+      "source": "Scientific American / White House, 4/6/2026",
+      "source_url": "https://www.scientificamerican.com/article/trumps-new-ai-executive-order-drastically-shifts-the-administrations-stance-on-the-tech/"
     },
     {
-      "title": "HHS Mỹ dùng ChatGPT phân tích báo cáo kiểm toán 50 tiểu bang — AI vào chống fraud liên bang",
+      "title": "Tempus AI ra mắt nền tảng Lens thế hệ mới — AI agentic tăng tốc nghiên cứu dược phẩm",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Bộ Y tế Mỹ (HHS) thông báo sử dụng ChatGPT để phân tích báo cáo kiểm toán hàng năm từ tất cả 50 tiểu bang, nhắm vào gian lận, lãng phí và lạm dụng chi tiêu y tế liên bang — đánh dấu AI chính thức vào bộ máy chính phủ Mỹ.",
-      "source": "artificialintelligence-news.com, 3/6/2026",
-      "source_url": "https://www.artificialintelligence-news.com/"
+      "body": "Tempus AI công bố Lens thế hệ tiếp theo — nền tảng AI agentic tích hợp dữ liệu multimodal, AI tooling và hạ tầng tính toán để tăng tốc phát triển thuốc. CFTC cũng phê duyệt Coinbase cung cấp crypto perpetual futures toàn cầu.",
+      "source": "BusinessWire / InvestingNews, 4/6/2026",
+      "source_url": "https://www.businesswire.com/newsroom/industry/technology/artificial-intelligence"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "yellow",
-      "text": "🟡 Vàng $4,520/oz tăng nhẹ từ đáy $4,505 ngày 2/6. world_vnd ~143.7 triệu. SJC ~159 triệu. BTC ~$69,000 giảm 14% trong 30 ngày; AI dự báo $62,678 cuối tháng 6. NFP sắp công bố; Nvidia tăng 2% sau chip PC mới."
+      "type": "red",
+      "text": "🔴 Vàng ~$4,440/oz giảm mạnh (world_vnd ~141.1 triệu; SJC ~158 triệu). BTC ~$67,000 — record ETF outflows $2.97B trong 10 ngày. CFTC phê duyệt Coinbase perpetual futures."
     },
     "items": [
       {
-        "title": "Vàng $4,520/oz tăng nhẹ ngày 3/6 — world_vnd ~143.7 triệu; SJC ~159 triệu; premium ~15.3 triệu",
+        "title": "Vàng ~$4,440/oz giảm xuống gần đáy tháng 3 — world_vnd ~141.1 triệu; SJC ~158 triệu",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Vàng spot hồi phục nhẹ về $4,520/oz sau phiên giảm 1.58% ngày 2/6. world_vnd ~143.7 triệu/lượng. SJC duy trì ~159 triệu bán ra, premium so thế giới ~15.3 triệu (~10.6%). Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
-        "source": "APMEX / GiavangOrg, 3/6/2026",
-        "source_url": "https://www.apmex.com/gold-price"
+        "body": "Vàng giảm xuống ~$4,440/oz ngày 4/6, tiến gần đáy tháng 3. world_vnd ~141.1 triệu/lượng. SJC ~158 triệu bán ra. Áp lực từ kỳ vọng Fed giữ lãi cao và USD mạnh. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
+        "source": "TradingEconomics / APMEX, 4/6/2026",
+        "source_url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "title": "BTC ~$69,000 giảm 14% trong 30 ngày — AI Finbold dự báo $62,678 vào 30/6; ETF outflows kéo dài",
+        "title": "BTC ~$67,000 — record ETF outflows $2.97B trong 10 ngày; CFTC phê duyệt Coinbase perpetual futures",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Bitcoin tiếp tục điều chỉnh ở ~$69,000 — giảm 14% trong 30 ngày. Finbold AI Agent dự báo BTC có thể về $62,678 vào ngày 30/6. BTC spot ETF tháng 5 ghi nhận $2.4B net outflows. Catalyst: SpaceX IPO 12/6 và NFP.",
-        "source": "finbold.com / BanklessTimes, 3/6/2026",
-        "source_url": "https://finbold.com/ai-predicts-bitcoin-price-for-june-30-2026/"
+        "body": "Bitcoin trượt về ~$67,000 với ETF outflows kỷ lục $2.97B trong 10 ngày. Tuy nhiên CFTC phê duyệt Coinbase cung cấp crypto perpetual futures — lần đầu tiên một sàn Mỹ được tiếp cận thị trường derivatives offshore.",
+        "source": "TheBlock / InvestingNews, 4/6/2026",
+        "source_url": "https://investingnews.com/cryptocurrency-market-recap/"
       },
       {
-        "title": "Nvidia tăng 2% sau chip PC mới; NFP tháng 5 sắp công bố — Fed policy vào tầm ngắm",
+        "title": "LPBank giảm đồng loạt lãi suất ngày 3/6 — mốc 7% thu hẹp trên toàn hệ thống",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Nvidia tăng 2% sau thông báo chip AI mới nhắm vào thị trường PC. Thị trường chờ NFP tháng 5 — số liệu yếu → Fed pivot sớm → hỗ trợ tài sản rủi ro và vàng.",
-        "source": "Schwab Market Update / Yahoo Finance, 3/6/2026",
-        "source_url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        "body": "LPBank giảm đồng loạt lãi suất các kỳ hạn ngày 3/6/2026, mốc 7% tiếp tục thu hẹp. Big4 giữ mặt bằng mới từ 1/6: BIDV 6.8%/12T, Vietcombank/Agribank/VietinBank 6.5%/12T. OCB 7.7% và HLBank 7.3% vẫn dẫn đầu.",
+        "source": "Vietnam.vn / VietnamNet, 4/6/2026",
+        "source_url": "https://www.vietnam.vn/lai-suat-lpbank-hom-nay-3-6-2026-giam-dong-loat-cac-ky-han-moc-7-thu-hep"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>3/6 — Thứ Tư:</b> Vàng $4,520/oz — hồi phục nhẹ sau phiên giảm $72.6 ngày 2/6. world_vnd ~143.7 triệu/lượng. SJC ~159 triệu bán ra, premium ~15.3 triệu (~10.6%). Tuần này: NFP tháng 5 định hướng Fed. SpaceX IPO 12/6 là catalyst risk-on. Range tháng 6: $4,450-$4,700. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
+    "summary": "🔴 <b>4/6 — Thứ Năm:</b> Vàng ~$4,440/oz giảm tiếp (world_vnd ~141.1 triệu/lượng). SJC ~158 triệu bán ra, premium ~16.9 triệu (~12%). Áp lực: Fed hawkish, USD mạnh, kỳ vọng lãi suất cao kéo dài. Hỗ trợ: central banks mua mạnh, J.P. Morgan $5,055 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng $4,520/oz hồi phục nhẹ ngày 3/6 — sau phiên giảm $72.6 (-1.58%) ngày 2/6",
-        "pct": 50,
-        "direction": "up",
+        "name": "Vàng ~$4,440/oz ngày 4/6 — giảm tiếp, tiến gần đáy tháng 3",
+        "pct": 40,
+        "direction": "down",
         "bar": "fm",
-        "desc": "Vàng spot hồi phục về $4,520 sau phiên giảm mạnh 1.58% ngày 2/6. Tín hiệu tích cực ngắn hạn nhưng chưa đủ để xác nhận phục hồi bền vững. Ngưỡng $4,540 là kháng cự gần nhất."
+        "desc": "Vàng tiếp tục giảm về ~$4,440/oz, áp lực kỳ vọng Fed giữ lãi cao và USD mạnh. Ngưỡng hỗ trợ gần nhất: $4,380-4,400 (đáy tháng 3)."
       },
       {
-        "name": "world_vnd ~143.7 triệu; SJC ~159 triệu — premium ~15.3 triệu (~10.6%)",
-        "pct": 48,
-        "direction": "up",
+        "name": "world_vnd ~141.1 triệu; SJC ~158 triệu — premium ~16.9 triệu (~12%)",
+        "pct": 42,
+        "direction": "down",
         "bar": "fm",
-        "desc": "world_vnd ~143.7 triệu/lượng (tăng nhẹ từ 143.2 hôm qua). SJC duy trì ~159 triệu bán ra — premium so thế giới ~15.3 triệu (~10.6%)."
+        "desc": "world_vnd giảm về ~141.1 triệu/lượng theo giá USD. SJC ~158 triệu bán ra — premium so thế giới ~16.9 triệu (~12%)."
       },
       {
-        "name": "NFP tháng 5 sắp công bố — quyết định tín hiệu Fed và hướng đi vàng ngắn hạn",
-        "pct": 60,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Báo cáo Non-Farm Payrolls tháng 5 công bố cuối tuần. Số liệu yếu → Fed pivot sớm → vàng hướng $4,600-$4,700. Số liệu mạnh → Fed giữ lãi cao → vàng tiếp tục điều chỉnh về $4,450."
+        "name": "Fed hawkish — lãi suất cao kéo dài, USD mạnh; NFP tháng 5 là catalyst",
+        "pct": 65,
+        "direction": "down",
+        "bar": "fh",
+        "desc": "Kỳ vọng Fed giữ lãi cao do sticky inflation gây áp lực lên vàng. NFP tháng 5 sắp công bố — số liệu mạnh → thêm áp lực. Số liệu yếu → vàng phục hồi."
       },
       {
-        "name": "J.P. Morgan $5,055 Q4/2026 — Goldman $5,400 cuối năm; central banks mua 244 tấn Q1",
+        "name": "Central banks toàn cầu mua 244 tấn Q1/2026 — nền cầu vững; J.P. Morgan $5,055 Q4",
         "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "J.P. Morgan duy trì $5,055/oz Q4/2026. Goldman Sachs $5,400 cuối năm. Central banks toàn cầu mua 244 tấn Q1/2026 — nền cầu vững cho xu hướng tăng dài hạn."
+        "desc": "Central banks tiếp tục mua mạnh (244 tấn Q1/2026). J.P. Morgan duy trì $5,055/oz Q4/2026, Goldman $5,400. Đây là nền tảng hỗ trợ dài hạn vững chắc."
       },
       {
-        "name": "SpaceX IPO 12/6 — catalyst risk-on; đàm phán Mỹ-Iran có thể hạ lạm phát",
+        "name": "SpaceX IPO 12/6 và đàm phán Mỹ-Iran — catalyst risk-on tiềm năng",
         "pct": 55,
         "direction": "up",
         "bar": "fm",
-        "desc": "SpaceX IPO ngày 12/6 kỳ vọng kéo risk appetite tăng. Nếu đàm phán Mỹ-Iran thành công, dầu rẻ → lạm phát hạ → Fed pivot sớm → vàng tăng."
+        "desc": "SpaceX IPO 12/6 kỳ vọng kéo risk appetite. Đàm phán Mỹ-Iran tiến triển → dầu rẻ → lạm phát hạ → Fed pivot sớm → hỗ trợ vàng trung hạn."
       }
     ],
-    "outlook_label": "Vàng $4,520/oz (+0.33%) ngày 3/6 — world_vnd 143.7 triệu; SJC ~159 triệu; premium ~15.3 triệu",
-    "outlook_class": "pbe",
-    "outlook_text": "3/6 (Thứ Tư): Vàng $4,520/oz hồi phục nhẹ sau phiên giảm 1.58% ngày 2/6. world_vnd ~143.7 triệu, SJC ~159 triệu bán ra, premium ~15.3 triệu (~10.6%). Catalyst tuần này: NFP tháng 5 định hướng Fed, SpaceX IPO 12/6. Range tháng 6: $4,450-$4,700. Dài hạn: J.P. Morgan $5,055 và Goldman $5,400 Q4/2026.",
+    "outlook_label": "Vàng ~$4,440/oz (-1.8%) ngày 4/6 — world_vnd 141.1 triệu; SJC ~158 triệu; premium ~16.9 triệu",
+    "outlook_class": "pbr",
+    "outlook_text": "4/6 (Thứ Năm): Vàng ~$4,440/oz giảm tiếp, gần đáy tháng 3. world_vnd ~141.1 triệu, SJC ~158 triệu, premium ~16.9 triệu (~12%). Rủi ro ngắn hạn: Fed hawkish, USD mạnh. Hỗ trợ dài hạn: central banks mua mạnh, J.P. Morgan $5,055 Q4/2026. SpaceX IPO 12/6 là catalyst watch.",
     "sources": [
       {
-        "name": "APMEX — Gold Price Today 3/6/2026",
-        "url": "https://www.apmex.com/gold-price"
+        "name": "TradingEconomics — Gold Price June 2026",
+        "url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "name": "GiavangOrg — Giá vàng SJC 3/6/2026",
-        "url": "https://giavang.org/"
+        "name": "APMEX — Gold Price Today",
+        "url": "https://www.apmex.com/gold-price"
       },
       {
         "name": "BanklessTimes — Bitcoin Price Prediction June 2026",
@@ -132,7 +132,7 @@
     ]
   },
   "interest_rates": {
-    "alert": "📈 3/6 (Thứ Tư): Lãi suất Big4 ổn định tại mặt bằng mới từ 1/6 — BIDV 6.8%/12T, Vietcombank/Agribank/VietinBank 6.5%/12T. OCB 7.7% kỳ 12T và HLBank 7.3% tiếp tục dẫn đầu. KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4/2026.",
+    "alert": "📊 4/6 (Thứ Năm): LPBank giảm đồng loạt lãi suất ngày 3/6. Big4 giữ mặt bằng mới từ 1/6 — BIDV 6.8%/12T, Vietcombank/Agribank/VietinBank 6.5%/12T. OCB 7.7% và HLBank 7.3% vẫn dẫn đầu hệ thống.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
@@ -153,10 +153,10 @@
         "note": "Duy trì mức cao — tháng 6 chưa thay đổi"
       },
       {
-        "label": "BIDV kỳ 6T",
-        "value": "6.6%",
-        "sub": "BIDV 6-11T (tăng +1.2pp từ 1/6)",
-        "note": "Mức tăng mạnh nhất đợt điều chỉnh 1/6"
+        "label": "LPBank giảm 3/6",
+        "value": "↓",
+        "sub": "LPBank giảm đồng loạt kỳ hạn",
+        "note": "Mốc 7% thu hẹp — xu hướng hạ nhiệt"
       }
     ],
     "banks": [
@@ -215,10 +215,10 @@
       },
       {
         "name": "LPBank",
-        "m3": "4.5%",
-        "m6": "6.3%",
-        "m12": "6.6%",
-        "trend": "hold"
+        "m3": "4.3%",
+        "m6": "6.0%",
+        "m12": "6.4%",
+        "trend": "down"
       },
       {
         "name": "MB",
@@ -306,19 +306,19 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 3/6 (Thứ Tư): Mặt bằng mới ổn định sau đợt tăng Big4 — Dự báo hạ nhiệt Q3",
-      "body": "Sau đợt tăng từ 1/6/2026, lãi suất đang ổn định tại mặt bằng mới: Big4 6.5-6.8% kỳ 12T, NH vừa 6.8-7.7%. BIDV 6.8% kỳ 12-18T vẫn hiệu lực. Vietcombank, Agribank, VietinBank đều ở 6.5% kỳ 12T. Chuyên gia KBSV dự báo lãi suất hạ nhiệt 0.5-1pp trong Q3-Q4/2026 khi Fed dần pivot. OCB 7.7% kỳ 12T và HLBank 7.3% vẫn là lựa chọn tốt nhất. Khuyến nghị: Lock OCB 7.7% hoặc HLBank 7.3% kỳ 12T trước khi mặt bằng giảm.",
+      "title": "Lãi suất 4/6 (Thứ Năm): LPBank giảm — xu hướng hạ nhiệt bắt đầu lan rộng",
+      "body": "LPBank giảm đồng loạt lãi suất ngày 3/6, mốc 7% tiếp tục thu hẹp. Big4 duy trì mặt bằng mới từ 1/6: BIDV 6.8%/12T, Vietcombank/Agribank/VietinBank 6.5%/12T. Online: Big4 đều cho 6.8%/12T. OCB 7.7% kỳ 12T và HLBank 7.3% vẫn dẫn đầu hệ thống. KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4/2026. LPBank giảm là tín hiệu xu hướng lan rộng. Khuyến nghị: Lock OCB 7.7% hoặc HLBank 7.3% kỳ 12T — cơ hội sắp đóng.",
       "sources": [
         {
-          "name": "VietnamNet — BIDV tăng lãi suất 1/6/2026",
-          "url": "https://www.vietnam.vn/lai-suat-ngan-hang-hom-nay-1-6-2026-bidv-tang-lai-suat-huy-dong-them-1-2"
+          "name": "VietnamNet — Big4 tăng lãi suất từ 1/6",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-6-2026-ong-lon-big4-tang-manh-o-nhieu-ky-han-2521386.html"
         },
         {
-          "name": "CafeF — Lãi suất 2026 hạ nhiệt nhưng khó giảm sâu",
-          "url": "https://cafef.vn/lai-suat-ngan-hang-2026-ha-nhiet-nhung-kho-giam-sau-188260501081449327.chn"
+          "name": "Vietnam.vn — LPBank giảm lãi suất 3/6",
+          "url": "https://www.vietnam.vn/lai-suat-lpbank-hom-nay-3-6-2026-giam-dong-loat-cac-ky-han-moc-7-thu-hep"
         },
         {
-          "name": "24HMoney — Lãi suất gửi tiết kiệm tháng 6/2026",
+          "name": "24HMoney — Lãi suất tháng 6/2026",
           "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
         }
       ]
@@ -329,17 +329,17 @@
         "level": "main",
         "pct": 85,
         "bar": "fh",
-        "desc": "Sau đợt tăng từ 1/6, Big4 duy trì mặt bằng mới ổn định. BIDV 6.8% kỳ 12-18T là mức cao nhất Big4 từ trước đến nay."
+        "desc": "Big4 duy trì mặt bằng mới ổn định sau đợt tăng 1/6. BIDV 6.8%/12T cao nhất Big4. Online Big4 đều cho 6.8%/12T."
       },
       {
-        "name": "OCB 7.7% và HLBank 7.3% vẫn cao nhất — khoảng cách với Big4 thu hẹp còn 0.9-1.2pp",
+        "name": "OCB 7.7% và HLBank 7.3% dẫn đầu — LPBank giảm 3/6, mốc 7% thu hẹp",
         "level": "main",
-        "pct": 80,
+        "pct": 78,
         "bar": "fh",
-        "desc": "OCB 7.7% và HLBank 7.3% vẫn dẫn đầu hệ thống. Khoảng cách với Big4 thu hẹp từ ~2pp xuống ~0.9-1.2pp."
+        "desc": "OCB 7.7% và HLBank 7.3% vẫn là hai mức cao nhất. LPBank giảm đồng loạt 3/6 — tín hiệu sớm của xu hướng hạ nhiệt."
       },
       {
-        "name": "SHB online 7.7% kỳ 6T — hấp dẫn cho kỳ ngắn trung hạn",
+        "name": "SHB online 7.7% kỳ 6T — vẫn hấp dẫn cho trung hạn",
         "level": "sub",
         "pct": 72,
         "bar": "fm",
@@ -350,57 +350,57 @@
         "level": "sub",
         "pct": 65,
         "bar": "fm",
-        "desc": "Fed giữ lãi suất cao → NHNN không thể giảm mạnh. Nhu cầu tín dụng H2/2026 tăng → NH duy trì lãi suất huy động mức cao."
+        "desc": "Fed giữ lãi cao → NHNN khó giảm mạnh. Nhu cầu tín dụng H2/2026 tăng → NH duy trì lãi suất huy động mức cao."
       },
       {
-        "name": "KBSV dự báo lãi hạ nhiệt 0.5-1pp Q3-Q4/2026 — cơ hội lock lãi cao sắp đóng",
+        "name": "KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4/2026 — LPBank giảm 3/6 là tín hiệu đầu tiên",
         "level": "sub",
         "pct": 60,
         "bar": "fm",
-        "desc": "Chuyên gia KB Securities Việt Nam dự báo lãi suất hạ nhiệt rõ ràng Q3-Q4/2026. Cơ hội lock lãi cao 7.3-7.7% đang trong giai đoạn cuối."
+        "desc": "KBSV dự báo lãi suất hạ nhiệt Q3-Q4/2026. LPBank giảm 3/6 là bằng chứng đầu tiên. Cơ hội lock lãi cao 7.3-7.7% sắp hết."
       }
     ],
     "rate_forecast": [
       {
-        "name": "OCB 7.7% / HLBank 7.3% online — cơ hội lock trước khi hạ nhiệt Q3",
+        "name": "OCB 7.7% / HLBank 7.3% online — lock ngay trước hạ nhiệt Q3",
         "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "OCB 7.7% và HLBank 7.3% vẫn là hai mức cao nhất. Dự báo hạ nhiệt Q3 — nên lock kỳ 12T sớm trong tháng 6."
+        "desc": "OCB 7.7% và HLBank 7.3% vẫn là hai mức cao nhất. LPBank đã giảm — xu hướng hạ nhiệt bắt đầu. Lock kỳ 12T sớm."
       },
       {
-        "name": "BIDV 6.8% kỳ 12T — lựa chọn Big4 hấp dẫn nhất từ 1/6",
+        "name": "BIDV 6.8% kỳ 12T — lựa chọn Big4 hấp dẫn nhất",
         "pct": 70,
         "direction": "up",
         "bar": "fh",
-        "desc": "BIDV 6.8% kỳ 12-18T từ 1/6 — kết hợp uy tín Big4 và lãi suất tốt."
+        "desc": "BIDV 6.8% kỳ 12-18T từ 1/6 — kết hợp uy tín Big4 và lãi suất tốt nhất Big4."
       },
       {
         "name": "Mặt bằng kỳ 12T có thể về 6.0-6.5% cuối Q3/2026",
         "pct": 62,
         "direction": "down",
         "bar": "fm",
-        "desc": "KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4. Big4 có thể giảm lãi suất huy động về 6.0-6.5% kỳ 12T vào Q3/2026."
+        "desc": "KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4. LPBank đã giảm 3/6. Big4 có thể điều chỉnh xuống 6.0-6.5% vào Q3/2026."
       },
       {
-        "name": "NHNN cắt lãi điều hành Q4 — xác suất thấp ~18-22%",
+        "name": "NHNN cắt lãi điều hành Q4 — xác suất ~18-22%",
         "pct": 20,
         "direction": "down",
         "bar": "fl",
-        "desc": "Big4 tăng lãi cho thấy áp lực vốn — không nhất quán với kịch bản cắt lãi điều hành ngắn hạn. Xác suất dồn về Q4/2026."
+        "desc": "Big4 tăng lãi huy động không nhất quán với cắt lãi điều hành ngắn hạn. Xác suất dồn về Q4/2026."
       }
     ],
-    "rate_outlook_label": "3/6 — BIDV 6.8% / OCB 7.7% / HLBank 7.3% / Mặt bằng mới ổn định sau đợt tăng 1/6",
+    "rate_outlook_label": "4/6 — OCB 7.7% / HLBank 7.3% / BIDV 6.8% / LPBank giảm 3/6 — xu hướng hạ nhiệt bắt đầu",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "3/6 (Thứ Tư): Mặt bằng lãi suất mới ổn định sau đợt tăng Big4 từ 1/6. BIDV 6.8% kỳ 12T, Vietcombank/Agribank/VietinBank 6.5% kỳ 12T. OCB 7.7% và HLBank 7.3% dẫn đầu hệ thống. KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4/2026. Khuyến nghị: Lock OCB 7.7% hoặc HLBank 7.3% kỳ 12T — hoặc BIDV 6.8% nếu ưu tiên Big4.",
+    "rate_outlook_text": "4/6 (Thứ Năm): LPBank giảm đồng loạt lãi suất 3/6 — tín hiệu đầu tiên của xu hướng hạ nhiệt. Big4 giữ mặt bằng mới: BIDV 6.8%/12T, Vietcombank/Agribank/VietinBank 6.5%/12T. OCB 7.7% và HLBank 7.3% dẫn đầu hệ thống. Khuyến nghị: Lock OCB 7.7% hoặc HLBank 7.3% kỳ 12T — hoặc BIDV 6.8% nếu ưu tiên Big4.",
     "rate_sources": [
       {
         "name": "VietnamNet — Big4 tăng mạnh lãi suất từ 6 tháng",
         "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-6-2026-ong-lon-big4-tang-manh-o-nhieu-ky-han-2521386.html"
       },
       {
-        "name": "CafeF — Lãi suất 2026 hạ nhiệt",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-2026-ha-nhiet-nhung-kho-giam-sau-188260501081449327.chn"
+        "name": "Vietnam.vn — LPBank giảm lãi suất 3/6/2026",
+        "url": "https://www.vietnam.vn/lai-suat-lpbank-hom-nay-3-6-2026-giam-dong-loat-cac-ky-han-moc-7-thu-hep"
       },
       {
         "name": "24HMoney — Lãi suất tháng 6/2026",
@@ -562,7 +562,8 @@
       "31/05",
       "01/06",
       "02/06",
-      "03/06"
+      "03/06",
+      "04/06"
     ],
     "sjc": [
       152.8,
@@ -717,7 +718,8 @@
       159.0,
       159.5,
       159.0,
-      159.0
+      159.0,
+      158.0
     ],
     "world_vnd": [
       121,
@@ -872,7 +874,8 @@
       144.4,
       144.3,
       143.2,
-      143.7
+      143.7,
+      141.1
     ]
   }
 }
