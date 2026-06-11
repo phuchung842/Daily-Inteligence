@@ -1,129 +1,129 @@
 {
   "meta": {
-    "date": "10 tháng 6, 2026",
-    "day": "Thứ Tư",
-    "updated": "2026-06-10 07:05"
+    "date": "11 tháng 6, 2026",
+    "day": "Thứ Năm",
+    "updated": "2026-06-11 13:52"
   },
   "alert": {
     "type": "red",
-    "text": "🔴 <b>10/6 — Thứ Tư:</b> Vàng $4,285/oz (-1.79%), SJC ~142.2 triệu. BTC $61,169 (-4.34%). Microsoft ra mắt MAI-Code-1-Flash; Meta debut Muse Spark LLM. MB Bank giảm lãi 12T về 6.2%."
+    "text": "🔴 <b>11/6 — Thứ Năm:</b> Vàng $4,110/oz (-4.11%), SJC ~136.5 triệu. BTC $62,860 (+2.77% phục hồi). Google Gemini 3.5 Pro sắp ra tháng 6. SHB 6T lên 7.7%, BIDV dẫn đầu Big4 tại 7.4%, VPBank 12T lên 7.4%."
   },
   "news_ai": [
     {
-      "title": "Microsoft Build 2026: Ra mắt MAI-Code-1-Flash — LLM code generation đầu tiên của Microsoft",
+      "title": "Google Gemini 3.5 Pro sắp ra tháng 6/2026 — vượt trội coding và agentic, thách thức GPT-4.1 và Claude Opus 4.8",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Microsoft công bố MAI-Code-1-Flash tại Build 2026 — mô hình AI đầu tiên do Microsoft tự phát triển, chuyên dùng để tạo mã nguồn từ mô tả ngôn ngữ tự nhiên. Đây là nỗ lực của Microsoft nhằm giảm phụ thuộc vào OpenAI và hạ chi phí cho developers.",
-      "source": "CNBC / Microsoft Build, 10/6/2026",
-      "source_url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
+      "body": "Sau Gemini 3.5 Flash (GA tháng 5), Google xác nhận 3.5 Pro đang dùng nội bộ và sẽ phát hành trong tháng 6. Mô hình kỳ vọng vượt 3.1 Ultra về reasoning, coding và agentic benchmarks — tạo áp lực trực tiếp lên GPT-4.1 và Claude Opus 4.8 của Anthropic.",
+      "source": "ChatForest / Google Blog, 11/6/2026",
+      "source_url": "https://chatforest.com/builders-log/gemini-3-5-pro-june-2026-wait-or-ship-flash-now/"
     },
     {
-      "title": "Meta ra mắt Muse Spark — flagship LLM đầu tiên của Superintelligence Labs dưới quyền Alexandr Wang",
+      "title": "SoftBank đầu tư €75B xây data centers AI tại Pháp — lớn nhất lịch sử châu Âu",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta unveiled Muse Spark, mô hình LLM flagship đầu tiên từ nhóm Superintelligence Labs mới của Meta, do Chief AI Officer Alexandr Wang dẫn dắt. Muse Spark cạnh tranh trực tiếp với GPT-4o và Claude Opus về multimodal reasoning với chi phí compute thấp hơn đáng kể.",
-      "source": "CNBC / Meta AI, 10/6/2026",
-      "source_url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html"
+      "body": "SoftBank công bố đầu tư €75 tỷ phát triển 5 GW AI data center tại Pháp, pha đầu €45B cho 3.1 GW ở Hauts-de-France trước 2031. Đây là khoản đầu tư AI hạ tầng lớn nhất từ trước đến nay tại châu Âu — cho thấy cuộc đua xây dựng hạ tầng AI toàn cầu ngày càng khốc liệt.",
+      "source": "Choose France Summit, 11/6/2026",
+      "source_url": "https://blog.mean.ceo/latest-ai-developments-news-june-2026/"
     },
     {
-      "title": "Gemini 3.5 Flash chính thức GA — frontier intelligence với tốc độ gấp 4x mô hình tương đương",
+      "title": "Oracle cổ phiếu sụt mạnh — nhà đầu tư lo ngại chi phí AI hạ tầng vượt kiểm soát",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google chính thức phát hành Gemini 3.5 Flash ở trạng thái Generally Available. Mô hình cung cấp hiệu suất frontier-level nhưng chạy nhanh gấp 4 lần so với các mô hình cùng tầm. Đây là nước đi cạnh tranh trực tiếp với Claude Haiku 4.5 và GPT-4o Mini.",
-      "source": "LLM Stats / Google, 10/6/2026",
-      "source_url": "https://llm-stats.com/llm-updates"
+      "body": "Cổ phiếu Oracle giảm mạnh sau khi công bố tăng chi tiêu AI hạ tầng vượt kỳ vọng. Thị trường phản ứng tiêu cực với mô hình 'AI spending bất chấp lợi nhuận' đang lan rộng — xu hướng khiến cloud stocks chịu áp lực bán tháo trong tuần.",
+      "source": "Yahoo Finance / CNBC, 11/6/2026",
+      "source_url": "https://finance.yahoo.com/video/oracle-shares-plunge-soaring-ai-032211658.html"
     },
     {
-      "title": "Claude Opus 4.8 đạt 88.6% SWE-bench — Anthropic tích hợp parallel-subagent workflows",
+      "title": "Meta sa thải 8,000 người (10%), Snap cắt 1,000 — AI restructuring lan rộng toàn ngành tech",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic ra mắt Claude Opus 4.8 với điểm số 88.6% trên SWE-bench Verified và 74.6% Terminal-Bench 2.1 — thiết lập SOTA mới cho coding tasks. Phiên bản mới hỗ trợ parallel-subagent workflows và fast mode 2.5x, giữ nguyên mức giá $5/$25 per million tokens.",
-      "source": "LLM Stats / Anthropic, 10/6/2026",
-      "source_url": "https://llm-stats.com/ai-news"
+      "body": "Meta sa thải 8,000 nhân viên (~10%) và chuyển 7,000 người sang nhóm AI. Snap cắt 1,000 người khi AI tạo ra >65% code mới của hãng. Xu hướng AI restructuring đang tái định hình quy mô nhân sự Big Tech — chuyển dịch tư 'con người làm code' sang 'AI làm code, con người giám sát'.",
+      "source": "CNBC / The Verge, 11/6/2026",
+      "source_url": "https://blog.mean.ceo/latest-ai-announcements-news-june-2026/"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "red",
-      "text": "🔴 Vàng $4,285/oz (-1.79%), BTC $61,169 (-4.34%) — thị trường đồng loạt đỏ sàn 10/6. SJC ~142.2 triệu. Dow Jones 50,786 (-0.16%), S&P 500 7,405 (+0.30%), Nasdaq 25,929 (+0.86%)."
+      "text": "🔴 Vàng $4,110/oz (-4.11%) sụt mạnh nhất nhiều tuần ngày 11/6. BTC $62,860 (+2.77%) phục hồi từ đáy. SJC ~136.5 triệu. Fed 99% giữ lãi 3.5-3.75% — >50% trader đặt cược Fed tăng lãi cuối 2026."
     },
     "items": [
       {
-        "title": "Vàng $4,285/oz (-1.79%) và BTC $61,169 (-4.34%) — thị trường đồng loạt đỏ sàn; vàng SJC ~142.2 triệu",
+        "title": "Vàng $4,110/oz (-4.11%) — SJC ~136.5 triệu; áp lực bán tháo kéo vàng xuống đáy 8 tháng",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Cả vàng và crypto đồng loạt giảm ngày 10/6: vàng thế giới về $4,285/oz (-1.79%), SJC ước ~142.2 triệu/lượng. Bitcoin về $61,169 (-4.34%) sau đợt thanh lý ~$451M. S&P 500 vẫn giữ vùng 7,400+ nhờ AI stocks chống đỡ.",
-        "source": "CoinDesk / Coinpedia, 10/6/2026",
-        "source_url": "https://coinpedia.org/news/live-us-stock-market-gold-price-crypto-market-crash-today/"
+        "body": "Vàng thế giới giảm mạnh 4.11% về $4,110/oz ngày 11/6 — đợt sụt mạnh nhất trong nhiều tuần. SJC bán ra vùng 131-137 triệu/lượng, buổi chiều phục hồi +1 triệu. BTC ngược chiều hồi phục về $62,860 (+2.77%). USD mạnh + sell-off quốc tế là áp lực kép.",
+        "source": "LatestLY / VietnamNet, 11/6/2026",
+        "source_url": "https://vietnamnet.vn/gia-vang-hom-nay-11-6-2026-giam-khong-ngung-vang-sjc-roi-xuong-day-8-thang-2524788.html"
       },
       {
-        "title": "Circle ra mắt cirBTC — token pegged 1:1 BTC cho phép dùng Bitcoin trong DeFi protocols",
+        "title": "Fed 99% giữ lãi 3.5-3.75% tháng 6 — nhưng >50% xác suất tăng lãi cuối năm 2026",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Circle — nhà phát hành USDC — ra mắt cirBTC, token được đảm bảo 1:1 bởi Bitcoin thực, cho phép holders tham gia DeFi mà không cần bán BTC. Động thái cho thấy hướng đi mới: bridging Bitcoin liquidity vào DeFi ecosystem.",
-        "source": "CoinMarketCap / CoinDesk, 10/6/2026",
-        "source_url": "https://coinmarketcap.com/cmc-ai/bitcoin/latest-updates/"
+        "body": "CME FedWatch: 99% khả năng Fed giữ lãi không đổi tháng 6. Nguy hiểm hơn: >50% trader đặt cược Fed sẽ tăng lãi ít nhất 1 lần cuối 2026 vì lạm phát chưa về 2%. Viễn cảnh tăng lãi là lực kìm BTC và các rủi ro tài sản trong dài hạn.",
+        "source": "KuCoin / CME FedWatch, 11/6/2026",
+        "source_url": "https://www.kucoin.com/blog/cme-fedwatch-99-chance-fed-holds-rates-in-june-2026-crypto-impact"
       },
       {
-        "title": "Strategy (MicroStrategy) ngầm báo hiệu tích lũy BTC trở lại — Michael Saylor ám chỉ mua tiếp",
+        "title": "Circle ra mắt cirBTC; Strategy tích lũy BTC — big players mua vùng $61-63K",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Michael Saylor của Strategy phát tín hiệu công ty sắp nối lại chiến lược tích lũy Bitcoin sau khi bán 32 BTC. Family offices và sovereign wealth funds cũng đang mua vào vùng $61-63K. BTC ETF AUM giữ quanh $100B.",
-        "source": "CoinDesk / The Block, 10/6/2026",
-        "source_url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain"
+        "body": "Circle tung cirBTC (wrapped Bitcoin 1:1 cho DeFi), Michael Saylor ám chỉ Strategy nối lại mua BTC. Family offices và sovereign wealth funds đang tích lũy vùng $61-63K — cho thấy nhà đầu tư tổ chức xem đây là vùng hỗ trợ mạnh và cơ hội tích lũy dài hạn.",
+        "source": "CoinDesk / The Block, 11/6/2026",
+        "source_url": "https://www.theblock.co/post/387481/fed-holds-rates-steady-expected-bitcoin-dips-stabilizing"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🔴 <b>10/6 — Thứ Tư:</b> Vàng $4,285/oz (-1.79%), world_vnd ~136.2 triệu/lượng. SJC ước ~142.2 triệu, premium ~6 triệu (~4.4%). Đà giảm tiếp diễn giữa áp lực USD mạnh và crypto sụt. Dài hạn: J.P. Morgan $5,055 Q4.",
+    "summary": "🔴 <b>11/6 — Thứ Năm:</b> Vàng $4,110/oz (-4.11%), world_vnd ~130.6 triệu/lượng. SJC bán ra ~136.5 triệu, premium ~6 triệu (~4.6%). Đợt sụt mạnh nhất nhiều tuần — USD mạnh + bán tháo quốc tế. Dài hạn: J.P. Morgan $5,055 Q4.",
     "factors": [
       {
-        "name": "Vàng $4,285/oz (-1.79%) — world_vnd ~136.2 triệu; SJC ~142.2 triệu",
-        "pct": 30,
+        "name": "Vàng $4,110/oz (-4.11%) — world_vnd ~130.6 triệu; SJC ~136.5 triệu",
+        "pct": 22,
         "direction": "down",
-        "bar": "fm",
-        "desc": "Vàng giảm 1.79% về $4,285/oz ngày 10/6. World_vnd ~136.2 triệu, SJC ước ~142.2 triệu — premium ~6 triệu (~4.4%). Đà giảm 5 phiên liên tiếp từ đỉnh $4,364."
+        "bar": "fl",
+        "desc": "Vàng sụt 4.11% về $4,110/oz ngày 11/6 — đợt giảm mạnh nhất nhiều tuần. World_vnd ~130.6 triệu. SJC bán ra ~137 triệu, buổi chiều tăng 1 triệu. Premium ~6.5 triệu (~5%)."
       },
       {
-        "name": "Đồng USD mạnh sau dữ liệu việc làm Mỹ vững",
-        "pct": 70,
+        "name": "USD mạnh + bán tháo quốc tế — áp lực kép đè giá vàng",
+        "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "Chỉ số DXY tăng sau số liệu việc làm Mỹ tốt hơn kỳ vọng, gây áp lực giảm lên vàng. USD mạnh trực tiếp đẩy giá vàng USD xuống."
+        "desc": "DXY tăng mạnh sau dữ liệu kinh tế Mỹ vững. Áp lực bán tháo quốc tế lan rộng. USD mạnh trực tiếp đẩy giá vàng USD xuống đáy 8 tháng."
       },
       {
-        "name": "BTC -4.34%, crypto đồng loạt — tâm lý risk-off lan rộng",
+        "name": "BTC +2.77% phục hồi — tâm lý đảo chiều nhưng chưa lan sang vàng",
         "pct": 55,
-        "direction": "down",
+        "direction": "up",
         "bar": "fm",
-        "desc": "Crypto sụt mạnh tạo sentiment tiêu cực. BTC $61,169, thanh lý $451M trong 24h. Tâm lý risk-off ảnh hưởng đến vàng ngắn hạn."
+        "desc": "BTC phục hồi về $62,860 từ đáy $61,169. Tuy nhiên risk-on chưa đủ mạnh để kéo vàng — nhà đầu tư ngắn hạn ưu tiên BTC hơn vàng trong giai đoạn phục hồi."
       },
       {
         "name": "NH TW tiếp tục mua ròng — nền tảng dài hạn vững; J.P. Morgan $5,055 Q4",
         "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "Ngân hàng TW lớn tiếp tục mua ròng vàng. Dự báo dài hạn: J.P. Morgan $5,055/oz Q4/2026, Goldman Sachs $5,400. Nền tảng cầu từ central bank diversification vẫn vững."
+        "desc": "Ngân hàng TW lớn tiếp tục mua ròng vàng bất chấp biến động ngắn hạn. Dự báo dài hạn: J.P. Morgan $5,055/oz Q4/2026, Goldman Sachs $5,400. Nền tảng cầu từ central bank vẫn vững."
       },
       {
-        "name": "NHNN kiểm soát premium SJC — premium ~4.4% (từ đỉnh ~17%)",
-        "pct": 28,
-        "direction": "down",
+        "name": "SJC đảo chiều tăng +1 triệu chiều 11/6 — nhu cầu nội địa hỗ trợ giá",
+        "pct": 38,
+        "direction": "up",
         "bar": "fl",
-        "desc": "Premium SJC vs world_vnd ~6 triệu (~4.4%), vẫn ổn định thấp. NHNN tiếp tục đấu thầu kiểm soát. Thị trường trong nước bám sát giá quốc tế."
+        "desc": "Sau khi sụt mạnh buổi sáng, SJC đảo chiều tăng 1 triệu/lượng vào chiều 11/6 — tín hiệu lực cầu nội địa hỗ trợ. Premium SJC vs world ~6.5 triệu (~5%), NHNN tiếp tục kiểm soát bình ổn."
       }
     ],
-    "outlook_label": "Vàng $4,285/oz (10/6 Thứ Tư) — world_vnd ~136.2 triệu; SJC ~142.2 triệu; tiếp đà giảm",
+    "outlook_label": "Vàng $4,110/oz (11/6 Thứ Năm) — world_vnd ~130.6 triệu; SJC ~136.5 triệu; sụt mạnh 4.11%",
     "outlook_class": "pbr",
-    "outlook_text": "10/6 (Thứ Tư): Vàng tiếp đà giảm $4,285/oz (-1.79%). World_vnd ~136.2 triệu, SJC ~142.2 triệu, premium ~4.4%. USD mạnh + crypto sụt là áp lực kép. Khuyến nghị: KHÔNG tích lũy thêm vùng hiện tại — chờ tín hiệu ổn định. Dài hạn tích cực: J.P. Morgan $5,055 Q4.",
+    "outlook_text": "11/6 (Thứ Năm): Vàng sụt mạnh 4.11% về $4,110/oz — đợt giảm lớn nhất nhiều tuần. World_vnd ~130.6 triệu, SJC ~136.5 triệu. USD mạnh là áp lực chính. Buổi chiều: SJC phục hồi +1 triệu nhờ cầu nội địa. Khuyến nghị: KHÔNG tích lũy thêm — chờ vùng $4,000-4,050 ổn định. Dài hạn tích cực: J.P. Morgan $5,055 Q4.",
     "sources": [
       {
-        "name": "Coinpedia — Gold price June 10, 2026",
-        "url": "https://coinpedia.org/news/live-us-stock-market-gold-price-crypto-market-crash-today/"
+        "name": "VietnamNet — Giá vàng SJC 11/6/2026",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-11-6-2026-giam-khong-ngung-vang-sjc-roi-xuong-day-8-thang-2524788.html"
       },
       {
-        "name": "TradingEconomics — Gold June 2026",
-        "url": "https://tradingeconomics.com/commodity/gold"
+        "name": "LatestLY — BTC & Gold 11/6/2026",
+        "url": "https://www.latestly.com/business/bitcoin-price-today-june-11-2026-btc-price-stable-around-usd-61996-as-traders-await-federal-reserve-policy-direction-7468123.html"
       },
       {
         "name": "Kitco — Gold Price Today",
@@ -132,31 +132,31 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 10/6 (Thứ Tư): MB Bank giảm lãi suất 12T từ 6.35% về 6.2%/năm sau điều chỉnh cuối T5. Big4 vẫn giữ 6.8%/12T. OCB 7.7% cao nhất hệ thống. Xu hướng tháng 6 hạ nhẹ — lock 12T trước Q3 hạ nhiệt.",
+    "alert": "📊 11/6 (Thứ Năm): Lãi suất tăng mạnh đảo chiều xu hướng tháng 5. BIDV dẫn đầu Big4 tại 7.4%/12T sau 2 lần tăng liên tiếp. SHB online 6T lên 7.7%. VPBank/Cake 12T lên 7.4%. Techcombank 12T lên 7.25%. Cửa sổ lock lãi cao đang mở rộng.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
         "value": "7.7%",
-        "sub": "OCB online kỳ 12T",
-        "note": "OCB 7.7% vẫn dẫn đầu — lock trước Q3 hạ nhiệt"
+        "sub": "OCB online 12T / SHB online 6T",
+        "note": "OCB 7.7% dẫn đầu 12T; SHB 7.7% online dẫn đầu 6T — cạnh tranh khốc liệt"
       },
       {
-        "label": "Big4 kỳ 12T",
-        "value": "6.8%",
-        "sub": "BIDV/VCB/Agribank/VTB đồng nhất",
-        "note": "Tất cả Big4 đồng nhất 6.8%/12T từ 1/6/2026"
+        "label": "BIDV dẫn đầu Big4",
+        "value": "7.4%",
+        "sub": "BIDV 12T sau 2 lần tăng liên tiếp",
+        "note": "BIDV tăng 6-12T thêm 0.6pp, dẫn đầu Big4 tại 7.4%/12T — tín hiệu tích cực"
       },
       {
-        "label": "MB Bank điều chỉnh",
-        "value": "6.2%",
-        "sub": "MB 12T giảm từ 6.35% → 6.2%",
-        "note": "MB Bank hạ 12T về 6.2% — xu hướng chung tháng 6"
+        "label": "VPBank tăng mạnh nhất",
+        "value": "7.4%",
+        "sub": "VPBank/Cake 12T tăng từ 6.3% → 7.4%",
+        "note": "VPBank (Cake) tăng mạnh +1.1pp — mức tăng ấn tượng nhất tuần"
       },
       {
-        "label": "Xu hướng tháng 6",
-        "value": "📉",
-        "sub": "Giảm nhẹ so với tháng 5",
-        "note": "NH thương mại hạ nhẹ, Big4 giữ nguyên — dự báo tiếp tục Q3"
+        "label": "Xu hướng 11/6",
+        "value": "📈",
+        "sub": "Tăng mạnh, đảo chiều so tháng 5",
+        "note": "NH đua tăng lãi — cửa sổ lock 12T đang mở. Dự báo đỉnh Q3 trước khi hạ nhiệt."
       }
     ],
     "banks": [
@@ -216,23 +216,26 @@
       {
         "name": "Techcombank",
         "m3": "4.35%",
-        "m6": "6.55%",
-        "m12": "6.75%",
-        "trend": "hold"
+        "m6": "6.4%",
+        "m12": "7.25%",
+        "trend": "up",
+        "m12_hi": true
       },
       {
         "name": "BIDV",
         "m3": "4.75%",
-        "m6": "6.6%",
-        "m12": "6.8%",
-        "trend": "hold"
+        "m6": "7.0%",
+        "m12": "7.4%",
+        "trend": "up",
+        "m12_hi": true
       },
       {
         "name": "Vietcombank",
         "m3": "4.75%",
-        "m6": "6.6%",
-        "m12": "6.8%",
-        "trend": "hold"
+        "m6": "7.0%",
+        "m12": "7.4%",
+        "trend": "up",
+        "m12_hi": true
       },
       {
         "name": "Agribank",
@@ -265,16 +268,18 @@
       {
         "name": "SHB",
         "m3": "4.40%",
-        "m6": "5.8%",
-        "m12": "6.5%",
-        "trend": "hold"
+        "m6": "7.7%",
+        "m12": "7.8%",
+        "trend": "up",
+        "m12_hi": true
       },
       {
         "name": "VPBank",
-        "m3": "4.65%",
-        "m6": "6.1%",
-        "m12": "6.3%",
-        "trend": "hold"
+        "m3": "4.75%",
+        "m6": "7.2%",
+        "m12": "7.4%",
+        "trend": "up",
+        "m12_hi": true
       },
       {
         "name": "TPBank",
@@ -306,105 +311,105 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 10/6 (Thứ Tư): MB Bank giảm 12T về 6.2% — xu hướng hạ nhẹ tháng 6 lan rộng; Big4 giữ 6.8%",
-      "body": "Tháng 6/2026, MB Bank điều chỉnh giảm lãi suất 12 tháng từ 6.35% xuống 6.2%/năm, phản ánh xu hướng hạ nhẹ đang lan rộng trong hệ thống NH thương mại. Big4 tiếp tục giữ 6.8%/12T ổn định. OCB 7.7% vẫn là mức cao nhất toàn hệ thống; HLBank online 7.3% top 2. KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4/2026 — cửa sổ lock lãi cao đang thu hẹp dần.",
+      "title": "Lãi suất 11/6 (Thứ Năm): BIDV dẫn đầu Big4 tại 7.4%; SHB, VPBank, Techcombank đua tăng — đảo chiều xu hướng tháng 5",
+      "body": "Ngày 11/6/2026, thị trường lãi suất đảo chiều so với xu hướng hạ nhẹ tháng 5. BIDV tăng mạnh lên 7.4%/12T sau 2 lần điều chỉnh liên tiếp, dẫn đầu Big4 (VCB cũng 7.4% sản phẩm linh hoạt). SHB online tăng 6T lên 7.7% — dẫn đầu kỳ 6 tháng toàn hệ thống. VPBank/Cake 12T tăng mạnh từ 6.3% lên 7.4%. Techcombank 12T lên 7.25%. OCB vẫn giữ 7.7%/12T top 1 toàn hệ thống. Xu hướng: NH đua tăng lãi để cạnh tranh nguồn vốn — cơ hội lock 12T đang mở rộng trước khi đỉnh lãi suất hình thành.",
       "sources": [
         {
-          "name": "CafeF — MB lãi suất tháng 6/2026",
-          "url": "https://cafef.vn/lai-suat-ngan-hang-quan-doi-mb-moi-nhat-thang-6-2026-sau-dieu-chinh-muc-cao-nhat-la-bao-nhieu-188260604161944559.chn"
+          "name": "Timo — Lãi suất ngân hàng 11/6/2026 trên đà tăng mạnh",
+          "url": "https://timo.vn/blogs/lai-suat-gui-tiet-kiem-ngan-hang-nao-cao-nhat/"
         },
         {
-          "name": "Techcombank — Lãi suất tiết kiệm 10/06/2026",
+          "name": "Techcombank — Lãi suất 30+ ngân hàng 11/06/2026",
           "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
         },
         {
-          "name": "Topi — Lãi suất tiết kiệm tháng 6/2026",
-          "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+          "name": "VietnamNet — BIDV 2 lần tăng liên tiếp 8/6/2026",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-8-6-2026-ong-lon-2-lan-tang-lien-tiep-dan-dau-big4-2523667.html"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "Big4 đồng nhất 6.8%/12T — ổn định tháng 6",
+        "name": "BIDV 7.4%/12T dẫn đầu Big4 — tăng 2 lần liên tiếp; VCB 7.4% sản phẩm linh hoạt",
         "level": "main",
-        "pct": 85,
+        "pct": 88,
         "bar": "fh",
-        "desc": "Tất cả Big4 duy trì 6.8%/12T. OCB 7.7% và HLBank 7.3% dẫn đầu online. MBV 7% cho kỳ 6-18T."
+        "desc": "BIDV tăng 6-12T thêm 0.6pp, 13-36T thêm 0.4pp — dẫn đầu Big4 tại 7.4%. VCB đạt 7.4% qua sản phẩm tiết kiệm rút gốc linh hoạt 12T. Cả hai cho thấy áp lực cạnh tranh nguồn vốn trong Big4 đang tăng."
       },
       {
-        "name": "MB Bank giảm 12T về 6.2% — xu hướng hạ tháng 6 lan rộng",
+        "name": "SHB 7.7% online 6T / VPBank 7.4% 12T — NH tư nhân đua tăng lãi mạnh",
         "level": "main",
-        "pct": 72,
+        "pct": 80,
         "bar": "fh",
-        "desc": "MB điều chỉnh giảm 12T từ 6.35% → 6.2%. Xu hướng tháng 6: NH thương mại hạ nhẹ, KBSV dự báo tiếp tục Q3-Q4."
+        "desc": "SHB đẩy lãi 6T online lên 7.7% — cao nhất kỳ 6 tháng toàn hệ thống. VPBank/Cake tăng 12T từ 6.3% lên 7.4% — mức tăng 1.1pp ấn tượng nhất tuần. NH tư nhân đang cạnh tranh quyết liệt huy động vốn."
       },
       {
         "name": "Fed giữ lãi cao — macro Mỹ ảnh hưởng NHNN",
         "level": "sub",
-        "pct": 60,
+        "pct": 62,
         "bar": "fm",
-        "desc": "BTC -4.34% và vàng -1.79% phản ánh lo ngại macro. USD mạnh sau dữ liệu việc làm Mỹ. NHNN trì hoãn cắt lãi điều hành."
+        "desc": "Fed 99% giữ lãi 3.5-3.75% tháng 6. USD mạnh, >50% xác suất tăng lãi cuối năm. NHNN khó cắt lãi điều hành trước Q4 — giúp lãi suất huy động duy trì ở mức cao."
       },
       {
-        "name": "Tín dụng BĐS tăng nhanh — áp lực lên thanh khoản hệ thống",
+        "name": "Tín dụng BĐS và tiêu dùng tăng — áp lực huy động vốn tăng theo",
         "level": "sub",
         "pct": 60,
         "bar": "fm",
-        "desc": "Tín dụng BĐS tăng gây áp lực thanh khoản — yếu tố giữ lãi suất không giảm quá mạnh trong ngắn hạn."
+        "desc": "Tăng trưởng tín dụng nửa đầu 2026 vượt kế hoạch — NH cần huy động thêm vốn, buộc phải tăng lãi tiết kiệm để thu hút người gửi."
       },
       {
-        "name": "Tiền gửi dân cư dịch chuyển khỏi NH — buộc NH giữ lãi cạnh tranh",
+        "name": "Tiền gửi dân cư cạnh tranh với kênh đầu tư khác — NH buộc tăng lãi hấp dẫn",
         "level": "sub",
-        "pct": 50,
+        "pct": 52,
         "bar": "fm",
-        "desc": "Một bộ phận tiền gửi dân cư rời NH tìm kênh đầu tư khác. NH phải duy trì lãi hấp dẫn để giữ tiền gửi."
+        "desc": "Thị trường chứng khoán và BĐS hồi phục thu hút dòng tiền. NH phải tăng lãi tiết kiệm để cạnh tranh giữ lại tiền gửi dân cư."
       }
     ],
     "rate_forecast": [
       {
-        "name": "OCB 7.7% / HLBank 7.3% online — lock ngay trước hạ nhiệt Q3",
-        "pct": 80,
+        "name": "SHB 7.7% online 6T / OCB 7.7% 12T — lock kỳ dài ngay",
+        "pct": 85,
         "direction": "up",
         "bar": "fh",
-        "desc": "OCB 7.7% là mức cao nhất toàn hệ thống. HLBank online 7.3%. Lock kỳ 12T sớm trước Q3 hạ nhiệt."
+        "desc": "SHB 7.7% online dẫn đầu kỳ 6T. OCB 7.7% dẫn đầu kỳ 12T toàn hệ thống. Lock kỳ dài trước khi đỉnh lãi hình thành và hạ nhiệt Q4."
       },
       {
-        "name": "Big4 6.8% kỳ 12T — uy tín + lãi suất tốt",
-        "pct": 70,
+        "name": "BIDV 7.4% / VPBank 7.4% 12T — Big4 + tư nhân đồng thuận tăng",
+        "pct": 75,
         "direction": "up",
         "bar": "fh",
-        "desc": "Big4 đồng nhất 6.8%/12T — kết hợp tốt nhất giữa uy tín và lãi suất cho khoản tiền gửi trung hạn."
+        "desc": "BIDV và VPBank đều ở 7.4%/12T — kết hợp uy tín và lãi cao. Techcombank 7.25% cũng hấp dẫn. Danh mục phân tán giữa Big4 và tư nhân là chiến lược tối ưu."
       },
       {
-        "name": "Mặt bằng kỳ 12T có thể về 6.0-6.5% cuối Q3/2026",
-        "pct": 65,
-        "direction": "down",
+        "name": "Mặt bằng 12T có thể đạt đỉnh 7.5-8% Q3/2026 rồi hạ",
+        "pct": 60,
+        "direction": "up",
         "bar": "fm",
-        "desc": "KBSV dự báo hạ nhiệt 0.5-1pp Q3-Q4. MB đã bắt đầu giảm. Đây là cửa sổ cuối để lock lãi suất cao tháng 6."
+        "desc": "Xu hướng tăng đang rõ ràng. Đỉnh lãi suất dự kiến hình thành Q3/2026 ở mức 7.5-8% trước khi Fed cắt lãi và NHNN theo sau Q4. Lock ngay là chiến lược phù hợp."
       },
       {
-        "name": "NHNN cắt lãi điều hành Q4 — xác suất ~20-25% nếu CPI hạ nhiệt",
-        "pct": 22,
+        "name": "NHNN cắt lãi điều hành Q4 — xác suất ~30-40% nếu CPI hạ nhiệt",
+        "pct": 35,
         "direction": "down",
         "bar": "fl",
-        "desc": "USD mạnh và BTC giảm ảnh hưởng sentiment toàn cầu. Xác suất cắt lãi Q4 phụ thuộc dữ liệu macro Mỹ."
+        "desc": "USD mạnh và >50% xác suất Fed tăng lãi cuối năm là rủi ro chính. NHNN sẽ chờ tín hiệu rõ ràng từ Fed trước khi hạ lãi điều hành — dự kiến Q4/2026 nếu CPI về 3-3.5%."
       }
     ],
-    "rate_outlook_label": "10/6 — MB 6.2% (giảm) / OCB 7.7% / HLBank 7.3% online / Big4 6.8% — hạ nhiệt tháng 6",
+    "rate_outlook_label": "11/6 — BIDV 7.4% / SHB 7.7% online 6T / VPBank 7.4% / OCB 7.7% — đua tăng mạnh",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "10/6 (Thứ Tư): MB Bank giảm 12T về 6.2%. Big4 giữ 6.8%/12T. OCB 7.7% và HLBank 7.3% online dẫn đầu. Xu hướng tháng 6 hạ nhẹ lan rộng — lock kỳ 12T trước Q3 là chiến lược tối ưu.",
+    "rate_outlook_text": "11/6 (Thứ Năm): Thị trường lãi suất đảo chiều mạnh — BIDV 7.4%/12T dẫn Big4, SHB 7.7% online 6T, VPBank 7.4%, Techcombank 7.25%. OCB 7.7% vẫn top 1 toàn hệ thống 12T. Xu hướng tăng đang rõ ràng — lock kỳ 12T trước khi đỉnh hình thành là chiến lược tối ưu.",
     "rate_sources": [
       {
-        "name": "CafeF — MB lãi suất tháng 6/2026",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-quan-doi-mb-moi-nhat-thang-6-2026-sau-dieu-chinh-muc-cao-nhat-la-bao-nhieu-188260604161944559.chn"
+        "name": "Timo — Lãi suất 11/6/2026 trên đà tăng mạnh",
+        "url": "https://timo.vn/blogs/lai-suat-gui-tiet-kiem-ngan-hang-nao-cao-nhat/"
       },
       {
-        "name": "24HMoney — Lãi suất tháng 6/2026",
-        "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
+        "name": "Techcombank — Lãi suất 30+ NH hôm nay 11/06/2026",
+        "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
       },
       {
-        "name": "Topi — Lãi suất tiết kiệm tháng 6/2026",
-        "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+        "name": "Topi — SHB lãi suất tháng 6/2026",
+        "url": "https://topi.vn/lai-suat-ngan-hang-shb.html"
       }
     ]
   },
@@ -569,7 +574,8 @@
       "07/06",
       "08/06",
       "09/06",
-      "10/06"
+      "10/06",
+      "11/06"
     ],
     "sjc": [
       152.8,
@@ -731,7 +737,8 @@
       148.2,
       150.7,
       143.8,
-      142.2
+      142.2,
+      136.5
     ],
     "world_vnd": [
       121,
@@ -893,7 +900,8 @@
       137.8,
       139.2,
       138.0,
-      136.2
+      136.2,
+      130.6
     ]
   }
 }
