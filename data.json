@@ -1,144 +1,144 @@
 {
   "meta": {
-    "date": "15 tháng 6, 2026",
-    "day": "Thứ Hai",
-    "updated": "2026-06-15 00:10"
+    "date": "16 tháng 6, 2026",
+    "day": "Thứ Ba",
+    "updated": "2026-06-16 07:03"
   },
   "alert": {
     "type": "green",
-    "text": "🟢 <b>15/6 — Thứ Hai:</b> Vàng thế giới tăng mạnh lên $4,281/oz (+$59, tiến gần $4,300) — SJC giữ nguyên 144-147 triệu; world_vnd ~136.1 triệu (+2M). BTC $65,185 (+0.9%). ACB tăng đột biến lãi suất online lên 7.3%/12T (+1.6pp, ngày 12/6); SHB 7.8% vẫn dẫn đầu. NVIDIA-SK Hynix hợp tác next-gen AI memory; Meta cắt 8,000 nhân viên tập trung AI."
+    "text": "🟢 <b>16/6 — Thứ Ba:</b> Vàng thế giới tiếp tục tăng lên $4,309/oz (+$28) — SJC nhảy vọt 148-150.5 triệu/lượng (+3.5-4M); world_vnd ~137.0 triệu. Fed FOMC họp ngày 1 (16-17/6) dưới tân Chủ tịch Kevin Warsh — thị trường kỳ vọng 98.3% giữ lãi 3.5-3.75%. Anthropic IPO $965B vs OpenAI IPO $852B — cuộc đua lịch sử ra sàn. Google ra Gemini 3.5 Flash cho agentic AI."
   },
   "news_ai": [
     {
-      "title": "NVIDIA & SK Hynix hợp tác đa năm cho AI memory thế hệ mới — Vera Rubin, RTX Spark, Jetson Thor",
+      "title": "Anthropic IPO $965B vs OpenAI IPO $852B — cuộc đua lịch sử 2 AI lab hàng đầu thế giới ra sàn chứng khoán",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "NVIDIA và SK Hynix công bố quan hệ đối tác công nghệ đa năm để phát triển bộ nhớ thế hệ tiếp theo phù hợp với lộ trình AI infrastructure của NVIDIA, bao gồm siêu máy tính AI Vera Rubin, CPU Vera, RTX Spark PCs và nền tảng robotics Jetson Thor. Đây là bước đi chiến lược củng cố chuỗi cung ứng AI phần cứng khi cuộc đua AI compute ngày càng khốc liệt.",
-      "source": "AI News / NVIDIA, 15/6/2026",
+      "body": "Anthropic nộp hồ sơ IPO ngày 1/6 với định giá $965 tỷ — tuần sau OpenAI nộp hồ sơ bảo mật ngày 8/6 với định giá ~$852 tỷ. Đây là cuộc đua lịch sử khi 2 AI lab hàng đầu thế giới cùng chạy đua ra sàn năm 2026. Anthropic dẫn nhờ Claude Code thống trị AI coding; OpenAI eye Q4 IPO. Perplexity giữ kế hoạch IPO 2028.",
+      "source": "TechCrunch / SeekingAlpha, 16/6/2026",
+      "source_url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
+    },
+    {
+      "title": "Google Gemini 3.5 Flash ra mắt — 'frontier performance' cho agentic AI và coding; Microsoft cạnh tranh AI coding",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Google công bố Gemini 3.5 Flash với năng lực 'frontier performance' được thiết kế cho agents và coding — nhắm thẳng vào phân khúc agentic AI đang bùng nổ. Đồng thời Microsoft và Google đang cạnh tranh trực tiếp với Anthropic và OpenAI trong AI coding models. Cuộc chiến 2026 đã chuyển từ 'chọn model' sang 'chọn platform' — chip, runtime, control plane và security posture.",
+      "source": "CNBC / drvikramsingh.ai, 16/6/2026",
+      "source_url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html"
+    },
+    {
+      "title": "Five Eyes ra hướng dẫn bảo mật agentic AI — Mỹ, Anh, Úc, Canada, New Zealand",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Cơ quan an ninh mạng và tình báo của 5 quốc gia (Mỹ, Anh, Úc, Canada, New Zealand) phối hợp phát hành hướng dẫn 'Careful Adoption of Agentic AI Services' — đề cập các rủi ro bảo mật khi triển khai agentic AI trong cơ sở hạ tầng quan trọng và quốc phòng. Đây là tín hiệu rõ ràng rằng agentic AI đang đủ mạnh để trở thành mối lo ngại an ninh quốc gia.",
+      "source": "AI Intelligence News / Five Eyes, 16/6/2026",
       "source_url": "https://www.artificialintelligence-news.com/"
     },
     {
-      "title": "Meta cắt giảm 8,000 nhân viên (10% nhân lực) — tái cấu trúc toàn lực vào AI agentic",
+      "title": "NVIDIA đưa AI chip 1 petaflop vào PC cá nhân — kỷ nguyên edge AI và on-device inference bắt đầu",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta bắt đầu triển khai làn sóng sa thải khoảng 8,000 nhân viên — tương đương 10% tổng nhân lực — trong chiến lược tái cấu trúc tập trung vào AI. Đồng thời, 7,000 nhân viên khác được chuyển sang các nhóm AI. Động thái này phản ánh xu hướng Big Tech dồn nguồn lực tối đa vào AI agentic và automation trong H2/2026.",
-      "source": "Crescendo AI News, 15/6/2026",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-    },
-    {
-      "title": "Microsoft Phi-4-reasoning-vision-15B — model open-weight 15B tham số, cân bằng reasoning và efficiency",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Microsoft công bố Phi-4-reasoning-vision-15B, model open-weight multimodal 15 tỷ tham số thiết kế để cân bằng năng lực reasoning bậc cao trong toán học và khoa học với hiệu quả tính toán. Model nhắm vào phân khúc edge deployment và on-device AI — nơi model nhỏ nhưng mạnh đang chiếm ưu thế trong 2026.",
-      "source": "mean.ceo AI Announcements, 15/6/2026",
-      "source_url": "https://blog.mean.ceo/latest-ai-announcements-news-june-2026/"
-    },
-    {
-      "title": "BMW i Ventures ra mắt quỹ $300M cho agentic AI & physical AI — Series A/B Bắc Mỹ và châu Âu",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "BMW i Ventures công bố quỹ đầu tư mới trị giá 300 triệu USD nhắm vào startup giai đoạn sớm đến Series B trong lĩnh vực agentic AI, physical AI, phần mềm công nghiệp, vật liệu tiên tiến và công nghệ chuỗi cung ứng tại Bắc Mỹ và châu Âu. Đây là dấu hiệu rõ ràng nhất từ ngành ô tô rằng AI đang chuyển hóa toàn bộ chuỗi giá trị sản xuất.",
-      "source": "AI Developments News, 15/6/2026",
-      "source_url": "https://blog.mean.ceo/latest-ai-developments-news-june-2026/"
+      "body": "NVIDIA tích hợp chip AI đạt ngưỡng 1 petaflop vào máy tính cá nhân — cột mốc lịch sử đưa năng lực AI từ data center xuống thiết bị đầu cuối. Cùng với RTX Spark và Jetson Thor, NVIDIA đang xây dựng hệ sinh thái AI từ cloud đến edge. IBM nhận định 2026 là năm open-source AI nhỏ hơn, multimodal hơn, reasoning cao hơn — phù hợp để tune cho pháp lý, y tế, sản xuất.",
+      "source": "LLM Stats / IBM 2026 AI Trends, 16/6/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "green",
-      "text": "🟢 Vàng thế giới tăng mạnh $4,281/oz sáng 15/6 (+$59, tiến gần $4,300) — SJC giữ nguyên 144-147M; world_vnd ~136.1 triệu. BTC $65,185 (+0.9% 24h, +5.3% tuần). Cuộc họp Fed đầu tiên dưới tân Chủ tịch Kevin Warsh sắp diễn ra — thị trường chờ tín hiệu lãi suất."
+      "text": "🟢 Vàng thế giới $4,309/oz (+$28 so hôm qua) — SJC 148-150.5M (+3.5-4M, tăng mạnh nhất tuần); world_vnd ~137.0 triệu. Bitcoin ~$63,700-66,000 (giảm nhẹ trước FOMC). Fed FOMC họp 16-17/6 dưới tân Chủ tịch Kevin Warsh — 98.3% xác suất giữ lãi 3.5-3.75%; dot plot mới công bố 17/6."
     },
     "items": [
       {
-        "title": "Vàng tăng mạnh $4,281/oz sáng 15/6 (+$59) — tiến gần $4,300; SJC 144-147M giữ nguyên",
+        "title": "Vàng $4,309/oz (+$28) — SJC nhảy vọt 148-150.5 triệu/lượng (+3.5-4M), tăng cao nhất tuần",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Sáng 15/6, giá vàng thế giới trên Kitco đạt $4,281/oz, tăng $59 so với sáng qua. Vàng tăng trong bối cảnh lạm phát Mỹ cao hơn dự báo, xung đột Trung Đông leo thang trở lại. SJC trong nước giữ nguyên 144-147 triệu/lượng; world_vnd ước ~136.1 triệu. Premium SJC vs world thu hẹp còn ~9-11 triệu (~7-8%). Kitco khảo sát: thị trường có thể đã chạm đáy ngắn hạn.",
-        "source": "VTC News / Kitco, 15/6/2026",
-        "source_url": "https://vtcnews.vn/gia-vang-hom-nay-15-6-tang-manh-tien-gan-4-300-usd-ounce-ar1023629.html"
+        "body": "Sáng 16/6, giá vàng thế giới đạt $4,309/oz — tăng thêm $28 so với $4,281 hôm qua, tiếp tục xu hướng tăng. SJC trong nước tăng mạnh lên 148-150.5 triệu/lượng (mua-bán), tăng 3.5-4 triệu so phiên hôm qua. World_vnd ước ~137.0 triệu. Vàng tăng trong bối cảnh căng thẳng Trung Đông và thị trường chờ FOMC. Đây là mức cao nhất 1 tuần qua.",
+        "source": "VTC News / Giavang.org, 16/6/2026",
+        "source_url": "https://vtcnews.vn/gia-vang-hom-nay-16-6-tiep-tuc-tang-len-muc-cao-nhat-1-tuan-qua-ar1023813.html"
       },
       {
-        "title": "BTC $65,185 (+0.9% 24h, +5.3% tuần) — Fed họp đầu tiên dưới tân Chủ tịch Kevin Warsh",
+        "title": "Fed FOMC họp ngày 1 (16/6) — Kevin Warsh chủ trì lần đầu; 98.3% giữ lãi 3.5-3.75%; dot plot mới 17/6",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "Hôm nay 16/6 là ngày đầu họp FOMC dưới tân Chủ tịch Kevin Warsh (nhậm chức 22/5). CME FedWatch: 98.3% xác suất giữ nguyên lãi suất 3.5-3.75%. CPI tháng 4: 3.8% yoy; thất nghiệp 4.3%. Kết quả và dot plot mới sẽ công bố 17/6 — quyết định xu hướng vàng và crypto tuần tới. Thị trường chuyển từ 'easing bias' sang 'neutral stance'.",
+        "source": "FXStreet / CoinGape, 16/6/2026",
+        "source_url": "https://www.fxstreet.com/analysis/kevin-warsh-opens-first-fed-meeting-june-16-with-rate-hold-expected-202606151326"
+      },
+      {
+        "title": "Bitcoin ~$63,700-66,000 — nhẹ tay trước FOMC; SpaceX IPO $75B tiết lộ BTC treasury; ETF inflow $85.8M",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin tăng lên $65,185 trong sáng Thứ Hai, tăng 0.9% so ngày trước và +5.3% so với 7 ngày trước. Thị trường chờ cuộc họp Fed đầu tiên dưới tân Chủ tịch Kevin Warsh — kèm bảng dự báo lãi suất mới (dot plot). Kết quả Fed sẽ quyết định xu hướng BTC và vàng tuần tới.",
-        "source": "CoinGecko / BlockchainReporter, 15/6/2026",
-        "source_url": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "title": "Vàng rơi dưới MA 200 ngày lần đầu 20 năm — cơ hội tích lũy hay đảo chiều?",
-        "badge": "Finance",
-        "badge_class": "bf",
-        "body": "Dữ liệu việc làm Mỹ mạnh khiến vàng lần đầu trong hơn 20 năm rơi xuống dưới đường MA 200 ngày — sự kiện kỹ thuật hiếm gặp. Chuyên gia chia hai phe: một bên cho rằng đây là cơ hội tích lũy khi vàng đã hình thành vùng đáy; phe kia cảnh báo áp lực tăng lãi Fed và USD mạnh sẽ tiếp tục đè vàng. Mức kháng cự kỹ thuật: $4,446/oz.",
-        "source": "VTC News / MKS PAMP, 15/6/2026",
-        "source_url": "https://vtcnews.vn/gia-vang-hom-nay-15-6-tang-manh-tien-gan-4-300-usd-ounce-ar1023629.html"
+        "body": "Bitcoin dao động $63,700-66,000 khi thị trường crypto giảm nhẹ 2.47% tổng vốn hóa trước FOMC. Điểm nổi bật: SpaceX IPO $75B tiết lộ giữ lượng lớn Bitcoin trong treasury — thêm một tên tuổi lớn vào làn sóng corporate BTC adoption. ETF Bitcoin ghi nhận inflow $85.8M ngày 15/6. Quyết định Fed 17/6 sẽ là catalyst chính.",
+        "source": "Fortune / CoinGabbar / FXStreet, 16/6/2026",
+        "source_url": "https://www.coingabbar.com/en/crypto-currency-news/bitcoin-news-2026-06-15"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>15/6 — Thứ Hai:</b> Vàng thế giới tăng mạnh lên $4,281/oz sáng 15/6 (+$59, tiến gần $4,300). World_vnd ước ~136.1 triệu (+2M so hôm qua). SJC giữ nguyên 144-147 triệu/lượng; premium SJC vs world thu hẹp còn ~9-11 triệu (~7-8%). Vàng rơi dưới MA 200 ngày lần đầu 20 năm — thị trường chia rẽ. Fed meeting (tân Chủ tịch Warsh) là catalyst quan trọng nhất tuần này.",
+    "summary": "🟢 <b>16/6 — Thứ Ba:</b> Vàng thế giới tiếp tục tăng lên $4,309/oz sáng 16/6 (+$28 so hôm qua). World_vnd ước ~137.0 triệu (+0.9M). SJC nhảy vọt lên 148-150.5 triệu/lượng (+3.5-4M) — mức cao nhất 1 tuần. FOMC họp hôm nay (16-17/6) dưới tân Chủ tịch Warsh — kết quả dot plot 17/6 là catalyst chính tuần này.",
     "factors": [
       {
-        "name": "Vàng $4,281/oz (+$59) — world_vnd ~136.1 triệu; SJC 144-147 triệu giữ nguyên",
-        "pct": 72,
+        "name": "Vàng $4,309/oz (+$28) — SJC 148-150.5M (+3.5-4M); world_vnd ~137.0 triệu",
+        "pct": 74,
         "direction": "up",
         "bar": "fh",
-        "desc": "Sáng 15/6, vàng thế giới trên Kitco đạt $4,281/oz — tăng $59 so hôm qua, tiến gần $4,300. World_vnd ước tính ~136.1 triệu/lượng. SJC trong nước giữ nguyên 144-147 triệu/lượng; premium SJC vs world thu hẹp còn khoảng 9-11 triệu (~7-8%)."
+        "desc": "Sáng 16/6, vàng thế giới đạt $4,309/oz — tăng $28 so hôm qua, tiếp tục xu hướng tăng 2 ngày liên tiếp. SJC tăng mạnh lên 148-150.5 triệu/lượng (mua-bán) — tăng 3.5-4 triệu, là mức cao nhất 1 tuần. World_vnd ước tính ~137.0 triệu/lượng."
       },
       {
-        "name": "Fed họp đầu tiên dưới tân Chủ tịch Kevin Warsh — dot plot mới quyết định xu hướng",
-        "pct": 65,
+        "name": "Fed FOMC họp 16-17/6 (Warsh) — dot plot mới quyết định xu hướng Q3",
+        "pct": 68,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "FOMC họp hôm nay 16/6 dưới tân Chủ tịch Kevin Warsh — lần đầu tiên trong lịch sử Fed. Kết quả và dot plot mới công bố 17/6. 98.3% kỳ vọng giữ lãi 3.5-3.75%. Thị trường chuyển từ easing bias sang neutral stance. Dot plot mới sẽ định hình kỳ vọng cắt lãi suất Q3-Q4/2026."
+      },
+      {
+        "name": "Trung Đông tái leo thang + USD/Bond yield tăng — hai lực kéo đối nghịch",
+        "pct": 52,
         "direction": "up",
         "bar": "fm",
-        "desc": "Cuộc họp Fed đầu tiên dưới tân Chủ tịch Kevin Warsh sắp diễn ra, kèm bảng dự báo lãi suất mới (dot plot). Nhóm G10 central banks cũng họp tuần này — chỉ BOJ được kỳ vọng tăng lãi. Kết quả là catalyst quan trọng nhất cho vàng và crypto tuần này."
+        "desc": "Safe-haven demand từ xung đột Trung Đông hỗ trợ vàng tăng. Tuy nhiên 10Y Treasury yield ở 4.55% và USD mạnh tạo áp lực đối lập. CPI tháng 4: 3.8% yoy — lạm phát dai dẳng làm Fed khó hạ lãi sớm, nhưng đồng thời hỗ trợ vàng như tài sản trú ẩn lạm phát."
       },
       {
-        "name": "Vàng rơi dưới MA 200 ngày — tín hiệu kỹ thuật tiêu cực",
-        "pct": 48,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Vàng lần đầu trong hơn 20 năm rơi dưới đường MA 200 ngày — tín hiệu kỹ thuật tiêu cực. Mức kháng cự tại $4,446/oz. Dữ liệu việc làm Mỹ mạnh làm tăng kỳ vọng Fed tăng lãi. Tuy nhiên nhiều chuyên gia tin vàng đã chạm đáy ngắn hạn."
-      },
-      {
-        "name": "Trung Đông tái leo thang — safe-haven demand hồi phục",
-        "pct": 60,
+        "name": "SJC premium vs world thu hẹp — 148-150.5M vs world_vnd 137M = ~11-13M (8-9%)",
+        "pct": 55,
         "direction": "up",
         "bar": "fm",
-        "desc": "Xung đột Trung Đông leo thang trở lại góp phần đẩy vàng tăng $59 sáng 15/6. Sau khi Trump tuyên bố 'Iran war ended' (12/6), tình hình tái căng thẳng — safe-haven demand quay trở lại hỗ trợ vàng."
+        "desc": "SJC tăng mạnh lên 148-150.5M nhưng world_vnd cũng tăng lên 137M. Premium SJC vs world hiện ~11-13M (8-9%). Xu hướng hai chiều: vàng thế giới dẫn dắt, SJC theo sau. Cung SJC vẫn kiểm soát bởi NHNN — không có rủi ro thiếu hàng ngắn hạn."
       },
       {
         "name": "Central banks mua ròng — nền dài hạn vững; J.P. Morgan $5,055, Goldman $5,400",
         "pct": 75,
         "direction": "up",
         "bar": "fh",
-        "desc": "Ngân hàng Trung ương toàn cầu tiếp tục xu hướng mua ròng vàng. Dự báo dài hạn: J.P. Morgan $5,055/oz Q4/2026, Goldman Sachs $5,400. Nền tảng cầu cơ bản vẫn vững chắc bất chấp biến động ngắn hạn."
+        "desc": "Ngân hàng Trung ương toàn cầu tiếp tục xu hướng mua ròng vàng. Dự báo dài hạn: J.P. Morgan $5,055/oz Q4/2026, Goldman Sachs $5,400. Nền tảng cầu cơ bản vẫn vững chắc bất chấp biến động ngắn hạn từ FOMC."
       }
     ],
-    "outlook_label": "Vàng $4,281/oz (15/6 Thứ Hai) — +$59 tiến gần $4,300; SJC 144-147M; premium thu hẹp ~9-11M",
+    "outlook_label": "Vàng $4,309/oz (16/6 Thứ Ba) — +$28 tiếp tục tăng; SJC 148-150.5M (+3.5-4M) cao nhất 1 tuần; chờ dot plot Fed 17/6",
     "outlook_class": "pbg",
-    "outlook_text": "15/6 (Thứ Hai): Vàng tăng mạnh $4,281/oz (+$59 so hôm qua), tiến gần $4,300. World_vnd ~136.1 triệu; SJC giữ nguyên 144-147 triệu (premium thu hẹp ~9-11M). Catalyst tuần này: họp Fed (tân Chủ tịch Warsh + dot plot mới). Vàng dưới MA 200 ngày — thị trường chia rẽ nhưng nhiều chuyên gia tin đã chạm đáy. Khuyến nghị: Theo dõi Fed meeting; nếu vàng giữ $4,250+ thì xu hướng hồi phục xác nhận.",
+    "outlook_text": "16/6 (Thứ Ba): Vàng tăng tiếp $4,309/oz (+$28), SJC nhảy vọt 148-150.5M (+3.5-4M). World_vnd ~137.0 triệu. FOMC họp hôm nay — kết quả dot plot 17/6 sẽ là catalyst quyết định. Nếu Warsh giữ nguyên và dot plot cho thấy 1-2 lần cắt H2/2026, vàng có thể tiếp tục hướng $4,400-4,500. Nếu dot plot hawkish hơn dự kiến, vàng có thể test lại $4,200. Khuyến nghị: theo dõi họp báo Warsh 17/6.",
     "sources": [
       {
-        "name": "VTC News — Giá vàng 15/6/2026: Tăng mạnh tiến gần $4,300",
-        "url": "https://vtcnews.vn/gia-vang-hom-nay-15-6-tang-manh-tien-gan-4-300-usd-ounce-ar1023629.html"
+        "name": "VTC News — Giá vàng 16/6/2026: Tiếp tục tăng, cao nhất 1 tuần qua",
+        "url": "https://vtcnews.vn/gia-vang-hom-nay-16-6-tiep-tuc-tang-len-muc-cao-nhat-1-tuan-qua-ar1023813.html"
       },
       {
-        "name": "Kitco — Live Gold Spot Price",
-        "url": "http://www.kitco.com/charts/gold"
+        "name": "Giavang.org — SJC 16/06 trực tuyến",
+        "url": "https://giavang.org/trong-nuoc/sjc/"
       },
       {
-        "name": "Vietnam.vn — Giá vàng 15/6 giữ vững ngưỡng hỗ trợ",
-        "url": "https://www.vietnam.vn/gia-vang-hom-nay-15-6-2026-giu-vung-nguong-ho-tro-song-con-xuat-hien-dau-hieu-cham-day-du-bao-gia-vang-tuan-moi-the-nao"
+        "name": "FXStreet — Warsh opens first Fed meeting June 16",
+        "url": "https://www.fxstreet.com/analysis/kevin-warsh-opens-first-fed-meeting-june-16-with-rate-hold-expected-202606151326"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 15/6 (Thứ Hai): SHB 7.8%/12T vẫn dẫn đầu toàn hệ thống. ACB tăng đột biến lên 7.3%/12T online ngày 12/6 (+1.6pp) — thay đổi lớn nhất tuần qua. BIDV 7.4% dẫn Big4; Vietcombank 7.4%; VPBank 7.4%; Techcombank 7.25%. Tuần 15-21/6 mở đầu Thứ Hai — có thể xuất hiện thêm điều chỉnh lãi suất từ các NH.",
+    "alert": "📊 16/6 (Thứ Ba): SHB 7.8%/12T vẫn dẫn đầu toàn hệ thống; HLBank 7.7% online. ACB 7.3%/12T sau đợt tăng mạnh ngày 12/6. BIDV 7.4% và Vietcombank 7.4% dẫn Big4. VPBank 7.4%; Techcombank 7.25%. Lãi suất kỳ hạn ngắn có xu hướng hạ nhiệt nhẹ; kỳ dài 12T tiếp tục cao. FOMC ngày 16-17/6 — kết quả ảnh hưởng đến xu hướng NHNN Q3.",
     "highlights": [
       {
         "label": "Cao nhất hệ thống",
         "value": "7.8%",
-        "sub": "SHB online 12T / OCB 7.7% 12T",
-        "note": "SHB 7.8%/12T vẫn dẫn đầu toàn hệ thống. OCB 7.7% bám sát — cạnh tranh khốc liệt nhóm NH tư nhân tuần đầu 15/6"
+        "sub": "SHB online 12T / HLBank 7.7% online",
+        "note": "SHB 7.8%/12T vẫn dẫn đầu toàn hệ thống. HLBank online đạt 7.7%/12T — bám sát SHB. Cạnh tranh khốc liệt nhóm NH tư nhân tuần 16/6"
       },
       {
         "label": "ACB tăng đột biến",
@@ -153,10 +153,10 @@
         "note": "BIDV dẫn Big4 tại 7.4%/12T sau 2 lần tăng liên tiếp — cao nhất lịch sử gần đây của nhóm NH quốc doanh"
       },
       {
-        "label": "Thứ Hai 15/6 mở tuần mới",
+        "label": "FOMC 16-17/6 — tín hiệu Q3",
         "value": "⬆",
-        "sub": "Có thể tiếp tục tăng thêm tuần 15-21/6",
-        "note": "Thứ Hai đầu tuần — NH có thể công bố thêm điều chỉnh lãi suất. Xu hướng tăng từ tuần trước dự báo tiếp tục. Đỉnh Q3 ước 7.5-8%."
+        "sub": "Fed Warsh họp; dot plot mới 17/6 ảnh hưởng NHNN",
+        "note": "Kết quả FOMC 17/6 và dot plot mới sẽ định hướng kỳ vọng lãi suất VN Q3. Nếu Fed hawkish: NHNN giữ nguyên lâu hơn. Nếu dovish: NHNN có thể cắt Q4."
       }
     ],
     "banks": [
@@ -175,6 +175,14 @@
         "m12": "7.7%",
         "m12_hi": true,
         "trend": "hold"
+      },
+      {
+        "name": "HLBank",
+        "m3": "4.75%",
+        "m6": "7.3%",
+        "m12": "7.7%",
+        "m12_hi": true,
+        "trend": "up"
       },
       {
         "name": "VPBank",
@@ -201,20 +209,20 @@
         "m12_hi": true
       },
       {
+        "name": "ACB",
+        "m3": "4.75%",
+        "m6": "7.1%",
+        "m12": "7.3%",
+        "trend": "up",
+        "m12_hi": true
+      },
+      {
         "name": "Techcombank",
         "m3": "4.35%",
         "m6": "6.4%",
         "m12": "7.25%",
         "trend": "up",
         "m12_hi": true
-      },
-      {
-        "name": "HLBank",
-        "m3": "4.75%",
-        "m6": "7.3%",
-        "m12": "7.3%",
-        "m12_hi": true,
-        "trend": "hold"
       },
       {
         "name": "MBV",
@@ -296,14 +304,6 @@
         "trend": "down"
       },
       {
-        "name": "ACB",
-        "m3": "4.75%",
-        "m6": "7.1%",
-        "m12": "7.3%",
-        "trend": "up",
-        "m12_hi": true
-      },
-      {
         "name": "HDBank",
         "m3": "4.0%",
         "m6": "5.0%",
@@ -312,104 +312,104 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 15/6 (Thứ Hai): ACB tăng đột biến 7.3%/12T — SHB 7.8% dẫn đầu; xu hướng tăng tiếp tục tuần 15-21/6",
-      "body": "Ngày 15/6/2026 (Thứ Hai), bước sang tuần mới với diễn biến nổi bật từ cuối tuần: ACB bất ngờ tăng lãi suất online lên 7.3%/12T ngày 12/6 (tăng +1.6pp); kỳ hạn 6M +2.2pp → 7.1%, 9M +2.1pp → 7.2%. SHB vẫn dẫn đầu toàn hệ thống với 7.8%/12T; OCB 7.7%. BIDV và Vietcombank dẫn Big4 ở 7.4%/12T; VPBank 7.4%; Techcombank 7.25%. Tuần 15-21/6 mở đầu Thứ Hai — kỳ vọng thêm điều chỉnh. Đỉnh lãi suất Q3 dự báo 7.5-8% tháng 7-8/2026.",
+      "title": "Lãi suất 16/6 (Thứ Ba): SHB 7.8% / HLBank 7.7% / ACB 7.3% — FOMC Warsh họp hôm nay, kỳ hạn ngắn hạ nhiệt",
+      "body": "Ngày 16/6/2026 (Thứ Ba), lãi suất huy động không có thay đổi đột biến mới. SHB dẫn đầu toàn hệ thống 7.8%/12T (online); HLBank online 7.7%/12T — tăng từ mức 7.3% quầy; OCB 7.7%. ACB giữ 7.3%/12T sau đợt tăng mạnh 12/6 (+1.6pp). BIDV và Vietcombank 7.4% dẫn Big4; VPBank 7.4%; Techcombank 7.25%. Xu hướng: kỳ hạn ngắn (3M) bắt đầu hạ nhiệt nhẹ; kỳ dài 12T tiếp tục ở mức cao. Catalyst quan trọng: FOMC 16-17/6 — dot plot mới của Warsh sẽ định hình lộ trình NHNN Q3-Q4/2026.",
       "sources": [
         {
-          "name": "Vietnam.vn — ACB tăng đột biến lãi suất 2.2%/năm ngày 12/6/2026",
-          "url": "https://www.vietnam.vn/lai-suat-acb-tang-dot-bien-2-2-nam-cham-tran-tai-nhieu-ky-han-ngay-12-06-2026"
-        },
-        {
-          "name": "VietnamNet — Lãi suất 12/6/2026 bật tăng mạnh",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-12-6-2026-bat-tang-manh-o-nhieu-ky-han-gui-tien-2525189.html"
+          "name": "VietnamNet — Lãi suất ngân hàng 15/6/2026: Kỳ hạn ngắn tiếp tục hạ nhiệt",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-15-6-2026-ky-han-ngan-tiep-tuc-ha-nhiet-2525918.html"
         },
         {
           "name": "Topi — Lãi suất tháng 6/2026",
           "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+        },
+        {
+          "name": "24HMoney — Lãi suất gửi tiết kiệm tháng 6/2026",
+          "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "ACB tăng đột biến 7.3%/12T (+1.6pp) — xu hướng tăng lan rộng toàn hệ thống",
-        "level": "main",
-        "pct": 90,
-        "bar": "fh",
-        "desc": "ACB bất ngờ tăng lãi suất online +1.6pp lên 7.3%/12T ngày 12/6 (6M: +2.2pp → 7.1%; 9M: +2.1pp → 7.2%). Cùng với SHB 7.8%, OCB 7.7%, BIDV 7.4% — mặt bằng lãi suất đang ở mức cao nhất từ 2024. Xu hướng tăng lan rộng toàn hệ thống."
-      },
-      {
-        "name": "Tín dụng H1/2026 vượt kế hoạch — cạnh tranh huy động vốn gay gắt",
+        "name": "Kỳ hạn ngắn hạ nhiệt; kỳ 12T vẫn ở mức đỉnh — phân kỳ lãi suất rõ ràng",
         "level": "main",
         "pct": 82,
         "bar": "fh",
-        "desc": "Tăng trưởng tín dụng H1/2026 vượt kế hoạch buộc NH đẩy mạnh huy động. Tuần 9-15/6 là tuần tăng lãi mạnh nhất từ tháng 4/2026 — ACB, BIDV, Vietcombank đều điều chỉnh tăng liên tiếp."
+        "desc": "Xu hướng tuần 16/6: lãi suất kỳ hạn ngắn (3M) bắt đầu giảm nhẹ trong khi 12T giữ mức cao. SHB 7.8%, HLBank 7.7%, ACB 7.3% — mặt bằng 12T đang ở mức cao nhất từ 2024. Chiến lược phân kỳ giúp NH kiểm soát chi phí vốn ngắn hạn."
       },
       {
-        "name": "Fed (tân Chủ tịch Warsh) họp tuần này — NHNN khó hạ lãi điều hành trước Q4",
-        "level": "sub",
-        "pct": 65,
-        "bar": "fm",
-        "desc": "Fed họp dưới tân Chủ tịch Kevin Warsh với dot plot mới — khả năng giữ hoặc tăng lãi. USD mạnh. NHNN khó cắt lãi điều hành trước Q4 — giúp lãi suất huy động duy trì cao."
+        "name": "FOMC Warsh (16-17/6) — kết quả dot plot định hướng NHNN Q3-Q4",
+        "level": "main",
+        "pct": 78,
+        "bar": "fh",
+        "desc": "Fed họp hôm nay 16/6 — dot plot mới sẽ công bố 17/6. Nếu hawkish (ít cắt hơn dự kiến): NHNN giữ nguyên lãi suất điều hành qua Q3, lãi huy động tiếp tục cao. Nếu dovish: NHNN có thể cắt Q4/2026, mặt bằng lãi suất hạ dần."
       },
       {
-        "name": "BTC $65,185 và chứng khoán hồi phục — cạnh tranh thu hút dòng tiền",
+        "name": "Tín dụng H1/2026 vượt kế hoạch — cạnh tranh huy động vốn gay gắt",
         "level": "sub",
-        "pct": 58,
+        "pct": 75,
         "bar": "fm",
-        "desc": "BTC +5.3% trong 7 ngày, chứng khoán và BĐS hồi phục. NH phải tăng lãi tiết kiệm để giữ dòng tiền khỏi bị hút sang kênh đầu tư khác."
+        "desc": "Tăng trưởng tín dụng H1/2026 vượt kế hoạch buộc NH đẩy mạnh huy động. Tuần 9-16/6 là tuần tăng lãi mạnh nhất từ tháng 4/2026. HLBank tăng online lên 7.7%; ACB, BIDV, Vietcombank đã điều chỉnh liên tiếp."
       },
       {
-        "name": "Tiết kiệm online dẫn đầu — gap online vs quầy ngày càng lớn",
+        "name": "Vàng $4,309 và BTC ~$65,000 — cạnh tranh thu hút dòng tiền",
         "level": "sub",
-        "pct": 72,
+        "pct": 55,
         "bar": "fm",
-        "desc": "Lãi suất online cao hơn quầy đáng kể: ACB online 7.3% vs quầy ~4.5-5%; BIDV online 7.4% vs quầy 6.8%. NH dùng kênh online để cạnh tranh lãi suất mà không ảnh hưởng đến chi phí toàn hệ thống."
+        "desc": "Vàng SJC tăng 148-150.5M; BTC dao động $63,700-66,000. NH phải duy trì lãi tiết kiệm cao để giữ dòng tiền không bị hút sang kênh đầu tư khác trong bối cảnh nhiều kênh tài sản hấp dẫn."
+      },
+      {
+        "name": "Online banking dẫn đầu — gap online vs quầy ngày càng rộng",
+        "level": "sub",
+        "pct": 70,
+        "bar": "fm",
+        "desc": "Lãi suất online tiếp tục cao hơn quầy đáng kể: SHB online 7.8% vs quầy 5-6%; HLBank online 7.7% vs quầy 7.3%; ACB online 7.3% vs quầy ~4.5-5%. Kênh online là chiến trường cạnh tranh lãi suất chính của các NH."
       }
     ],
     "rate_forecast": [
       {
-        "name": "SHB 7.8%/12T / OCB 7.7% / ACB 7.3% — cơ hội lock kỳ dài Thứ Hai đầu tuần",
-        "pct": 87,
+        "name": "SHB 7.8% / HLBank 7.7% / OCB 7.7% / ACB 7.3% — cơ hội lock kỳ 12T trước dot plot Fed 17/6",
+        "pct": 85,
         "direction": "up",
         "bar": "fh",
-        "desc": "SHB 7.8% dẫn đầu toàn hệ thống; OCB 7.7%; ACB 7.3% (mới tăng mạnh 12/6). Thứ Hai đầu tuần là thời điểm tốt để ra quyết định lock kỳ 12T trước khi đỉnh Q3 có thể đẩy thêm."
+        "desc": "SHB 7.8%, HLBank và OCB 7.7%, ACB 7.3% là top lựa chọn. Nếu dot plot Fed 17/6 hawkish — lãi huy động duy trì cao thêm 1-2 quý. Cơ hội lock kỳ 12T hôm nay, trước khi có thể xuất hiện thêm điều chỉnh sau Fed meeting."
       },
       {
-        "name": "BIDV 7.4% / VPBank 7.4% / Techcombank 7.25% — đa dạng hóa giữa Big4 và tư nhân",
-        "pct": 76,
+        "name": "BIDV 7.4% / Vietcombank 7.4% / VPBank 7.4% — an toàn và lãi suất cao từ Big4 và tư nhân lớn",
+        "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "BIDV, Vietcombank (Big4) và VPBank, Techcombank (tư nhân lớn) đều ở mức cao. Phân tán giữa Big4 và tư nhân là chiến lược tối ưu cân bằng an toàn và lãi suất."
+        "desc": "BIDV, Vietcombank (Big4) và VPBank, Techcombank 7.25% (tư nhân lớn) — tổ hợp an toàn + lãi cao. Đây là lựa chọn cân bằng rủi ro tốt nhất nếu không muốn gửi hết vào NH nhỏ."
       },
       {
-        "name": "Đỉnh lãi suất 12T có thể đạt 7.5-8% Q3/2026 rồi hạ dần Q4",
-        "pct": 64,
+        "name": "Đỉnh lãi 12T có thể đạt 7.5-8% Q3/2026 tùy kết quả FOMC",
+        "pct": 62,
         "direction": "up",
         "bar": "fm",
-        "desc": "Xu hướng tăng rõ ràng. Đỉnh lãi suất dự kiến Q3/2026 ở 7.5-8% trước khi Fed và NHNN hạ nhiệt Q4/2026."
+        "desc": "Nếu Fed giữ neutral (98.3% xác suất): lãi suất VN tiếp tục tăng đến đỉnh Q3 ở 7.5-8%. Nếu Fed hawkish hơn: đỉnh có thể lên 8%+ trước khi NHNN hạ Q4. Kịch bản cơ sở: đỉnh tháng 7-8/2026."
       },
       {
-        "name": "NHNN cắt lãi điều hành Q4 — xác suất ~30-40% nếu CPI và Fed hạ nhiệt",
-        "pct": 35,
+        "name": "NHNN cắt lãi điều hành Q4/2026 — xác suất 30-45% nếu Fed dovish và CPI hạ nhiệt",
+        "pct": 38,
         "direction": "down",
         "bar": "fl",
-        "desc": "Kịch bản Fed (Warsh) tăng lãi và USD mạnh là rủi ro chính. NHNN sẽ chờ Fed trước khi hạ lãi điều hành — dự kiến Q4/2026 nếu CPI hạ nhiệt."
+        "desc": "Kịch bản cắt lãi Q4/2026 phụ thuộc vào: (1) Fed cắt ít nhất 1-2 lần H2; (2) CPI VN hạ về 3-3.5%; (3) Tín dụng tăng trưởng ổn định. Kịch bản này có xác suất 30-45% theo ước tính hiện tại."
       }
     ],
-    "rate_outlook_label": "15/6 Thứ Hai — SHB 7.8% / OCB 7.7% / ACB 7.3% (mới) / BIDV 7.4% / VPBank 7.4% — xu hướng tăng tiếp tuần 15-21/6",
+    "rate_outlook_label": "16/6 Thứ Ba — SHB 7.8% / HLBank 7.7% / OCB 7.7% / ACB 7.3% / BIDV 7.4% — chờ dot plot Fed 17/6",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "15/6 (Thứ Hai): Bước sang tuần mới với ACB vừa tăng đột biến 7.3%/12T (12/6). SHB 7.8% vẫn dẫn đầu; OCB 7.7%; BIDV 7.4% dẫn Big4; VPBank 7.4%; Techcombank 7.25%. Tuần 15-21/6 mở đầu Thứ Hai — có thể có thêm điều chỉnh tăng. Đỉnh Q3 ở 7.5-8% (tháng 7-8/2026). Đây là cơ hội lock kỳ 12T sớm.",
+    "rate_outlook_text": "16/6 (Thứ Ba): Lãi suất ổn định sau đợt tăng tuần trước. SHB 7.8% / HLBank 7.7% dẫn đầu; OCB 7.7%; ACB 7.3% (mới tăng 12/6); BIDV 7.4% dẫn Big4; VPBank 7.4%; Techcombank 7.25%. Kỳ hạn ngắn (3M) bắt đầu hạ nhiệt nhẹ. Catalyst hôm nay: FOMC Warsh họp — dot plot mới 17/6 sẽ định hướng NHNN Q3-Q4. Cơ hội lock 12T tốt trước khi Fed công bố.",
     "rate_sources": [
       {
-        "name": "Vietnam.vn — ACB tăng đột biến 2.2% ngày 12/6/2026",
-        "url": "https://www.vietnam.vn/lai-suat-acb-tang-dot-bien-2-2-nam-cham-tran-tai-nhieu-ky-han-ngay-12-06-2026"
+        "name": "VietnamNet — Lãi suất ngân hàng 15/6/2026: Kỳ hạn ngắn hạ nhiệt",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-15-6-2026-ky-han-ngan-tiep-tuc-ha-nhiet-2525918.html"
       },
       {
         "name": "Topi — Lãi suất tháng 6/2026",
         "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       },
       {
-        "name": "24HMoney — Lãi suất NH tháng 6/2026",
+        "name": "24HMoney — Lãi suất gửi tiết kiệm",
         "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
       }
     ]
@@ -580,7 +580,8 @@
       "12/06",
       "13/06",
       "14/06",
-      "15/06"
+      "15/06",
+      "16/06"
     ],
     "sjc": [
       152.8,
@@ -747,7 +748,8 @@
       138.4,
       144.0,
       145.5,
-      145.5
+      145.5,
+      149.0
     ],
     "world_vnd": [
       121,
@@ -914,7 +916,8 @@
       134.6,
       132.0,
       134.1,
-      136.1
+      136.1,
+      137.0
     ]
   }
 }
