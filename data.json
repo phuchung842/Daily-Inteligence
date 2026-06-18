@@ -1,162 +1,162 @@
 {
   "meta": {
-    "date": "17 tháng 6, 2026",
-    "day": "Thứ Tư",
-    "updated": "2026-06-17 07:00"
+    "date": "18 tháng 6, 2026",
+    "day": "Thứ Năm",
+    "updated": "2026-06-18 07:00"
   },
   "alert": {
-    "type": "red",
-    "text": "🔴 <b>17/6 — Thứ Tư:</b> FOMC Warsh giữ lãi 3.5-3.75% nhưng dot plot hawkish — xóa dự báo cắt lãi 2026, thị trường bất ngờ. Vàng tăng mạnh $4,358/oz (+$117, +2.76%) — SJC ước ~151-152.5 triệu/lượng; world_vnd ~138.5 triệu. BTC giữ $65,000-66,000 ổn định. Tháng 6/2026: Meta Muse Spark ra mắt, Microsoft tung 7 MAI models, OpenAI GPT-5.5 — làn sóng AI model lớn nhất năm."
+    "type": "yellow",
+    "text": "🟡 <b>18/6 — Thứ Năm:</b> Vàng thế giới ổn định ~$4,360/oz; SJC mua 149.8M / bán 151.8M — giữ vững sau đợt tăng mạnh hôm qua. BTC ~$65,000 ổn định. Meta ký deal $27B với Nebius (NVIDIA Vera Rubin); NVIDIA đầu tư $2B vào Marvell; Novo Nordisk + OpenAI partnership toàn diện. Meta AI capex $115-135B/2026 — gần gấp đôi 2025. Lãi suất VN: SHB 7.8%/12T; HLBank 7.7%; BIDV+VCB 7.4% — duy trì đỉnh post-FOMC hawkish."
   },
   "news_ai": [
     {
-      "title": "FOMC Warsh hawkish dot plot — xóa dự báo cắt lãi 2026, thị trường bất ngờ; vàng vọt $4,358/oz (+$117)",
-      "badge": "Finance/AI",
-      "badge_class": "ba",
-      "body": "Fed giữ lãi 3.5-3.75% như dự báo nhưng dot plot mới của Warsh bất ngờ xóa sổ dự báo cắt lãi còn lại của 2026 — hawkish hơn kỳ vọng. Futures markets hiện price 56% xác suất tăng lãi cuối năm. Thị trường phản ứng: vàng vọt lên $4,358/oz (+$117, +2.76%) do safe-haven và lo ngại CPI 4.2% dai dẳng cộng căng thẳng Iran-Mỹ. Warsh nhậm chức 22/5 — đây là kỳ họp đầu tiên ông chủ trì.",
-      "source": "StockTitan / REX Shares / IndexBox, 17/6/2026",
-      "source_url": "https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026"
-    },
-    {
-      "title": "Meta ra mắt Muse Spark — flagship LLM đầu tiên dưới Superintelligence Labs của Alexandr Wang",
+      "title": "Meta ký deal $27B 5 năm với Nebius — NVIDIA Vera Rubin deployment lớn đầu tiên; capex 2026 lên $115-135B",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta công bố Muse Spark — mô hình ngôn ngữ lớn flagship đầu tiên được xây dựng dưới Superintelligence Labs mới thành lập do Alexandr Wang lãnh đạo với tư cách Chief AI Officer. Đây là dấu hiệu Meta đang nghiêm túc cạnh tranh với OpenAI và Anthropic ở phân khúc frontier AI. Muse Spark được thiết kế cho reasoning và agentic tasks phức tạp.",
-      "source": "LLM Stats / blog.mean.ceo, 17/6/2026",
+      "body": "Meta ký hợp đồng $27B 5 năm với Nebius AI: $12B cho cơ sở hạ tầng chuyên dụng (một trong những deployment NVIDIA Vera Rubin lớn đầu tiên) + $15B cho công suất bổ sung. Meta đồng thời công bố AI capex 2026 đạt $115-135B — gần gấp đôi chi tiêu 2025, khẳng định cuộc đua AI infrastructure năm 2026 đã bước vào giai đoạn quyết định.",
+      "source": "Crescendo AI / LLM Stats / dentro.de, 18/6/2026",
+      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    },
+    {
+      "title": "NVIDIA đầu tư $2B vào Marvell Technology — tích hợp XPU chip với NVLink Fusion để chống lại làn sóng custom AI chip của Big Tech",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "NVIDIA đầu tư $2B vào Marvell Technology, tích hợp chip XPU chuyên dụng của Marvell với nền tảng NVLink Fusion của NVIDIA. Động thái này nhằm đáp trả làn sóng các cloud provider lớn (Google TPU, Amazon Trainium, Microsoft Maia) tự thiết kế chip AI riêng. NVIDIA đang mở rộng hệ sinh thái bằng cách hợp tác với chip vendor thay vì cạnh tranh trực tiếp.",
+      "source": "dentro.de/ai / Crescendo AI, 18/6/2026",
+      "source_url": "https://dentro.de/ai/news/"
+    },
+    {
+      "title": "Novo Nordisk + OpenAI: Partnership AI chiến lược toàn diện — từ drug discovery đến supply chain; triển khai hết 2026",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Novo Nordisk (hãng dược Ozempic/Wegovy) ký thỏa thuận chiến lược với OpenAI tích hợp AI toàn diện vào hoạt động kinh doanh: nghiên cứu thuốc, thử nghiệm lâm sàng, sản xuất, chuỗi cung ứng và thương mại. Dự kiến triển khai đầy đủ cuối 2026. Đây là minh chứng AI đang rời khỏi 'demo mode' và đi vào hoạt động doanh nghiệp thực tế.",
+      "source": "Crescendo AI / llm-stats.com, 18/6/2026",
+      "source_url": "https://llm-stats.com/ai-news"
+    },
+    {
+      "title": "NVIDIA + SK hynix: Partnership đa năm phát triển bộ nhớ thế hệ mới cho Vera Rubin, RTX Spark và Jetson Thor robotics",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "NVIDIA và SK hynix công bố partnership đa năm phát triển bộ nhớ thế hệ tiếp theo phù hợp với roadmap AI của NVIDIA — bao gồm Vera Rubin AI supercomputers, Vera CPUs, RTX Spark PCs và Jetson Thor robotics. SK hynix cũng sẽ dùng công cụ NVIDIA để tăng tốc semiconductor simulation và xây dựng digital twins cho fab tự động.",
+      "source": "LLM Stats / dentro.de, 18/6/2026",
       "source_url": "https://llm-stats.com/llm-updates"
-    },
-    {
-      "title": "Microsoft tung 7 model MAI mới — xây dựng hệ sinh thái AI in-house cạnh tranh OpenAI và Anthropic",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Microsoft công bố 7 mô hình AI mới phát triển nội bộ tại Microsoft AI (MAI) — tín hiệu rõ ràng rằng Microsoft không muốn phụ thuộc hoàn toàn vào OpenAI. Các model nhắm vào coding, agentic workflows và enterprise integration. Cuộc chiến AI platform 2026 đã chuyển sang giai đoạn 2: không chỉ 'chọn model' mà còn 'ai kiểm soát runtime và chip'.",
-      "source": "Microsoft AI / WaveSpeed Blog, 17/6/2026",
-      "source_url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
-    },
-    {
-      "title": "Tháng 6/2026 — Làn sóng AI models lớn nhất năm: GPT-5.5, Gemini 3.1, Muse Spark, Grok 4.20, Gemma 4",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Tháng 6/2026 trở thành tháng bùng nổ AI model: OpenAI GPT-5.5 (Pro + Instant), Google Gemini 3.1 Pro/Ultra, Meta Muse Spark, xAI Grok 4.20 (multi-agent), Mistral Codestral, Google Gemma 4 và 7 MAI models từ Microsoft đều ra mắt trong vòng 3 tuần. Đây là AI launch wave lớn nhất từ trước đến nay — cạnh tranh chuyển từ 'mô hình tốt nhất' sang 'hệ sinh thái platform toàn diện nhất'.",
-      "source": "Crescendo AI / WaveSpeed / LLM Stats, 17/6/2026",
-      "source_url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "red",
-      "text": "🔴 Vàng $4,358/oz (+$117, +2.76%) — mức tăng mạnh nhất trong tuần sau FOMC hawkish; SJC ước 151-152.5M; world_vnd ~138.5 triệu. FOMC Warsh: giữ lãi 3.5-3.75% + dot plot xóa cắt lãi 2026 — hawkish bất ngờ. Bitcoin $65,000-66,000 giữ ổn định. CPI 4.2% + Iran tensions = vàng tiếp tục được hỗ trợ."
+      "type": "yellow",
+      "text": "🟡 Vàng ~$4,360/oz ổn định sau đợt tăng $117 hôm qua; SJC mua 149.8M / bán 151.8M. BTC ~$65,000 tiếp tục giữ vững. Thị trường đang tiêu hóa dot plot hawkish FOMC — chờ dữ liệu kinh tế Mỹ cuối tuần. Dầu giảm nhẹ sau tín hiệu Iran-Mỹ đàm phán. Post-FOMC: USD mạnh nhưng vàng được hỗ trợ bởi CPI 4.2% dai dẳng."
     },
     "items": [
       {
-        "title": "Vàng $4,358/oz (+$117, +2.76%) — tăng mạnh nhất tuần sau FOMC hawkish; SJC ước 151-152.5M (+2-3M)",
+        "title": "Vàng ~$4,360/oz ổn định — thị trường tiêu hóa FOMC hawkish; SJC mua 149.8M / bán 151.8M (18/6)",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Ngày 17/6, vàng thế giới tăng mạnh lên $4,358/oz (+$117, +2.76%) — mức tăng lớn nhất trong nhiều ngày. Nguyên nhân: FOMC hawkish (xóa cắt lãi 2026) tạo safe-haven + căng thẳng Iran-Mỹ. World_vnd ước ~138.5 triệu/lượng (+1.5M). SJC trong nước ước tính 151-152.5 triệu/lượng (mua-bán), tăng thêm ~1.5-2M so chiều 16/6 (149.5-151.5M). Đây là mức cao nhất 2 tuần.",
-        "source": "USAGOLD / JM Bullion / Giavang.org, 17/6/2026",
-        "source_url": "https://www.usagold.com/live-gold-price-today/"
+        "body": "Ngày 18/6 (Thứ Năm), vàng thế giới ổn định quanh $4,360/oz sau đợt tăng đột biến +$117 hôm qua. SJC trong nước: mua 149,800,300đ / bán 151,800,300đ (+300đ so trước). World_vnd ước ~138.7M. Thị trường đang tiêu hóa dot plot hawkish của Warsh — USD mạnh tạo áp lực nhẹ nhưng CPI 4.2% và Iran tensions tiếp tục hỗ trợ safe-haven demand.",
+        "source": "Vietnam.vn / giavang.org / USAGOLD, 18/6/2026",
+        "source_url": "https://www.vietnam.vn/en/gia-vang-hom-nay-17-06-2026-sjc-149-8-151-8-trieu-dong-luong-tang-nhe-so-voi-truoc"
       },
       {
-        "title": "FOMC Warsh hawkish shock — dot plot xóa cắt lãi 2026; 56% xác suất tăng lãi cuối năm",
-        "badge": "Finance",
-        "badge_class": "bf",
-        "body": "17/6: Fed giữ lãi 3.5-3.75% (như kỳ vọng) nhưng dot plot mới gây sốc: xóa 1-2 lần cắt lãi 2026 còn lại. Futures hiện price 56% xác suất tăng lãi year-end. CPI 4.2% + Iran energy tensions là lý do. Kevin Warsh họp báo 2:30PM ET. Tín hiệu: NHNN Việt Nam sẽ duy trì lãi suất cao hơn và lâu hơn dự kiến — tốt cho gửi tiết kiệm, áp lực chi phí vay.",
-        "source": "StockTitan / REX Shares / FXStreet, 17/6/2026",
-        "source_url": "https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026"
-      },
-      {
-        "title": "Bitcoin $65,000-66,000 — giữ ổn định sau FOMC; Strategy mua thêm 1,587 BTC; Hyperliquid +10%",
+        "title": "Bitcoin ~$65,000 ổn định post-FOMC — thị trường crypto bình tĩnh; chờ tín hiệu tiếp theo từ Fed",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin giữ vững $65,000-66,000 sau FOMC hawkish — thị trường crypto phản ứng bình tĩnh hơn dự kiến. Strategy (MicroStrategy) mua thêm 1,587 BTC trong tuần, tiếp tục chiến lược tích lũy. Hyperliquid tăng +10% nổi bật trong ngày. Nếu dot plot hawkish đẩy USD mạnh hơn, BTC có thể test $58K-60K; nếu thị trường tiêu hóa tốt, BTC hướng $68K-70K.",
-        "source": "AnalyticsInsight / 99Bitcoins, 17/6/2026",
-        "source_url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-fluctuating-between-65000-to-66000-as-fomc-opens-strategy-adds-1587-btc-hyperliquid-surges-10"
+        "body": "Bitcoin tiếp tục giữ vững quanh $65,000 (Polymarket: 57% xác suất $64K-66K ngày 18/6). Thị trường crypto phản ứng tốt hơn dự kiến trước FOMC hawkish — không có panic selling. Nếu USD mạnh thêm do dot plot hawkish, BTC có thể test $58K-60K; nếu thị trường tiêu hóa tốt, hướng $68K-70K trong 2-4 tuần.",
+        "source": "Polymarket / Fortune / CoinGecko, 18/6/2026",
+        "source_url": "https://polymarket.com/event/bitcoin-price-on-june-18-2026"
+      },
+      {
+        "title": "Dầu giảm nhẹ — tín hiệu Iran-Mỹ đàm phán; USD mạnh sau FOMC hawkish tạo áp lực ngắn hạn lên hàng hóa",
+        "badge": "Finance",
+        "badge_class": "bf",
+        "body": "Sau thông tin Iran-Mỹ có tín hiệu đàm phán mở lại Strait of Hormuz, giá dầu giảm nhẹ — giảm bớt áp lực CPI năng lượng. USD mạnh post-FOMC hawkish tạo headwind ngắn hạn cho hàng hóa tính theo USD. Tuy nhiên nếu đàm phán Iran đổ vỡ, dầu và vàng sẽ tăng mạnh trở lại.",
+        "source": "Crescendo AI / TradingEconomics, 18/6/2026",
+        "source_url": "https://tradingeconomics.com/commodity/gold"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🔴 <b>17/6 — Thứ Tư:</b> Vàng thế giới tăng mạnh lên $4,358/oz (+$117, +2.76%) — mức tăng lớn nhất tuần sau FOMC hawkish shock. World_vnd ước ~138.5 triệu (+1.5M). SJC ước 151-152.5 triệu/lượng (+1.5-2M so chiều 16/6). Dot plot Warsh xóa cắt lãi 2026 = hawkish bất ngờ; CPI 4.2% + Iran tensions củng cố safe-haven. Mục tiêu J.P. Morgan $5,055 và Goldman $5,400 vẫn nguyên.",
+    "summary": "🟡 <b>18/6 — Thứ Năm:</b> Vàng thế giới ổn định ~$4,360/oz — thị trường tiêu hóa dot plot hawkish FOMC sau đợt tăng $117 hôm qua. World_vnd ~138.7 triệu. SJC mua 149.8M / bán 151.8M (+300đ). USD mạnh tạo áp lực nhẹ nhưng CPI 4.2% + Iran tensions vẫn là nền tảng hỗ trợ. Mục tiêu J.P. Morgan $5,055 / Goldman $5,400 vẫn nguyên cho Q4/2026.",
     "factors": [
       {
-        "name": "Vàng $4,358/oz (+$117, +2.76%) — tăng mạnh nhất tuần; world_vnd ~138.5M; SJC ~151-152.5M",
-        "pct": 82,
-        "direction": "up",
-        "bar": "fh",
-        "desc": "Ngày 17/6, vàng thế giới tăng đột biến +$117 lên $4,358/oz (+2.76%) — mức tăng mạnh nhất trong nhiều ngày. Kép lực: FOMC hawkish dot plot (safe haven) + căng thẳng Iran-Mỹ (geopolitical premium). World_vnd ước ~138.5M/lượng. SJC trong nước ước 151-152.5M (mua-bán)."
-      },
-      {
-        "name": "FOMC Warsh dot plot hawkish — xóa cắt lãi 2026; 56% xác suất tăng lãi year-end",
+        "name": "Vàng ~$4,360/oz ổn định — world_vnd ~138.7M; SJC mua 149.8M / bán 151.8M (18/6)",
         "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "Fed giữ nguyên lãi suất nhưng dot plot mới xóa sổ kỳ vọng cắt lãi 2026 còn lại. Futures markets phản ứng mạnh: 56% xác suất tăng lãi cuối năm. Nghịch lý: hawkish Fed thường làm vàng giảm, nhưng lần này CPI dai dẳng 4.2% + Iran khiến vàng tăng mạnh hơn như hedge chống lạm phát và rủi ro địa chính trị."
+        "desc": "Sau đợt tăng đột biến +$117 (17/6), vàng ổn định ~$4,360/oz (18/6 sáng). World_vnd ước ~138.7M/lượng. SJC trong nước: mua 149,800,300đ / bán 151,800,300đ — tăng nhẹ +300đ. Thị trường đang tiêu hóa FOMC hawkish — biến động ngắn hạn nhưng nền tảng tăng dài hạn vẫn vững."
       },
       {
-        "name": "Iran-Mỹ căng thẳng — Trump hủy tấn công nhưng rủi ro dầu và safe-haven vẫn cao",
-        "pct": 65,
+        "name": "FOMC hawkish aftermath — USD mạnh tạo áp lực nhẹ nhưng CPI 4.2% hỗ trợ safe-haven",
+        "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "Thông tin Trump hủy không kích Iran tạm thời giảm căng thẳng nhưng rủi ro khu vực vẫn cao. Giá dầu leo thang hỗ trợ CPI cao, làm Fed khó hạ lãi — là nền tảng dài hạn cho vàng. Safe-haven demand từ nhà đầu tư tổ chức duy trì lực mua ròng."
+        "desc": "Post-FOMC (18/6): USD index mạnh hơn do dot plot hawkish Warsh tạo headwind nhẹ cho vàng. Nhưng nghịch lý: CPI Mỹ 4.2% dai dẳng = vàng vẫn là hedge chống lạm phát hiệu quả. 56% xác suất Fed tăng lãi year-end không đủ mạnh để kéo vàng xuống nếu CPI không hạ."
       },
       {
-        "name": "SJC premium vs world_vnd — ~12.5M (9%) — hẹp so đỉnh nhưng vẫn cao",
-        "pct": 58,
+        "name": "Iran-Mỹ: Tín hiệu đàm phán mở Strait of Hormuz — giảm geopolitical premium ngắn hạn",
+        "pct": 55,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Tin tức Iran-Mỹ có tín hiệu đàm phán tích cực về Strait of Hormuz tạo áp lực giảm geopolitical premium cho vàng trong ngắn hạn. Nếu thỏa thuận đạt được, vàng có thể điều chỉnh $50-80/oz. Tuy nhiên rủi ro đổ vỡ vẫn còn — thị trường thận trọng chưa định giá hết kịch bản hòa bình."
+      },
+      {
+        "name": "SJC premium vs world_vnd — ~13.1M (9.4%) — duy trì ổn định",
+        "pct": 60,
         "direction": "up",
         "bar": "fm",
-        "desc": "SJC ước 151.0-152.5M vs world_vnd 138.5M = premium ~12.5M (~9%). Mức này hẹp hơn đỉnh Q1 (20-25M) nhưng vẫn cao so lịch sử bình thường 5-7M. NHNN tiếp tục kiểm soát cung SJC. Xu hướng: premium có thể thu hẹp dần khi world tăng mạnh."
+        "desc": "SJC bán 151.8M vs world_vnd 138.7M = premium ~13.1M (~9.4%). Mức này cao hơn lịch sử bình thường (5-7M) nhưng hẹp hơn đỉnh Q1 (20-25M). NHNN kiểm soát cung SJC tiếp tục là nhân tố duy trì premium. Xu hướng: premium ổn định trong ngắn hạn."
       },
       {
-        "name": "Central banks mua ròng + J.P. Morgan $5,055 / Goldman $5,400 — nền dài hạn vững chắc",
+        "name": "Central banks + J.P. Morgan $5,055 / Goldman $5,400 — target dài hạn giữ nguyên",
         "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "Ngân hàng Trung ương toàn cầu duy trì mua ròng vàng — nền tảng cầu dài hạn vững. Dự báo giữ nguyên: J.P. Morgan $5,055/oz Q4/2026, Goldman Sachs $5,400. Kịch bản cơ sở: vàng hướng $4,400-4,500 trong Q3/2026 nếu CPI không hạ nhiệt nhanh."
+        "desc": "Ngân hàng trung ương toàn cầu tiếp tục mua ròng vàng. Dự báo 2026: J.P. Morgan $5,055/oz Q4/2026, Goldman Sachs $5,400. Kịch bản cơ sở sau FOMC hawkish: vàng hướng $4,400-4,500 trong Q3/2026 nếu CPI không hạ nhiệt. Meta AI capex $115-135B và NVIDIA deals cho thấy big tech tiếp tục đầu tư khổng lồ — inflation expectations cao."
       }
     ],
-    "outlook_label": "Vàng $4,358/oz (17/6 Thứ Tư) — +$117 (+2.76%) tăng mạnh nhất tuần; SJC ước 151-152.5M; FOMC hawkish shock xóa cắt lãi 2026",
-    "outlook_class": "pbr",
-    "outlook_text": "17/6 (Thứ Tư): Vàng tăng đột biến $4,358/oz (+$117) sau FOMC hawkish shock — Warsh xóa dự báo cắt lãi 2026. World_vnd ~138.5M, SJC ước 151-152.5M. CPI 4.2% + Iran tensions = vàng được hỗ trợ mạnh. Nếu dot plot hawkish được thị trường tiêu hóa tốt: vàng có thể test $4,400-4,500 trong 2-4 tuần. Rủi ro giảm: nếu Iran căng thẳng giải quyết đột ngột. Khuyến nghị: theo dõi họp báo Warsh và diễn biến Iran tuần tới.",
+    "outlook_label": "Vàng ~$4,360/oz (18/6 Thứ Năm) — ổn định sau +$117; SJC 149.8-151.8M; USD mạnh tạo áp lực ngắn hạn",
+    "outlook_class": "pbe",
+    "outlook_text": "18/6 (Thứ Năm): Vàng ổn định ~$4,360/oz sau đợt tăng mạnh hôm qua. World_vnd ~138.7M, SJC mua/bán 149.8/151.8M. Hai yếu tố đối lập: USD mạnh (hawkish FOMC) tạo áp lực ngắn hạn vs CPI 4.2% + Iran không chắc chắn hỗ trợ dài hạn. Kịch bản: nếu đàm phán Iran tích cực, vàng có thể điều chỉnh về $4,280-4,320; nếu đàm phán đổ vỡ, test $4,400-4,450. Dự báo dài hạn J.P. Morgan $5,055 / Goldman $5,400 vẫn nguyên.",
     "sources": [
       {
-        "name": "USAGOLD — Live Gold Price Today $4,358/oz",
-        "url": "https://www.usagold.com/live-gold-price-today/"
+        "name": "Vietnam.vn — Giá vàng SJC 18/6/2026",
+        "url": "https://www.vietnam.vn/en/gia-vang-hom-nay-17-06-2026-sjc-149-8-151-8-trieu-dong-luong-tang-nhe-so-voi-truoc"
       },
       {
-        "name": "StockTitan — Fed Rate Decision June 17, 2026",
-        "url": "https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026"
+        "name": "Polymarket — Bitcoin price on June 18 2026",
+        "url": "https://polymarket.com/event/bitcoin-price-on-june-18-2026"
       },
       {
-        "name": "REX Shares — FOMC June 2026 Preview: Dot Plot Analysis",
-        "url": "https://www.rexshares.com/fomc-june-2026-preview-the-decision-is-settled-the-dot-plot-isnt/"
+        "name": "TradingEconomics — Gold Price",
+        "url": "https://tradingeconomics.com/commodity/gold"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 17/6 (Thứ Tư): FOMC Warsh hawkish dot plot — xóa cắt lãi 2026 → NHNN VN duy trì lãi cao hơn và lâu hơn dự kiến. SHB 7.8%/12T vẫn dẫn đầu; HLBank 7.7% online; OCB 7.7%. ACB 7.3%/12T; BIDV & Vietcombank 7.4% dẫn Big4. Tín hiệu post-FOMC: lãi huy động kỳ 12T sẽ duy trì ở đỉnh cao đến ít nhất Q4/2026.",
+    "alert": "📊 18/6 (Thứ Năm): Lãi suất ổn định sau tuần tăng mạnh — SHB 7.8%/12T; HLBank 7.7% online; OCB 7.7%. BIDV & Vietcombank 7.4% dẫn Big4. Post-FOMC hawkish: NHNN duy trì lãi cao đến Q4/2026. Đỉnh 12T có thể đạt 8-8.2% trong Q3. HLBank quầy 7.3%/12T — kênh online vẫn vượt trội.",
     "highlights": [
       {
         "label": "SHB dẫn đầu hệ thống",
         "value": "7.8%",
         "sub": "SHB online 12T / HLBank 7.7% / OCB 7.7%",
-        "note": "SHB 7.8%/12T vẫn dẫn đầu toàn hệ thống. HLBank online 7.7%, OCB 7.7% — top 3 NH tư nhân cạnh tranh gay gắt. Post-FOMC hawkish: xu hướng giữ cao hoặc tăng thêm."
+        "note": "SHB 7.8%/12T vẫn dẫn đầu toàn hệ thống. HLBank online 7.7%, OCB 7.7% — top 3 NH tư nhân. Post-FOMC hawkish: các NH có động lực giữ nguyên hoặc tăng nhẹ thêm trong Q3."
       },
       {
         "label": "BIDV & VCB dẫn Big4",
         "value": "7.4%",
         "sub": "BIDV và Vietcombank 12T — cao nhất lịch sử Big4",
-        "note": "BIDV và Vietcombank ở mức 7.4%/12T — cao nhất lịch sử gần đây nhóm NH quốc doanh. FOMC hawkish giúp Big4 duy trì lãi cao mà không lo NHNN hạ sớm."
+        "note": "BIDV và Vietcombank 7.4%/12T — mức cao lịch sử nhóm NH quốc doanh. Tín hiệu: Big4 sẽ duy trì mức này đến ít nhất Q3/2026 do Fed không cắt lãi."
       },
       {
-        "label": "FOMC hawkish — NHNN giữ cao Q3-Q4",
+        "label": "Đỉnh 12T hướng 8-8.2%",
         "value": "⬆",
-        "sub": "Dot plot xóa cắt lãi 2026 → NHNN không hạ Q3",
-        "note": "Kết quả FOMC 17/6 hawkish hơn dự kiến — dot plot xóa cắt lãi còn lại 2026. NHNN sẽ duy trì lãi suất điều hành ít nhất đến Q4/2026. Lãi huy động 12T có thể tiếp tục tăng nhẹ đến 8% trong Q3."
+        "sub": "Kịch bản Q3/2026 sau dot plot hawkish FOMC",
+        "note": "Sau FOMC hawkish (17/6), dự báo đỉnh lãi 12T được nâng lên 8-8.2%/năm trong Q3/2026. SHB dẫn đầu, có thể lên 8% đầu tiên. Cơ hội lock 12T tại 7.7-7.8% vẫn rất tốt."
       },
       {
-        "label": "Cơ hội lock 12T",
-        "value": "7.7-7.8%",
-        "sub": "SHB/HLBank — lock trước khi thị trường phản ứng FOMC",
-        "note": "Post-FOMC hawkish: đây là thời điểm tốt để lock kỳ hạn 12T ở mức 7.7-7.8% (SHB, HLBank). Nếu dot plot được thị trường tiêu hóa dần, NH có thể điều chỉnh tăng thêm 0.1-0.3% trong 2-4 tuần tới."
+        "label": "HLBank quầy 7.3% / online 7.7%",
+        "value": "7.3-7.7%",
+        "sub": "Gap online vs quầy 0.4% — kênh online chiến lược",
+        "note": "HLBank quầy 7.3%/12T, online 7.7% — gap 0.4%. Kênh online tiếp tục là chiến trường cạnh tranh lãi suất chính. Khuyến nghị: luôn so sánh lãi online trước khi gửi quầy."
       }
     ],
     "banks": [
@@ -312,13 +312,9 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 17/6 (Thứ Tư): Post-FOMC hawkish — SHB 7.8% / HLBank 7.7% / BIDV 7.4% duy trì; NHNN giữ cao đến Q4/2026",
-      "body": "Ngày 17/6/2026 (Thứ Tư), FOMC Warsh công bố giữ lãi 3.5-3.75% nhưng dot plot hawkish bất ngờ: xóa dự báo cắt lãi 2026 còn lại. Tác động lên lãi suất VN: NHNN sẽ duy trì lãi suất điều hành và không có áp lực hạ sớm — lãi huy động 12T tiếp tục ở mức cao. SHB 7.8%/12T dẫn đầu; HLBank và OCB 7.7%; ACB giữ 7.3% sau đợt tăng 12/6; BIDV và Vietcombank 7.4% dẫn Big4; VPBank 7.4%; Techcombank 7.25%. Tín hiệu: đỉnh lãi 12T có thể đạt 8% trong Q3/2026 — cao hơn dự báo trước FOMC. Cơ hội: lock kỳ 12T tại SHB 7.8%/HLBank 7.7% ngay hôm nay.",
+      "title": "Lãi suất 18/6 (Thứ Năm): Ổn định post-FOMC hawkish — SHB 7.8% / HLBank 7.7% / BIDV 7.4%; đỉnh 12T hướng 8-8.2% Q3/2026",
+      "body": "Ngày 18/6/2026 (Thứ Năm), lãi suất huy động ổn định sau tuần tăng mạnh. Không có thay đổi mới đáng kể so hôm qua. SHB 7.8%/12T dẫn đầu; HLBank và OCB 7.7%; ACB 7.3%; BIDV và Vietcombank 7.4% dẫn Big4. Hệ quả FOMC hawkish (17/6): NHNN không còn áp lực hạ lãi điều hành 2026 — lãi huy động 12T tiếp tục ở mức cao. Dự báo đỉnh 12T điều chỉnh lên 8-8.2%/năm trong Q3/2026. Khuyến nghị: lock 12T tại SHB 7.8% hoặc HLBank 7.7% online ngay hôm nay.",
       "sources": [
-        {
-          "name": "VietnamNet — Lãi suất ngân hàng 16/6/2026: Nhà băng 3 ngày liên tiếp đổi lãi suất",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-16-6-2026-nha-bang-3-ngay-lien-tiep-doi-lai-suat-2526228.html"
-        },
         {
           "name": "Topi — Lãi suất tháng 6/2026",
           "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
@@ -326,6 +322,10 @@
         {
           "name": "24HMoney — Lãi suất gửi tiết kiệm tháng 6/2026",
           "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
+        },
+        {
+          "name": "Cafef — Lãi suất ngân hàng tháng 6/2026",
+          "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
         }
       ]
     },
@@ -335,14 +335,14 @@
         "level": "main",
         "pct": 88,
         "bar": "fh",
-        "desc": "Kết quả FOMC 17/6: dot plot hawkish hơn dự kiến — xóa dự báo cắt lãi 2026. Futures price 56% xác suất tăng lãi year-end. Tác động VN: NHNN không còn áp lực hạ lãi suất điều hành trong năm 2026. Lãi huy động 12T sẽ duy trì mức cao, có thể tăng thêm 0.1-0.3% trong Q3."
+        "desc": "Kết quả FOMC 17/6 hawkish hơn dự kiến — dot plot xóa dự báo cắt lãi 2026. Futures price 56% xác suất tăng lãi year-end. Tác động VN: NHNN không còn áp lực hạ lãi suất điều hành — lãi huy động 12T sẽ duy trì mức cao, có thể tăng thêm 0.1-0.3% trong Q3."
       },
       {
         "name": "Tín dụng H1/2026 vượt kế hoạch — cạnh tranh huy động vốn tiếp tục gay gắt",
         "level": "main",
         "pct": 78,
         "bar": "fh",
-        "desc": "Tăng trưởng tín dụng H1/2026 vượt kế hoạch — các NH phải tăng lãi huy động để cân bằng nguồn vốn. SHB, HLBank, ACB tăng liên tiếp; BIDV, Vietcombank đã lên 7.4%. Tuần 9-17/6 là tuần tăng lãi mạnh nhất từ tháng 4/2026."
+        "desc": "Tăng trưởng tín dụng H1/2026 vượt kế hoạch — các NH phải tăng lãi huy động để cân bằng nguồn vốn. SHB, HLBank, ACB tăng liên tiếp trong tháng 6. Tuần 9-17/6 là tuần tăng lãi mạnh nhất từ tháng 4/2026."
       },
       {
         "name": "CPI Mỹ 4.2% + Iran tensions — lạm phát dai dẳng, rủi ro địa chính trị cao",
@@ -352,27 +352,27 @@
         "desc": "CPI Mỹ 4.2% yoy + căng thẳng Iran-Mỹ đẩy giá dầu và CPI VN leo thang. Lạm phát dai dẳng buộc NHNN giữ lãi cao để kiểm soát — trực tiếp hỗ trợ lãi huy động ở mức cao."
       },
       {
-        "name": "Vàng SJC ~151-152.5M + BTC $65K — cạnh tranh thu hút dòng tiền tiếp tục",
+        "name": "Vàng SJC ~151.8M + BTC $65K — cạnh tranh thu hút dòng tiền tiếp tục",
         "level": "sub",
         "pct": 58,
         "bar": "fm",
-        "desc": "Vàng tăng đột biến +$117 lên $4,358/oz — SJC ước 151-152.5M. BTC giữ $65K-66K. NH phải duy trì lãi tiết kiệm cao để giữ dòng tiền không bị hút sang kênh vàng/crypto."
+        "desc": "Vàng SJC bán 151.8M, BTC $65K — NH phải duy trì lãi tiết kiệm cao để giữ dòng tiền không bị hút sang kênh vàng/crypto. Đây là áp lực cạnh tranh liên tục buộc NH giữ lãi cao."
       },
       {
-        "name": "Online banking dẫn đầu — gap online vs quầy tiếp tục rộng",
+        "name": "Online banking dẫn đầu — gap online vs quầy tiếp tục rộng (0.4-0.5%)",
         "level": "sub",
         "pct": 70,
         "bar": "fm",
-        "desc": "SHB online 7.8% vs quầy ~5-6%; HLBank online 7.7% vs quầy 7.3%; ACB online 7.3% vs quầy ~4.5-5%. Kênh online tiếp tục là chiến trường cạnh tranh lãi suất chính. Post-FOMC hawkish: NH online có động lực tăng thêm để giữ dòng tiền."
+        "desc": "SHB online 7.8% vs quầy ~5-6%; HLBank online 7.7% vs quầy 7.3%; ACB online 7.3% vs quầy ~4.5-5%. Kênh online tiếp tục là chiến trường cạnh tranh chính. Post-FOMC hawkish: NH online có động lực tăng thêm."
       }
     ],
     "rate_forecast": [
       {
-        "name": "Lock 12T ngay hôm nay — SHB 7.8% / HLBank 7.7% / OCB 7.7% trước khi thị trường phản ứng FOMC",
+        "name": "Lock 12T ngay — SHB 7.8% / HLBank 7.7% / OCB 7.7% trước khi thị trường điều chỉnh",
         "pct": 88,
         "direction": "up",
         "bar": "fh",
-        "desc": "Post-FOMC hawkish: đây là cơ hội tốt nhất để lock 12T. SHB 7.8%, HLBank và OCB 7.7% — những NH này có thể điều chỉnh tăng thêm 0.1-0.3% trong 1-2 tuần tới khi thị trường phản ứng. Giao động ngắn hạn, nhưng 12T lock hôm nay đảm bảo mức cao."
+        "desc": "Post-FOMC hawkish: cơ hội lock 12T tốt nhất hiện nay. SHB 7.8%, HLBank và OCB 7.7% — các NH này có thể điều chỉnh tăng thêm 0.1-0.3% trong 1-2 tuần. Lock hôm nay đảm bảo mức lãi cao."
       },
       {
         "name": "BIDV 7.4% / Vietcombank 7.4% / VPBank 7.4% — an toàn, lãi cao từ NH lớn",
@@ -386,24 +386,20 @@
         "pct": 68,
         "direction": "up",
         "bar": "fh",
-        "desc": "Trước FOMC, dự báo đỉnh 7.5-8%. Sau dot plot hawkish, kịch bản cơ sở dịch lên 8-8.2%/12T trong Q3/2026. SHB có thể dẫn đầu lên 8%+ đầu tiên. Kịch bản đỉnh tháng 7-8/2026 vẫn còn nguyên."
+        "desc": "Trước FOMC, dự báo đỉnh 7.5-8%. Sau dot plot hawkish, kịch bản cơ sở dịch lên 8-8.2%/12T trong Q3/2026. SHB có thể dẫn đầu lên 8%+ đầu tiên trong tháng 7-8/2026."
       },
       {
         "name": "NHNN cắt lãi điều hành Q4/2026 — xác suất giảm xuống 15-25% sau FOMC hawkish",
         "pct": 20,
         "direction": "down",
         "bar": "fl",
-        "desc": "Trước FOMC, xác suất NHNN cắt lãi Q4/2026 là 30-45%. Sau dot plot hawkish xóa cắt lãi 2026 của Fed, xác suất này giảm xuống 15-25%. Kịch bản cắt lãi chỉ xảy ra nếu: CPI VN hạ nhanh dưới 3% và Fed đột ngột đổi chiều."
+        "desc": "Trước FOMC, xác suất NHNN cắt lãi Q4/2026 là 30-45%. Sau dot plot hawkish, xác suất này giảm xuống 15-25%. Kịch bản cắt lãi chỉ xảy ra nếu CPI VN hạ nhanh dưới 3% và Fed đột ngột đổi chiều."
       }
     ],
-    "rate_outlook_label": "17/6 Thứ Tư — Post-FOMC hawkish: SHB 7.8% / HLBank 7.7% / BIDV 7.4% — đỉnh lãi 12T có thể lên 8-8.2% Q3/2026",
+    "rate_outlook_label": "18/6 Thứ Năm — Lãi ổn định post-FOMC: SHB 7.8% / HLBank 7.7% / BIDV 7.4%; đỉnh 8-8.2% Q3/2026",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "17/6 (Thứ Tư): FOMC Warsh hawkish shock — dot plot xóa cắt lãi 2026, 56% xác suất tăng lãi year-end. Tác động lên VN: NHNN duy trì lãi cao đến Q4/2026 ít nhất. SHB 7.8% / HLBank 7.7% / OCB 7.7% dẫn đầu; ACB 7.3%; BIDV và Vietcombank 7.4% dẫn Big4; VPBank 7.4%; Techcombank 7.25%. Đỉnh lãi 12T được điều chỉnh lên 8-8.2% trong Q3/2026. Cơ hội lock 12T hôm nay rất tốt — trước khi NH có thể điều chỉnh tăng thêm.",
+    "rate_outlook_text": "18/6 (Thứ Năm): Lãi suất huy động ổn định sau tuần tăng mạnh — không có điều chỉnh mới đáng kể. SHB 7.8%/12T / HLBank 7.7% / OCB 7.7% dẫn đầu; BIDV và Vietcombank 7.4% dẫn Big4. Hệ quả FOMC hawkish: NHNN duy trì lãi cao đến ít nhất Q4/2026. Đỉnh 12T được điều chỉnh lên 8-8.2% trong Q3/2026. Cơ hội lock 12T hôm nay vẫn rất tốt.",
     "rate_sources": [
-      {
-        "name": "VietnamNet — Lãi suất ngân hàng 16/6/2026: Nhà băng 3 ngày liên tiếp đổi lãi suất",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-16-6-2026-nha-bang-3-ngay-lien-tiep-doi-lai-suat-2526228.html"
-      },
       {
         "name": "Topi — Lãi suất tháng 6/2026",
         "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
@@ -411,6 +407,10 @@
       {
         "name": "24HMoney — Lãi suất gửi tiết kiệm tháng 6/2026",
         "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
+      },
+      {
+        "name": "Cafef — Lãi suất ngân hàng tháng 6/2026",
+        "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
       }
     ]
   },
@@ -582,7 +582,8 @@
       "14/06",
       "15/06",
       "16/06",
-      "17/06"
+      "17/06",
+      "18/06"
     ],
     "sjc": [
       152.8,
@@ -751,7 +752,8 @@
       145.5,
       145.5,
       149.0,
-      151.0
+      151.0,
+      151.5
     ],
     "world_vnd": [
       121,
@@ -920,7 +922,8 @@
       134.1,
       136.1,
       137.0,
-      138.5
+      138.5,
+      138.7
     ]
   }
 }
