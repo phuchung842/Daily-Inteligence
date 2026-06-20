@@ -1,162 +1,162 @@
 {
   "meta": {
-    "date": "19 tháng 6, 2026",
-    "day": "Thứ Sáu",
-    "updated": "2026-06-19 07:00"
+    "date": "20 tháng 6, 2026",
+    "day": "Thứ Bảy",
+    "updated": "2026-06-20 07:00"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>19/6 — Thứ Sáu:</b> Vàng ~$4,250/oz giảm ~2.5% sau US-Iran 60-day ceasefire deal; SJC mua 148.8M / bán 151.3M. BTC ~$64,000 ổn định. Anthropic IPO filed ($44B ARR, first operating profit Q2/2026); OpenAI nhắm Q4 IPO. Google ra Gemini 3.1 Flash-Lite — nhanh hơn 2.5×. Lãi suất VN: SHB 7.8%/12T dẫn đầu — ổn định sang tuần mới."
+    "text": "🟡 <b>20/6 — Thứ Bảy:</b> Vàng ~$4,137/oz tiếp tục giảm sau US-Iran deal (SJC đóng cửa cuối tuần, tham chiếu 149.0M). BTC ~$65,000 ổn định. OpenAI ra GPT-5.5 đột phá agentic; DeepSeek V4-Pro 1M context; Amazon AI chip vượt $20B ARR. Lãi suất VN: SHB 7.8%/12T — ổn định cuối tuần."
   },
   "news_ai": [
     {
-      "title": "Anthropic IPO: Filed confidentially 1/6/2026 — ARR $44B, profit Q2 đầu tiên $559M; dẫn đầu LLM revenue share 31.4% Q1/2026",
+      "title": "OpenAI GPT-5.5 ra mắt: đột phá lớn nhất từ trước đến nay — agentic coding, computer use, nghiên cứu khoa học",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic đã nộp hồ sơ IPO bảo mật ngày 1/6/2026. ARR vượt $44B tính đến tháng 5/2026 — nhanh gấp đôi so đầu năm. Dự kiến lợi nhuận hoạt động lần đầu tiên ~$559M trong Q2/2026. Counterpoint Research: Anthropic dẫn đầu doanh thu LLM toàn cầu Q1/2026 với 31.4% — vượt qua OpenAI (29%). IPO cuộc đua 2026: OpenAI nhắm Q4, Anthropic sớm hơn.",
-      "source": "Seeking Alpha / Forge Global / IG International, 19/6/2026",
-      "source_url": "https://seekingalpha.com/news/4544675-openai-plans-q4-ipo-ai-race-anthropic"
+      "body": "OpenAI ra mắt GPT-5.5 — model mạnh nhất từ trước đến nay, đạt SOTA trên các benchmark agentic coding, computer use và nghiên cứu khoa học. Đây là bước tiến lớn trong cuộc đua AI trước thềm IPO Q4/2026 của OpenAI. GPT-5.5 tiếp tục đối đầu trực tiếp với Claude 4 (Anthropic) và Gemini 3.1 (Google) trong phân khúc frontier model.",
+      "source": "LLM Stats / Crescendo AI, 20/6/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "OpenAI $25B+ ARR và kế hoạch IPO Q4/2026 — cuộc đua lên sàn với Anthropic; tuyển dụng finance team mạnh",
+      "title": "DeepSeek V4-Pro & V4-Flash: context 1 triệu token, hiệu năng frontier với chi phí thấp hơn nhiều",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "OpenAI công bố kế hoạch IPO Q4/2026, tăng tốc trước đối thủ Anthropic. Doanh thu hóa annualized vượt $25B. Công ty đang xây dựng đội tài chính IPO — tuyển CFO Ajmere Dale và Cynthia Gaylor phụ trách quan hệ nhà đầu tư. Cặp đôi IPO SpaceX + OpenAI + Anthropic 2026 dự kiến huy động vốn lớn hơn tổng US listings từ 2022.",
-      "source": "Seeking Alpha / IndMoney / IG International, 19/6/2026",
-      "source_url": "https://www.indmoney.com/blog/us-stocks/spacex-openai-anthropic-ipo-explained"
+      "body": "DeepSeek ra mắt V4-Pro và V4-Flash với context window 1 triệu token — hiệu năng frontier nhưng chi phí suy luận chỉ bằng một phần nhỏ so với OpenAI và Anthropic. Đây là đòn giáng mạnh vào chiến lược định giá của các hãng Mỹ, buộc họ phải cạnh tranh về giá trong phân khúc enterprise.",
+      "source": "LLM Stats / Crescendo AI, 20/6/2026",
+      "source_url": "https://llm-stats.com/llm-updates"
     },
     {
-      "title": "Google Gemini 3.1 Flash-Lite ra mắt: nhanh hơn 2.5×, output nhanh hơn 45% — efficiency model chiến lược cho 2H/2026",
+      "title": "Microsoft capex 2026 đạt $190B — $25B tăng thêm do AI infrastructure; Amazon AI chip vượt $20B ARR",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google ra mắt Gemini 3.1 Flash-Lite — model tập trung hiệu năng (efficiency-focused), nhanh hơn 2.5× so phiên bản trước và output nhanh hơn 45%. Đây là nước đi chiến lược của Google trong cuộc đua AI 2H/2026: tối ưu chi phí suy luận để cạnh tranh với Claude Haiku và GPT-4o Mini trong phân khúc enterprise low-cost.",
-      "source": "Crescendo AI / LLM Stats, 19/6/2026",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "body": "Microsoft công bố tổng capex 2026 dự kiến $190B, tăng $25B so kế hoạch do giá bộ nhớ và storage phục vụ AI tăng vọt. Cùng lúc, Amazon cho biết mảng custom silicon (Graviton, Trainium, Nitro) đã vượt $20B ARR, tăng trưởng 100%+ YoY — chứng minh AI chip không chỉ là câu chuyện của NVIDIA.",
+      "source": "AI Tactical Toolbox / Tech Startups, 20/6/2026",
+      "source_url": "https://avihacker.substack.com/p/ai-industry-news-openai-nvidia-and-ce6"
     },
     {
-      "title": "AI Agentic Systems: Xu hướng chủ đạo 2026 — AI chuyển từ 'chat' sang hoàn thành tasks thực tế (research, coding, legal, payments)",
+      "title": "Qualcomm đàm phán mua Tenstorrent $8-10B — cuộc đua AI hardware chip bùng phát; MANGO era chính thức",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Báo cáo tháng 6/2026: AI đang rời khỏi giai đoạn chatbot và bước vào kỷ nguyên agentic — tự động hoàn thành chuỗi tác vụ phức tạp trong nghiên cứu, lập trình, hỗ trợ pháp lý, thanh toán và thương mại điện tử. Anthropic, OpenAI và Google đều có roadmap agentic mạnh cho H2/2026. Đây là yếu tố chính thúc đẩy ARR tăng vọt của cả hai hãng.",
-      "source": "Crescendo AI / imfounder.com, 19/6/2026",
-      "source_url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/"
+      "body": "Qualcomm đang trong giai đoạn đầu đàm phán mua lại Tenstorrent — startup AI chip do Jim Keller lãnh đạo — với giá $8-10B. Thương vụ này sẽ giúp Qualcomm cạnh tranh trực tiếp với NVIDIA và AMD trong thị trường AI accelerator. Ngành công nghiệp hiện dùng moniker MANGO (Meta, Anthropic, NVIDIA, Google, OpenAI) để mô tả 5 hãng thống trị kỷ nguyên AI.",
+      "source": "AI Tactical Toolbox / dentro.de/ai, 20/6/2026",
+      "source_url": "https://dentro.de/ai/news/"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "green",
-      "text": "🟢 Vàng ~$4,250/oz giảm ~2.5% sau US-Iran ký thỏa thuận ngừng bắn 60 ngày (17/6); SJC mua 148.8M / bán 151.3M (giảm nhẹ). BTC ~$64,000 (-1.3%). Geopolitical premium giảm — vàng điều chỉnh ngắn hạn nhưng nền tảng dài hạn vẫn vững. Dầu giảm ~$3/barrel sau deal Iran."
+      "type": "yellow",
+      "text": "🟡 Vàng ~$4,137/oz — giảm tiếp 2.4% từ $4,250 (18/6) sau US-Iran deal tiếp diễn. Thứ Bảy: thị trường SJC đóng cửa, tham chiếu 149.0M. BTC ~$65,000 tích lũy — kháng cự $66K. Geopolitical premium tiếp tục hạ nhiệt ngắn hạn nhưng nền tảng dài hạn vẫn vững."
     },
     "items": [
       {
-        "title": "Vàng ~$4,250/oz giảm sau US-Iran 60-day ceasefire; SJC mua 148.8M / bán 151.3M — geopolitical premium hạ nhiệt (19/6)",
+        "title": "Vàng ~$4,137/oz (Thứ Bảy 20/6) — giảm tiếp sau Iran deal; SJC đóng cửa, tham chiếu 149.0M; world_vnd ~131.5M",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Ngày 19/6 (Thứ Sáu), vàng thế giới điều chỉnh về ~$4,250/oz (giảm ~2.5% so $4,360 hôm qua) sau khi Mỹ-Iran ký thỏa thuận ngừng bắn 60 ngày (17/6) — mở đường cho đàm phán hòa bình chính thức. SJC: mua 148,800,000đ / bán 151,300,000đ (không đổi từ cuối phiên 17/6). World_vnd ước ~136.0M. Geopolitical premium giảm ngắn hạn nhưng dự báo J.P.Morgan $5,055 và Goldman $5,400 vẫn nguyên.",
-        "source": "Bnews / Vietnam.vn / giavang.org, 19/6/2026",
-        "source_url": "https://bnews.vn/gia-vang-hom-nay-19-6-cap-nhat-moi-nhat/425603.html"
+        "body": "Vàng thế giới tiếp tục điều chỉnh về ~$4,137/oz (giảm thêm từ $4,250 hôm qua) theo đà US-Iran ceasefire tiến triển. Thứ Bảy: SJC và thị trường vàng VN đóng cửa — tham chiếu mua/bán 148.8/149.0M (dựa trên phiên cuối tuần). World_vnd ước ~131.5M. Geopolitical premium tiếp tục giảm. Dự báo J.P. Morgan $5,055 và Goldman $5,400 vẫn nguyên cho Q4/2026.",
+        "source": "TradingEconomics / JM Bullion, 19-20/6/2026",
+        "source_url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "title": "Bitcoin ~$64,000 (-1.3%) — thị trường crypto điều chỉnh nhẹ cùng chiều với vàng post-Iran deal",
+        "title": "Bitcoin ~$65,000 — tích lũy dưới kháng cự $66K; dự báo tháng 6 hướng $65,600-$66,250",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin ngày 18/6 kết phiên tại $63,908 (-1.29%), vốn hóa $1.28 nghìn tỷ. Cùng chiều với vàng, crypto điều chỉnh nhẹ khi risk appetite hạ nhiệt sau Iran deal. Không có panic selling — thị trường tiêu hóa tốt. Kháng cự $65K vẫn là mục tiêu gần; hỗ trợ mạnh tại $60K-62K. Nhiều dự báo cho Q3/2026 hướng $72,500-74,000.",
-        "source": "BlockchainReporter / Polymarket, 18-19/6/2026",
-        "source_url": "https://blockchainreporter.net/bitcoin-news-today/"
+        "body": "Bitcoin ổn định quanh $65,000 — tích lũy dưới kháng cự $66K sau giai đoạn điều chỉnh cùng chiều với vàng. Dự báo đến cuối tháng 6/2026: $65,200-$66,250. Không có panic selling; thị trường tiêu hóa tốt Iran deal. Hỗ trợ mạnh tại $62K. ETF Bitcoin tiếp tục ghi dòng tiền vào ổn định.",
+        "source": "CoinDesk / CoinDCX, 20/6/2026",
+        "source_url": "https://www.coindesk.com/price/bitcoin"
       },
       {
-        "title": "US-Iran ký ngừng bắn 60 ngày — dầu giảm $3/barrel; vàng điều chỉnh nhưng rủi ro đổ vỡ vẫn còn",
+        "title": "Microsoft $190B capex AI 2026 + Amazon chip $20B ARR — AI infrastructure boom chưa hạ nhiệt",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Thỏa thuận ngừng bắn 60 ngày Mỹ-Iran (17/6) tạo ra đường cho đàm phán hòa bình chính thức, mở lại Strait of Hormuz. Dầu giảm ~$3/barrel — bớt áp lực CPI. Vàng giảm ngắn hạn do geopolitical premium hạ nhiệt. Tuy nhiên rủi ro đàm phán đổ vỡ vẫn còn cao — thị trường chưa định giá hết kịch bản hòa bình lâu dài. USD tiếp tục mạnh post-FOMC.",
-        "source": "Vietnam.vn / TradingEconomics / Crescendo AI, 19/6/2026",
-        "source_url": "https://www.vietnam.vn/gia-vang-chieu-nay-18-6-2026-gia-vang-sjc-nhan-9999-va-gia-vang-the-gioi"
+        "body": "Microsoft: tổng capex 2026 dự kiến $190B (+$25B do AI demand), vượt cả Google và Meta về mức đầu tư hạ tầng AI. Amazon: mảng custom silicon vượt $20B ARR, tăng trưởng 100%+ YoY — cạnh tranh trực tiếp với NVIDIA trong thị trường AI chip. Xu hướng: các hyperscaler đẩy mạnh vertical integration AI chip để giảm phụ thuộc vào NVIDIA H200.",
+        "source": "AI Tactical Toolbox / TechStartups, 20/6/2026",
+        "source_url": "https://techstartups.com/2026/06/09/top-tech-news-today-june-9-2026/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>19/6 — Thứ Sáu:</b> Vàng thế giới điều chỉnh về ~$4,250/oz (giảm ~2.5% từ $4,360 hôm qua) sau US-Iran ký ngừng bắn 60 ngày. World_vnd ~136.0 triệu. SJC mua 148.8M / bán 151.3M (giảm nhẹ từ 151.8M hôm qua). Geopolitical premium giảm nhưng CPI 4.2% + Fed hawkish vẫn hỗ trợ. Mục tiêu J.P. Morgan $5,055 / Goldman $5,400 vẫn nguyên cho Q4/2026.",
+    "summary": "🟡 <b>20/6 — Thứ Bảy:</b> Vàng thế giới tiếp tục giảm về ~$4,137/oz sau US-Iran ceasefire tiến triển. World_vnd ~131.5 triệu. SJC đóng cửa cuối tuần — tham chiếu 149.0M. Geopolitical premium tiếp tục hạ nhiệt ngắn hạn. Nền tảng dài hạn (CPI 4.2% + Fed hawkish + mua vàng ngân hàng TW) vẫn vững. Mục tiêu J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 giữ nguyên.",
     "factors": [
       {
-        "name": "US-Iran 60-day ceasefire — geopolitical premium giảm; vàng điều chỉnh $4,250/oz",
-        "pct": 65,
+        "name": "US-Iran ceasefire tiến triển — geopolitical premium tiếp tục giảm; vàng ~$4,137/oz",
+        "pct": 62,
         "direction": "down",
         "bar": "fm",
-        "desc": "Mỹ-Iran ký thỏa thuận ngừng bắn 60 ngày (17/6), mở Strait of Hormuz và tạo điều kiện đàm phán hòa bình. Tin này đẩy vàng giảm ~$110 từ $4,360 xuống ~$4,250. Tuy nhiên 60 ngày là ngắn hạn — nếu đàm phán đổ vỡ, vàng sẽ phục hồi nhanh về $4,350-4,400."
+        "desc": "US-Iran 60-day deal (17/6) tiếp tục tạo áp lực giảm lên vàng — thêm 1 ngày không có leo thang geopolitical. Vàng giảm thêm từ $4,250 → ~$4,137 (-$113 so $4,360 trước deal). Rủi ro: 60 ngày là ngắn hạn — nếu đàm phán chính thức đổ vỡ, vàng sẽ phục hồi nhanh về $4,300-4,400."
       },
       {
         "name": "CPI Mỹ 4.2% + FOMC hawkish — nền tảng hỗ trợ vàng dài hạn vẫn vững",
         "pct": 75,
         "direction": "up",
         "bar": "fh",
-        "desc": "Dù vàng điều chỉnh ngắn hạn sau Iran deal, CPI Mỹ 4.2% dai dẳng và Fed hawkish (dot plot xóa cắt lãi 2026) vẫn là nền tảng hỗ trợ cơ bản. Vàng như hedge lạm phát hiệu quả khi real rate âm — cầu từ ngân hàng trung ương toàn cầu tiếp tục."
+        "desc": "Dù vàng điều chỉnh ngắn hạn sau Iran deal, CPI Mỹ 4.2% dai dẳng và Fed hawkish (dot plot xóa cắt lãi 2026) vẫn là nền tảng hỗ trợ cơ bản. Vàng là hedge lạm phát hiệu quả khi real rate âm — cầu từ ngân hàng trung ương toàn cầu tiếp tục mạnh."
       },
       {
-        "name": "SJC 148.8M / 151.3M — premium vs world_vnd ~15.3M (11.2%); hạ nhiệt nhẹ",
-        "pct": 58,
+        "name": "SJC đóng cửa Thứ Bảy — tham chiếu ~149.0M; premium vs world_vnd ~17.5M (13.4%)",
+        "pct": 55,
         "direction": "up",
         "bar": "fm",
-        "desc": "SJC bán 151.3M vs world_vnd ~136.0M = premium ~15.3M (~11.2%) — cao hơn trung bình lịch sử nhưng giảm nhẹ so hôm qua (151.8M). NHNN tiếp tục kiểm soát cung SJC. Khuyến nghị: so sánh SJC vs vàng nhẫn 9999 trước khi quyết định."
+        "desc": "SJC đóng cửa cuối tuần. Tham chiếu từ phiên 19/6: mua 148.8M / bán ~149.0M. World_vnd ước ~131.5M → SJC premium ~17.5M (~13.4%) — cao hơn lịch sử do thị trường VN phản ứng chậm hơn. Phiên mở cửa tuần mới (23/6) sẽ điều chỉnh theo giá thế giới."
       },
       {
-        "name": "Dầu giảm $3/barrel sau Iran deal — bớt áp lực CPI nhưng rủi ro đổ vỡ còn",
-        "pct": 50,
+        "name": "Dầu ổn định sau Iran deal — áp lực CPI giảm nhẹ; tác động vàng trung lập",
+        "pct": 45,
         "direction": "down",
-        "bar": "fm",
-        "desc": "Iran deal đẩy dầu giảm ~$3/barrel — bớt áp lực CPI ngắn hạn. Nếu duy trì, CPI Mỹ có thể hạ dần trong Q3/2026, giảm động lực tích lũy vàng. Tuy nhiên 60 ngày ngừng bắn là ngắn — đàm phán chính thức còn nhiều chướng ngại."
+        "bar": "fl",
+        "desc": "Dầu ổn định sau đợt giảm $3/barrel ngay sau Iran deal — không giảm thêm. Tác động lên CPI và vàng ở mức trung lập. Thị trường chờ dữ liệu CPI Mỹ tháng 6 (dự kiến đầu tháng 7) để xác định hướng tiếp theo."
       },
       {
-        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — dự báo giữ nguyên; điều chỉnh là cơ hội mua",
-        "pct": 82,
+        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — điều chỉnh ngắn hạn là cơ hội tích lũy",
+        "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "J.P. Morgan nâng mục tiêu vàng lên $6,300 cuối 2026 theo một số nguồn. Goldman Sachs $5,400. Kịch bản cơ sở sau điều chỉnh 19/6: vàng hướng $4,300-4,400 Q3/2026. Điều chỉnh ngắn hạn do Iran deal là cơ hội tích lũy theo quan điểm dài hạn."
+        "desc": "J.P. Morgan nâng mục tiêu vàng Q4/2026 lên $5,055 (một số nguồn $6,300). Goldman Sachs: $5,400. Với vàng đang ở $4,137, upside tiềm năng là 23-30%. Điều chỉnh sau Iran deal được các tổ chức tài chính lớn xem là cơ hội tích lũy dài hạn."
       }
     ],
-    "outlook_label": "Vàng ~$4,250/oz (19/6 Thứ Sáu) — giảm sau Iran 60-day deal; SJC 148.8-151.3M; nền tảng dài hạn vẫn vững",
+    "outlook_label": "Vàng ~$4,137/oz (20/6 Thứ Bảy) — giảm tiếp sau Iran deal; SJC đóng cửa tham chiếu 149.0M; cơ hội tích lũy dài hạn",
     "outlook_class": "pbg",
-    "outlook_text": "19/6 (Thứ Sáu): Vàng điều chỉnh về ~$4,250/oz (-~2.5%) sau US-Iran ký ngừng bắn 60 ngày. World_vnd ~136.0M, SJC mua/bán 148.8/151.3M. Geopolitical premium hạ nhiệt ngắn hạn. Kịch bản: nếu đàm phán Iran tiến triển tốt, vàng có thể test $4,150-4,200; nếu đàm phán đổ vỡ hoặc CPI Mỹ Q2 cao hơn kỳ vọng, vàng phục hồi về $4,350-4,450 nhanh chóng. Dự báo dài hạn J.P. Morgan $5,055+ / Goldman $5,400 vẫn nguyên.",
+    "outlook_text": "20/6 (Thứ Bảy): Vàng tiếp tục giảm về ~$4,137/oz (-$113 so trước Iran deal). SJC đóng cửa cuối tuần, tham chiếu 149.0M. World_vnd ~131.5M. Kịch bản tuần tới: nếu đàm phán Iran tiến triển tốt, vàng có thể test $4,050-4,100 (hỗ trợ kỹ thuật); nếu đàm phán đổ vỡ hoặc CPI Mỹ Q2 cao, vàng phục hồi nhanh về $4,300-4,400. Dự báo dài hạn J.P. Morgan $5,055+ / Goldman $5,400 vẫn nguyên — tích lũy dần ở vùng $4,100-4,200.",
     "sources": [
-      {
-        "name": "Bnews — Giá vàng hôm nay 19/6/2026",
-        "url": "https://bnews.vn/gia-vang-hom-nay-19-6-cap-nhat-moi-nhat/425603.html"
-      },
-      {
-        "name": "Vietnam.vn — Giá vàng chiều 18/6/2026",
-        "url": "https://www.vietnam.vn/gia-vang-chieu-nay-18-6-2026-gia-vang-sjc-nhan-9999-va-gia-vang-the-gioi"
-      },
       {
         "name": "TradingEconomics — Gold Price",
         "url": "https://tradingeconomics.com/commodity/gold"
+      },
+      {
+        "name": "JM Bullion — Live Gold Spot Price",
+        "url": "https://www.jmbullion.com/charts/gold-price/"
+      },
+      {
+        "name": "AOL/JP Morgan — Gold Price $6,300 by End of 2026",
+        "url": "https://www.aol.com/articles/jp-morgan-predicts-gold-price-232746253.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 19/6 (Thứ Sáu): Lãi suất ổn định bước vào cuối tuần — SHB 7.8%/12T; HLBank 7.7% online; OCB 7.7%. BIDV & Vietcombank 7.4% dẫn Big4. Cake by VPBank 8.9% online (đặc biệt). Lãi 6T: HLBank duy nhất trên 7%/năm. NHNN giữ lãi cao đến Q4/2026 post-FOMC hawkish.",
+    "alert": "📊 20/6 (Thứ Bảy): Ngân hàng nghỉ cuối tuần — lãi suất không thay đổi. SHB 7.8%/12T dẫn đầu; HLBank 7.7% online; OCB 7.7%. BIDV & Vietcombank 7.4%/12T. Cake by VPBank 8.9% online đặc biệt. Tuần 23/6: theo dõi tác động FOMC hawkish lên lãi huy động Big4.",
     "highlights": [
       {
         "label": "SHB dẫn đầu hệ thống",
         "value": "7.8%",
         "sub": "SHB online 12T / HLBank 7.7% / OCB 7.7%",
-        "note": "SHB 7.8%/12T vẫn dẫn đầu toàn hệ thống. HLBank online 7.7%, OCB 7.7% — top 3 NH tư nhân. Cake by VPBank đặc biệt 8.9% online. Post-FOMC hawkish: các NH giữ nguyên hoặc tăng nhẹ thêm trong Q3."
+        "note": "SHB 7.8%/12T tiếp tục dẫn đầu toàn hệ thống. HLBank online 7.7%, OCB 7.7% — top 3 NH tư nhân. Cake by VPBank đặc biệt 8.9% online. Dự báo: SHB có thể lên 8%+ đầu tiên trong tháng 7/2026."
       },
       {
         "label": "BIDV & VCB dẫn Big4",
         "value": "7.4%",
         "sub": "BIDV và Vietcombank 12T — cao nhất lịch sử Big4",
-        "note": "BIDV và Vietcombank 7.4%/12T — mức cao lịch sử nhóm NH quốc doanh. Tín hiệu: Big4 sẽ duy trì mức này đến ít nhất Q3/2026 do Fed không cắt lãi."
+        "note": "BIDV và Vietcombank 7.4%/12T — mức cao lịch sử nhóm NH quốc doanh. Tín hiệu: Big4 duy trì đến ít nhất Q3/2026 do Fed không cắt lãi. Tuần 23/6 theo dõi có điều chỉnh không."
       },
       {
         "label": "HLBank: duy nhất 6T trên 7%",
         "value": "7.05%",
         "sub": "Lãi suất kỳ hạn 6 tháng duy nhất >7% toàn thị trường",
-        "note": "VietnamBiz ghi nhận HLBank là NH duy nhất giữ lãi 6T trên 7%/năm (7.05%). Các NH khác đều dưới mức này. Cho thấy HLBank đang cạnh tranh huy động vốn trung hạn rất quyết liệt."
+        "note": "HLBank vẫn là NH duy nhất duy trì lãi 6T trên 7%/năm (7.05%). Lựa chọn tốt cho người không muốn lock 12T. Cuối tuần — không thay đổi."
       },
       {
         "label": "Đỉnh 12T hướng 8-8.2% Q3",
         "value": "⬆",
         "sub": "Kịch bản Q3/2026 sau dot plot hawkish FOMC",
-        "note": "Sau FOMC hawkish (17/6), dự báo đỉnh lãi 12T được nâng lên 8-8.2%/năm trong Q3/2026. SHB dẫn đầu, có thể lên 8% đầu tiên. Cơ hội lock 12T tại 7.7-7.8% vẫn rất tốt."
+        "note": "Post-FOMC hawkish: đỉnh lãi 12T điều chỉnh lên 8-8.2%/năm trong Q3/2026. SHB dẫn đầu, có thể lên 8% đầu tiên tháng 7-8/2026. Cơ hội lock 12T tại 7.7-7.8% vẫn rất tốt."
       }
     ],
     "banks": [
@@ -312,8 +312,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 19/6 (Thứ Sáu): Ổn định cuối tuần — SHB 7.8% / HLBank 7.7% / BIDV 7.4%; HLBank duy nhất 6T >7%; đỉnh 12T hướng 8-8.2% Q3/2026",
-      "body": "Ngày 19/6/2026 (Thứ Sáu), lãi suất huy động ổn định bước vào cuối tuần — không có điều chỉnh mới đáng kể. SHB 7.8%/12T dẫn đầu; HLBank và OCB 7.7%; ACB 7.3%; BIDV và Vietcombank 7.4% dẫn Big4. Đặc biệt: HLBank là NH duy nhất duy trì lãi 6T trên 7%/năm (7.05%) — theo VietnamBiz. Cake by VPBank có ưu đãi đặc biệt 8.9% online. Hệ quả FOMC hawkish (17/6): NHNN không còn áp lực hạ lãi điều hành — lãi huy động 12T tiếp tục ở mức cao. Dự báo đỉnh 12T điều chỉnh lên 8-8.2%/năm trong Q3/2026.",
+      "title": "Lãi suất 20/6 (Thứ Bảy): Ổn định cuối tuần — SHB 7.8% / HLBank 7.7% / BIDV 7.4%; đỉnh 8-8.2% Q3/2026 sau FOMC hawkish",
+      "body": "Ngày 20/6/2026 (Thứ Bảy), lãi suất huy động ổn định — ngân hàng nghỉ cuối tuần, không có điều chỉnh mới. SHB 7.8%/12T dẫn đầu; HLBank và OCB 7.7%; BIDV và Vietcombank 7.4%/12T dẫn Big4. HLBank vẫn là NH duy nhất giữ lãi 6T trên 7%/năm (7.05%). Cake by VPBank 8.9% online đặc biệt. Hệ quả FOMC hawkish (17/6): NHNN không còn áp lực hạ lãi điều hành. Tuần 23/6 theo dõi tác động tiếp theo. Dự báo đỉnh 12T: 8-8.2%/năm Q3/2026.",
       "sources": [
         {
           "name": "Topi — Lãi suất tháng 6/2026",
@@ -349,7 +349,7 @@
         "level": "sub",
         "pct": 72,
         "bar": "fm",
-        "desc": "CPI Mỹ 4.2% yoy + lạm phát VN leo thang. Dầu giảm nhẹ sau Iran deal nhưng chưa đủ bù đắp. Lạm phát dai dẳng buộc NHNN giữ lãi cao để kiểm soát — trực tiếp hỗ trợ lãi huy động ở mức cao."
+        "desc": "CPI Mỹ 4.2% yoy + lạm phát VN leo thang. Dầu giảm nhẹ sau Iran deal nhưng chưa đủ bù đắp. Lạm phát dai dẳng buộc NHNN giữ lãi cao để kiểm soát."
       },
       {
         "name": "HLBank duy nhất giữ lãi 6T >7% — chiến lược huy động vốn trung hạn quyết liệt",
@@ -396,9 +396,9 @@
         "desc": "Xác suất NHNN cắt lãi Q4/2026 giảm xuống 15-25%. Kịch bản cắt lãi chỉ xảy ra nếu CPI VN hạ nhanh dưới 3% và Fed đột ngột đổi chiều."
       }
     ],
-    "rate_outlook_label": "19/6 Thứ Sáu — Lãi ổn định: SHB 7.8% / HLBank 7.7% (6T: 7.05% duy nhất >7%) / BIDV 7.4%; đỉnh 8-8.2% Q3/2026",
+    "rate_outlook_label": "20/6 Thứ Bảy — Lãi ổn định cuối tuần: SHB 7.8% / HLBank 7.7% (6T: 7.05%) / BIDV 7.4%; đỉnh 8-8.2% Q3/2026",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "19/6 (Thứ Sáu): Lãi suất huy động ổn định cuối tuần — không có điều chỉnh mới. SHB 7.8%/12T / HLBank 7.7% / OCB 7.7% dẫn đầu; BIDV và Vietcombank 7.4% dẫn Big4. HLBank duy nhất giữ lãi 6T >7% (7.05%). Hệ quả FOMC hawkish: NHNN duy trì lãi cao đến ít nhất Q4/2026. Đỉnh 12T hướng 8-8.2% trong Q3/2026.",
+    "rate_outlook_text": "20/6 (Thứ Bảy): Lãi suất huy động ổn định cuối tuần — không có điều chỉnh mới. SHB 7.8%/12T / HLBank 7.7% / OCB 7.7% dẫn đầu; BIDV và Vietcombank 7.4%/12T dẫn Big4. HLBank vẫn là NH duy nhất giữ lãi 6T >7% (7.05%). NHNN duy trì lãi cao đến ít nhất Q4/2026 do Fed hawkish. Đỉnh 12T hướng 8-8.2% trong Q3/2026. Theo dõi tuần 23/6.",
     "rate_sources": [
       {
         "name": "Topi — Lãi suất tháng 6/2026",
@@ -584,7 +584,8 @@
       "16/06",
       "17/06",
       "18/06",
-      "19/06"
+      "19/06",
+      "20/06"
     ],
     "sjc": [
       152.8,
@@ -755,7 +756,8 @@
       149.0,
       151.0,
       151.5,
-      150.0
+      150.0,
+      149.0
     ],
     "world_vnd": [
       121,
@@ -926,7 +928,8 @@
       137.0,
       138.5,
       138.7,
-      136.0
+      136.0,
+      131.5
     ]
   }
 }
