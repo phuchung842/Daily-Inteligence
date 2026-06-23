@@ -1,171 +1,179 @@
 {
   "meta": {
-    "date": "22 tháng 6, 2026",
-    "day": "Thứ Hai",
-    "updated": "2026-06-22 22:00"
+    "date": "23 tháng 6, 2026",
+    "day": "Thứ Ba",
+    "updated": "2026-06-23 00:05"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>22/6 — Thứ Hai:</b> Vàng ~$4,190/oz phục hồi (+53 so 20/6); SJC +1.5M/lượng mở cửa tuần, bán ra ~148.5M. BTC ~$65,000 tăng nhẹ. Noam Shazeer (Transformer co-author) rời Google DeepMind sang OpenAI. <b>Lãi suất VN điều chỉnh mạnh:</b> ACB 7.3% dẫn đầu; Big4 6.8%/12T; SHB xuống 6.5% (từ 7.8%). Từ 1/7: nới trần vốn ngắn hạn cho vay TDH lên 40%."
+    "text": "🟡 <b>23/6 — Thứ Ba:</b> Vàng ~$4,195/oz ổn định; SJC ~148.2M/lượng; world_vnd ~133.4M. BTC ~$64,576 giảm nhẹ từ $65,034. <b>Anthropic nộp hồ sơ IPO kín ($965B valuation)</b>; OpenAI Daybreak cybersecurity; Fable 5 yêu cầu trả phí từ hôm nay. <b>HLBank tăng lên 7.3%/12T</b> — ngang ACB, đồng dẫn đầu hệ thống."
   },
   "news_ai": [
     {
-      "title": "Noam Shazeer (đồng tác giả Transformer) rời Google DeepMind sang OpenAI — Sam Altman: 'Người tôi muốn nhất từ đầu'",
+      "title": "Anthropic nộp hồ sơ IPO kín — định giá $965 tỷ USD, lớn nhất lịch sử AI; OpenAI nhắm IPO tháng 9/2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Noam Shazeer — đồng tác giả của bài báo 'Attention Is All You Need' (2017) định hình toàn bộ kỷ nguyên AI hiện đại — rời Google DeepMind ngày 18/6/2026 để gia nhập OpenAI với vai trò Lead Architecture Research. Sam Altman gọi đây là 'người tôi muốn tuyển nhất từ khi thành lập OpenAI'. Đây là bước đi chiến lược quan trọng nhất của OpenAI trong cuộc chiến AI frontier, ngay trước thềm IPO tháng 9/2026.",
-      "source": "MLQ AI / Tech Jacks Solutions, 22/6/2026",
-      "source_url": "https://mlq.ai/news/openai-hires-transformer-co-inventor-noam-shazeer-away-from-google-deepmind/"
+      "body": "Anthropic chính thức nộp hồ sơ đăng ký IPO bí mật (draft registration statement) lên SEC sau vòng Series H $65 tỷ định giá công ty ở mức $965 tỷ USD — tiệm cận mốc nghìn tỷ. Đây là một trong những định giá IPO lớn nhất lịch sử công nghệ. Song song, OpenAI đang làm việc với Goldman Sachs và Morgan Stanley để nộp hồ sơ IPO kín trong vài tuần tới, nhắm IPO tháng 9/2026. Cuộc đua IPO của hai tên tuổi AI dẫn đầu thế giới sẽ định hình lại thị trường vốn toàn cầu.",
+      "source": "NPR / LLM Stats, 23/6/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "Trung Quốc công bố kế hoạch AI $295 tỷ trong 5 năm — 80% chip nội địa (Huawei), loại NVIDIA khỏi thị trường",
+      "title": "OpenAI ra mắt Daybreak — chương trình cybersecurity cạnh tranh trực tiếp với Anthropic Project Glasswing",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Ủy ban Phát triển và Cải cách Quốc gia Trung Quốc (NDRC) chuẩn bị kế hoạch 2 nghìn tỷ nhân dân tệ (~$295B) xây dựng mạng lưới data center AI toàn quốc trong 5 năm — một trong những cam kết chính phủ AI lớn nhất lịch sử. Kế hoạch bắt buộc ít nhất 80% công nghệ AI chip phải từ nhà cung cấp nội địa (chủ yếu Huawei), đẩy NVIDIA ra khỏi thị trường Trung Quốc.",
-      "source": "Bloomberg / MLQ AI, 12/6/2026",
-      "source_url": "https://mlq.ai/news/china-drafts-295-billion-plan-for-domestic-ai-data-centers-mandating-80-local-chips/"
-    },
-    {
-      "title": "Google Gemini 3.5 Pro & Claude Mythos 1 ra mắt cùng tuần — AI frontier tháng 6 bùng nổ; Mythos tìm 23,019 lỗ hổng cybersecurity",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Google ra mắt Gemini 3.5 Pro và Anthropic chính thức phát hành Claude Mythos 1 cùng trong 4 tuần đầu tháng 6/2026 — đợt ra mắt model frontier dày đặc nhất từ trước đến nay. Anthropic Project Glasswing (từ 7/4/2026) cho Claude Mythos Preview hoạt động với 50 tổ chức đối tác về cybersecurity phòng thủ: kết quả tháng đầu: Mythos tìm ra 23,019 lỗ hổng trên 1,000+ dự án open-source.",
-      "source": "WaveSpeed Blog / Anthropic Newsroom, 22/6/2026",
-      "source_url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/"
-    },
-    {
-      "title": "42 bang Mỹ điều tra OpenAI; Bộ Commerce ra lệnh khẩn export control — S&P 500 rebalancing favors AI computing",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Liên minh 42 tổng chưởng lý tiểu bang Mỹ mở điều tra OpenAI về: quảng cáo sai sự thật, vấn đề sycophancy, xử lý dữ liệu sức khỏe và bảo vệ người cao tuổi/trẻ em. Đồng thời, Bộ Thương mại Mỹ ban hành lệnh export control khẩn cấp — Fable 5 và Mythos 5 offline từ 12/6. S&P 500 rebalancing ngày 22/6 ưu tiên các công ty AI computing — tín hiệu tích cực cho sector.",
-      "source": "Build Fast With AI / NPR, 22/6/2026",
+      "body": "OpenAI chính thức công bố Daybreak — chương trình cybersecurity kết hợp GPT-5.5 với Codex Security để tự động hóa: threat modeling, xác định lỗ hổng, vá lỗi và điều phối quy trình bảo mật. Daybreak là câu trả lời trực tiếp của OpenAI cho Anthropic Project Glasswing (đã tìm 23,019 lỗ hổng/tháng đầu). Cuộc đua AI bảo mật đang nóng lên: các mô hình frontier được triển khai cho phòng thủ mạng, đặt ra câu hỏi về quản trị AI dual-use.",
+      "source": "Build Fast With AI / LLM Stats, 23/6/2026",
       "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-22-2026"
+    },
+    {
+      "title": "Fable 5 (Anthropic) yêu cầu trả phí từ 23/6 — vẫn offline do lệnh export control Mỹ; user mất cả trial lẫn quyền truy cập",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Kể từ hôm nay 23/6, Fable 5 chuyển sang yêu cầu trả phí usage credits — kết thúc thời kỳ dùng thử miễn phí. Trùng hợp bi kịch: Fable 5 và Mythos 5 vẫn đang offline từ 12/6/2026 do lệnh export control khẩn cấp của Bộ Thương mại Mỹ. Người dùng không chỉ mất quyền truy cập model mà còn mất cả window trial miễn phí. Đây là ví dụ rõ nhất về rủi ro geopolitical đối với hạ tầng AI thương mại.",
+      "source": "LLM Stats / devFLokers, 23/6/2026",
+      "source_url": "https://llm-stats.com/llm-updates"
+    },
+    {
+      "title": "EUROPA Consortium (EU) thắng Frontier AI Grand Challenge — xây model >400B tham số; Microsoft $190B capex AI 2026",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Ủy ban Châu Âu chọn EUROPA Consortium (dẫn đầu bởi Domyn, Italy) giành Frontier AI Grand Challenge — được cấp 6.000 chip NVIDIA Blackwell và tới 2.5% công suất EuroHPC để xây model mã nguồn mở sovereign >400 tỷ tham số. Song song, Microsoft thông báo tổng capex 2026 ước $190 tỷ — tăng $25 tỷ do giá bộ nhớ/lưu trữ AI tăng mạnh. EU và Mỹ đều đang đặt cược lớn vào hạ tầng AI trong nước.",
+      "source": "AI Startup Edge / devFLokers, 23/6/2026",
+      "source_url": "https://aistartupedge.com/latest-ai-news-june-2026/"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "green",
-      "text": "🟢 Vàng ~$4,190/oz (22/6) — phục hồi +53 so 20/6 sau Iran deal; SJC mở cửa tuần tăng 1.5M, bán ra 148.5M, world_vnd ~133.2M. BTC ~$65,000 tăng nhẹ sáng sớm. Brent crude <$80/barrel. Fed hawkish: Treasury 2Y yield vượt 4.22% — đỉnh cao nhất từ đầu 2025. Lãi suất VN điều chỉnh mạnh xuống: ACB 7.3% dẫn đầu, Big4 ổn định 6.8%, SHB xuống 6.5%."
+      "type": "yellow",
+      "text": "🟡 Vàng ~$4,195/oz (23/6) — ổn định; SJC ~148.2M bán ra; world_vnd ~133.4M. BTC ~$64,576 giảm nhẹ từ $65,034 (22/6). PMI tháng 6 và GDP Q1 Mỹ được công bố tuần này — watch macro. HLBank tăng lãi 7.3%/12T ngang ACB — hai NH đồng dẫn đầu hệ thống."
     },
     "items": [
       {
-        "title": "Vàng ~$4,190/oz (22/6 Thứ Hai) — phục hồi +$53 từ 20/6; SJC tăng 1.5M mở cửa tuần, bán ra 148.5M; world_vnd ~133.2M",
+        "title": "Vàng ~$4,195/oz (23/6 Thứ Ba) — ổn định; SJC ~148.2M bán ra; world_vnd ~133.4M; PMI/GDP tuần này là rủi ro chính",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Vàng thế giới phục hồi về ~$4,190/oz (tăng $53 so $4,137 ngày 20/6) khi thị trường mở cửa đầu tuần — geopolitical premium Iran deal không giảm thêm. SJC tăng mạnh 1.5 triệu/lượng mở cửa buổi sáng, bán ra ~148.5M, world_vnd ước ~133.2M. Premium SJC/world_vnd ~15.3M (11.5%). Fed hawkish (Treasury 2Y vượt 4.22% lần đầu từ đầu 2025) tiếp tục làm nền hỗ trợ vàng dài hạn. Mục tiêu JP Morgan $5,055 / Goldman $5,400 Q4/2026 giữ nguyên.",
-        "source": "CNBC / Fortune / TradingEconomics, 22/6/2026",
+        "body": "Vàng thế giới dao động ~$4,195/oz ngày 23/6 — ổn định so với $4,190 của 22/6. SJC ước ~148.2M bán ra, world_vnd ~133.4M. Tuần này sẽ có nhiều dữ liệu macro Mỹ quan trọng: PMI tháng 6 (manufacturing + services), GDP Q1 Mỹ (revised), University of Michigan inflation expectations — bất kỳ số liệu bất ngờ nào cũng có thể tạo biến động. JP Morgan mục tiêu $5,055 / Goldman $5,400 Q4/2026 giữ nguyên. Vùng $4,100-4,200 vẫn là tích lũy hấp dẫn dài hạn.",
+        "source": "LiteFinance / TradingEconomics, 23/6/2026",
         "source_url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "title": "Bitcoin ~$65,000 (22/6) — tăng nhẹ buổi sáng; ETF BTC ghi outflow kỷ lục 30 ngày; Fed hawkish 75bp cuối 2026",
+        "title": "Bitcoin ~$64,576 (23/6) — giảm nhẹ từ $65,034 (22/6); ETF outflow tiếp diễn; macro PMI/GDP là catalyst chính tuần này",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin tăng nhẹ về ~$65,218 lúc 9:37am ET ngày 22/6/2026 — cải thiện sau giai đoạn điều chỉnh cùng chiều vàng. Tuy nhiên: US spot Bitcoin ETFs ghi net outflow kỷ lục 30 ngày tính đến 22/6 — áp lực bán từ tổ chức. Fed hawkish tiếp tục: 2-year Treasury yield vượt 4.22% (cao nhất từ đầu 2025), thị trường định giá 75bp tăng lãi suất cuối 2026. XRP ETF spot ghi inflow kỷ lục tuần $60.5M trong mid-May.",
-        "source": "Yahoo Finance / Fortune, 22/6/2026",
+        "body": "Bitcoin giảm nhẹ xuống ~$64,576 (23/6) từ $65,034 (22/6) — biến động hẹp trong vùng $64K-$66K. US spot Bitcoin ETFs tiếp tục ghi net outflow — áp lực bán từ tổ chức chưa giảm. Tuần này: PMI tháng 6 và GDP Q1 Mỹ là catalyst chính — nếu PMI yếu hoặc GDP revise thấp, Fed có thể softer hơn, tích cực cho BTC. Mục tiêu Q3/2026 của các analyst: $70K-$80K nếu macro hỗ trợ.",
+        "source": "Yahoo Finance / Fortune, 23/6/2026",
         "source_url": "https://fortune.com/article/price-of-bitcoin-06-22-2026/"
       },
       {
-        "title": "Từ 1/7: Ngân hàng VN được nới trần vốn ngắn hạn cho vay TDH lên 40% — lãi suất VN điều chỉnh mạnh; ACB 7.3% dẫn đầu",
+        "title": "HLBank tăng lên 7.3%/12T (23/6) — ngang ACB, đồng dẫn đầu; HLBank online 7.7%/6T cao nhất hệ thống",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Chính thức từ 1/7/2026: Ngân hàng Nhà nước nới trần tỷ lệ vốn ngắn hạn cho vay trung dài hạn từ 30% lên 40% — mở ra dư địa tín dụng mới. Đồng thời lãi suất huy động điều chỉnh mạnh: ACB 7.3%/12T (dẫn đầu mới), Big4 ổn định 6.8%/12T, SHB giảm từ 7.8% xuống 6.5%, BIDV/VCB điều chỉnh từ 7.4% xuống 6.8%. NCB giảm thêm 0.1pp hôm nay. Thị trường phân hóa rõ rệt.",
-        "source": "CafeF / VietnamNet, 22/6/2026",
-        "source_url": "https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn"
+        "body": "HLBank (Hong Leong Bank) tăng lãi suất tiết kiệm 12T lên 7.3%/năm ngày 23/6, bằng ACB — hai ngân hàng đồng dẫn đầu hệ thống. HLBank cũng áp dụng 7.3%/năm cho kỳ hạn 6T tại quầy và 7.7% online — cao nhất hệ thống cho kỳ hạn trung. Big4 (Agribank, BIDV, VCB, VietinBank) tiếp tục duy trì 6.8%/12T ổn định, không có thay đổi. Từ 1/7: NHNN nới trần vốn ngắn hạn TDH lên 40%.",
+        "source": "topi.vn / 24HMoney, 23/6/2026",
+        "source_url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>22/6 — Thứ Hai:</b> Vàng phục hồi về ~$4,190/oz (+$53 so 20/6) khi mở cửa đầu tuần — geopolitical premium Iran deal không giảm thêm. SJC tăng 1.5M/lượng mở cửa, bán ra ~148.5M. World_vnd ~133.2M (SJC premium ~15.3M, 11.5%). Fed hawkish: Treasury 2Y >4.22%. Dài hạn: JPM $5,055 / Goldman $5,400 Q4/2026.",
+    "summary": "🟡 <b>23/6 — Thứ Ba:</b> Vàng ~$4,195/oz — ổn định, dao động hẹp. SJC ~148.2M bán ra; world_vnd ~133.4M; SJC premium ~14.8M (11.1%). Tuần này: PMI tháng 6 và GDP Q1 Mỹ là rủi ro macro chính. Fed hawkish: Treasury 2Y >4.22%. JPM $5,055 / GS $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng phục hồi $4,190/oz — Iran deal không leo thang thêm, geopolitical premium ổn định",
-        "pct": 60,
+        "name": "Vàng ~$4,195/oz (23/6) — ổn định sau phục hồi 22/6; dao động hẹp $4,170-4,200",
+        "pct": 58,
         "direction": "up",
         "bar": "fm",
-        "desc": "Vàng tăng $53 từ $4,137 (20/6) lên $4,190 (22/6) khi mở cửa đầu tuần — thị trường không còn bán vàng vì Iran deal vì deal đã được price-in. Geopolitical premium ổn định hơn so với ngày 17-20/6. Hỗ trợ kỹ thuật tại $4,100 đang giữ vững."
+        "desc": "Vàng tiếp tục dao động trong vùng $4,170-4,200/oz — thị trường chờ dữ liệu macro Mỹ (PMI tháng 6, GDP Q1 revised). Hỗ trợ kỹ thuật tại $4,100 đang giữ vững. Không có catalyst lớn mới trong 24h — giá ổn định là kịch bản cơ sở."
       },
       {
-        "name": "Fed hawkish: Treasury 2Y >4.22% — đỉnh cao nhất từ đầu 2025; thị trường kỳ vọng 75bp tăng lãi year-end",
+        "name": "Fed hawkish: Treasury 2Y >4.22% — nền hỗ trợ vàng dài hạn; CPI 4.2% > yields ngắn hạn",
         "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "Short-dated US Treasury yields vượt 4.22% (cao nhất từ đầu 2025) sau phát biểu hawkish từ Chủ tịch Fed mới. Thị trường định giá 75bp tăng lãi suất cuối 2026 — đây là nền tảng hỗ trợ vàng dài hạn mạnh nhất. Lãi suất thực âm khi CPI 4.2% > yields ngắn hạn."
+        "desc": "Treasury 2Y yields trên 4.22% (cao nhất từ đầu 2025) — lãi suất thực âm khi CPI 4.2% > Treasury yields ngắn hạn. Đây là nền tảng hỗ trợ vàng dài hạn mạnh nhất. Thị trường định giá 75bp tăng lãi suất cuối 2026."
       },
       {
-        "name": "SJC mở cửa +1.5M → 148.5M bán ra; world_vnd ~133.2M; premium ~15.3M (11.5%)",
-        "pct": 55,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "SJC tăng 1.5 triệu/lượng ngay lúc mở cửa thứ Hai — phản ứng bù đắp cuối tuần với world gold tăng. Mua vào ~145.6M / bán ra ~148.5M. World_vnd ước ~133.2M. SJC premium ~15.3M (11.5%) — thấp hơn so với đỉnh nhưng vẫn cao hơn lịch sử dài hạn."
-      },
-      {
-        "name": "Brent crude <$80/barrel — hạ nhiệt sau Iran deal, áp lực CPI giảm nhẹ",
-        "pct": 40,
+        "name": "SJC ~148.2M bán ra; world_vnd ~133.4M; premium ~14.8M (11.1%) — nhẹ hơn tuần trước",
+        "pct": 52,
         "direction": "down",
-        "bar": "fl",
-        "desc": "Brent crude dưới $80/barrel sau báo cáo lộ trình 60 ngày đàm phán hòa bình Trung Đông. Tác động: giảm nhẹ áp lực CPI trong ngắn hạn → trung lập với vàng. CPI Mỹ 4.2% vẫn cao — không ảnh hưởng nhiều đến xu hướng dài hạn."
+        "bar": "fm",
+        "desc": "SJC ~148.2M bán ra ngày 23/6 — ổn định so với 148.5M ngày 22/6. World_vnd ước ~133.4M (tính từ $4,195 × tỷ giá 26,362). Premium SJC/world_vnd ~14.8M (11.1%) — giảm nhẹ so với 15.3M hôm qua. Xu hướng premium SJC thu hẹp dần là tín hiệu thị trường bình thường hóa."
       },
       {
-        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — điều chỉnh $4,137-4,190 là vùng tích lũy hấp dẫn",
+        "name": "PMI tháng 6 và GDP Q1 Mỹ — catalyst macro quan trọng tuần này; biến động vàng có thể mở rộng",
+        "pct": 45,
+        "direction": "up",
+        "bar": "fl",
+        "desc": "Tuần 23-27/6: PMI manufacturing + services tháng 6 Mỹ, GDP Q1 revised, University of Michigan inflation expectations đều được công bố. Nếu PMI yếu → kỳ vọng Fed softer → vàng test $4,250-4,300. Nếu GDP mạnh → Fed hawkish → vàng có thể test $4,150."
+      },
+      {
+        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — tích lũy $4,100-4,200 vẫn hấp dẫn",
         "pct": 82,
         "direction": "up",
         "bar": "fh",
-        "desc": "J.P. Morgan mục tiêu $5,055, Goldman Sachs $5,400 Q4/2026. Vàng ở $4,190 có upside tiềm năng 21-29%. Các tổ chức lớn đánh giá vùng $4,100-4,200 là cơ hội tích lũy dài hạn — không phải vùng đỉnh. Trung Quốc mua vàng dự trữ tiếp tục là nhu cầu nền tảng."
+        "desc": "Mục tiêu JP Morgan $5,055 và Goldman Sachs $5,400 Q4/2026 giữ nguyên. Vàng ở $4,195 có upside tiềm năng 20-29%. Trung Quốc tiếp tục mua vàng dự trữ là nhu cầu nền tảng dài hạn. Các tổ chức lớn đánh giá vùng $4,100-4,250 là tích lũy hấp dẫn."
       }
     ],
-    "outlook_label": "Vàng ~$4,190/oz (22/6 Thứ Hai) — phục hồi đầu tuần; SJC 148.5M; Treasury 2Y >4.22%; mục tiêu JPM $5,055 / GS $5,400",
+    "outlook_label": "Vàng ~$4,195/oz (23/6 Thứ Ba) — ổn định; SJC 148.2M; PMI/GDP Mỹ là catalyst tuần; mục tiêu JPM $5,055 / GS $5,400",
     "outlook_class": "pbg",
-    "outlook_text": "22/6 (Thứ Hai): Vàng phục hồi $4,190/oz (+$53 so 20/6) — mở cửa đầu tuần tích cực. SJC +1.5M/lượng, bán ra 148.5M. World_vnd ~133.2M. Tuần tới: theo dõi tiến độ đàm phán Iran (60-day roadmap) và Fed communications. Kịch bản: nếu đàm phán Iran trì hoãn/đổ vỡ → vàng hướng $4,300-4,400; nếu tiến triển tốt → vàng test $4,100-4,150. Dự báo dài hạn JPM $5,055+ / GS $5,400 — tích lũy ở $4,100-4,250 vẫn hấp dẫn.",
+    "outlook_text": "23/6 (Thứ Ba): Vàng ~$4,195/oz — ổn định trong vùng $4,170-4,200. SJC ~148.2M bán ra; world_vnd ~133.4M. Tuần này: theo dõi PMI tháng 6 và GDP Q1 Mỹ (revised) — hai dữ liệu này sẽ định hướng Fed sentiment. Kịch bản bull: PMI yếu → vàng test $4,250-4,300. Kịch bản bear: GDP mạnh → vàng test $4,100-4,150. Dự báo dài hạn JPM $5,055+ / GS $5,400 vẫn là target. Vùng $4,100-4,250 là tích lũy.",
     "sources": [
       {
         "name": "TradingEconomics — Gold Price",
         "url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "name": "CNBC — Gold price today June 22 2026",
-        "url": "https://www.cnbc.com/select/the-price-of-gold-today-june-22-2026/"
+        "name": "LiteFinance — Gold Price Forecast June 23 2026",
+        "url": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/"
       },
       {
-        "name": "Fortune — Current price of gold June 22 2026",
-        "url": "https://fortune.com/article/current-price-of-gold-06-22-2026/"
+        "name": "Barchart — Gold Futures GCM26",
+        "url": "https://www.barchart.com/futures/quotes/GCM26"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 22/6 (Thứ Hai): Lãi suất VN điều chỉnh mạnh — ACB 7.3%/12T dẫn đầu mới (vượt SHB). Big4 ổn định 6.8%/12T. SHB giảm từ 7.8% xuống 6.5%; BIDV/VCB xuống 6.8%; VPBank 6.3%. NCB giảm 0.1pp hôm nay. <b>Từ 1/7: Nới trần vốn ngắn hạn cho vay TDH lên 40%.</b>",
+    "alert": "📊 23/6 (Thứ Ba): HLBank tăng lên 7.3%/12T — đồng dẫn đầu với ACB 7.3%. Big4 ổn định 6.8%/12T. MBV, OCB, MB giữ 7.0%. SHB 6.5% (giảm từ 7.8%). <b>HLBank online: 7.7%/6T</b> — cao nhất hệ thống cho kỳ hạn trung. Từ 1/7: Nới trần vốn ngắn hạn TDH 40%.",
     "highlights": [
       {
-        "label": "ACB dẫn đầu hệ thống",
+        "label": "HLBank & ACB đồng dẫn đầu",
         "value": "7.3%",
-        "sub": "ACB 12T online — Saigonbank 7.2%; MBV/PGBank/VIB 7.0%",
-        "note": "ACB 7.3%/12T là mức cao nhất toàn thị trường ngày 22/6. Saigonbank 7.2%; MBV, PGBank, VIB cùng 7.0%. Đây là nhóm duy nhất còn >7% sau đợt điều chỉnh mạnh. SHB đã rớt từ 7.8% xuống 6.5%."
+        "sub": "HLBank 7.3%/12T tại quầy (7.7% online/6T); ACB 7.3%/12T — hai NH đồng top",
+        "note": "HLBank tăng lên 7.3%/12T ngày 23/6, ngang với ACB. HLBank còn áp dụng 7.7%/năm online cho kỳ hạn 6T — cao nhất hệ thống cho kỳ hạn trung. Đây là tín hiệu cạnh tranh huy động giữa NH tư nhân vừa chưa dứt."
       },
       {
         "label": "Big4 ổn định 6.8%/12T",
         "value": "6.8%",
         "sub": "BIDV, Vietcombank, Agribank, VietinBank — đồng nhất 4.75%/3T; 6.6%/6T; 6.8%/12T",
-        "note": "Big4 (Agribank, BIDV, Vietcombank, VietinBank) duy trì mặt bằng đồng nhất và ổn định 6.8%/12T. Đây là mức thấp hơn nhiều so với trước — phản ánh chính sách NHNN hỗ trợ tăng trưởng tín dụng."
+        "note": "Big4 duy trì mặt bằng đồng nhất và ổn định. Không có thay đổi ngày 23/6. Phản ánh định hướng của NHNN — không khuyến khích tăng lãi suất huy động thêm nữa."
       },
       {
-        "label": "SHB giảm mạnh: 7.8% → 6.5%",
-        "value": "⬇",
-        "sub": "SHB từ 7.8% (20/6) xuống 6.5% (22/6) — điều chỉnh đáng kể",
-        "note": "SHB — từng dẫn đầu 7.8%/12T — nay chỉ còn 6.5%, thấp hơn cả Big4 BIDV/VCB (6.8%). Xu hướng giảm lãi suất diễn ra đồng loạt ở nhiều NH. Cơ hội cho người vay; cẩn thận với người gửi."
+        "label": "MBV, OCB, MB — 7.0%/12T",
+        "value": "7.0%",
+        "sub": "MBV (OceanBank), OCB (Phương Đông), MB Bank đều 7.0%/12T",
+        "note": "Nhóm ngân hàng tư nhân tầm trung MBV, OCB, MB Bank giữ 7.0%/12T — ổn định và cạnh tranh. Phù hợp cho người gửi không muốn rủi ro NH nhỏ."
       },
       {
-        "label": "Từ 1/7: Nới trần vốn ngắn hạn cho vay TDH 40%",
-        "value": "⬆",
-        "sub": "NHNN chính thức nới từ 30% lên 40% — mở dư địa tín dụng",
-        "note": "Chính thức từ 1/7/2026: ngân hàng được dùng tối đa 40% vốn ngắn hạn (thay vì 30%) để cho vay trung dài hạn. Tín hiệu NHNN hỗ trợ tín dụng; có thể tạo áp lực giảm nhẹ lãi suất cho vay trung hạn trong Q3/2026."
+        "label": "HLBank online 7.7%/6T — cao nhất",
+        "value": "7.7%",
+        "sub": "HLBank gửi online kỳ hạn 6T đạt 7.7%/năm — cao nhất hệ thống tháng 6",
+        "note": "HLBank áp dụng 7.7% cho kỳ hạn 6T gửi online — cao nhất hệ thống. Kỳ hạn 6T sẽ đáo hạn tháng 12/2026 — thời điểm Fed có thể đã tăng lãi thêm 75bp. Cân nhắc rủi ro tái tục."
       }
     ],
     "banks": [
+      {
+        "name": "HLBank",
+        "m3": "4.75%",
+        "m6": "7.3%",
+        "m12": "7.3%",
+        "trend": "up",
+        "m12_hi": true
+      },
       {
         "name": "ACB",
         "m3": "4.75%",
         "m6": "7.1%",
         "m12": "7.3%",
-        "trend": "up",
+        "trend": "hold",
         "m12_hi": true
       },
       {
@@ -185,11 +193,20 @@
         "trend": "hold"
       },
       {
-        "name": "HLBank",
-        "m3": "4.75%",
-        "m6": "6.8%",
-        "m12": "6.9%",
-        "trend": "down"
+        "name": "OCB",
+        "m3": "4.5%",
+        "m6": "6.5%",
+        "m12": "7.0%",
+        "m12_hi": true,
+        "trend": "up"
+      },
+      {
+        "name": "MB",
+        "m3": "4.1%",
+        "m6": "4.6%",
+        "m12": "7.0%",
+        "m12_hi": true,
+        "trend": "up"
       },
       {
         "name": "LPBank",
@@ -206,25 +223,18 @@
         "trend": "hold"
       },
       {
-        "name": "OCB",
-        "m3": "4.5%",
-        "m6": "6.5%",
-        "m12": "6.9%",
-        "trend": "down"
-      },
-      {
         "name": "BIDV",
         "m3": "4.75%",
         "m6": "6.6%",
         "m12": "6.8%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "Vietcombank",
         "m3": "4.75%",
         "m6": "6.6%",
         "m12": "6.8%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "Agribank",
@@ -252,7 +262,7 @@
         "m3": "4.35%",
         "m6": "6.4%",
         "m12": "6.75%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "Sacombank",
@@ -266,21 +276,14 @@
         "m3": "4.40%",
         "m6": "6.2%",
         "m12": "6.5%",
-        "trend": "down"
-      },
-      {
-        "name": "MB",
-        "m3": "4.1%",
-        "m6": "4.6%",
-        "m12": "6.35%",
-        "trend": "up"
+        "trend": "hold"
       },
       {
         "name": "VPBank",
         "m3": "4.75%",
         "m6": "5.5%",
         "m12": "6.3%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "TPBank",
@@ -305,105 +308,105 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 22/6 (Thứ Hai): Điều chỉnh mạnh — ACB 7.3% dẫn đầu mới; Big4 6.8%/12T; SHB giảm từ 7.8% → 6.5%; từ 1/7 nới trần vốn TDH 40%",
-      "body": "Ngày 22/6/2026 (Thứ Hai), thị trường lãi suất huy động VN điều chỉnh đáng kể so với tuần trước. ACB vươn lên dẫn đầu với 7.3%/12T. Big4 (Agribank, BIDV, Vietcombank, VietinBank) giữ ổn định 4.75%/3T, 6.6%/6T, 6.8%/12T — thấp hơn nhiều so với trước. SHB giảm mạnh từ 7.8% xuống còn 6.5% — không còn dẫn đầu. NCB cắt giảm 0.1pp ở kỳ hạn 6-12T. Từ 1/7/2026: NHNN chính thức nới trần vốn ngắn hạn cho vay trung dài hạn lên 40% — tín hiệu hỗ trợ tín dụng tích cực. Xu hướng: lãi suất huy động đang điều chỉnh xuống sau đỉnh tháng 6 trước — người gửi tiết kiệm nên cân nhắc lock dài hạn ngay.",
+      "title": "Lãi suất 23/6 (Thứ Ba): HLBank tăng lên 7.3%/12T — đồng dẫn đầu với ACB; MBV/OCB/MB 7.0%; Big4 6.8% ổn định",
+      "body": "Ngày 23/6/2026 (Thứ Ba), điểm nổi bật là HLBank tăng lãi suất 12T lên 7.3%/năm tại quầy, ngang với ACB — hai ngân hàng đồng dẫn đầu hệ thống. HLBank còn áp dụng 7.7%/năm online cho kỳ hạn 6T — cao nhất hệ thống cho kỳ hạn này. Nhóm MBV, OCB, MB Bank giữ 7.0%/12T ổn định. Big4 (Agribank, BIDV, Vietcombank, VietinBank) tiếp tục duy trì 6.8%/12T đồng nhất — không thay đổi. SHB tiếp tục ở 6.5% sau lần điều chỉnh mạnh từ 7.8% (22/6). Xu hướng: thị trường đang phân hóa — nhóm NH tư nhân vừa (HLBank, ACB, MBV) giữ mức cao 7.0-7.3%; nhóm Big4 neo 6.8%. Từ 1/7: NHNN nới trần vốn ngắn hạn TDH lên 40% — có thể tạo áp lực giảm nhẹ lãi 12T trong Q3.",
       "sources": [
         {
-          "name": "CafeF — Lãi suất ngân hàng 22/6/2026",
-          "url": "https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn"
+          "name": "topi.vn — Lãi suất tiết kiệm NH 6/2026",
+          "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
         },
         {
-          "name": "CafeF — Từ 1/7 nới trần vốn ngắn hạn 40%",
-          "url": "https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn"
-        },
-        {
-          "name": "24HMoney — Lãi suất gửi tiết kiệm tháng 6/2026",
+          "name": "24HMoney — Lãi suất gửi tiết kiệm 6/2026",
           "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
+        },
+        {
+          "name": "CafeF — Lãi suất ngân hàng 21/6/2026",
+          "url": "https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "NHNN nới trần vốn TDH lên 40% từ 1/7 — giảm áp lực huy động; lãi suất điều chỉnh xuống",
+        "name": "HLBank tăng lên 7.3% — cạnh tranh huy động tư nhân chưa dứt; MBV/OCB/MB giữ 7.0%",
+        "level": "main",
+        "pct": 80,
+        "bar": "fh",
+        "desc": "HLBank tăng 7.3%/12T ngày 23/6 — tín hiệu nhóm NH tư nhân vừa vẫn cạnh tranh huy động dù xu hướng chung đang giảm. MBV, OCB, MB Bank giữ 7.0%. Điều này cho thấy áp lực huy động vốn chọn lọc vẫn còn ở một số NH."
+      },
+      {
+        "name": "NHNN nới trần vốn TDH lên 40% từ 1/7 — giảm áp lực huy động tổng thể",
         "level": "main",
         "pct": 85,
         "bar": "fh",
-        "desc": "Quyết định nới trần 30%→40% vốn ngắn hạn cho vay trung dài hạn làm giảm áp lực cạnh tranh huy động. Các NH không cần đẩy lãi suất cao để hút vốn ngắn hạn — nguyên nhân chính khiến lãi 12T điều chỉnh mạnh từ tuần 3/6."
+        "desc": "Quyết định nới trần 30%→40% vốn ngắn hạn cho vay TDH từ 1/7 làm giảm áp lực cạnh tranh huy động tổng thể. Big4 đã ổn định 6.8% — không cần đẩy cao hơn. Xu hướng: lãi sẽ giảm dần từ Q3/2026."
       },
       {
-        "name": "Tín dụng H1/2026 đạt kế hoạch — áp lực huy động vốn hạ nhiệt sau giai đoạn đỉnh điểm tuần 9-17/6",
-        "level": "main",
-        "pct": 72,
+        "name": "Big4 ổn định 6.8%/12T — tín hiệu NHNN không khuyến khích tăng thêm",
+        "level": "sub",
+        "pct": 70,
         "bar": "fm",
-        "desc": "Tăng trưởng tín dụng H1/2026 đạt kế hoạch — nhiều NH không còn cần thiết phải đẩy lãi huy động cao để thu hút vốn mới. Đỉnh lãi suất của chu kỳ này dường như đã qua trong tuần 9-17/6."
+        "desc": "Big4 giữ 6.8%/12T đồng nhất qua nhiều ngày — phản ánh định hướng từ NHNN. Chênh lệch 0.5pp giữa Big4 và HLBank/ACB là spread hợp lý và bền vững trong môi trường hiện tại."
       },
       {
-        "name": "Big4 duy trì 6.8% ổn định — NHNN tín hiệu không khuyến khích tăng lãi hơn nữa",
+        "name": "Fed hawkish cuối 2026 — NHNN neo lãi huy động ở mức vừa phải; không tăng không giảm mạnh",
+        "level": "sub",
+        "pct": 60,
+        "bar": "fm",
+        "desc": "Fed dự kiến tăng 75bp cuối 2026 ngăn NHNN hạ lãi điều hành. Lãi huy động 12T sẽ neo trong vùng 6.8-7.3% trong Q3 trước khi có quyết định từ Fed vào cuối năm."
+      },
+      {
+        "name": "Tín dụng H1/2026 đạt kế hoạch — áp lực huy động hạ nhiệt sau đỉnh tháng 6",
         "level": "sub",
         "pct": 68,
         "bar": "fm",
-        "desc": "Big4 giữ 6.8%/12T ổn định và đồng nhất — phản ánh định hướng của NHNN. Các NH tư nhân điều chỉnh theo, tránh để chênh lệch quá lớn với nhóm quốc doanh."
-      },
-      {
-        "name": "ACB 7.3% dẫn đầu — chiến lược huy động vốn chất lượng cao, duy trì spread cạnh tranh",
-        "level": "sub",
-        "pct": 65,
-        "bar": "fm",
-        "desc": "ACB vươn lên dẫn đầu 7.3% nhờ chiến lược huy động vốn có chọn lọc — thu hút khách VIP. Mức này cao hơn Big4 0.5pp — spread hợp lý và bền vững hơn so với đỉnh 7.8% trước đây."
-      },
-      {
-        "name": "Fed hawkish cuối 2026 — NHNN không còn cơ sở hạ lãi điều hành; lãi huy động neo cao vừa phải",
-        "level": "sub",
-        "pct": 58,
-        "bar": "fm",
-        "desc": "Fed hawkish (dự kiến 75bp tăng cuối 2026) ngăn NHNN hạ lãi điều hành. Lãi huy động sẽ neo ở mức vừa phải (ACB 7.3%, Big4 6.8%) thay vì tiếp tục tăng như tháng 5-6 đầu chu kỳ."
+        "desc": "Tăng trưởng tín dụng H1/2026 đạt kế hoạch — nhiều NH không còn cần thiết phải đẩy lãi huy động cao. Đỉnh lãi chu kỳ này là 7.8% (SHB, giữa tháng 6) — đã qua đỉnh. HLBank 7.3% và ACB 7.3% có thể là ceiling mới của chu kỳ điều chỉnh."
       }
     ],
     "rate_forecast": [
       {
-        "name": "Lock 12T ngay — ACB 7.3% / MBV 7% / Big4 6.8% trước khi thị trường điều chỉnh thêm",
-        "pct": 82,
+        "name": "Lock 12T ngay tại HLBank 7.3% hoặc ACB 7.3% — hai mức cao nhất hệ thống",
+        "pct": 85,
         "direction": "up",
         "bar": "fh",
-        "desc": "Lãi suất đang điều chỉnh xuống: SHB từ 7.8% xuống 6.5% chỉ trong vài ngày. Người gửi tiết kiệm nên cân nhắc lock 12T ngay tại ACB 7.3% hoặc Big4 6.8% trước khi các NH điều chỉnh thêm trong tháng 7."
+        "desc": "HLBank và ACB cùng 7.3%/12T là cơ hội lock lãi suất cao nhất hệ thống hiện tại. HLBank còn có 7.7% online/6T. Sau 1/7 khi nới trần TDH, áp lực huy động giảm — lãi 12T có thể điều chỉnh xuống. Hành động sớm trước cuối tháng 6 là khuyến nghị hợp lý."
       },
       {
-        "name": "Từ 1/7 nới trần TDH 40% — áp lực lãi suất huy động sẽ giảm thêm trong Q3/2026",
-        "pct": 70,
+        "name": "Từ 1/7 nới trần TDH 40% — lãi 12T giảm thêm 0.1-0.3pp trong Q3/2026",
+        "pct": 72,
         "direction": "down",
         "bar": "fm",
-        "desc": "Nới trần 40% từ 1/7 sẽ giảm nhu cầu huy động ngắn hạn của các NH — có thể kéo mặt bằng lãi 12T xuống thêm 0.1-0.3pp trong Q3/2026. Kịch bản: Big4 về 6.5-6.6% và top tư nhân về 6.8-7.0% vào tháng 8-9/2026."
+        "desc": "Nới trần 40% từ 1/7 sẽ giảm nhu cầu huy động ngắn hạn. Kịch bản Q3/2026: Big4 có thể xuống 6.5-6.6%; top tư nhân ACB/HLBank xuống 6.8-7.0%. Người gửi nên lock dài hạn trước 1/7 nếu có thể."
       },
       {
-        "name": "Đỉnh lãi 12T chu kỳ này: 7.8% (SHB, tuần 9-17/6) — đã qua đỉnh, trend đang xuống",
+        "name": "Đỉnh lãi 12T chu kỳ này: 7.8% (SHB, tuần 9-17/6) → đang xuống; HLBank/ACB 7.3% là đỉnh mới",
         "pct": 75,
         "direction": "down",
         "bar": "fh",
-        "desc": "Dữ liệu xác nhận đỉnh lãi 12T chu kỳ này là 7.8% (SHB, giữa tháng 6). Nay SHB xuống 6.5%. ACB 7.3% có thể giữ nhưng áp lực điều chỉnh tiếp. Người muốn lãi cao nên hành động sớm."
+        "desc": "Đỉnh chu kỳ 7.8% (SHB giữa tháng 6) đã qua. HLBank/ACB 7.3% có thể là ceiling mới cho Q3/2026. Xu hướng giảm dần đang được xác nhận: SHB từ 7.8% → 6.5%, BIDV/VCB từ 7.4% → 6.8%."
       },
       {
         "name": "NHNN hạ lãi điều hành Q4/2026 — xác suất 25-35% nếu Fed đột ngột đổi chiều",
         "pct": 30,
         "direction": "down",
         "bar": "fl",
-        "desc": "Kịch bản NHNN cắt lãi Q4/2026 tăng nhẹ (25-35%) nếu Fed gặp dữ liệu kinh tế yếu và đổi chiều hawkish. Kịch bản cơ sở: NHNN giữ nguyên lãi điều hành đến ít nhất Q1/2027."
+        "desc": "Kịch bản NHNN cắt lãi Q4/2026: xác suất 25-35%, tăng nhẹ nếu PMI/GDP Mỹ yếu và Fed đổi chiều. Kịch bản cơ sở: NHNN giữ nguyên đến ít nhất Q1/2027. Lãi huy động 12T: 6.8-7.3% cho đến cuối 2026."
       }
     ],
-    "rate_outlook_label": "22/6 Thứ Hai — Điều chỉnh mạnh: ACB 7.3% / Big4 6.8% / SHB 6.5%; từ 1/7 nới trần TDH 40% — trend lãi đang xuống",
+    "rate_outlook_label": "23/6 Thứ Ba — HLBank 7.3% & ACB 7.3% đồng dẫn đầu; Big4 6.8%; từ 1/7 nới trần TDH 40%",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "22/6 (Thứ Hai): Lãi suất huy động điều chỉnh đáng kể — ACB 7.3%/12T dẫn đầu mới. Big4 ổn định 6.8%/12T. SHB giảm mạnh từ 7.8% → 6.5%. NCB giảm thêm hôm nay. Từ 1/7/2026: NHNN nới trần vốn ngắn hạn TDH lên 40% — có thể kéo lãi huy động xuống thêm trong Q3. Khuyến nghị: lock 12T sớm tại ACB 7.3% hoặc Big4 6.8% nếu muốn bảo toàn lãi suất. Dự báo mặt bằng 12T: 6.8-7.3% trong Q3/2026.",
+    "rate_outlook_text": "23/6 (Thứ Ba): HLBank tăng lên 7.3%/12T tại quầy (7.7% online/6T) — đồng dẫn đầu với ACB. Big4 ổn định 6.8%. MBV/OCB/MB giữ 7.0%. SHB 6.5%. Từ 1/7: NHNN nới trần vốn ngắn hạn TDH lên 40% — có thể kéo lãi 12T xuống thêm trong Q3. Khuyến nghị: lock 12T tại HLBank 7.3% hoặc ACB 7.3% trước cuối tháng 6. Mặt bằng 12T dự kiến Q3/2026: 6.8-7.3%.",
     "rate_sources": [
       {
-        "name": "CafeF — Lãi suất ngân hàng 22/6/2026",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn"
+        "name": "topi.vn — Lãi suất tiết kiệm NH 6/2026",
+        "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
       },
       {
-        "name": "CafeF — Từ 1/7 nới trần vốn ngắn hạn 40%",
-        "url": "https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn"
-      },
-      {
-        "name": "24HMoney — Lãi suất gửi tiết kiệm ngân hàng",
+        "name": "24HMoney — Lãi suất gửi tiết kiệm 6/2026",
         "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
+      },
+      {
+        "name": "cake.vn — Lãi suất gửi tiết kiệm cao nhất 6/2026",
+        "url": "https://cake.vn/tin-tuc/tai-chinh/lai-suat-gui-tiet-kiem-ngan-hang-nao-cao-nhat"
       }
     ]
   },
@@ -580,7 +583,8 @@
       "19/06",
       "20/06",
       "21/06",
-      "22/06"
+      "22/06",
+      "23/06"
     ],
     "sjc": [
       152.8,
@@ -754,7 +758,8 @@
       150.0,
       149.0,
       149.0,
-      148.5
+      148.5,
+      148.2
     ],
     "world_vnd": [
       121,
@@ -928,7 +933,8 @@
       136.0,
       131.5,
       132.0,
-      133.2
+      133.2,
+      133.4
     ]
   }
 }
