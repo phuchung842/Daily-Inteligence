@@ -1,129 +1,129 @@
 {
   "meta": {
-    "date": "28 tháng 6, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-06-28 00:05"
+    "date": "29 tháng 6, 2026",
+    "day": "Thứ Hai",
+    "updated": "2026-06-29 07:03"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>28/6 — Chủ Nhật:</b> Vàng ~$4,100/oz (thị trường đóng, ổn định); world_vnd ~130.2M; SJC ~145.5M. BTC ~$60,001 giảm từ đỉnh $71K đầu tháng. <b>OpenAI nộp S-1 lên SEC</b> — IPO định giá $852B. Colorado AI Act hoãn sang 1/1/2027. Meta sa thải 8,000 người tập trung AI. <b>Còn 3 ngày lock lãi cao trước TDH 40% từ 1/7.</b>"
+    "text": "🟡 <b>29/6 — Thứ Hai:</b> Vàng ~$4,096/oz (thị trường mở lại); world_vnd ~130.2M; SJC ~145.5M. BTC ~$60,003 (Fear&Greed 17 — Extreme Fear). <b>OpenAI GPT-5.6 bị hạn chế bởi Chính phủ Trump</b>; Samsung công bố đầu tư $648B vào chip & AI. Ethereum Foundation sa thải 20% nhân sự. <b>Còn 2 ngày cuối lock lãi cao trước TDH 40% từ 1/7!</b>"
   },
   "news_ai": [
     {
-      "title": "OpenAI nộp S-1 bí mật lên SEC — IPO định giá $852B, dự kiến lỗ $14B, chưa có lãi đến 2029-2030",
+      "title": "Trump giới hạn rollout GPT-5.6 của OpenAI — yêu cầu phê duyệt từng khách hàng; OpenAI cân nhắc hoãn IPO vì biến động thị trường",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Ngày 8/6/2026, OpenAI nộp hồ sơ S-1 bí mật lên SEC chuẩn bị cho đợt IPO lịch sử làng AI. Định giá vòng private tháng 3/2026 đạt $852 tỷ USD. Tuy nhiên, tài liệu tiết lộ công ty dự kiến lỗ $14 tỷ USD năm 2026 và chưa có khả năng sinh lời đến 2029-2030. OpenAI tuyên bố chưa quyết định thời điểm IPO chính thức vì 'còn nhiều việc làm dễ hơn khi vẫn là công ty tư'. GPT-5.5 với Instant/Thinking/Pro modes đang là nguồn doanh thu chính.",
-      "source": "OpenAI / Yahoo Finance / crescendo.ai, 28/6/2026",
-      "source_url": "https://openai.com/index/openai-submits-confidential-s-1/"
+      "body": "Chính quyền Trump yêu cầu OpenAI hạn chế phát hành GPT-5.6 chỉ cho nhóm đối tác tin cậy đã được chọn, với cơ chế phê duyệt từng khách hàng sau khi tham vấn Văn phòng Giám đốc An ninh Mạng quốc gia. CEO Sam Altman đã thông báo nội bộ. Đồng thời, OpenAI cân nhắc hoãn IPO vì biến động thị trường khiến khó đạt định giá $1 nghìn tỷ mục tiêu — Nasdaq tiếp tục sụt giảm, Kospi Hàn Quốc -5.8% hôm thứ Sáu.",
+      "source": "Fortune / CNN Business / OpenAI, 29/6/2026",
+      "source_url": "https://fortune.com/2026/06/25/openai-broadcom-ai-chip-name-jalapeno/"
     },
     {
-      "title": "Colorado AI Act sửa đổi — hoãn hiệu lực từ 30/6/2026 sang 1/1/2027, giảm đáng kể yêu cầu ban đầu",
+      "title": "Samsung đầu tư $648B trong 10 năm — HBM4 đạt $1B doanh thu; triển khai Gemini, ChatGPT, Claude cho toàn bộ tập đoàn",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Thống đốc Colorado Jared Polis ký SB 189 ngày 14/5/2026, sửa đổi Colorado AI Act (SB 24-205 thông qua 2024). Ngày hiệu lực bị hoãn từ 30/6/2026 sang 1/1/2027 và phạm vi áp dụng giảm đáng kể so với luật gốc. Luật ban đầu yêu cầu deployers và developers AI hệ thống rủi ro cao trong tuyển dụng, y tế, tài chính, giáo dục, nhà ở phải có chương trình quản lý rủi ro và đánh giá tác động hàng năm. Sửa đổi mới giảm bớt gánh nặng tuân thủ — phản ánh áp lực lobby mạnh từ ngành tech.",
-      "source": "ailawsbystate.com / Norton Rose Fulbright, 28/6/2026",
-      "source_url": "https://www.ailawsbystate.com/blog/colorado-ai-act-compliance-guide-2026"
+      "body": "Samsung Group công bố kế hoạch đầu tư 1,000 nghìn tỷ won (~$648 tỷ USD) trong 10 năm cho nhà máy chip, trung tâm dữ liệu AI, pin và màn hình tại Hàn Quốc. HBM4 thế hệ 6 đạt mốc doanh thu $1 tỷ. Samsung cũng chính thức triển khai Gemini, ChatGPT và Claude cho toàn bộ công ty con sau nhiều năm cấm AI bên ngoài — đây là bước ngoặt lớn trong chiến lược AI của Samsung.",
+      "source": "Samsung Newsroom / CIO / distillintelligence.com, 29/6/2026",
+      "source_url": "https://news.samsung.com/global/samsung-and-openai-announce-strategic-partnership-to-accelerate-advancements-in-global-ai-infrastructure"
     },
     {
-      "title": "Meta sa thải 8,000 nhân viên (10%) — chuyển 7,000 sang nhóm AI; CapEx 2026 lên $125-145B",
+      "title": "OpenAI & Broadcom ra mắt chip AI 'Jalapeño' — cạnh tranh trực tiếp với Nvidia Blackwell và Google TPU",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta bắt đầu thông báo sa thải ~8,000 nhân viên (10% tổng lực lượng ~80,000 người) — đợt cắt giảm lớn nhất kể từ 'Year of Efficiency' 2022-2023 loại 21,000 vị trí. Thêm 7,000 nhân viên được chuyển sang các nhóm AI mới như Applied AI Engineering và Agent Transformation Accelerator. CapEx 2026 của Meta dự kiến $125-145 tỷ USD — gấp đôi 2025. Zuckerberg tuyên bố không có thêm đợt sa thải diện rộng sau đợt này.",
-      "source": "Quartz / NPR / Analytics Insight, 28/6/2026",
-      "source_url": "https://qz.com/meta-layoffs-8000-jobs-ai-restructuring-052026"
+      "body": "OpenAI và Broadcom hé lộ chip AI tùy chỉnh mang tên 'Jalapeño', được thiết kế cho inference và được tuyên bố có hiệu suất ngang Nvidia Blackwell hoặc Google TPU khi xử lý LLM. Đây là bước chiến lược của OpenAI để giảm phụ thuộc vào phần cứng Nvidia và kiểm soát chi phí hạ tầng trong bối cảnh chi tiêu AI toàn cầu bùng nổ.",
+      "source": "Fortune Tech / distillintelligence.com, 29/6/2026",
+      "source_url": "https://fortune.com/2026/06/25/openai-broadcom-ai-chip-name-jalapeno/"
     },
     {
-      "title": "Qualcomm đàm phán mua Tenstorrent $8-10B — thách thức độc quyền Nvidia với chip AI RISC-V mã nguồn mở",
+      "title": "Onsemi mua Synaptics $7B (all-stock) — mở rộng edge AI, robotics, automotive; thách thức Nvidia trong AI accelerator",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Qualcomm đang đàm phán mua startup chip AI Tenstorrent với định giá $8-10 tỷ USD theo Reuters (16/6/2026). Tenstorrent do huyền thoại thiết kế chip Jim Keller lãnh đạo, xây dựng AI accelerator dựa trên kiến trúc mã nguồn mở RISC-V — thách thức trực tiếp hệ sinh thái CUDA độc quyền của Nvidia. Qualcomm bổ sung khoản đầu tư $14B vào thiết kế chip AI và compiler mã nguồn mở. Cả hai bên từ chối bình luận. Thương vụ nếu thành công sẽ tạo đối thủ nghiêm trọng cho Nvidia trong thị trường AI accelerator.",
-      "source": "GuruFocus / DataCenterDynamics / TechTimes, 28/6/2026",
-      "source_url": "https://www.gurufocus.com/news/8918277/qualcomm-in-talks-to-acquire-ai-chip-startup-tenstorrent-for-810-billion"
+      "body": "Onsemi đồng ý mua Synaptics trong thương vụ toàn cổ phiếu trị giá ~$7 tỷ, nhằm mở rộng sang edge AI, thiết bị kết nối, robotics, hệ thống automotive và công nghiệp. Kết hợp hai công ty tạo đối thủ mới trong thị trường AI accelerator — nơi Nvidia hiện thống trị. Cùng với thương vụ Qualcomm-Tenstorrent đang đàm phán, đây là làn sóng M&A chip AI quy mô lớn nhất từ trước đến nay.",
+      "source": "Yahoo Finance / distillintelligence.com, 29/6/2026",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-onsemi-expands-113808382.html"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Vàng ~$4,100/oz (28/6 Chủ Nhật, thị trường đóng — ổn định từ đóng cửa thứ Sáu); world_vnd ~130.2M; SJC ~145.5M. BTC ~$60,001 giảm từ đỉnh $71K đầu tháng 6. Big4 6.8%/12T; HLBank 7.3%; còn 3 ngày lock trước TDH 1/7."
+      "text": "🟡 Vàng ~$4,096/oz (29/6 Thứ Hai, thị trường mở); world_vnd ~130.2M; SJC ~145.5M. BTC ~$60,003 (Fear&Greed 17 — Extreme Fear). Ethereum Foundation -20% nhân sự; Binance hạn chót 30/6. Big4 6.8%/12T; HLBank 7.3%. <b>Còn 2 ngày cuối lock lãi trước TDH 1/7.</b>"
     },
     "items": [
       {
-        "title": "Vàng ~$4,100/oz (28/6 Chủ Nhật) — thị trường đóng, ổn định sau bật tăng $62 ngày 27/6; SJC ~145.5M",
+        "title": "Vàng ~$4,096/oz (29/6 Thứ Hai) — thị trường mở sau kỳ nghỉ; tuần trọng yếu PCE, GDP Q1 final, US jobs; SJC ~145.5M",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Thị trường vàng đóng cửa ngày Chủ Nhật 28/6. Giá tham chiếu cuối tuần: ~$4,100/oz (theo APMEX/TradingEconomics). world_vnd ~130.2M; SJC ~145.5M không đổi. Vàng đã bật tăng mạnh $62 (+1.53%) lên $4,089.5/oz ngày 27/6, củng cố ngưỡng hỗ trợ $4,000. Thứ Hai 29/6 thị trường mở lại — chú ý PCE inflation và GDP Q1 final revision tuần cuối tháng có thể tạo biến động. Target dài hạn JPM $5,055 / GS $5,400 Q4/2026 giữ nguyên.",
-        "source": "APMEX / TradingEconomics / JM Bullion, 28/6/2026",
+        "body": "Thị trường vàng mở cửa Thứ Hai 29/6 với tham chiếu ~$4,096/oz (+$48.70 từ đáy $4,047 tuần trước). Dự báo biến động mạnh trong tuần: PCE Price Index (thước đo lạm phát ưa thích của Fed), GDP Q1/2026 final revision, JOLTS, và US unemployment rate tháng 6. Nếu PCE tiếp tục cao — Fed có thêm lý do giữ hawkish; vàng có thể kiểm tra lại $4,000. SJC ~145.5M; world_vnd ~130.2M. JPM $5,055 / GS $5,400 Q4/2026.",
+        "source": "Yahoo Finance / LiteFinance / APMEX, 29/6/2026",
         "source_url": "https://www.apmex.com/gold-price"
       },
       {
-        "title": "Bitcoin ~$60,001 (28/6) — giảm 30% từ đỉnh $71K đầu tháng 6; ETF outflow $2.3B tháng 5 lớn nhất năm",
+        "title": "BTC ~$60,003 (Fear&Greed 17 — Extreme Fear); Ethereum Foundation cắt 20% nhân sự; Binance hạn chót 30/6",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch quanh $60,001 ngày 28/6/2026 — giảm mạnh từ đỉnh $71K+ đầu tháng 6. Bitcoin spot ETF đóng tháng 5 với $2.30 tỷ USD net outflow — tháng tệ nhất năm 2026. BlackRock đã chuyển 2,700 BTC (~$169M) ra Coinbase. Phân tích chia đôi: 21Shares kỳ vọng $100K cuối năm; BTC.TOP dự báo đáy $42-44K. Polymarket dự báo BTC đạt $70K+ trước 2027 với xác suất ~45%. Crypto bearish ngắn hạn nhưng institutional vẫn tích lũy dài hạn.",
-        "source": "Yahoo Finance / Fortune / Polymarket, 28/6/2026",
-        "source_url": "https://fortune.com/article/price-of-bitcoin-06-25-2026/"
+        "body": "Bitcoin $60,003 (-0.71%) với Fear&Greed Index chỉ 17 (Extreme Fear) — tín hiệu bear mạnh ngắn hạn. Ethereum Foundation tái cơ cấu: cắt 20% nhân sự và giảm 40% ngân sách, chia thành 5 nhóm domain. ETH $1,567 (-0.92%). Binance phải gia hạn giấy phép trước 30/6. SBI Holdings mua Bitbank $289M. $21.65M BTC liquidation trong 24h với 72.2% long bị cuốn.",
+        "source": "CoinStats AI / Intellectia.AI / CoinDesk, 29/6/2026",
+        "source_url": "https://coinstats.app/ai/a/crypto-news-update-28-June-2026"
       },
       {
-        "title": "Tuần cuối tháng 6 — PCE inflation & GDP Q1 final revision; dữ liệu trọng yếu định hình Fed tháng 7",
+        "title": "Nasdaq tiếp tục sụt giảm — Kospi -5.8% thứ Sáu; AI stocks melt down; PCE & GDP Q1 final tuần này quyết định hướng Fed tháng 7",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Tuần 29/6-3/7/2026 có nhiều dữ liệu kinh tế Mỹ quan trọng: PCE Price Index (thước đo lạm phát ưa thích của Fed), GDP Q1/2026 final revision, và jobless claims. Thị trường chú ý xem PCE có hạ nhiệt không — nếu PCE tiếp tục cao, Fed càng có lý do giữ hawkish và loại bỏ cắt giảm 2026. Lãi suất 10Y trái phiếu Mỹ vẫn ~4.85%. Tác động VN: nếu dữ liệu bullish cho Fed hawkish, USD mạnh hơn, NHNN giữ thận trọng.",
-        "source": "Intellectia / FOMC Calendar / Fed, 28/6/2026",
-        "source_url": "https://intellectia.ai/blog/fomc-june-2026-crypto-impact"
+        "body": "Nasdaq set to sink thêm 1.2% theo CNN Business — kéo dài từ cú bán tháo Kospi Hàn Quốc -5.8%. AI stocks đặc biệt chịu áp lực. Tuần 29/6-3/7 có PCE (thước đo Fed ưa thích), GDP Q1 final revision, và US jobs report tháng 6 — ba dữ liệu trọng yếu nhất định hình quyết định Fed tháng 7. Lãi suất 10Y Mỹ ~4.85%. Tác động VN: USD mạnh → NHNN giữ thận trọng.",
+        "source": "CNN Business / FOMC Calendar, 29/6/2026",
+        "source_url": "https://www.cnn.com/2026/06/26/investing/tech-stocks-nasdaq-kospi"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>28/6 — Chủ Nhật:</b> Vàng ~$4,100/oz (thị trường đóng, ổn định). SJC ~145.5M; world_vnd ~130.2M; premium ~15.3M (11.8%). BTC ~$60,001 giảm 30% từ đỉnh $71K. Fed hawkish — lãi thực âm tiếp tục hỗ trợ vàng dài hạn. JPM $5,055 / GS $5,400 Q4/2026.",
+    "summary": "🟡 <b>29/6 — Thứ Hai:</b> Vàng ~$4,096/oz (thị trường mở lại). SJC ~145.5M; world_vnd ~130.2M; premium ~15.3M (11.8%). BTC ~$60,003 Fear&Greed 17. Tuần trọng yếu: PCE, GDP Q1 final, US jobs. JPM $5,055 / GS $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng ~$4,100/oz (28/6 Chủ Nhật) — thị trường đóng; ổn định sau bật tăng $62 ngày 27/6; hỗ trợ $4,000 vững",
-        "pct": 65,
+        "name": "Vàng ~$4,096/oz (29/6 Thứ Hai) — thị trường mở lại; dự báo dao động $3,951-$4,059 theo LiteFinance; tuần biến động cao",
+        "pct": 62,
         "direction": "up",
         "bar": "fh",
-        "desc": "Thị trường vàng đóng Chủ Nhật 28/6. Giá tham chiếu ~$4,100/oz. Ngày 27/6 vàng bật tăng $62 (+1.53%) lên $4,089.5 — xác nhận hỗ trợ $4,000 vững. world_vnd ~130.2M; SJC ~145.5M. Thứ Hai 29/6 thị trường mở lại với backdrop tích cực. Kháng cự tiếp theo: $4,100-4,120."
+        "desc": "Thị trường vàng mở cửa Thứ Hai 29/6 tham chiếu ~$4,096/oz. LiteFinance dự báo range $3,951-$4,059 cho ngày 29/6 — có thể kiểm tra lại $4,000. Tuần biến động cao với PCE inflation, GDP Q1 final revision, JOLTS, US jobs. SJC ~145.5M; world_vnd ~130.2M. Kháng cự: $4,100-4,120."
       },
       {
-        "name": "Fed hawkish & lãi thực âm — lãi điều hành 3.75% vs CPI ~4.2%; catalyst dài hạn nguyên vẹn",
+        "name": "Fed hawkish & lãi thực âm — loại bỏ rate cut 2026; catalyst dài hạn cho vàng nguyên vẹn",
         "pct": 78,
         "direction": "up",
         "bar": "fh",
-        "desc": "Fed FOMC tháng 6/2026 nâng median projection 2026 lên 3.8% — loại bỏ rate cut 2026. CPI vẫn ~4.2% → lãi thực âm ~-0.45% → hỗ trợ vàng dài hạn. Lãi thực âm là nền tảng bull case dài hạn cho vàng trong môi trường hawkish nhưng không đủ kiểm soát lạm phát."
+        "desc": "Fed FOMC tháng 6/2026 nâng median projection 2026 lên 3.8% — loại bỏ rate cut 2026. CPI vẫn ~4.2% → lãi thực âm ~-0.45% → hỗ trợ vàng dài hạn. PCE tuần này có thể xác nhận hoặc phủ nhận Fed hawkish stance."
       },
       {
-        "name": "SJC ~145.5M; world_vnd ~130.2M; premium ~15.3M (11.8%) — ổn định ngày thị trường đóng",
+        "name": "SJC ~145.5M; world_vnd ~130.2M; premium ~15.3M (11.8%) — ổn định đầu tuần",
         "pct": 58,
         "direction": "up",
         "bar": "fm",
-        "desc": "SJC giữ ~145.5M không đổi (Chủ Nhật thị trường đóng). world_vnd ~130.2M. Premium SJC/world_vnd ~15.3M (11.8%) — ổn định. NHNN chưa can thiệp. Thứ Hai 29/6: các doanh nghiệp sẽ điều chỉnh niêm yết theo giá thế giới."
+        "desc": "SJC tiếp tục ~145.5M đầu tuần. world_vnd ~130.2M. Premium SJC/world_vnd ~15.3M (11.8%) ổn định. NHNN chưa can thiệp. Doanh nghiệp điều chỉnh niêm yết theo diễn biến thế giới trong ngày."
       },
       {
-        "name": "BTC ~$60,001 (28/6) — giảm 30% từ đỉnh $71K; ETF outflow $2.3B tháng 5; sentiment thận trọng",
-        "pct": 30,
+        "name": "BTC ~$60,003 (Fear&Greed 17 — Extreme Fear) — Ethereum Foundation -20% nhân sự; bear sentiment ngắn hạn",
+        "pct": 28,
         "direction": "down",
         "bar": "fl",
-        "desc": "Bitcoin ~$60,001 — giảm mạnh từ đỉnh $71K+ đầu tháng 6. Bitcoin spot ETF tháng 5 outflow $2.3B lớn nhất năm. BlackRock chuyển 2,700 BTC ra Coinbase. Phân tích chia đôi: $100K (21Shares) vs đáy $42-44K (BTC.TOP). Thị trường crypto tiếp tục bearish ngắn hạn."
+        "desc": "Bitcoin $60,003 với Fear&Greed 17 (Extreme Fear) — bear tín hiệu rõ ràng. Ethereum Foundation cắt 20% nhân sự. $21.65M BTC liquidation với 72% long bị cuốn. Crypto tiếp tục bearish ngắn hạn, không hỗ trợ risk-on sentiment."
       },
       {
-        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 23-31% từ ~$4,100",
+        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 23-31% từ ~$4,096; mỗi pullback $4,000 là cơ hội",
         "pct": 82,
         "direction": "up",
         "bar": "fh",
-        "desc": "Target JPM $5,055 và GS $5,400 Q4/2026 không thay đổi. Tại ~$4,100, upside tiềm năng 23-31%. Mỗi đợt pullback về $4,000-4,050 là cơ hội tích lũy. Căng thẳng địa chính trị và nhu cầu dự trữ ngân hàng trung ương là nền tảng vững chắc cho bull thesis."
+        "desc": "Target JPM $5,055 và GS $5,400 Q4/2026 không thay đổi. Tại ~$4,096, upside tiềm năng 23-31%. Tuần PCE & jobs data có thể tạo pullback ngắn hạn về $4,000-4,050 — cơ hội tích lũy dài hạn. Nhu cầu vàng dự trữ từ NHTW toàn cầu tiếp tục là nền tảng bull case."
       }
     ],
-    "outlook_label": "Vàng ~$4,100/oz (28/6 Chủ Nhật, thị trường đóng) — ổn định sau bật tăng +$62 ngày 27/6; SJC ~145.5M; BTC ~$60,001; Fed hawkish lãi thực âm",
+    "outlook_label": "Vàng ~$4,096/oz (29/6 Thứ Hai) — thị trường mở; tuần PCE & GDP Q1 final biến động cao; SJC ~145.5M; BTC Fear&Greed 17",
     "outlook_class": "pbg",
-    "outlook_text": "28/6 (Chủ Nhật): Thị trường đóng cửa — vàng ổn định ~$4,100/oz. SJC ~145.5M; world_vnd ~130.2M giữ nguyên. Ngưỡng hỗ trợ $4,000 đã được xác nhận ngày 27/6 (+$62). Thứ Hai 29/6 thị trường mở lại với tuần cuối tháng 6 quan trọng: PCE inflation và GDP Q1 final revision sẽ định hình sentiment tháng 7. BTC ~$60,001 tiếp tục bearish ngắn hạn. Dài hạn: JPM $5,055 / GS $5,400 Q4/2026 giữ nguyên.",
+    "outlook_text": "29/6 (Thứ Hai): Thị trường vàng mở cửa ~$4,096/oz sau kỳ nghỉ cuối tuần. Tuần 29/6-3/7 rất quan trọng: PCE inflation, GDP Q1 final revision, và US jobs tháng 6 sẽ định hình quyết định Fed tháng 7. Nếu PCE cao → Fed hawkish → vàng có thể test lại $4,000. BTC $60,003 Extreme Fear — crypto tiếp tục bearish. Dài hạn: JPM $5,055 / GS $5,400 Q4/2026 giữ nguyên. Mỗi pullback $4,000-4,050 là cơ hội tích lũy.",
     "sources": [
       {
-        "name": "APMEX — Gold Price Today June 28, 2026",
+        "name": "APMEX — Gold Price Today June 29, 2026",
         "url": "https://www.apmex.com/gold-price"
       },
       {
-        "name": "CNBC — Gold Price Spot June 2026",
-        "url": "https://www.cnbc.com/select/the-price-of-gold-today-june-26-2026/"
+        "name": "LiteFinance — Gold Price Forecast June 29, 2026",
+        "url": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/"
       },
       {
         "name": "Yahoo Finance — Bitcoin Price June 2026",
@@ -132,31 +132,31 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 28/6 (Chủ Nhật): Thị trường nghỉ — lãi suất không thay đổi. Big4 ổn định 6.8%/12T; HLBank & ACB đồng dẫn đầu 7.3%/12T; HLBank online 7.7%/6T cao nhất hệ thống. <b>Còn 3 ngày để lock trước nới trần TDH 40% từ 1/7</b> — Fed hawkish giữ NHNN thận trọng, lãi suất neo cao đến ít nhất Q1/2027.",
+    "alert": "📊 29/6 (Thứ Hai): <b>Còn 2 ngày cuối để lock lãi cao trước TDH 40% từ 1/7!</b> Big4 ổn định 6.8%/12T; HLBank & ACB đồng dẫn đầu 7.3%/12T; HLBank online 7.7%/6T cao nhất hệ thống. Fed hawkish giữ NHNN thận trọng — lãi suất neo cao đến ít nhất Q1/2027.",
     "highlights": [
       {
         "label": "HLBank & ACB đồng dẫn đầu",
         "value": "7.3%",
         "sub": "HLBank 7.3%/12T tại quầy (7.7% online/6T); ACB 7.3%/12T — hai NH đồng top",
-        "note": "HLBank và ACB tiếp tục dẫn đầu hệ thống với 7.3%/12T. HLBank còn áp dụng 7.7%/năm online cho kỳ hạn 6T — cao nhất hệ thống. <b>Còn 3 ngày</b> để lock trước khi NHNN nới trần TDH từ 1/7."
+        "note": "HLBank và ACB tiếp tục dẫn đầu hệ thống với 7.3%/12T. HLBank còn áp dụng 7.7%/năm online cho kỳ hạn 6T — cao nhất hệ thống. <b>Còn 2 ngày cuối</b> để lock trước khi NHNN nới trần TDH từ 1/7. Hành động ngay hôm nay!"
       },
       {
         "label": "Big4 ổn định 6.8%/12T",
         "value": "6.8%",
         "sub": "BIDV, Vietcombank, Agribank, VietinBank — đồng nhất 4.75%/3T; 6.6%/6T; 6.8%/12T",
-        "note": "Big4 tiếp tục duy trì mặt bằng đồng nhất 6.8%/12T — không thay đổi ngày 28/6. Fed hawkish pivot giữ NHNN thận trọng. Lãi huy động Big4 neo ở 6.8% đến ít nhất Q1/2027."
+        "note": "Big4 tiếp tục duy trì mặt bằng đồng nhất 6.8%/12T ngày 29/6. Fed hawkish pivot giữ NHNN thận trọng. Lãi huy động Big4 neo ở 6.8% đến ít nhất Q1/2027."
       },
       {
         "label": "MBV, OCB, MB — 7.0%/12T",
         "value": "7.0%",
         "sub": "MBV (OceanBank), OCB (Phương Đông), MB Bank đều 7.0%/12T",
-        "note": "Nhóm ngân hàng tư nhân tầm trung MBV, OCB, MB Bank giữ 7.0%/12T ổn định. Lựa chọn cân bằng giữa lãi suất cạnh tranh và độ tin cậy. Không có thay đổi ngày 28/6."
+        "note": "Nhóm ngân hàng tư nhân tầm trung MBV, OCB, MB Bank giữ 7.0%/12T ổn định ngày 29/6. Lựa chọn cân bằng giữa lãi suất và độ tin cậy."
       },
       {
-        "label": "Còn 3 ngày lock lãi cao!",
+        "label": "Còn 2 ngày cuối lock lãi!",
         "value": "1/7",
-        "sub": "Nới trần vốn ngắn hạn TDH từ 30% lên 40% từ 1/7 — cuộc đua cộng lãi đang hạ nhiệt",
-        "note": "Còn đúng 3 ngày để lock lãi cao trước khi chính sách mới có hiệu lực 1/7/2026. Fed hawkish giúp NHNN không phải vội hạ lãi — nhưng nới trần TDH vẫn sẽ giảm áp lực huy động từ Q3. Khuyến nghị: lock 12T tại HLBank/ACB 7.3% trước thứ Ba."
+        "sub": "Nới trần vốn ngắn hạn TDH từ 30% lên 40% từ 1/7 — deadline ngay mai 30/6",
+        "note": "Chỉ còn 2 ngày để lock lãi cao. Hôm nay 29/6 và ngày mai 30/6 là cơ hội cuối. Từ 1/7, áp lực huy động hạ nhiệt → lãi điều chỉnh 0.1-0.3pp. Khuyến nghị: lock 12T tại HLBank/ACB 7.3% <b>hôm nay</b>."
       }
     ],
     "banks": [
@@ -308,8 +308,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 28/6 (Chủ Nhật): Thị trường nghỉ — Big4 6.8%/12T; HLBank & ACB 7.3% dẫn đầu; còn 3 ngày lock trước 1/7",
-      "body": "Ngày 28/6/2026 (Chủ Nhật), thị trường nghỉ, lãi suất tiếp tục ổn định. Big4 giữ 6.8%/12T đồng nhất. HLBank và ACB đồng dẫn đầu 7.3%/12T; HLBank 7.7% online/6T cao nhất hệ thống. Fed hawkish pivot tháng 6 — nâng median 2026 projection lên 3.8%, loại bỏ kỳ vọng cắt giảm — sẽ giữ NHNN thận trọng hơn, lãi huy động VN neo 6.8-7.3% đến ít nhất Q1/2027. Còn 3 ngày để lock lãi cao trước 1/7 khi NHNN nới trần TDH 40%. Sau 1/7, lãi điều chỉnh xuống 0.1-0.3pp nhưng chậm hơn dự kiến do Fed hawkish.",
+      "title": "Lãi suất 29/6 (Thứ Hai): Big4 6.8%/12T; HLBank & ACB 7.3% dẫn đầu; còn 2 ngày cuối lock trước TDH 40% từ 1/7",
+      "body": "Ngày 29/6/2026 (Thứ Hai), lãi suất tiếp tục ổn định. Big4 giữ 6.8%/12T đồng nhất. HLBank và ACB đồng dẫn đầu 7.3%/12T; HLBank 7.7% online/6T cao nhất hệ thống. Fed hawkish pivot tháng 6 — nâng median 2026 projection lên 3.8%, loại bỏ kỳ vọng cắt giảm — giữ NHNN thận trọng, lãi huy động VN neo 6.8-7.3% đến ít nhất Q1/2027. <b>Chỉ còn 2 ngày</b> (29/6 và 30/6) để lock lãi cao trước 1/7 khi NHNN nới trần TDH 40%. Sau 1/7, lãi điều chỉnh xuống 0.1-0.3pp nhưng chậm hơn dự kiến do Fed hawkish.",
       "sources": [
         {
           "name": "topi.vn — Lãi suất tiết kiệm NH 6/2026",
@@ -320,39 +320,39 @@
           "url": "https://24hmoney.vn/lai-suat-gui-ngan-hang"
         },
         {
-          "name": "Techcombank — Lãi suất tiết kiệm 26/6/2026",
+          "name": "Techcombank — Lãi suất tiết kiệm 29/6/2026",
           "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "NHNN nới trần vốn TDH lên 40% từ 1/7 — giảm áp lực huy động tổng thể từ Q3/2026",
+        "name": "NHNN nới trần vốn TDH lên 40% từ 1/7 — còn 2 ngày cuối; giảm áp lực huy động từ Q3/2026",
         "level": "main",
         "pct": 85,
         "bar": "fh",
-        "desc": "Nới trần 30% lên 40% vốn ngắn hạn cho vay TDH từ 1/7 là nhân tố quan trọng nhất. Big4 đã ổn định 6.8% — không cần đẩy cao hơn. Xu hướng: lãi 12T sẽ giảm dần từ Q3/2026. Chỉ còn 3 ngày để lock mức 7.3%."
+        "desc": "Nới trần 30% lên 40% vốn ngắn hạn cho vay TDH từ 1/7 là nhân tố quan trọng nhất. Big4 ổn định 6.8% — không cần đẩy cao hơn. Xu hướng: lãi 12T giảm dần từ Q3/2026. Chỉ còn 2 ngày để lock mức 7.3%."
       },
       {
         "name": "Fed hawkish pivot — loại bỏ rate cut 2026; NHNN không thể hạ lãi điều hành vội",
         "level": "main",
         "pct": 80,
         "bar": "fh",
-        "desc": "FOMC tháng 6/2026 hawkish pivot: median 2026 year-end projection tăng từ 3.4% lên 3.8%. NHNN Việt Nam sẽ thận trọng hơn — lãi điều hành giữ nguyên đến ít nhất Q1/2027. Lãi huy động 12T neo 6.8-7.3% dài hơn dự kiến."
+        "desc": "FOMC tháng 6/2026 hawkish pivot: median 2026 year-end projection tăng từ 3.4% lên 3.8%. NHNN Việt Nam thận trọng — lãi điều hành giữ nguyên đến ít nhất Q1/2027. Lãi huy động 12T neo 6.8-7.3% dài hơn dự kiến."
       },
       {
         "name": "Big4 ổn định 6.8%/12T — tín hiệu NHNN không khuyến khích tăng thêm",
         "level": "sub",
         "pct": 70,
         "bar": "fm",
-        "desc": "Big4 giữ 6.8%/12T đồng nhất liên tục — phản ánh định hướng từ NHNN. Chênh lệch 0.5pp giữa Big4 và HLBank/ACB là spread hợp lý và bền vững."
+        "desc": "Big4 giữ 6.8%/12T đồng nhất liên tục ngày 29/6 — phản ánh định hướng từ NHNN. Chênh lệch 0.5pp giữa Big4 và HLBank/ACB là spread hợp lý và bền vững."
       },
       {
         "name": "HLBank/ACB đồng 7.3% — ceiling mới chu kỳ; đỉnh 7.8% (SHB giữa tháng 6) đã qua",
         "level": "sub",
         "pct": 75,
         "bar": "fh",
-        "desc": "Đỉnh chu kỳ 7.8% (SHB giữa tháng 6) đã qua. HLBank/ACB 7.3% là ceiling mới cho Q3/2026. Fed hawkish có thể giữ ceiling này dài hơn dự kiến."
+        "desc": "Đỉnh chu kỳ 7.8% (SHB giữa tháng 6) đã qua. HLBank/ACB 7.3% là ceiling mới cho Q3/2026. Fed hawkish có thể giữ ceiling này dài hơn dự kiến, tuy nhiên áp lực vẫn nghiêng về giảm từ 1/7."
       },
       {
         "name": "Tín dụng H1/2026 đạt kế hoạch — áp lực huy động hạ nhiệt sau đỉnh tháng 6",
@@ -364,11 +364,11 @@
     ],
     "rate_forecast": [
       {
-        "name": "Lock 12T tại HLBank 7.3% hoặc ACB 7.3% trước 1/7 — còn 3 ngày, cơ hội cuối chu kỳ",
+        "name": "Lock 12T tại HLBank 7.3% hoặc ACB 7.3% — còn 2 ngày cuối, cơ hội cuối chu kỳ",
         "pct": 88,
         "direction": "up",
         "bar": "fh",
-        "desc": "Còn đúng 3 ngày để lock lãi suất cao nhất hệ thống (7.3%) trước khi chính sách nới trần TDH 40% có hiệu lực 1/7. HLBank còn có 7.7% online/6T. Thứ Hai 29/6 nên hành động ngay."
+        "desc": "Chỉ còn 2 ngày (29/6 và 30/6) để lock lãi suất cao nhất hệ thống (7.3%) trước khi TDH 40% có hiệu lực 1/7. HLBank còn có 7.7% online/6T. Hành động ngay hôm nay Thứ Hai 29/6!"
       },
       {
         "name": "Từ 1/7 nới trần TDH 40% — lãi 12T điều chỉnh 0.1-0.3pp; nhưng Fed hawkish làm chậm tốc độ",
@@ -392,9 +392,9 @@
         "desc": "Xác suất NHNN cắt lãi Q4/2026 giảm từ 20-30% xuống 15-20% sau Fed hawkish pivot tháng 6. Kịch bản cơ sở mới: NHNN giữ nguyên đến Q1/2027."
       }
     ],
-    "rate_outlook_label": "28/6 Chủ Nhật — HLBank/ACB 7.3% dẫn đầu; Big4 6.8%; Fed hawkish pivot; 3 ngày cuối lock trước TDH 40% từ 1/7",
+    "rate_outlook_label": "29/6 Thứ Hai — HLBank/ACB 7.3% dẫn đầu; Big4 6.8%; Fed hawkish pivot; còn 2 ngày cuối lock trước TDH 40% từ 1/7",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "28/6 (Chủ Nhật): Thị trường nghỉ, lãi suất ổn định. Fed hawkish pivot loại bỏ kỳ vọng cắt giảm 2026 — NHNN thận trọng, lãi huy động VN neo 6.8-7.3% đến Q1/2027. HLBank & ACB đồng 7.3%/12T dẫn đầu; Big4 6.8%. Còn 3 ngày để lock trước TDH 1/7. Sau 1/7, lãi điều chỉnh 0.1-0.3pp nhưng chậm hơn dự kiến. Khuyến nghị: lock dài hạn ngay Thứ Hai 29/6.",
+    "rate_outlook_text": "29/6 (Thứ Hai): Lãi suất ổn định. Fed hawkish pivot loại bỏ kỳ vọng cắt giảm 2026 — NHNN thận trọng, lãi huy động VN neo 6.8-7.3% đến Q1/2027. HLBank & ACB đồng 7.3%/12T dẫn đầu; Big4 6.8%. <b>Còn đúng 2 ngày</b> để lock trước TDH 1/7. Sau 1/7, lãi điều chỉnh 0.1-0.3pp nhưng chậm hơn dự kiến. Khuyến nghị: lock dài hạn ngay hôm nay 29/6.",
     "rate_sources": [
       {
         "name": "topi.vn — Lãi suất tiết kiệm NH 6/2026",
@@ -589,7 +589,8 @@
       "25/06",
       "26/06",
       "27/06",
-      "28/06"
+      "28/06",
+      "29/06"
     ],
     "sjc": [
       152.8,
@@ -768,6 +769,7 @@
       146.5,
       143.0,
       143.8,
+      145.5,
       145.5,
       145.5
     ],
@@ -949,6 +951,7 @@
       127.8,
       128.6,
       130.0,
+      130.2,
       130.2
     ]
   }
