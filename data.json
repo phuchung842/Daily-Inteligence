@@ -1,162 +1,162 @@
 {
   "meta": {
-    "date": "1 tháng 7, 2026",
-    "day": "Thứ Tư",
-    "updated": "2026-07-01 07:05"
+    "date": "2 tháng 7, 2026",
+    "day": "Thứ Năm",
+    "updated": "2026-07-02 07:03"
   },
   "alert": {
-    "type": "yellow",
-    "text": "🟡 <b>1/7 — Thứ Tư:</b> Vàng ~$4,030/oz; world_vnd ~128.1M; SJC ~144.0M. BTC ~$58,559 (-3.02%), tháng 6 tệ nhất -18.5%. Meta sa thải 8,000 nhân viên (10%) tái cơ cấu AI. <b>TDH 40% chính thức có hiệu lực từ HÔM NAY — lãi suất bắt đầu điều chỉnh nhẹ.</b>"
+    "type": "red",
+    "text": "🔴 <b>2/7 — Thứ Năm:</b> Vàng ~$4,007/oz (-0.77%); world_vnd ~127.4M; SJC ~143.5M. BTC ~$58,800 (giao động mạnh); ETH $1,621; $1.48B bị thanh lý. AMD EPYC Venice ra sản xuất TSMC 2nm. Microsoft MAI-Thinking-1 reasoning model ra mắt. <b>Nhóm NH niêm yết từ 7%/năm tiếp tục thu hẹp.</b>"
   },
   "news_ai": [
     {
-      "title": "Meta sa thải 8,000 nhân viên (10%) — tái cơ cấu toàn diện hướng AI; 7,000 người chuyển sang đội AI",
+      "title": "AMD EPYC 'Venice' thế hệ 6 chính thức sản xuất — tiến trình TSMC 2nm, CPU AI đầu tiên ở node này",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta bắt đầu thực hiện sa thải khoảng 8,000 nhân viên (~10% tổng lực lượng) như một phần tái cơ cấu tập trung AI. Đồng thời, 7,000 nhân viên khác được điều chuyển sang các nhóm AI-focused. Đây là đợt cắt giảm lớn nhất của Meta trong nhiều năm, nhằm tập trung nguồn lực và ngân sách vào AI infrastructure, model training và AI product.",
-      "source": "TechCrunch / AI News, 30/6-1/7/2026",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
-    },
-    {
-      "title": "NVIDIA & SK Hynix đối tác đa năm — đồng phát triển bộ nhớ thế hệ mới cho AI infrastructure",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "NVIDIA và SK Hynix công bố quan hệ đối tác công nghệ đa năm để cùng phát triển bộ nhớ thế hệ mới, phù hợp với lộ trình AI infrastructure của NVIDIA. SK Hynix là nhà sản xuất HBM hàng đầu — thỏa thuận này đảm bảo chuỗi cung ứng memory cho các thế hệ GPU AI tiếp theo của NVIDIA, củng cố vị thế thống trị trong hệ sinh thái AI hardware.",
-      "source": "ScienceDaily / AI-News, 1/7/2026",
-      "source_url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
-    },
-    {
-      "title": "Vaccine AI đầu tiên vượt thử nghiệm người — Cambridge công bố kết quả lịch sử; thành phần cốt lõi do AI thiết kế",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Các nhà nghiên cứu tại Đại học Cambridge thông báo một loại vaccine có thành phần cốt lõi được AI thiết kế hoàn toàn đã vượt qua thử nghiệm lâm sàng giai đoạn đầu trên người. Đây là lần đầu tiên trong lịch sử một vaccine được AI thiết kế đạt kết quả thử nghiệm người thành công — đánh dấu bước ngoặt ứng dụng AI trong y học và phát triển dược phẩm.",
-      "source": "ScienceDaily / Crescendo AI, 1/7/2026",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-    },
-    {
-      "title": "Trump hủy ký Sắc lệnh AI; NAVER+NVIDIA mở rộng Sovereign AI Hàn Quốc; 5 quốc gia ban hướng dẫn an toàn AI agentic",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Trump hủy buổi ký sắc lệnh AI tại Oval Office vì lo ngại nội dung có thể làm suy yếu lợi thế Mỹ trước Trung Quốc. NAVER và NVIDIA công bố mở rộng AI Sovereign infrastructure trên NVIDIA DSX tại Hàn Quốc, hỗ trợ HyperCLOVA X thế hệ mới và AI Agent Platform ra mắt H2/2026. Cơ quan an ninh mạng Mỹ, Úc, Canada, New Zealand, Anh đồng ban hành hướng dẫn bảo mật AI agentic cho hạ tầng quan trọng.",
-      "source": "AI-News / Crescendo, 1/7/2026",
+      "body": "AMD đã khởi động sản xuất bộ vi xử lý EPYC thế hệ 6 mang tên mã 'Venice', được chế tạo trên tiến trình 2nm của TSMC. Đây là sản phẩm HPC đầu tiên bước vào sản xuất ở node này — đánh dấu cột mốc quan trọng cho hạ tầng AI tương lai. Dòng chip Venice cạnh tranh trực tiếp với Intel Xeon và đe doạ vị thế của NVIDIA trong AI training workloads.",
+      "source": "AI-News / ScienceDaily, 2/7/2026",
       "source_url": "https://www.artificialintelligence-news.com/"
+    },
+    {
+      "title": "Microsoft ra mắt MAI-Thinking-1 — reasoning model flagship cạnh tranh premium logic với chi phí thấp hơn",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Microsoft AI công bố bộ 7 model nội bộ mang nhãn 'MAI', trong đó MAI-Thinking-1 là flagship reasoning model được thiết kế để đạt kết quả logic cao cấp với chi phí token cạnh tranh hơn các model hiện tại. Đây là bước tiến lớn của Microsoft vào cuộc đua model AI sau nhiều năm phụ thuộc vào OpenAI.",
+      "source": "llm-stats.com / Microsoft AI, 2/7/2026",
+      "source_url": "https://llm-stats.com/llm-updates"
+    },
+    {
+      "title": "Google ra mắt Gemini Nano Banana 2 Lite và đưa Omni Flash vào API công khai — multimodal cho doanh nghiệp",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Google tung Nano Banana 2 Lite — model Gemini Image nhanh và rẻ nhất từ trước đến nay. Song song, Gemini Omni Flash đi vào public preview API: model multimodal natively hỗ trợ video động để doanh nghiệp và developer xây dựng workflow video tùy chỉnh. Google đang đẩy mạnh mảng API infrastructure cho enterprise AI.",
+      "source": "Google AI Blog / devFlokers, 2/7/2026",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+    },
+    {
+      "title": "White House ra lệnh NSA lập benchmark phân loại AI frontier — định nghĩa covered frontier models về cyber",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Nhà Trắng ban hành lệnh hành pháp yêu cầu NSA xây dựng quy trình benchmark bảo mật phân loại AI model. Các model được gán nhãn 'covered frontier model' nếu có khả năng thực hiện tấn công mạng tinh vi. Quy định tránh licensing bắt buộc để không kìm hãm phát triển tư nhân, nhưng siết chặt giám sát an ninh.",
+      "source": "White House / AI-News, 2/7/2026",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "red",
-      "text": "🔴 Vàng ~$4,030/oz; world_vnd ~128.1M; SJC ~144.0M. BTC ~$58,559 (-3.02%); tháng 6 BTC tệ nhất -18.5%; ETH $1,568 (-3.0%). S&P 500 <b>quý tốt nhất từ 2020</b>. TDH 40% có hiệu lực từ hôm nay 1/7."
+      "text": "🔴 Vàng ~$4,007/oz (-0.77%); SJC ~143.5M; world_vnd ~127.4M. BTC $58,188 đáy 21 tháng; $1.48B bị thanh lý. ETH $1,621; XLM +12% (DTCC tích hợp Stellar). CLARITY Act cần 60 phiếu Thượng viện trước 4/7."
     },
     "items": [
       {
-        "title": "Vàng ~$4,030/oz (1/7) — gần đáy thấp nhất từ T11/2025; dollar mạnh; kỳ vọng Fed tăng lãi; SJC ~144.0M",
+        "title": "Vàng ~$4,007/oz (2/7) — tiếp cận $4,000; SJC ~143.5M; chờ NFP và PCE định hướng",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Vàng giao dịch $4,027-4,052/oz đầu tháng 7, gần mức thấp nhất kể từ tháng 11/2025. Dollar Mỹ mạnh và kỳ vọng Fed tiếp tục hawkish giữ áp lực lên kim loại quý. Tháng 6/2026 là tháng giảm thứ 4 liên tiếp (-10%). SJC trong nước ~144.0M/lượng (mua); world_vnd ~128.1M. Target JPM $5,055 / GS $5,400 Q4/2026 vẫn giữ — pullback là cơ hội tích lũy dài hạn.",
-        "source": "Forbes / BaoQuocTe / Techz, 1/7/2026",
-        "source_url": "https://www.forbes.com/advisor/investing/gold-price/"
+        "body": "Vàng giảm còn ~$4,007/oz hôm nay (-0.77%), tiếp cận ngưỡng tâm lý $4,000. SJC trong nước ~143.5M/lượng (giảm ~600k); world_vnd ~127.4M. Dollar mạnh và kỳ vọng Fed hawkish tiếp tục đè áp. Tuần này: US Non-Farm Payroll tháng 6 và PCE là dữ liệu then chốt. Target dài hạn JPM $5,055 / GS $5,400 Q4/2026 không đổi.",
+        "source": "Finbold / Techz, 2/7/2026",
+        "source_url": "https://finbold.com/bitcoin-price-today-july-2026/"
       },
       {
-        "title": "BTC ~$58,559 (-3.02%); ETH $1,568 (-3.0%); tháng 6 BTC -18.5% tệ nhất 2026; July lịch sử +7.6% trung bình",
+        "title": "BTC $58,188 đáy 21 tháng — $1.48B thanh lý; ETH $1,621; XLM +12% sau DTCC tích hợp Stellar",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin đóng tháng 6 ở $58,559 (-3.02%) và ETH $1,568 (-3.0%). Tháng 6/2026 là tháng tệ nhất của BTC trong năm 2026 với -18.5%. Tuy nhiên, thống kê lịch sử: tháng 7 thường mang lại +7.60% trung bình, +8.20% trung vị cho BTC. Để phục hồi cần: dòng vốn ETF mạnh hơn, nhu cầu tổ chức, rõ ràng pháp lý và cải thiện risk sentiment.",
-        "source": "CoinDesk / KuCoin / CoinDCX, 1/7/2026",
-        "source_url": "https://www.coindesk.com/"
+        "body": "Bitcoin chạm đáy $58,188 trong phiên — mức thấp nhất 21 tháng — trước khi phục hồi nhẹ. $1.48B bị thanh lý trên toàn thị trường trong 24h, dẫn đầu là BTC và ETH với hơn $359M. Điểm sáng: DTCC công bố tích hợp Stellar vào hệ thống tokenization, XLM tăng vọt +12%. Ethereum Institutional ra mắt chính thức 1/7.",
+        "source": "KuCoin / CoinDesk / The Block, 2/7/2026",
+        "source_url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-july-1-2026"
       },
       {
-        "title": "S&P 500 quý tốt nhất từ 2020 — cổ phiếu và crypto đồng tăng; Spot BTC ETF thành 'baseline bid'; on-chain dollar tăng tốc",
+        "title": "CLARITY Act sắp ký 4/7 (Lễ 250 năm Mỹ) — Thượng viện chưa đủ 60 phiếu; quyết định lịch sử cho crypto",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "S&P 500 vừa hoàn thành quý tốt nhất kể từ 2020. Cổ phiếu và crypto cùng tăng không phải vì rủi ro biến mất, mà vì nhà đầu tư thích nghi. Spot Bitcoin ETF ngày càng đóng vai trò 'baseline bid' ổn định thị trường. Corporate treasury adoption tăng — supply BTC dài hạn thắt chặt. On-chain dollar đang được tích hợp vào enterprise treasury và thanh toán B2B xuyên biên giới.",
-        "source": "KuCoin / Bloomberg / BlackRock, 1/7/2026",
-        "source_url": "https://www.kucoin.com/blog/crypto-vs-stocks-in-2026"
+        "body": "Nhà Trắng đặt deadline ký CLARITY Act vào ngày 4/7 — tượng trưng cho ngày độc lập thứ 250 của Mỹ. Tuy nhiên Thượng viện vẫn chưa đủ 60 phiếu cloture. Nếu thông qua, CLARITY Act sẽ là khung pháp lý crypto lớn nhất lịch sử Mỹ, tạo nền tảng cho institutional adoption và ảnh hưởng lớn đến BTC, ETH tuần này.",
+        "source": "Bitcoin Foundation / CoinDesk, 2/7/2026",
+        "source_url": "https://bitcoinfoundation.org/news/analysis/will-crypto-go-back-up-in-july-2026-or-still-in-a-downtrend-market-analysis-and-key-signals/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>1/7 — Thứ Tư:</b> Vàng ~$4,030/oz. SJC ~144.0M; world_vnd ~128.1M; premium ~15.9M (12.4%). Tháng 6 giảm thứ 4 (-10%). Dollar mạnh & Fed hawkish. BTC $58,559 tháng tệ nhất -18.5%. JPM $5,055 / GS $5,400 Q4/2026.",
+    "summary": "🔴 <b>2/7 — Thứ Năm:</b> Vàng ~$4,007/oz (-0.77%), tiếp cận ngưỡng $4,000. SJC ~143.5M; world_vnd ~127.4M; premium ~16.1M (12.6%). Dollar mạnh + Fed hawkish. BTC $58,188 đáy 21 tháng, $1.48B thanh lý. JPM $5,055 / GS $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng ~$4,030/oz (1/7) — gần đáy T11/2025; dollar mạnh; kỳ vọng Fed tăng lãi",
-        "pct": 35,
+        "name": "Vàng ~$4,007/oz (2/7) — tiếp cận $4,000; dollar mạnh; thủng hỗ trợ $4,030",
+        "pct": 30,
         "direction": "down",
         "bar": "fl",
-        "desc": "Vàng giao dịch $4,027-4,052/oz đầu tháng 7, gần mức thấp nhất từ tháng 11/2025. Tháng 6 là tháng giảm thứ 4 liên tiếp (-10%). Dollar mạnh và kỳ vọng Fed hawkish tạo áp lực. SJC ~144.0M, world_vnd ~128.1M."
+        "desc": "Vàng giảm về $4,007/oz (-0.77%) hôm nay, tiếp cận ngưỡng tâm lý quan trọng $4,000. Đây là mức hỗ trợ cứng — nếu thủng sẽ test $3,950. Dollar mạnh và kỳ vọng Fed hawkish vẫn là nhân tố áp lực chính."
       },
       {
-        "name": "Fed hawkish & lãi thực — median projection 2026 tại 3.8%; PCE & jobs report định hướng tuần này",
-        "pct": 68,
+        "name": "NFP tháng 6 & PCE tuần này — dữ liệu then chốt quyết định hướng vàng ngắn hạn",
+        "pct": 65,
         "direction": "up",
         "bar": "fh",
-        "desc": "Fed median 2026 projection tại 3.8%, loại bỏ rate cut. CPI ~4.2% → lãi thực âm → hỗ trợ vàng dài hạn. US jobs report tháng 6 và PCE (tuần này) sẽ định hướng Fed tháng 7. Dữ liệu mềm → vàng phục hồi; dữ liệu mạnh → test $3,950."
+        "desc": "US Non-Farm Payroll tháng 6 và PCE sẽ công bố trong tuần này. Nếu NFP thấp hoặc PCE hạ nhiệt → Fed có thể dovish hơn → vàng phục hồi về $4,100+. Nếu dữ liệu mạnh → tiếp tục áp lực, test $3,950. Đây là catalyst ngắn hạn quan trọng nhất."
       },
       {
-        "name": "SJC ~144.0M; world_vnd ~128.1M; premium ~15.9M (12.4%) — nhích tăng theo world gold",
-        "pct": 47,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "SJC nhích lên 144.0M (từ 143.0M hôm qua) theo đà phục hồi nhẹ vàng thế giới. world_vnd ~128.1M (từ 127.6M). Premium SJC/world_vnd ~15.9M (12.4%) vẫn cao — NHNN chưa can thiệp. Tháng 7 mở đầu nhích tăng nhẹ."
-      },
-      {
-        "name": "BTC $58,559 (-3.02%) — tháng 6 tệ nhất -18.5%; July lịch sử +7.6% trung bình",
+        "name": "SJC ~143.5M; world_vnd ~127.4M; premium ~16.1M (12.6%) — SJC giảm 600k theo vàng thế giới",
         "pct": 45,
         "direction": "down",
         "bar": "fm",
-        "desc": "BTC đóng tháng 6 ở $58,559, tháng tệ nhất 2026 (-18.5%). ETH $1,568 (-3.0%). Risk-off trong crypto tạo áp lực lên vàng ngắn hạn. Tuy nhiên tháng 7 lịch sử BTC +7.6% trung bình — nếu phục hồi → risk sentiment cải thiện."
+        "desc": "SJC trong nước giảm ~600k xuống 143.5M/lượng, theo đà giảm của vàng thế giới. world_vnd ~127.4M từ $4,007.40/oz. Premium SJC/world_vnd ~16.1M (12.6%) nhích cao hơn — NHNN chưa có động thái mới."
       },
       {
-        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 25-34% từ ~$4,030; tháng 7 chờ catalyst",
+        "name": "BTC $58,188 đáy 21T; $1.48B thanh lý — risk-off toàn thị trường; CLARITY Act 4/7",
+        "pct": 40,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Bitcoin chạm $58,188 (đáy 21 tháng), với $1.48B thanh lý toàn thị trường. Risk-off sentiment lan rộng. Tuy nhiên CLARITY Act dự kiến ký 4/7 — nếu thành công, sentiment cải thiện mạnh cho cả crypto và vàng."
+      },
+      {
+        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 26-35% từ ~$4,007; tích lũy vùng $3,950-$4,050",
         "pct": 82,
         "direction": "up",
         "bar": "fh",
-        "desc": "Target JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,030, upside tiềm năng 25-34%. Pullback -10% tháng 6 tạo cơ hội tích lũy dài hạn. Tháng 7 cần catalyst mới: PCE thấp, Fed dovish hoặc NHTW mua vào để phục hồi."
+        "desc": "Target dài hạn JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,007, upside tiềm năng 26-35%. Vùng $3,950-$4,050 là vùng tích lũy tốt cho nhà đầu tư dài hạn. NFP và PCE tuần này sẽ xác định liệu test $3,950 có xảy ra không."
       }
     ],
-    "outlook_label": "Vàng ~$4,030/oz (1/7 Thứ Tư) — gần đáy T11/2025; SJC ~144.0M; BTC $58,559; chờ catalyst tuần này",
-    "outlook_class": "pbe",
-    "outlook_text": "1/7 (Thứ Tư): Vàng ~$4,030/oz, tiếp tục trạng thái gần đáy. Dollar mạnh + Fed hawkish duy trì áp lực. Tuần này: US jobs report tháng 6 và PCE là dữ liệu then chốt. Ngắn hạn: sideways $3,950-$4,100. Tháng 7 cần catalyst mới. Dài hạn: JPM $5,055 / GS $5,400 Q4/2026 — tích lũy dần ở vùng $3,950-$4,100.",
+    "outlook_label": "Vàng ~$4,007/oz (2/7 Thứ Năm) — tiếp cận $4,000; SJC ~143.5M; BTC đáy 21T; chờ NFP tuần này",
+    "outlook_class": "pbr",
+    "outlook_text": "2/7 (Thứ Năm): Vàng ~$4,007/oz, tiếp cận ngưỡng $4,000 quan trọng. Dollar mạnh + Fed hawkish + BTC risk-off tiếp tục đè áp ngắn hạn. Tuần này: NFP tháng 6 và PCE là catalyst quyết định. Hỗ trợ: $4,000-$3,950. Kháng cự: $4,050-$4,100. Dài hạn: JPM $5,055 / GS $5,400 — tích lũy vùng $3,950-$4,050.",
     "sources": [
       {
-        "name": "Forbes — Gold Price Today July 1, 2026",
-        "url": "https://www.forbes.com/advisor/investing/gold-price/"
+        "name": "Finbold — Bitcoin & Gold Price July 2026",
+        "url": "https://finbold.com/bitcoin-price-today-july-2026/"
       },
       {
-        "name": "BaoQuocTe — Giá vàng hôm nay 1/7/2026",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-172026-cai-so-lui-xac-dinh-rui-ro-lon-nhat-voi-thi-truong-co-hoi-mua-vao-chien-luoc-da-toi-412397.html"
+        "name": "Techz — Vàng SJC nhẫn 9999 ngày 2/7/2026",
+        "url": "https://www.techz.vn/216-726-5-gia-vang-hom-nay-2-7-vang-sjc-nhan-9999-do-doc-dien-rong-thi-truong-cho-cu-dao-chieu-truoc-gio-g-ylt699458.html"
       },
       {
-        "name": "Techz — Vàng SJC nhẫn 9999 ngày 1/7/2026",
-        "url": "https://www.techz.vn/216-726-5-gia-vang-hom-nay-1-7-moi-nhat-vang-sjc-nhan-9999-lao-doc-sang-som-vi-sao-gia-ca-chua-the-but-pha-ylt699270.html"
+        "name": "LatestLY — Bitcoin Price July 1, 2026",
+        "url": "https://www.latestly.com/business/bitcoin-price-today-july-1-2026-btc-price-at-usd-58798-ahead-of-key-us-jobs-data-release-7497417.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 1/7 (Thứ Tư): <b>TDH 40% CHÍNH THỨC có hiệu lực từ HÔM NAY!</b> Áp lực huy động hạ nhiệt — lãi đang bắt đầu điều chỉnh nhẹ 0.1-0.2pp. Big4 giữ 6.8%/12T; HLBank & ACB vẫn cao nhất 7.3%/12T — có thể điều chỉnh trong tuần này.",
+    "alert": "📊 2/7 (Thứ Năm): Nhóm NH niêm yết từ 7%/năm <b>tiếp tục thu hẹp</b>. Saigonbank dẫn đầu 7.9%/13T; ACB & HLBank 7.3%/12T. Big4 giữ 6.8%/12T ổn định. TDH 40% giảm áp lực huy động — điều chỉnh chậm Q3.",
     "highlights": [
       {
-        "label": "TDH 40% có hiệu lực từ 1/7",
-        "value": "1/7",
-        "sub": "Vốn ngắn hạn cho vay TDH tăng từ 30% lên 40% — áp lực huy động hạ nhiệt từ hôm nay",
-        "note": "Từ hôm nay 1/7, NHNN chính thức nới trần TDH 40%. Áp lực huy động vốn ngắn hạn giảm dần — lãi suất kỳ hạn ngắn và trung có thể điều chỉnh nhẹ 0.1-0.2pp trong tuần tới. Người đã lock lãi cao trước hôm qua đã đạt mức tối ưu."
+        "label": "Saigonbank 7.9%/13T dẫn đầu",
+        "value": "7.9%",
+        "sub": "Saigonbank cao nhất hệ thống với 7.9%/năm kỳ hạn 13 tháng; 7.2%/12T; 7.0%/18T",
+        "note": "Saigonbank hiện dẫn đầu hệ thống với 7.9%/năm kỳ hạn 13 tháng — hiếm thấy trong bối cảnh nhóm 7%+ đang thu hẹp. Người muốn lãi cao nhất có thể cân nhắc Saigonbank 13T."
       },
       {
-        "label": "HLBank & ACB dẫn đầu 7.3%",
+        "label": "HLBank & ACB dẫn đầu 7.3%/12T",
         "value": "7.3%",
-        "sub": "HLBank 7.3%/12T; ACB 7.3%/12T — cao nhất hệ thống; có thể điều chỉnh giảm trong tuần này",
-        "note": "HLBank và ACB tiếp tục dẫn đầu với 7.3%/12T. Tuy nhiên, với TDH 40% có hiệu lực từ hôm nay, áp lực duy trì lãi cao giảm đi — dự kiến sẽ về 7.0-7.1% trong 2-3 tuần tới."
+        "sub": "HLBank 7.3%/12T; ACB 7.3%/12T — nhóm cao nhất trong kỳ hạn chuẩn 12 tháng",
+        "note": "HLBank và ACB vẫn giữ 7.3%/12T — mức cao nhất trong kỳ hạn chuẩn 12 tháng. TDH 40% có hiệu lực từ 1/7 giảm áp lực — có thể điều chỉnh nhẹ trong 2-3 tuần tới."
       },
       {
         "label": "Big4 ổn định 6.8%/12T",
         "value": "6.8%",
         "sub": "BIDV, Vietcombank, Agribank, VietinBank — đồng nhất 6.8%/12T; xu hướng về 6.5-6.6% Q3",
-        "note": "Big4 giữ 6.8%/12T ổn định đầu tháng 7. Với TDH 40% giải tỏa áp lực huy động, dự báo Big4 điều chỉnh về 6.5-6.6% trong Q3/2026."
+        "note": "Big4 tiếp tục giữ nguyên 6.8%/12T. Với TDH 40% giải tỏa áp lực huy động, dự báo Big4 điều chỉnh về 6.5-6.6% cuối Q3/2026."
       },
       {
-        "label": "Tháng 7 — Lãi bắt đầu điều chỉnh nhẹ",
+        "label": "Nhóm 7%+ ngày càng thu hẹp",
         "value": "Q3/2026",
-        "sub": "TDH 40% + Fed hawkish = lãi điều chỉnh chậm; Big4 về 6.5-6.6%; top NH về 7.0% cuối Q3",
-        "note": "Chu kỳ lãi cao đã đạt đỉnh. Từ tháng 7, điều chỉnh chậm và có chọn lọc: Big4 về 6.5-6.6%; top tư nhân về 6.9-7.0%. Fed hawkish giữ NHNN thận trọng — không có đợt giảm đột ngột."
+        "sub": "Xu hướng giảm kéo dài — các mức từ 7%/năm trở lên trở nên khan hiếm, tập trung kỳ hạn dài",
+        "note": "Xu hướng giảm lãi suất huy động kéo dài khiến nhóm 7%+ thu hẹp. Hiện chủ yếu còn ở kỳ hạn từ 12 tháng trở lên tại NH tư nhân vừa nhỏ. Big4 và NH lớn dần về 6.6-6.8%."
       }
     ],
     "banks": [
@@ -308,105 +308,105 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 1/7 (Thứ Tư): TDH 40% có hiệu lực — chu kỳ lãi cao đã đỉnh; điều chỉnh chậm từ Q3",
-      "body": "Ngày 1/7/2026 (Thứ Tư) — ngày đầu tiên của H2/2026 và tháng 7. Quan trọng nhất: TDH 40% chính thức có hiệu lực từ hôm nay. Điều này giảm áp lực huy động ngắn hạn — chu kỳ lãi cao đã đạt đỉnh (ceiling 7.3% tại HLBank/ACB). Dự kiến trong vài tuần tới, top tư nhân điều chỉnh về 6.9-7.0%; Big4 về 6.5-6.6% cuối Q3/2026. Fed hawkish (median 3.8%) giữ NHNN thận trọng — điều chỉnh sẽ chậm, không đột ngột. Lãi huy động 12T hấp dẫn nhất còn tại HLBank/ACB 7.3% (ngắn hạn có thể giảm); Big4 6.8% ổn định.",
+      "title": "Lãi suất 2/7 (Thứ Năm): Nhóm 7%+ thu hẹp; Saigonbank 7.9% dẫn đầu; Big4 6.8% ổn định",
+      "body": "Ngày 2/7/2026 (Thứ Năm). Xu hướng giảm lãi suất huy động kéo dài khiến nhóm từ 7%/năm trở lên ngày càng khan hiếm. Saigonbank dẫn đầu hệ thống với 7.9%/năm kỳ hạn 13 tháng; ACB và HLBank giữ 7.3%/12T. Big4 (BIDV, Vietcombank, Agribank, VietinBank) duy trì ổn định 6.8%/12T. TDH 40% (có hiệu lực từ 1/7) giảm áp lực huy động dần — dự báo Big4 về 6.5-6.6% và top tư nhân về 6.9-7.0% cuối Q3/2026. Fed hawkish giữ NHNN thận trọng — điều chỉnh sẽ chậm và có chọn lọc.",
       "sources": [
         {
-          "name": "topi.vn — Lãi suất tiết kiệm NH 7/2026",
-          "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+          "name": "vietnamnet.vn — Lãi suất NH hôm nay 1/7/2026",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html"
         },
         {
-          "name": "CafeF — Lãi suất ngân hàng 30/6/2026",
+          "name": "motthegioi.vn — Lãi suất NH gửi tiền 7.9% tháng 7",
+          "url": "https://motthegioi.vn/lai-suat-ngan-hang-gui-tien-7-9/"
+        },
+        {
+          "name": "CafeF — Lãi suất ngân hàng 2/7/2026",
           "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
-        },
-        {
-          "name": "Techcombank — Lãi suất tiết kiệm 1/7/2026",
-          "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "TDH 40% có hiệu lực từ 1/7 — áp lực huy động hạ nhiệt, chu kỳ lãi cao đã đỉnh",
+        "name": "Nhóm 7%+ thu hẹp — xu hướng giảm kéo dài; Saigonbank 7.9% dẫn đầu nhưng khan hiếm",
         "level": "main",
-        "pct": 88,
+        "pct": 85,
         "bar": "fh",
-        "desc": "NHNN chính thức nới trần vốn ngắn hạn cho vay TDH từ 30% lên 40% từ hôm nay 1/7. Áp lực huy động hạ dần → ceiling 7.3% (HLBank/ACB) có thể điều chỉnh về 7.0-7.1% trong 2-3 tuần tới. Đỉnh chu kỳ lãi cao đã qua."
+        "desc": "Xu hướng giảm lãi suất huy động đang kéo dài khiến các mức từ 7%/năm trở lên trở nên khan hiếm. Saigonbank dẫn đầu 7.9%/13T; ACB/HLBank 7.3%/12T. Phần lớn NH đã về dưới 7% — nhóm 7%+ chỉ còn tại NH tư nhân vừa nhỏ và kỳ hạn dài."
       },
       {
-        "name": "Fed hawkish pivot — median 2026 tại 3.8%; NHNN giữ thận trọng đến Q1/2027",
+        "name": "TDH 40% có hiệu lực từ 1/7 — áp lực huy động giảm, chu kỳ lãi cao đã đỉnh",
         "level": "main",
-        "pct": 80,
+        "pct": 82,
         "bar": "fh",
-        "desc": "FOMC tháng 6/2026 hawkish pivot: median year-end 2026 tại 3.8%. NHNN Việt Nam không thể hạ lãi điều hành trước Fed. Điều này làm chậm đà giảm lãi huy động — Q3 điều chỉnh nhẹ, không đột ngột."
+        "desc": "NHNN nới trần vốn ngắn hạn cho vay TDH từ 30% lên 40% từ 1/7. Áp lực huy động hạ dần → ceiling 7.3% sẽ điều chỉnh về 7.0-7.1%. Đỉnh chu kỳ lãi cao đã qua — tháng 7 bắt đầu chu kỳ giảm chậm."
       },
       {
-        "name": "Big4 ổn định 6.8%/12T — sẽ về 6.5-6.6% cuối Q3/2026",
+        "name": "Fed hawkish — median 2026 tại 3.8%; NHNN giữ thận trọng đến Q1/2027",
+        "level": "sub",
+        "pct": 78,
+        "bar": "fh",
+        "desc": "FOMC hawkish pivot: median year-end 2026 tại 3.8%. NHNN không thể đi trước Fed — lãi điều hành giữ nguyên là kịch bản cơ sở đến Q1/2027. Điều chỉnh lãi huy động sẽ chậm và có chọn lọc."
+      },
+      {
+        "name": "Big4 ổn định 6.8%/12T — dự kiến về 6.5-6.6% cuối Q3",
         "level": "sub",
         "pct": 70,
         "bar": "fm",
-        "desc": "Big4 giữ 6.8%/12T đầu tháng 7. Với TDH 40% giảm áp lực huy động, Big4 dự báo điều chỉnh về 6.5-6.6% vào cuối Q3/2026."
+        "desc": "Big4 giữ 6.8%/12T đầu tháng 7. Với TDH 40% giảm áp lực huy động, Big4 dự báo điều chỉnh về 6.5-6.6% cuối Q3/2026."
       },
       {
-        "name": "HLBank/ACB 7.3% — ceiling chu kỳ; điều chỉnh về 7.0-7.1% trong tháng 7",
-        "level": "sub",
-        "pct": 72,
-        "bar": "fh",
-        "desc": "Với TDH 40% có hiệu lực, áp lực duy trì 7.3% giảm. Dự kiến HLBank/ACB điều chỉnh về 7.0-7.1% trong 2-3 tuần tới."
-      },
-      {
-        "name": "Tín dụng H1/2026 đạt kế hoạch — Q3 nhu cầu huy động giảm, lãi điều chỉnh dần",
+        "name": "Tín dụng tăng trưởng tốt — NH giảm cạnh tranh huy động, lãi điều chỉnh từ từ",
         "level": "sub",
         "pct": 65,
         "bar": "fm",
-        "desc": "Tăng trưởng tín dụng H1/2026 đạt kế hoạch. Sang Q3, nhiều NH giảm nhu cầu huy động → lãi điều chỉnh chậm nhưng chắc chắn. Xu hướng: Big4 về 6.5-6.6%; top tư nhân về 6.9-7.0% cuối Q3."
+        "desc": "Tăng trưởng tín dụng H1/2026 đạt kế hoạch. NH giảm nhu cầu cạnh tranh huy động → lãi điều chỉnh dần từ Q3. Người đang có tiết kiệm lãi cao nên tiếp tục giữ đến đáo hạn trước khi tái tục."
       }
     ],
     "rate_forecast": [
       {
-        "name": "HLBank/ACB 7.3%/12T vẫn hấp dẫn ngắn hạn — có thể điều chỉnh trong tuần này",
-        "pct": 80,
-        "direction": "down",
-        "bar": "fh",
-        "desc": "TDH 40% có hiệu lực từ hôm nay. HLBank/ACB vẫn đang ở 7.3%/12T nhưng áp lực duy trì giảm. Nếu cần lock lãi, tuần đầu tháng 7 là cơ hội cuối trước khi điều chỉnh về 7.0-7.1%."
-      },
-      {
-        "name": "Big4 về 6.5-6.6%/12T cuối Q3/2026 — điều chỉnh chậm và có chọn lọc",
-        "pct": 75,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Big4 dự kiến điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3/2026 khi TDH 40% giảm áp lực huy động. Fed hawkish làm chậm tốc độ giảm — không có đợt giảm đột ngột."
-      },
-      {
-        "name": "NHNN giữ lãi điều hành đến Q1/2027 — Fed hawkish loại bỏ window cắt giảm 2026",
+        "name": "ACB/HLBank 7.3%/12T — cơ hội cuối; có thể điều chỉnh về 7.0% trong 2-3 tuần",
         "pct": 78,
         "direction": "down",
         "bar": "fh",
-        "desc": "FOMC tháng 6 hawkish pivot: loại bỏ 2 lần cắt giảm đã kỳ vọng. NHNN không thể đi trước Fed — lãi điều hành giữ nguyên đến Q1/2027 là kịch bản cơ sở."
+        "desc": "ACB/HLBank vẫn đang ở 7.3%/12T nhưng với TDH 40%, áp lực duy trì giảm. Nếu cần lock lãi dài hạn, đầu tháng 7 là cơ hội tốt trước khi điều chỉnh về 7.0-7.1%."
       },
       {
-        "name": "NHNN hạ lãi điều hành Q4/2026 — xác suất 15-20% sau Fed hawkish",
-        "pct": 17,
+        "name": "Big4 về 6.5-6.6%/12T cuối Q3/2026 — điều chỉnh chậm và ổn định",
+        "pct": 75,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Big4 dự kiến điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3/2026. Fed hawkish làm chậm tốc độ — không có đợt giảm đột ngột. Người gửi Big4 ổn định và an toàn."
+      },
+      {
+        "name": "NHNN giữ lãi điều hành đến Q1/2027 — Fed hawkish loại bỏ window cắt giảm 2026",
+        "pct": 80,
+        "direction": "down",
+        "bar": "fh",
+        "desc": "FOMC tháng 6 hawkish pivot: loại bỏ 2 lần cắt giảm đã kỳ vọng. NHNN không đi trước Fed — lãi điều hành giữ nguyên đến Q1/2027 là kịch bản cơ sở."
+      },
+      {
+        "name": "CLARITY Act 4/7 — nếu thông qua, sentiment tốt hơn cho tín dụng và lãi suất",
+        "pct": 40,
         "direction": "down",
         "bar": "fl",
-        "desc": "Xác suất NHNN cắt lãi Q4/2026 ở mức 15-20%. Kịch bản cơ sở: NHNN giữ nguyên đến Q1/2027. Chỉ khi Fed dovish bất ngờ (PCE thấp, việc làm yếu) mới mở window cho NHNN."
+        "desc": "CLARITY Act (Mỹ) sắp được ký ngày 4/7. Nếu thông qua, tạo khuôn khổ pháp lý crypto, cải thiện dòng vốn quốc tế → tác động tích cực gián tiếp lên thị trường tín dụng VN. Xác suất thành công: ~40%."
       }
     ],
-    "rate_outlook_label": "1/7 Thứ Tư — TDH 40% có hiệu lực; HLBank/ACB 7.3%; Big4 6.8%; lãi đang điều chỉnh dần Q3",
+    "rate_outlook_label": "2/7 Thứ Năm — Nhóm 7%+ thu hẹp; Saigonbank 7.9%; HLBank/ACB 7.3%; Big4 6.8%; tháng 7 điều chỉnh chậm",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "1/7 (Thứ Tư): TDH 40% chính thức có hiệu lực từ hôm nay. Chu kỳ lãi cao đã đạt đỉnh — ceiling 7.3% (HLBank/ACB) sẽ điều chỉnh về 7.0-7.1% trong 2-3 tuần tới; Big4 về 6.5-6.6% cuối Q3. Fed hawkish giữ NHNN thận trọng — điều chỉnh chậm, không đột ngột.",
+    "rate_outlook_text": "2/7 (Thứ Năm): Nhóm NH niêm yết từ 7%/năm ngày càng thu hẹp. Saigonbank dẫn đầu 7.9%/13T; HLBank/ACB 7.3%/12T; Big4 6.8%/12T ổn định. TDH 40% có hiệu lực từ 1/7 — chu kỳ lãi cao đã đỉnh. Điều chỉnh chậm trong Q3: Big4 về 6.5-6.6%; top tư nhân về 7.0%. Fed hawkish giữ NHNN thận trọng.",
     "rate_sources": [
       {
-        "name": "topi.vn — Lãi suất tiết kiệm NH 7/2026",
+        "name": "vietnamnet.vn — Lãi suất NH 1/7/2026",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html"
+      },
+      {
+        "name": "motthegioi.vn — Lãi suất 7.9%/năm tháng 7",
+        "url": "https://motthegioi.vn/lai-suat-ngan-hang-gui-tien-7-9/"
+      },
+      {
+        "name": "topi.vn — Lãi suất tiết kiệm tháng 7/2026",
         "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
-      },
-      {
-        "name": "CafeF — Lãi suất ngân hàng 30/6/2026",
-        "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
-      },
-      {
-        "name": "Webgia — Lãi suất ngân hàng tháng 7/2026",
-        "url": "https://webgia.com/lai-suat/"
       }
     ]
   },
@@ -592,7 +592,8 @@
       "28/06",
       "29/06",
       "30/06",
-      "01/07"
+      "01/07",
+      "02/07"
     ],
     "sjc": [
       152.8,
@@ -775,7 +776,8 @@
       145.5,
       145.5,
       143.0,
-      144.0
+      144.0,
+      143.5
     ],
     "world_vnd": [
       121,
@@ -958,7 +960,8 @@
       130.2,
       130.2,
       127.6,
-      128.1
+      128.1,
+      127.4
     ]
   }
 }
