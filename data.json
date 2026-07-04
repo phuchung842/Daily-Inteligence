@@ -1,162 +1,162 @@
 {
   "meta": {
-    "date": "3 tháng 7, 2026",
-    "day": "Thứ Sáu",
-    "updated": "2026-07-03 07:03"
+    "date": "4 tháng 7, 2026",
+    "day": "Thứ Bảy",
+    "updated": "2026-07-04 07:03"
   },
   "alert": {
     "type": "green",
-    "text": "🟢 <b>3/7 — Thứ Sáu:</b> Vàng ~$4,132/oz (+3.1%); world_vnd ~131.4M; SJC ~148.5M — phục hồi mạnh sau NFP tháng 6 yếu. BTC ~$60,360 (+3.7%); Fed Chair Warsh dovish. Claude Sonnet 5 default; Qualcomm mua Modular $4B; Blackstone $30B AI data center Nhật. <b>Lãi suất ổn định: Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8%.</b>"
+    "text": "🟢 <b>4/7 — Thứ Bảy:</b> Vàng ~$4,195/oz (+1.7%); world_vnd ~133.3M; SJC ~149.0M — tiếp đà phục hồi. BTC ~$61,700 (+2.7%); ETF flows dương trở lại sau 10 ngày âm liên tiếp. Google ra mắt Nano Banana 2 Lite & Gemini Omni Flash; xAI Grok 4.5 (1.5T) vào private beta SpaceX/Tesla; California hợp tác Anthropic dùng Claude cho cơ quan bang giảm 50%. <b>Lãi suất cuối tuần ổn định: Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8%.</b>"
   },
   "news_ai": [
     {
-      "title": "Claude Sonnet 5 trở thành default model toàn bộ Free & Pro users từ 1/7 — $2/M input, 1M context, 63.2% agentic coding",
+      "title": "Google ra mắt Nano Banana 2 Lite ($0.034/1,000 ảnh) và Gemini Omni Flash (video/edit hội thoại, $0.10/giây)",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic đưa Claude Sonnet 5 trở thành model mặc định cho mọi người dùng Free và Pro từ 1/7/2026. Giá $2/M input tokens (ưu đãi đến 31/8), context 1 triệu token, đạt 63.2% trên agentic coding benchmarks — thu hẹp đáng kể khoảng cách với Opus 4.8. Fable 5 cũng được khôi phục toàn cầu từ 1/7 sau khi US dỡ lệnh export control. Đây là bước đẩy mạnh nhất của Anthropic vào thị trường AI agent.",
-      "source": "TechCrunch / Anthropic, 1/7/2026",
-      "source_url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
+      "body": "Google công bố hai model generative media mới: Nano Banana 2 Lite — model tạo ảnh nhanh và rẻ nhất của Google, latency chỉ 1 giây, giá $0.034/1,000 ảnh; và Gemini Omni Flash — model tạo video kèm chỉnh sửa hội thoại, giá $0.10/giây output. Động thái củng cố vị trí Google trong mảng generative media, cạnh tranh trực tiếp OpenAI Sora và Midjourney.",
+      "source": "Google Blog, 3-4/7/2026",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
     },
     {
-      "title": "Qualcomm mua startup AI Modular $4 tỷ — tấn công thị trường AI inference cạnh tranh NVIDIA CUDA; Grok 4.3 lên Amazon Bedrock",
+      "title": "xAI Grok 4.5 (nền tảng V9, 1.5 nghìn tỷ tham số) vào private beta tại SpaceX và Tesla — hiệu năng gần ngang Claude Opus",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Qualcomm thâu tóm Modular — startup AI inference với Mojo language và LLM optimization engine — với giá $4 tỷ. Thương vụ đưa Qualcomm từ chip sang cả phần mềm AI inference, cạnh tranh trực tiếp NVIDIA CUDA ecosystem. Song song, Grok 4.3 của xAI có mặt trên Amazon Bedrock ($1.25/M input tokens). Cuộc đua AI inference infrastructure đang nóng lên nhanh chóng.",
-      "source": "buildfastwithai.com / llm-stats.com, 1/7/2026",
-      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026"
-    },
-    {
-      "title": "Blackstone cam kết $30 tỷ xây AI data center tại Nhật Bản — một trong những deal hạ tầng AI lớn nhất lịch sử",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Quỹ đầu tư Blackstone công bố cam kết $30 tỷ xây chuỗi trung tâm dữ liệu AI tại Nhật Bản — một trong những khoản đầu tư hạ tầng AI lớn nhất từ trước đến nay. Nhật Bản đang trở thành hub hạ tầng AI chiến lược của châu Á. Song song, Gemini 3.5 Flash (Google) được clearance cho July GA sau khi trượt từ tháng 6 — outperforms Gemini 3.1 Pro trên coding và agentic benchmarks.",
-      "source": "buildfastwithai.com / Google Blog, 1-3/7/2026",
-      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026"
-    },
-    {
-      "title": "OpenAI nộp S-1 bảo mật lên SEC ($852B valuation) + chip Jalapeño + GPT-5.6 family (Sol/Terra/Luna) gated — IPO lịch sử chuẩn bị",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "OpenAI nộp S-1 bảo mật ngày 8/6/2026 — định giá tư nhân $852 tỷ, setup IPO lịch sử lớn nhất tech. Đồng thời công bố chip inference nội bộ 'Jalapeño' giảm phụ thuộc NVIDIA, và GPT-5.6 family (Sol/Terra/Luna) đang được gated tại ~20 tổ chức ưu tiên chính phủ Mỹ. UN Global Dialogue on AI Governance sẽ khai mạc tại Geneva ngày 6/7.",
-      "source": "llm-stats.com / TechCrunch, 1-3/7/2026",
+      "body": "Grok 4.5, xây trên foundation model V9 với 1.5 nghìn tỷ tham số, bắt đầu private beta nội bộ tại SpaceX và Tesla. Đánh giá sớm cho thấy hiệu năng tiệm cận, thậm chí có thể vượt Claude Opus ở một số benchmark. Đây là bước tiến lớn nhất của xAI kể từ Grok 4, gia tăng áp lực cạnh tranh lên nhóm dẫn đầu.",
+      "source": "llm-stats.com, 3-4/7/2026",
       "source_url": "https://llm-stats.com/llm-updates"
+    },
+    {
+      "title": "Thống đốc California Newsom hợp tác Anthropic — cấp Claude cho cơ quan bang và chính quyền địa phương, giảm giá 50%",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Thống đốc California Gavin Newsom công bố quan hệ đối tác với Anthropic, cung cấp Claude AI cho các cơ quan bang và chính quyền địa phương với mức giá ưu đãi 50%. Thỏa thuận nhằm tăng cường an ninh mạng (cybersecurity) cho khu vực công California — một trong những hợp đồng chính phủ lớn nhất của Anthropic tại Mỹ.",
+      "source": "TechCrunch, 3/7/2026",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+    },
+    {
+      "title": "Tesla áp giới hạn chi tiêu AI $200/tuần cho nhân viên từ 6/7 — kiểm soát chi phí sử dụng công cụ AI nội bộ",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Tesla thông báo áp mức trần chi tiêu $200/tuần cho mỗi nhân viên khi dùng các công cụ AI (bao gồm cả Grok nội bộ), có hiệu lực từ 6/7/2026. Động thái phản ánh áp lực kiểm soát chi phí vận hành AI ở quy mô lớn, dù công ty vẫn đẩy mạnh đầu tư Grok 4.5 cho các dự án nội bộ.",
+      "source": "Future Tools News, 3-4/7/2026",
+      "source_url": "https://futuretools.io/news"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "green",
-      "text": "🟢 Vàng ~$4,132/oz (+3.1%); SJC ~148.5M; world_vnd ~131.4M — phục hồi mạnh. BTC ~$60,360 (+3.7%) từ đáy $58,188. NFP tháng 6 yếu + Fed Warsh dovish → kỳ vọng Fed shift. CLARITY Act còn chờ 60 phiếu Thượng viện. US markets đóng sớm 4/7 Independence Day."
+      "text": "🟢 BTC ~$61,700 (+2.7%) — ETF flows dương trở lại sau 10 phiên âm liên tiếp. Vàng ~$4,195/oz (+1.7%), tiếp đà phục hồi tuần này. Citigroup hạ mục tiêu BTC 12 tháng từ $112,000 xuống $82,000 — thận trọng dài hạn dù giá phục hồi ngắn hạn. FOMC 28-29/7 vẫn là catalyst chính tháng 7."
     },
     "items": [
       {
-        "title": "Vàng ~$4,132/oz (3/7) — phục hồi +3.1% sau NFP tháng 6 yếu; SJC ~148.5M; world_vnd ~131.4M; premium ~17.1M (13%)",
+        "title": "BTC ~$61,700 (+2.7%) — ETF flows dương +$223M sau 10 ngày rút ròng liên tiếp; Fidelity FBTC đóng góp $166M",
+        "badge": "Crypto",
+        "badge_class": "bf",
+        "body": "Bitcoin tăng +2.7% lên vùng $61,700, thoát khỏi vùng dưới $60,000. Dòng vốn ETF spot BTC quay lại dương lần đầu sau hơn 10 ngày, với +$223M phiên gần nhất — riêng Fidelity FBTC đóng góp $166M. Tín hiệu tích cực ngắn hạn sau tháng 6 giảm ~20% và rút ròng kỷ lục $4.5 tỷ.",
+        "source": "CoinDesk / Yahoo Finance, 3-4/7/2026",
+        "source_url": "https://www.coindesk.com/markets/2026/07/02/bitcoin-zooms-above-usd61-000-as-inflation-fears-soften"
+      },
+      {
+        "title": "Vàng ~$4,195/oz (+1.7%) — tiếp đà phục hồi từ đáy $4,007; world_vnd ~133.3M; SJC ~149.0M",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Vàng bật tăng lên ~$4,132/oz trong phiên 2-3/7, từ đáy ~$4,007 ngày thứ 4 — tăng +3.1%. NFP tháng 6 yếu hơn kỳ vọng + Fed Chair Warsh dovish là catalyst. SJC trong nước hồi từ 143.5M lên ~148.5M/lượng (+5M); world_vnd ~131.4M. Premium SJC/world_vnd ~17.1M (13%). JPM $5,055 / GS $5,400 Q4/2026.",
-        "source": "TradingEconomics / Vietnam.vn, 3/7/2026",
+        "body": "Vàng thế giới tiếp tục tăng lên ~$4,195/oz, nối dài đà phục hồi từ đáy 8 tháng $4,007 hồi đầu tuần. world_vnd quy đổi ~133.3M/lượng; SJC trong nước ước ~149.0M/lượng, nhích nhẹ theo giá thế giới. Thị trường Mỹ nghỉ lễ Độc lập 4/7 (trùng cuối tuần) — thanh khoản thấp.",
+        "source": "TradingEconomics, 4/7/2026",
         "source_url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "title": "BTC ~$60,360 (+3.7%) từ đáy 21 tháng $58,188 — ETF outflows $4.5B tháng 6 kỷ lục; Fed Warsh dovish signals",
-        "badge": "Crypto",
-        "badge_class": "bf",
-        "body": "Bitcoin phục hồi về ~$60,360 từ đáy 21 tháng $58,188 — tăng +3.7%. Fed Chair Kevin Warsh phát biểu rủi ro lạm phát đã giảm + NFP yếu thúc đẩy kỳ vọng dovish. Nhưng ETF spot tháng 6 ghi nhận outflows kỷ lục $4.5B và CLARITY Act còn chưa đủ 60 phiếu Thượng viện. US markets đóng sớm 4/7.",
-        "source": "CryptoTimes / 247WallSt, 2-3/7/2026",
-        "source_url": "https://www.cryptotimes.io/2026/07/02/bitcoin-price-prediction-july-2026-will-btc-go-up-or-crash/"
-      },
-      {
-        "title": "FOMC 28-29/7 là catalyst lớn nhất tháng 7 — Fed Warsh dovish + NFP yếu mở window; vàng và BTC chờ xác nhận",
+        "title": "Citigroup hạ mục tiêu BTC 12 tháng từ $112,000 xuống $82,000; Securitize niêm yết NYSE, Ondo Finance ra mắt cổ phiếu token hóa IVV, Micron",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Fed Chair Kevin Warsh phát biểu rủi ro lạm phát hạ nhiệt, kết hợp NFP tháng 6 yếu → thị trường tái định giá kỳ vọng Fed. FOMC họp 28-29/7 là sự kiện quyết định: Fed cắt hoặc dovish pivot → vàng test $4,200+, BTC test $65,000+, NHNN mở window điều chỉnh. Fed giữ hawkish → retest $4,050 và $58,000.",
-        "source": "Coinbase / 247WallSt, 2-3/7/2026",
-        "source_url": "https://247wallst.com/investing/cryptocurrency/2026/07/02/bitcoin-price-prediction-for-july-2026/"
+        "body": "Citigroup điều chỉnh giảm mục tiêu giá Bitcoin 12 tháng từ $112,000 xuống còn $82,000, phản ánh quan điểm thận trọng hơn về dòng vốn tổ chức. Cùng lúc, Securitize chính thức niêm yết trên NYSE và Ondo Finance ra mắt cổ phiếu token hóa IVV và Micron — cho thấy mảng tokenization tài sản thực (RWA) vẫn tăng trưởng bất chấp biến động giá.",
+        "source": "Yahoo Finance, 3/7/2026",
+        "source_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-news-today-july-3-084729497.html"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>3/7 — Thứ Sáu:</b> Vàng ~$4,132/oz (+3.1%), phục hồi mạnh từ đáy $4,007 sau NFP tháng 6 yếu. SJC ~148.5M; world_vnd ~131.4M; premium ~17.1M (13%). BTC ~$60,360 (+3.7%). Fed Chair Warsh dovish signals. FOMC 28-29/7 là catalyst tiếp theo. JPM $5,055 / GS $5,400 Q4/2026.",
+    "summary": "🟢 <b>4/7 — Thứ Bảy:</b> Vàng ~$4,195/oz (+1.7%), tiếp đà phục hồi từ đáy $4,007. SJC ~149.0M; world_vnd ~133.3M; premium ~15.7M (12%). BTC ~$61,700 (+2.7%), ETF flows dương trở lại. FOMC 28-29/7 vẫn là catalyst chính. JPM $5,055 / GS $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng ~$4,132/oz (3/7) — phục hồi +3.1% từ đáy $4,007; NFP tháng 6 yếu là catalyst chính",
-        "pct": 72,
+        "name": "Vàng ~$4,195/oz (4/7) — tăng +1.7% tiếp nối đà phục hồi từ đáy $4,007",
+        "pct": 74,
         "direction": "up",
         "bar": "fh",
-        "desc": "Vàng bật tăng +3.1% lên ~$4,132/oz sau US Non-Farm Payroll tháng 6 yếu hơn dự báo → thị trường kỳ vọng Fed dovish hơn tại FOMC 28-29/7. Phục hồi mạnh từ đáy 8 tháng $4,007. Kháng cự tiếp theo: $4,150 và $4,200."
+        "desc": "Vàng nối dài đà tăng lên ~$4,195/oz, thêm +1.7% so với phiên trước. Đà phục hồi được củng cố bởi kỳ vọng Fed dovish sau NFP tháng 6 yếu. Kháng cự tiếp theo: $4,200 và $4,250."
       },
       {
-        "name": "Fed Chair Warsh: inflation risks eased — window dovish mở; FOMC 28-29/7 là catalyst lớn nhất tháng 7",
-        "pct": 75,
+        "name": "ETF flows BTC dương trở lại sau 10 ngày âm — tín hiệu risk-on ngắn hạn quay lại",
+        "pct": 68,
         "direction": "up",
-        "bar": "fh",
-        "desc": "Fed Chair Kevin Warsh phát biểu rủi ro lạm phát đã giảm đáng kể, kết hợp NFP yếu → shift kỳ vọng thị trường. Đây là tín hiệu dovish đầu tiên rõ ràng sau nhiều tháng hawkish. FOMC 28-29/7 sẽ là catalyst lớn nhất cho vàng và risk assets tháng 7."
+        "bar": "fm",
+        "desc": "Dòng vốn ETF spot Bitcoin dương +$223M, chấm dứt chuỗi rút ròng hơn 10 ngày. Fidelity FBTC dẫn đầu với $166M. Tín hiệu tích cực nhưng chưa đủ đảo ngược xu hướng rút ròng kỷ lục $4.5 tỷ của tháng 6."
       },
       {
-        "name": "SJC ~148.5M; world_vnd ~131.4M; premium ~17.1M (13%) — SJC hồi +5M theo vàng thế giới",
+        "name": "SJC ~149.0M; world_vnd ~133.3M; premium ~15.7M (12%) — SJC nhích theo vàng thế giới",
         "pct": 60,
         "direction": "up",
         "bar": "fm",
-        "desc": "SJC trong nước hồi từ 143.5M lên ~148.5M/lượng (+5M) theo đà tăng của vàng thế giới. world_vnd tính từ $4,132/oz ≈ 131.4M. Premium SJC/world_vnd ~17.1M (13%) nhích cao. NHNN chưa có can thiệp mới."
+        "desc": "SJC ước tính ~149.0M/lượng, tăng nhẹ theo đà vàng thế giới. world_vnd tính từ $4,195/oz ≈ 133.3M. Premium SJC/world_vnd thu hẹp về ~15.7M (12%), thấp hơn phiên trước. NHNN chưa có can thiệp mới."
       },
       {
-        "name": "BTC ~$60,360 (+3.7%) từ đáy 21T $58,188 — ETF outflows $4.5B kỷ lục; CLARITY Act chưa qua; markets đóng sớm 4/7",
-        "pct": 55,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Bitcoin phục hồi +3.7% lên ~$60,360. Risk-off giảm bớt sau Fed dovish signals. Nhưng rủi ro còn: ETF outflows kỷ lục $4.5B tháng 6 và CLARITY Act chưa đủ 60 phiếu. US markets đóng sớm 4/7 — volume thấp."
+        "name": "Citigroup hạ mục tiêu BTC 12 tháng $112k → $82k — thận trọng dài hạn dù giá phục hồi ngắn hạn",
+        "pct": 50,
+        "direction": "down",
+        "bar": "fl",
+        "desc": "Citigroup điều chỉnh giảm mạnh mục tiêu giá BTC 12 tháng, phản ánh lo ngại về dòng vốn tổ chức dài hạn dù giá đang phục hồi ngắn hạn. Nhà đầu tư nên phân biệt momentum ngắn hạn và triển vọng dài hạn còn phân hóa."
       },
       {
-        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 22-31% từ ~$4,132; $4,050-$4,100 là support",
-        "pct": 82,
+        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 20-29% từ ~$4,195; FOMC 28-29/7 là catalyst chính",
+        "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "Target dài hạn JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,132, upside tiềm năng 22-31%. Phục hồi hôm nay xác nhận vùng $4,000-$4,007 là hỗ trợ cứng. NFP catalyst đã xảy ra tốt — momentum dài hạn bullish còn nguyên."
+        "desc": "Target dài hạn JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,195, upside tiềm năng 20-29%. FOMC 28-29/7 vẫn là sự kiện quyết định cho xu hướng vàng, BTC và lãi suất VN trong tháng 7."
       }
     ],
-    "outlook_label": "Vàng ~$4,132/oz (3/7 Thứ Sáu) — +3.1% sau NFP yếu; SJC ~148.5M; BTC $60,360; FOMC 28-29/7 catalyst chính",
+    "outlook_label": "Vàng ~$4,195/oz (4/7 Thứ Bảy) — +1.7%; SJC ~149.0M; BTC $61,700; FOMC 28-29/7 catalyst chính",
     "outlook_class": "pbg",
-    "outlook_text": "3/7 (Thứ Sáu): Vàng ~$4,132/oz, phục hồi +3.1% sau NFP tháng 6 yếu và Fed Chair Warsh dovish signals. SJC ~148.5M; world_vnd ~131.4M; premium ~17.1M. BTC ~$60,360. US markets đóng sớm cho Independence Day weekend. Hỗ trợ: $4,100-$4,050. Kháng cự: $4,150-$4,200. Catalyst: FOMC 28-29/7. Dài hạn: JPM $5,055 / GS $5,400.",
+    "outlook_text": "4/7 (Thứ Bảy): Vàng ~$4,195/oz, tăng +1.7% nối dài đà phục hồi từ đáy $4,007. SJC ~149.0M; world_vnd ~133.3M; premium ~15.7M. BTC ~$61,700, ETF flows dương trở lại sau 10 ngày âm. US markets nghỉ Independence Day (trùng cuối tuần). Hỗ trợ: $4,150-$4,100. Kháng cự: $4,200-$4,250. Catalyst: FOMC 28-29/7. Dài hạn: JPM $5,055 / GS $5,400; Citigroup thận trọng hơn với BTC ($82k mục tiêu 12T).",
     "sources": [
       {
         "name": "TradingEconomics — Gold Price Today",
         "url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "name": "Vietnam.vn — Giá vàng hôm nay 1/7/2026 SJC",
-        "url": "https://www.vietnam.vn/en/gia-vang-hom-nay-1-7-2026-sjc-tang-nhe-ap-luc-van-lon"
+        "name": "CoinDesk — Bitcoin zooms above $61,000",
+        "url": "https://www.coindesk.com/markets/2026/07/02/bitcoin-zooms-above-usd61-000-as-inflation-fears-soften"
       },
       {
-        "name": "247WallSt — Bitcoin Price Prediction July 2026",
-        "url": "https://247wallst.com/investing/cryptocurrency/2026/07/02/bitcoin-price-prediction-for-july-2026/"
+        "name": "Yahoo Finance — Crypto News Today (July 3)",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-news-today-july-3-084729497.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 3/7 (Thứ Sáu): Lãi suất hệ thống <b>ổn định</b>. Saigonbank dẫn đầu 7.9%/13T; ACB & HLBank 7.3%/12T; Big4 giữ 6.8%/12T. TDH 40% từ 1/7 phát huy hiệu quả. NFP yếu + Fed Warsh dovish → window NHNN sớm hơn. Chờ FOMC 28-29/7.",
+    "alert": "📊 4/7 (Thứ Bảy): Lãi suất hệ thống <b>ổn định</b> cuối tuần. Saigonbank dẫn đầu 7.9%/13T; ACB & HLBank 7.3%/12T; Big4 giữ 6.8%/12T. TDH 40% từ 1/7 tiếp tục giảm áp lực huy động. Không có điều chỉnh mới ghi nhận. Chờ FOMC 28-29/7.",
     "highlights": [
       {
         "label": "Saigonbank 7.9%/13T dẫn đầu",
         "value": "7.9%",
         "sub": "Saigonbank cao nhất hệ thống với 7.9%/năm kỳ hạn 13 tháng; 7.2%/12T; 7.0%/18T",
-        "note": "Saigonbank vẫn dẫn đầu hệ thống 7.9%/năm kỳ hạn 13 tháng. TDH 40% từ 1/7 giảm áp lực huy động → Saigonbank có thể điều chỉnh về 7.5-7.6% trong 2-3 tuần tới. Đây vẫn là lựa chọn cao nhất hiện tại."
+        "note": "Saigonbank vẫn dẫn đầu hệ thống 7.9%/năm kỳ hạn 13 tháng, không đổi so với phiên trước. TDH 40% tiếp tục giảm áp lực huy động — có thể điều chỉnh về 7.5-7.6% trong 2-3 tuần tới."
       },
       {
         "label": "ACB & HLBank giữ 7.3%/12T",
         "value": "7.3%",
         "sub": "HLBank 7.3%/12T; ACB 7.3%/12T — nhóm cao nhất kỳ hạn chuẩn 12 tháng",
-        "note": "ACB và HLBank tiếp tục giữ 7.3%/12T ngày 3/7. Với TDH 40% có hiệu lực từ 1/7, áp lực duy trì mức cao giảm dần. NFP yếu + Fed dovish có thể trì hoãn điều chỉnh nhẹ — theo dõi tuần sau."
+        "note": "ACB và HLBank tiếp tục giữ 7.3%/12T ngày 4/7, không thay đổi cuối tuần. Áp lực duy trì mức cao giảm dần khi TDH 40% phát huy hiệu quả."
       },
       {
         "label": "Big4 ổn định 6.8%/12T",
         "value": "6.8%",
-        "sub": "BIDV, Vietcombank, Agribank, VietinBank — 6.8%/12T; dự báo về 6.5-6.6% Q3",
-        "note": "Big4 giữ nguyên 6.8%/12T. NFP yếu + Fed dovish signals tăng xác suất NHNN điều chỉnh sớm hơn Q1/2027. Nếu FOMC 28-29/7 cắt → Big4 có thể về 6.5% trong Q3."
+        "sub": "BIDV, Vietcombank, Agribank, VietinBank — 6.8%/12T (sản phẩm tiết kiệm truyền thống); dự báo về 6.5-6.6% Q3",
+        "note": "Big4 giữ nguyên 6.8%/12T cho sản phẩm truyền thống. Một số sản phẩm rút gốc linh hoạt tại Vietcombank có thể lên tới 7.4%/năm. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở ~72%."
       },
       {
-        "label": "NFP yếu → window Fed dovish → NHNN sớm hơn",
+        "label": "Cuối tuần — không có điều chỉnh mới; chờ FOMC 28-29/7",
         "value": "FOMC 28-29/7",
-        "sub": "NFP tháng 6 yếu + Fed Warsh dovish → xác suất NHNN điều chỉnh trước Q1/2027 tăng lên ~45%",
-        "note": "NFP tháng 6 yếu và Fed Chair Warsh signals dovish là yếu tố mới quan trọng 3/7. Nếu FOMC 28-29/7 cắt giảm, NHNN có thể theo sau trong Q3/2026 — sớm hơn kịch bản cơ sở Q1/2027."
+        "sub": "Không ghi nhận thay đổi lãi suất huy động mới trong ngày 4/7 (Thứ Bảy)",
+        "note": "Thị trường lãi suất VN đi ngang cuối tuần, không có biến động mới. FOMC 28-29/7 vẫn là catalyst chính quyết định hướng đi lãi suất NHNN trong Q3/2026."
       }
     ],
     "banks": [
@@ -308,8 +308,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 3/7 (Thứ Sáu): Ổn định; Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8% — NFP yếu mở window Fed dovish",
-      "body": "Ngày 3/7/2026 (Thứ Sáu). Lãi suất hệ thống ngân hàng ổn định bước qua tuần đầu tháng 7. Saigonbank tiếp tục dẫn đầu 7.9%/năm kỳ hạn 13 tháng; ACB & HLBank giữ 7.3%/12T; Big4 ổn định 6.8%/12T. TDH 40% (hiệu lực từ 1/7) đang giảm dần áp lực huy động. Điểm mới quan trọng ngày 3/7: NFP tháng 6 yếu hơn kỳ vọng + Fed Chair Warsh dovish signals → thị trường tái định giá kỳ vọng Fed. Window NHNN điều chỉnh có thể đến sớm hơn nếu FOMC 28-29/7 cắt giảm. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3/2026. US markets nghỉ 4/7 Independence Day — tuần sau sẽ rõ hơn xu hướng.",
+      "title": "Lãi suất 4/7 (Thứ Bảy): Ổn định cuối tuần; Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8%",
+      "body": "Ngày 4/7/2026 (Thứ Bảy). Lãi suất hệ thống ngân hàng tiếp tục ổn định trong ngày cuối tuần đầu tháng 7. Saigonbank vẫn dẫn đầu 7.9%/năm kỳ hạn 13 tháng; ACB & HLBank giữ 7.3%/12T; Big4 ổn định 6.8%/12T (một số sản phẩm rút gốc linh hoạt tại Vietcombank lên tới 7.4%/năm). TDH 40% (hiệu lực từ 1/7) tiếp tục giảm áp lực huy động của khối tư nhân. Không ghi nhận điều chỉnh mới trong ngày 4/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3/2026. Catalyst chính: FOMC 28-29/7.",
       "sources": [
         {
           "name": "techcombank.com — Lãi suất tiết kiệm 03/07/2026",
@@ -327,32 +327,32 @@
     },
     "rate_reasons": [
       {
-        "name": "Lãi suất ổn định 3/7 — Saigonbank 7.9%/13T; ACB/HLBank 7.3%/12T; Big4 6.8%/12T",
+        "name": "Lãi suất ổn định 4/7 — Saigonbank 7.9%/13T; ACB/HLBank 7.3%/12T; Big4 6.8%/12T",
         "level": "main",
         "pct": 80,
         "bar": "fh",
-        "desc": "Hệ thống NH duy trì ổn định bước vào tuần đầu tháng 7. Saigonbank 7.9%/13T; ACB và HLBank 7.3%/12T; Big4 6.8%/12T. Không có thay đổi đột ngột — TDH 40% đang phát huy hiệu quả giảm áp lực huy động."
+        "desc": "Hệ thống NH đi ngang trong ngày cuối tuần. Saigonbank 7.9%/13T; ACB và HLBank 7.3%/12T; Big4 6.8%/12T. Không ghi nhận thay đổi mới — TDH 40% tiếp tục phát huy hiệu quả giảm áp lực huy động."
       },
       {
-        "name": "TDH 40% hiệu lực từ 1/7 — áp lực huy động giảm; chu kỳ lãi cao đã đỉnh; điều chỉnh chậm Q3",
+        "name": "TDH 40% hiệu lực từ 1/7 — áp lực huy động giảm dần; chu kỳ lãi cao đã đỉnh",
         "level": "main",
         "pct": 82,
         "bar": "fh",
-        "desc": "TDH nâng từ 30% lên 40% từ 1/7 đang dần phát huy hiệu quả. NH tư nhân sẽ giảm dần cạnh tranh huy động → ceiling 7.3% có thể về 7.0-7.1% trong 2-3 tuần tới."
+        "desc": "TDH nâng từ 30% lên 40% từ 1/7 tiếp tục phát huy hiệu quả sau gần 1 tuần. NH tư nhân giảm dần cạnh tranh huy động → ceiling 7.3% có thể về 7.0-7.1% trong 2-3 tuần tới."
       },
       {
         "name": "NFP tháng 6 yếu + Fed Warsh dovish — window NHNN có thể đến sớm hơn Q1/2027",
         "level": "sub",
         "pct": 65,
         "bar": "fm",
-        "desc": "NFP tháng 6 yếu và Fed Chair Warsh signals dovish là yếu tố mới ngày 3/7. Nếu FOMC 28-29/7 cắt giảm → NHNN có thể theo sau trong Q3/2026 — sớm hơn kịch bản cơ sở Q1/2027."
+        "desc": "Yếu tố NFP yếu và phát biểu dovish của Fed Chair Warsh từ đầu tuần vẫn chi phối kỳ vọng thị trường. Nếu FOMC 28-29/7 cắt giảm → NHNN có thể theo sau trong Q3/2026."
       },
       {
-        "name": "Big4 về 6.5-6.6%/12T cuối Q3 — xác suất tăng lên ~72% sau NFP yếu",
+        "name": "Big4 về 6.5-6.6%/12T cuối Q3 — xác suất giữ ở ~72%",
         "level": "sub",
         "pct": 72,
         "bar": "fm",
-        "desc": "Big4 giữ 6.8%/12T. Với TDH 40% giảm áp lực và Fed dovish signals, xác suất Big4 về 6.5-6.6% cuối Q3 tăng từ ~65% lên ~72%."
+        "desc": "Big4 giữ 6.8%/12T. Với TDH 40% giảm áp lực và Fed dovish signals, xác suất Big4 về 6.5-6.6% cuối Q3 giữ ổn định ở ~72%."
       },
       {
         "name": "Tín dụng ổn định; NH giảm cạnh tranh huy động khi TDH 40% phát huy hiệu quả",
@@ -368,33 +368,33 @@
         "pct": 78,
         "direction": "down",
         "bar": "fh",
-        "desc": "ACB/HLBank vẫn ở 7.3%/12T nhưng áp lực duy trì giảm sau TDH 40%. NFP yếu có thể trì hoãn nhẹ điều chỉnh. Nếu cần lock lãi dài hạn, đầu tháng 7 vẫn là cơ hội tốt."
+        "desc": "ACB/HLBank vẫn ở 7.3%/12T nhưng áp lực duy trì giảm sau TDH 40%. Đầu tháng 7 vẫn là cơ hội tốt để lock lãi dài hạn trước khi điều chỉnh."
       },
       {
-        "name": "Big4 về 6.5-6.6%/12T cuối Q3/2026 — xác suất ~72% sau NFP yếu + Fed dovish",
+        "name": "Big4 về 6.5-6.6%/12T cuối Q3/2026 — xác suất ~72%",
         "pct": 72,
         "direction": "down",
         "bar": "fm",
-        "desc": "Big4 điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3 với xác suất ~72% (tăng từ 65%). NFP yếu + Fed dovish signals là catalysts bổ sung."
+        "desc": "Big4 điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3 với xác suất ~72%. NFP yếu + Fed dovish signals vẫn là catalysts bổ sung."
       },
       {
         "name": "NHNN có thể điều chỉnh trước Q1/2027 nếu Fed cắt tại FOMC tháng 7",
         "pct": 45,
         "direction": "down",
         "bar": "fl",
-        "desc": "Kịch bản cơ sở vẫn là NHNN giữ đến Q1/2027. Nhưng với NFP yếu và Warsh dovish, xác suất NHNN điều chỉnh sớm (Q3/2026) tăng lên ~45%. Chờ FOMC 28-29/7 xác nhận."
+        "desc": "Kịch bản cơ sở vẫn là NHNN giữ đến Q1/2027. Nhưng với NFP yếu và Warsh dovish, xác suất NHNN điều chỉnh sớm (Q3/2026) giữ ở ~45%. Chờ FOMC 28-29/7 xác nhận."
       },
       {
         "name": "FOMC 28-29/7 — catalyst lớn nhất tháng 7 cho lãi suất VN, vàng và BTC",
         "pct": 60,
         "direction": "down",
         "bar": "fm",
-        "desc": "FOMC 28-29/7 là event quyết định. Fed cắt hoặc dovish pivot → NHNN mở window điều chỉnh, vàng test $4,200+, BTC test $65,000+. Fed giữ hawkish → retest $4,050 và $58,000."
+        "desc": "FOMC 28-29/7 là event quyết định. Fed cắt hoặc dovish pivot → NHNN mở window điều chỉnh, vàng test $4,250+, BTC test $65,000+. Fed giữ hawkish → retest $4,100 và $58,000."
       }
     ],
-    "rate_outlook_label": "3/7 Thứ Sáu — Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8% ổn định; NFP yếu + Fed Warsh dovish; FOMC 28-29/7 catalyst",
+    "rate_outlook_label": "4/7 Thứ Bảy — Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8% ổn định cuối tuần; FOMC 28-29/7 catalyst",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "3/7 (Thứ Sáu): Lãi suất ổn định. Saigonbank 7.9%/13T; HLBank/ACB 7.3%/12T; Big4 6.8%/12T. TDH 40% đang giảm áp lực huy động — chu kỳ lãi cao đã đỉnh. NFP tháng 6 yếu + Fed Chair Warsh dovish signals → window NHNN điều chỉnh sớm hơn xác suất ~45%. Catalyst chính: FOMC 28-29/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3.",
+    "rate_outlook_text": "4/7 (Thứ Bảy): Lãi suất ổn định cuối tuần, không có điều chỉnh mới. Saigonbank 7.9%/13T; HLBank/ACB 7.3%/12T; Big4 6.8%/12T. TDH 40% tiếp tục giảm áp lực huy động — chu kỳ lãi cao đã đỉnh. NFP tháng 6 yếu + Fed Chair Warsh dovish signals → window NHNN điều chỉnh sớm hơn xác suất ~45%. Catalyst chính: FOMC 28-29/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3.",
     "rate_sources": [
       {
         "name": "techcombank.com — Lãi suất tiết kiệm 03/07/2026",
@@ -594,7 +594,8 @@
       "30/06",
       "01/07",
       "02/07",
-      "03/07"
+      "03/07",
+      "04/07"
     ],
     "sjc": [
       152.8,
@@ -779,7 +780,8 @@
       143.0,
       144.0,
       143.5,
-      148.5
+      148.5,
+      149.0
     ],
     "world_vnd": [
       121,
@@ -964,7 +966,8 @@
       127.6,
       128.1,
       127.4,
-      131.4
+      131.4,
+      133.3
     ]
   }
 }
