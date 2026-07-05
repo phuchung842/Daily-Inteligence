@@ -1,141 +1,141 @@
 {
   "meta": {
-    "date": "4 tháng 7, 2026",
-    "day": "Thứ Bảy",
-    "updated": "2026-07-04 07:03"
+    "date": "5 tháng 7, 2026",
+    "day": "Chủ Nhật",
+    "updated": "2026-07-05 07:03"
   },
   "alert": {
     "type": "green",
-    "text": "🟢 <b>4/7 — Thứ Bảy:</b> Vàng ~$4,195/oz (+1.7%); world_vnd ~133.3M; SJC ~149.0M — tiếp đà phục hồi. BTC ~$61,700 (+2.7%); ETF flows dương trở lại sau 10 ngày âm liên tiếp. Google ra mắt Nano Banana 2 Lite & Gemini Omni Flash; xAI Grok 4.5 (1.5T) vào private beta SpaceX/Tesla; California hợp tác Anthropic dùng Claude cho cơ quan bang giảm 50%. <b>Lãi suất cuối tuần ổn định: Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8%.</b>"
+    "text": "🟢 <b>5/7 — Chủ Nhật:</b> Vàng ~$4,172/oz (đi ngang cuối tuần, thị trường Mỹ nghỉ lễ Độc lập); world_vnd ~132.6M; SJC ~148.5M. BTC ~$63,100 (+2.3%), phục hồi tiếp diễn sau cú \"dip-then-rip\" từ đáy $61,620 trong phiên 4/7. Claude Sonnet 5 ra mắt 1/7 — hiệu năng tiệm cận Opus 4.8; Grok 4.5 (1.5T, V9) vào private beta SpaceX/Tesla; Fable 5 được khôi phục toàn cầu sau khi lệnh kiểm soát xuất khẩu được gỡ bỏ. <b>Lãi suất hệ thống tiếp tục ổn định cuối tuần: Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8%.</b>"
   },
   "news_ai": [
     {
-      "title": "Google ra mắt Nano Banana 2 Lite ($0.034/1,000 ảnh) và Gemini Omni Flash (video/edit hội thoại, $0.10/giây)",
+      "title": "Claude Sonnet 5 ra mắt 1/7/2026 — hiệu năng tiệm cận Opus 4.8, giá giới thiệu $2/triệu token input đến 31/8",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google công bố hai model generative media mới: Nano Banana 2 Lite — model tạo ảnh nhanh và rẻ nhất của Google, latency chỉ 1 giây, giá $0.034/1,000 ảnh; và Gemini Omni Flash — model tạo video kèm chỉnh sửa hội thoại, giá $0.10/giây output. Động thái củng cố vị trí Google trong mảng generative media, cạnh tranh trực tiếp OpenAI Sora và Midjourney.",
-      "source": "Google Blog, 3-4/7/2026",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
-    },
-    {
-      "title": "xAI Grok 4.5 (nền tảng V9, 1.5 nghìn tỷ tham số) vào private beta tại SpaceX và Tesla — hiệu năng gần ngang Claude Opus",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Grok 4.5, xây trên foundation model V9 với 1.5 nghìn tỷ tham số, bắt đầu private beta nội bộ tại SpaceX và Tesla. Đánh giá sớm cho thấy hiệu năng tiệm cận, thậm chí có thể vượt Claude Opus ở một số benchmark. Đây là bước tiến lớn nhất của xAI kể từ Grok 4, gia tăng áp lực cạnh tranh lên nhóm dẫn đầu.",
-      "source": "llm-stats.com, 3-4/7/2026",
+      "body": "Anthropic ra mắt Claude Sonnet 5 ngày 1/7/2026 — phiên bản Sonnet mạnh nhất từ trước đến nay, hiệu năng tiệm cận Claude Opus 4.8. Benchmark agentic coding đạt 63.2% so với 58.1% của Sonnet 4.6. Giá giới thiệu $2/triệu token input được áp dụng đến hết 31/8/2026.",
+      "source": "llm-stats.com, 1-4/7/2026",
       "source_url": "https://llm-stats.com/llm-updates"
     },
     {
-      "title": "Thống đốc California Newsom hợp tác Anthropic — cấp Claude cho cơ quan bang và chính quyền địa phương, giảm giá 50%",
+      "title": "xAI Grok 4.5 (nền tảng V9, 1.5 nghìn tỷ tham số, bổ sung dữ liệu Cursor) tiếp tục private beta tại SpaceX và Tesla",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Thống đốc California Gavin Newsom công bố quan hệ đối tác với Anthropic, cung cấp Claude AI cho các cơ quan bang và chính quyền địa phương với mức giá ưu đãi 50%. Thỏa thuận nhằm tăng cường an ninh mạng (cybersecurity) cho khu vực công California — một trong những hợp đồng chính phủ lớn nhất của Anthropic tại Mỹ.",
-      "source": "TechCrunch, 3/7/2026",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+      "body": "Grok 4.5, xây trên foundation model V9 với 1.5 nghìn tỷ tham số và được huấn luyện bổ sung với dữ liệu từ Cursor, tiếp tục giai đoạn private beta nội bộ tại SpaceX và Tesla. Đánh giá sớm cho thấy hiệu năng cạnh tranh trực tiếp với nhóm dẫn đầu gồm Claude và GPT.",
+      "source": "llm-stats.com, 3-5/7/2026",
+      "source_url": "https://llm-stats.com/llm-updates"
     },
     {
-      "title": "Tesla áp giới hạn chi tiêu AI $200/tuần cho nhân viên từ 6/7 — kiểm soát chi phí sử dụng công cụ AI nội bộ",
+      "title": "Google mở rộng Gemini Spark: ứng dụng macOS tự động hóa tác vụ desktop, tích hợp Canva, Dropbox, Instacart, OpenTable, Zillow Rentals",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Tesla thông báo áp mức trần chi tiêu $200/tuần cho mỗi nhân viên khi dùng các công cụ AI (bao gồm cả Grok nội bộ), có hiệu lực từ 6/7/2026. Động thái phản ánh áp lực kiểm soát chi phí vận hành AI ở quy mô lớn, dù công ty vẫn đẩy mạnh đầu tư Grok 4.5 cho các dự án nội bộ.",
-      "source": "Future Tools News, 3-4/7/2026",
+      "body": "Google cập nhật Gemini Spark với ứng dụng macOS mới cho phép người dùng tự động hóa các tác vụ desktop như sắp xếp PDF vào thư mục hay tạo bảng ngân sách từ hóa đơn cục bộ. Bản cập nhật bổ sung tích hợp với Canva, Dropbox, Instacart, OpenTable và Zillow Rentals — mở rộng hệ sinh thái trợ lý AI của Google trên desktop.",
+      "source": "Google Blog, 1-5/7/2026",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+    },
+    {
+      "title": "Fable 5 được khôi phục toàn cầu từ 1/7 sau khi Bộ Thương mại Mỹ gỡ bỏ lệnh kiểm soát xuất khẩu (30/6)",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Fable 5 chính thức được khôi phục hoàn toàn từ 1/7/2026, 20 ngày sau khi lệnh kiểm soát xuất khẩu của chính phủ Mỹ buộc model này ngừng hoạt động từ 12/6. Bộ Thương mại Mỹ gỡ bỏ lệnh kiểm soát ngày 30/6, Anthropic bắt đầu khôi phục truy cập toàn cầu ngay sau đó.",
+      "source": "Future Tools News, 1-5/7/2026",
       "source_url": "https://futuretools.io/news"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "green",
-      "text": "🟢 BTC ~$61,700 (+2.7%) — ETF flows dương trở lại sau 10 phiên âm liên tiếp. Vàng ~$4,195/oz (+1.7%), tiếp đà phục hồi tuần này. Citigroup hạ mục tiêu BTC 12 tháng từ $112,000 xuống $82,000 — thận trọng dài hạn dù giá phục hồi ngắn hạn. FOMC 28-29/7 vẫn là catalyst chính tháng 7."
+      "text": "🟢 BTC ~$63,100 (+2.3%) — phục hồi tiếp diễn sau \"dip-then-rip\" từ đáy $61,620 phiên 4/7. Vàng ~$4,172/oz, đi ngang cuối tuần do thị trường Mỹ nghỉ lễ Độc lập (4/7 trùng Thứ Bảy). Citigroup hạ mục tiêu giá cả BTC lẫn Ethereum — thận trọng dài hạn dù giá phục hồi ngắn hạn. FOMC 28-29/7 vẫn là catalyst chính tháng 7."
     },
     "items": [
       {
-        "title": "BTC ~$61,700 (+2.7%) — ETF flows dương +$223M sau 10 ngày rút ròng liên tiếp; Fidelity FBTC đóng góp $166M",
+        "title": "BTC ~$63,100 (+2.3%) — \"dip-then-rip\": chạm đáy $61,620 sáng 4/7 rồi phục hồi 7 giờ liên tục buổi chiều",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin tăng +2.7% lên vùng $61,700, thoát khỏi vùng dưới $60,000. Dòng vốn ETF spot BTC quay lại dương lần đầu sau hơn 10 ngày, với +$223M phiên gần nhất — riêng Fidelity FBTC đóng góp $166M. Tín hiệu tích cực ngắn hạn sau tháng 6 giảm ~20% và rút ròng kỷ lục $4.5 tỷ.",
-        "source": "CoinDesk / Yahoo Finance, 3-4/7/2026",
-        "source_url": "https://www.coindesk.com/markets/2026/07/02/bitcoin-zooms-above-usd61-000-as-inflation-fears-soften"
+        "body": "Bitcoin trải qua phiên biến động mạnh ngày 4/7: giảm về đáy trong ngày $61,620 lúc 10:14 EDT do lực bán chương trình, sau đó phục hồi liên tục suốt 7 giờ buổi chiều lên ~$63,100. Khối lượng giao dịch 24 giờ đạt $8.3 tỷ, cho thấy dòng tiền vẫn tích cực sau chuỗi ngày giảm của tháng 6.",
+        "source": "CoinDesk, 4/7/2026",
+        "source_url": "https://www.coindesk.com/price/bitcoin"
       },
       {
-        "title": "Vàng ~$4,195/oz (+1.7%) — tiếp đà phục hồi từ đáy $4,007; world_vnd ~133.3M; SJC ~149.0M",
+        "title": "Vàng ~$4,172/oz — đi ngang cuối tuần (Mỹ nghỉ lễ Độc lập); tuần trước tăng 2%, chấm dứt 4 tuần giảm liên tiếp",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Vàng thế giới tiếp tục tăng lên ~$4,195/oz, nối dài đà phục hồi từ đáy 8 tháng $4,007 hồi đầu tuần. world_vnd quy đổi ~133.3M/lượng; SJC trong nước ước ~149.0M/lượng, nhích nhẹ theo giá thế giới. Thị trường Mỹ nghỉ lễ Độc lập 4/7 (trùng cuối tuần) — thanh khoản thấp.",
-        "source": "TradingEconomics, 4/7/2026",
+        "body": "Vàng thế giới đóng cửa phiên gần nhất (3/7) ở mức $4,170.25/oz, tăng 1.15%, đưa mức tăng cả tuần lên 2% — chấm dứt chuỗi 4 tuần giảm liên tiếp nhờ báo cáo việc làm tháng 6 yếu làm giảm kỳ vọng Fed duy trì lãi suất cao. Thị trường Mỹ nghỉ lễ Độc lập 4/7 (trùng cuối tuần) nên giá đi ngang.",
+        "source": "TradingEconomics / Yahoo Finance, 3-5/7/2026",
         "source_url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "title": "Citigroup hạ mục tiêu BTC 12 tháng từ $112,000 xuống $82,000; Securitize niêm yết NYSE, Ondo Finance ra mắt cổ phiếu token hóa IVV, Micron",
+        "title": "Citigroup hạ mục tiêu giá cả Bitcoin và Ethereum — mở rộng quan điểm thận trọng dài hạn sang toàn bộ nhóm crypto lớn",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Citigroup điều chỉnh giảm mục tiêu giá Bitcoin 12 tháng từ $112,000 xuống còn $82,000, phản ánh quan điểm thận trọng hơn về dòng vốn tổ chức. Cùng lúc, Securitize chính thức niêm yết trên NYSE và Ondo Finance ra mắt cổ phiếu token hóa IVV và Micron — cho thấy mảng tokenization tài sản thực (RWA) vẫn tăng trưởng bất chấp biến động giá.",
-        "source": "Yahoo Finance, 3/7/2026",
-        "source_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-news-today-july-3-084729497.html"
+        "body": "Sau khi hạ mục tiêu BTC 12 tháng xuống $82,000, Citigroup tiếp tục điều chỉnh giảm mục tiêu giá cho cả Ethereum, phản ánh quan điểm thận trọng hơn với dòng vốn tổ chức trên diện rộng của thị trường crypto, bất chấp đà phục hồi giá ngắn hạn.",
+        "source": "Market reports, 3-5/7/2026",
+        "source_url": "https://www.coindesk.com/price/bitcoin"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>4/7 — Thứ Bảy:</b> Vàng ~$4,195/oz (+1.7%), tiếp đà phục hồi từ đáy $4,007. SJC ~149.0M; world_vnd ~133.3M; premium ~15.7M (12%). BTC ~$61,700 (+2.7%), ETF flows dương trở lại. FOMC 28-29/7 vẫn là catalyst chính. JPM $5,055 / GS $5,400 Q4/2026.",
+    "summary": "🟢 <b>5/7 — Chủ Nhật:</b> Vàng ~$4,172/oz, đi ngang cuối tuần (Mỹ nghỉ lễ Độc lập). SJC ~148.5M; world_vnd ~132.6M; premium ~15.9M (12%). BTC ~$63,100 (+2.3%), phục hồi tiếp diễn. FOMC 28-29/7 vẫn là catalyst chính. JPM $5,055 / GS $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng ~$4,195/oz (4/7) — tăng +1.7% tiếp nối đà phục hồi từ đáy $4,007",
-        "pct": 74,
+        "name": "Vàng ~$4,172/oz (5/7) — đi ngang cuối tuần, thị trường Mỹ đóng cửa nghỉ lễ Độc lập",
+        "pct": 70,
         "direction": "up",
         "bar": "fh",
-        "desc": "Vàng nối dài đà tăng lên ~$4,195/oz, thêm +1.7% so với phiên trước. Đà phục hồi được củng cố bởi kỳ vọng Fed dovish sau NFP tháng 6 yếu. Kháng cự tiếp theo: $4,200 và $4,250."
+        "desc": "Vàng giữ quanh $4,172/oz trong ngày Chủ Nhật do không có phiên giao dịch tại Mỹ (nghỉ lễ Độc lập trùng cuối tuần). Phiên gần nhất (3/7) đóng cửa $4,170.25, +1.15%, đưa mức tăng tuần lên 2%. Kháng cự tiếp theo: $4,200 và $4,250."
       },
       {
-        "name": "ETF flows BTC dương trở lại sau 10 ngày âm — tín hiệu risk-on ngắn hạn quay lại",
-        "pct": 68,
+        "name": "BTC ~$63,100 (+2.3%) — phục hồi tiếp diễn sau cú \"dip-then-rip\" từ đáy $61,620",
+        "pct": 70,
         "direction": "up",
-        "bar": "fm",
-        "desc": "Dòng vốn ETF spot Bitcoin dương +$223M, chấm dứt chuỗi rút ròng hơn 10 ngày. Fidelity FBTC dẫn đầu với $166M. Tín hiệu tích cực nhưng chưa đủ đảo ngược xu hướng rút ròng kỷ lục $4.5 tỷ của tháng 6."
+        "bar": "fh",
+        "desc": "Bitcoin phục hồi lên ~$63,100 sau khi chạm đáy trong ngày $61,620 sáng 4/7. Khối lượng giao dịch 24h đạt $8.3 tỷ. Đà phục hồi củng cố sau chuỗi giảm tháng 6, nhưng vùng $56,000-$62,000 vẫn là biên giao dịch chính chờ FOMC."
       },
       {
-        "name": "SJC ~149.0M; world_vnd ~133.3M; premium ~15.7M (12%) — SJC nhích theo vàng thế giới",
-        "pct": 60,
-        "direction": "up",
+        "name": "SJC ~148.5M; world_vnd ~132.6M; premium ~15.9M (12%) — SJC đi ngang theo vàng thế giới cuối tuần",
+        "pct": 58,
+        "direction": "flat",
         "bar": "fm",
-        "desc": "SJC ước tính ~149.0M/lượng, tăng nhẹ theo đà vàng thế giới. world_vnd tính từ $4,195/oz ≈ 133.3M. Premium SJC/world_vnd thu hẹp về ~15.7M (12%), thấp hơn phiên trước. NHNN chưa có can thiệp mới."
+        "desc": "SJC ước tính ~148.5M/lượng, đi ngang theo vàng thế giới không giao dịch cuối tuần. world_vnd tính từ $4,172/oz ≈ 132.6M. Premium SJC/world_vnd giữ quanh ~15.9M (12%), tương đương phiên trước. NHNN chưa có can thiệp mới."
       },
       {
-        "name": "Citigroup hạ mục tiêu BTC 12 tháng $112k → $82k — thận trọng dài hạn dù giá phục hồi ngắn hạn",
+        "name": "Citigroup hạ mục tiêu giá cả BTC và Ethereum — thận trọng dài hạn mở rộng ra toàn nhóm crypto lớn",
         "pct": 50,
         "direction": "down",
         "bar": "fl",
-        "desc": "Citigroup điều chỉnh giảm mạnh mục tiêu giá BTC 12 tháng, phản ánh lo ngại về dòng vốn tổ chức dài hạn dù giá đang phục hồi ngắn hạn. Nhà đầu tư nên phân biệt momentum ngắn hạn và triển vọng dài hạn còn phân hóa."
+        "desc": "Citigroup mở rộng quan điểm thận trọng sang cả Ethereum sau khi đã hạ mục tiêu BTC 12 tháng xuống $82,000. Nhà đầu tư nên phân biệt momentum phục hồi ngắn hạn và triển vọng dài hạn còn phân hóa của tổ chức lớn."
       },
       {
-        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 20-29% từ ~$4,195; FOMC 28-29/7 là catalyst chính",
+        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 21-29% từ ~$4,172; FOMC 28-29/7 là catalyst chính",
         "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "Target dài hạn JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,195, upside tiềm năng 20-29%. FOMC 28-29/7 vẫn là sự kiện quyết định cho xu hướng vàng, BTC và lãi suất VN trong tháng 7."
+        "desc": "Target dài hạn JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,172, upside tiềm năng 21-29%. FOMC 28-29/7 vẫn là sự kiện quyết định cho xu hướng vàng, BTC và lãi suất VN trong tháng 7."
       }
     ],
-    "outlook_label": "Vàng ~$4,195/oz (4/7 Thứ Bảy) — +1.7%; SJC ~149.0M; BTC $61,700; FOMC 28-29/7 catalyst chính",
+    "outlook_label": "Vàng ~$4,172/oz (5/7 Chủ Nhật) — đi ngang cuối tuần; SJC ~148.5M; BTC $63,100 (+2.3%); FOMC 28-29/7 catalyst chính",
     "outlook_class": "pbg",
-    "outlook_text": "4/7 (Thứ Bảy): Vàng ~$4,195/oz, tăng +1.7% nối dài đà phục hồi từ đáy $4,007. SJC ~149.0M; world_vnd ~133.3M; premium ~15.7M. BTC ~$61,700, ETF flows dương trở lại sau 10 ngày âm. US markets nghỉ Independence Day (trùng cuối tuần). Hỗ trợ: $4,150-$4,100. Kháng cự: $4,200-$4,250. Catalyst: FOMC 28-29/7. Dài hạn: JPM $5,055 / GS $5,400; Citigroup thận trọng hơn với BTC ($82k mục tiêu 12T).",
+    "outlook_text": "5/7 (Chủ Nhật): Vàng ~$4,172/oz, đi ngang do thị trường Mỹ nghỉ lễ Độc lập cuối tuần. Phiên gần nhất (3/7) tăng 1.15% lên $4,170.25, đưa mức tăng tuần lên 2% — chấm dứt 4 tuần giảm liên tiếp. SJC ~148.5M; world_vnd ~132.6M; premium ~15.9M. BTC ~$63,100 (+2.3%), phục hồi sau đáy $61,620 phiên 4/7. Hỗ trợ: $4,150-$4,100. Kháng cự: $4,200-$4,250. Catalyst: FOMC 28-29/7. Dài hạn: JPM $5,055 / GS $5,400; Citigroup thận trọng hơn với cả BTC và Ethereum.",
     "sources": [
       {
         "name": "TradingEconomics — Gold Price Today",
         "url": "https://tradingeconomics.com/commodity/gold"
       },
       {
-        "name": "CoinDesk — Bitcoin zooms above $61,000",
-        "url": "https://www.coindesk.com/markets/2026/07/02/bitcoin-zooms-above-usd61-000-as-inflation-fears-soften"
+        "name": "CoinDesk — Bitcoin Price Today",
+        "url": "https://www.coindesk.com/price/bitcoin"
       },
       {
-        "name": "Yahoo Finance — Crypto News Today (July 3)",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-news-today-july-3-084729497.html"
+        "name": "Yahoo Finance — Gold prices today (July 2)",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-2-2026-prices-break-above-4100-following-a-disappointing-june-jobs-report-120224733.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 4/7 (Thứ Bảy): Lãi suất hệ thống <b>ổn định</b> cuối tuần. Saigonbank dẫn đầu 7.9%/13T; ACB & HLBank 7.3%/12T; Big4 giữ 6.8%/12T. TDH 40% từ 1/7 tiếp tục giảm áp lực huy động. Không có điều chỉnh mới ghi nhận. Chờ FOMC 28-29/7.",
+    "alert": "📊 5/7 (Chủ Nhật): Lãi suất hệ thống <b>tiếp tục ổn định</b> cuối tuần. Saigonbank dẫn đầu 7.9%/13T; ACB & HLBank 7.3%/12T; Big4 giữ 6.8%/12T. Một số NH tư nhân (SeABank, Cake by VPBank) áp dụng lãi suất khuyến mãi ngắn hạn lên tới 8.55-8.9%/năm ở một số kỳ hạn/gói đặc biệt. Không có điều chỉnh niêm yết mới. Chờ FOMC 28-29/7.",
     "highlights": [
       {
-        "label": "Saigonbank 7.9%/13T dẫn đầu",
+        "label": "Saigonbank 7.9%/13T dẫn đầu niêm yết chính thức",
         "value": "7.9%",
         "sub": "Saigonbank cao nhất hệ thống với 7.9%/năm kỳ hạn 13 tháng; 7.2%/12T; 7.0%/18T",
         "note": "Saigonbank vẫn dẫn đầu hệ thống 7.9%/năm kỳ hạn 13 tháng, không đổi so với phiên trước. TDH 40% tiếp tục giảm áp lực huy động — có thể điều chỉnh về 7.5-7.6% trong 2-3 tuần tới."
@@ -144,7 +144,7 @@
         "label": "ACB & HLBank giữ 7.3%/12T",
         "value": "7.3%",
         "sub": "HLBank 7.3%/12T; ACB 7.3%/12T — nhóm cao nhất kỳ hạn chuẩn 12 tháng",
-        "note": "ACB và HLBank tiếp tục giữ 7.3%/12T ngày 4/7, không thay đổi cuối tuần. Áp lực duy trì mức cao giảm dần khi TDH 40% phát huy hiệu quả."
+        "note": "ACB và HLBank tiếp tục giữ 7.3%/12T ngày 5/7, không thay đổi cuối tuần. Áp lực duy trì mức cao giảm dần khi TDH 40% phát huy hiệu quả."
       },
       {
         "label": "Big4 ổn định 6.8%/12T",
@@ -153,10 +153,10 @@
         "note": "Big4 giữ nguyên 6.8%/12T cho sản phẩm truyền thống. Một số sản phẩm rút gốc linh hoạt tại Vietcombank có thể lên tới 7.4%/năm. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở ~72%."
       },
       {
-        "label": "Cuối tuần — không có điều chỉnh mới; chờ FOMC 28-29/7",
-        "value": "FOMC 28-29/7",
-        "sub": "Không ghi nhận thay đổi lãi suất huy động mới trong ngày 4/7 (Thứ Bảy)",
-        "note": "Thị trường lãi suất VN đi ngang cuối tuần, không có biến động mới. FOMC 28-29/7 vẫn là catalyst chính quyết định hướng đi lãi suất NHNN trong Q3/2026."
+        "label": "Khuyến mãi ngắn hạn SeABank 8.55%, Cake by VPBank 8.9% ở một số kỳ hạn đặc biệt",
+        "value": "8.55-8.9%",
+        "sub": "Lãi suất thực nhận (kèm khuyến mãi) một số nhà băng chạm 8.9%/năm, cao hơn niêm yết chính thức",
+        "note": "SeABank và Cake by VPBank áp dụng ưu đãi cộng thêm tới 1.5 điểm % cho một số gói/kỳ hạn ngắn, đẩy lãi suất thực nhận lên 8.55-8.9%/năm — không phải mức niêm yết chuẩn toàn hệ thống."
       }
     ],
     "banks": [
@@ -308,11 +308,11 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 4/7 (Thứ Bảy): Ổn định cuối tuần; Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8%",
-      "body": "Ngày 4/7/2026 (Thứ Bảy). Lãi suất hệ thống ngân hàng tiếp tục ổn định trong ngày cuối tuần đầu tháng 7. Saigonbank vẫn dẫn đầu 7.9%/năm kỳ hạn 13 tháng; ACB & HLBank giữ 7.3%/12T; Big4 ổn định 6.8%/12T (một số sản phẩm rút gốc linh hoạt tại Vietcombank lên tới 7.4%/năm). TDH 40% (hiệu lực từ 1/7) tiếp tục giảm áp lực huy động của khối tư nhân. Không ghi nhận điều chỉnh mới trong ngày 4/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3/2026. Catalyst chính: FOMC 28-29/7.",
+      "title": "Lãi suất 5/7 (Chủ Nhật): Ổn định cuối tuần; Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8%; khuyến mãi ngắn hạn lên tới 8.9%",
+      "body": "Ngày 5/7/2026 (Chủ Nhật). Lãi suất niêm yết chính thức của hệ thống ngân hàng tiếp tục ổn định trong ngày cuối tuần. Saigonbank vẫn dẫn đầu 7.9%/năm kỳ hạn 13 tháng; ACB & HLBank giữ 7.3%/12T; Big4 ổn định 6.8%/12T (một số sản phẩm rút gốc linh hoạt tại Vietcombank lên tới 7.4%/năm). Đáng chú ý, một số NH tư nhân như SeABank và Cake by VPBank đang chạy chương trình khuyến mãi cộng lãi suất, đẩy mức thực nhận lên 8.55-8.9%/năm ở một số kỳ hạn/gói đặc biệt — không phản ánh biểu lãi suất niêm yết chuẩn. TDH 40% (hiệu lực từ 1/7) tiếp tục giảm áp lực huy động của khối tư nhân. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3/2026. Catalyst chính: FOMC 28-29/7.",
       "sources": [
         {
-          "name": "techcombank.com — Lãi suất tiết kiệm 03/07/2026",
+          "name": "techcombank.com — Lãi suất tiết kiệm 04/07/2026",
           "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
         },
         {
@@ -327,15 +327,22 @@
     },
     "rate_reasons": [
       {
-        "name": "Lãi suất ổn định 4/7 — Saigonbank 7.9%/13T; ACB/HLBank 7.3%/12T; Big4 6.8%/12T",
+        "name": "Lãi suất niêm yết ổn định 5/7 — Saigonbank 7.9%/13T; ACB/HLBank 7.3%/12T; Big4 6.8%/12T",
         "level": "main",
         "pct": 80,
         "bar": "fh",
-        "desc": "Hệ thống NH đi ngang trong ngày cuối tuần. Saigonbank 7.9%/13T; ACB và HLBank 7.3%/12T; Big4 6.8%/12T. Không ghi nhận thay đổi mới — TDH 40% tiếp tục phát huy hiệu quả giảm áp lực huy động."
+        "desc": "Hệ thống NH đi ngang trong ngày Chủ Nhật. Saigonbank 7.9%/13T; ACB và HLBank 7.3%/12T; Big4 6.8%/12T. Không ghi nhận thay đổi niêm yết mới — TDH 40% tiếp tục phát huy hiệu quả giảm áp lực huy động."
+      },
+      {
+        "name": "Khuyến mãi cộng lãi suất tại một số NH tư nhân (SeABank, Cake by VPBank) đẩy lãi thực nhận lên 8.55-8.9%",
+        "level": "main",
+        "pct": 55,
+        "bar": "fm",
+        "desc": "Một số NH tư nhân áp dụng ưu đãi cộng thêm tới 1.5 điểm % cho gói/kỳ hạn ngắn nhằm thu hút dòng tiền cuối quý. Đây là chương trình khuyến mãi có điều kiện, không phải điều chỉnh biểu lãi suất niêm yết chuẩn toàn hệ thống."
       },
       {
         "name": "TDH 40% hiệu lực từ 1/7 — áp lực huy động giảm dần; chu kỳ lãi cao đã đỉnh",
-        "level": "main",
+        "level": "sub",
         "pct": 82,
         "bar": "fh",
         "desc": "TDH nâng từ 30% lên 40% từ 1/7 tiếp tục phát huy hiệu quả sau gần 1 tuần. NH tư nhân giảm dần cạnh tranh huy động → ceiling 7.3% có thể về 7.0-7.1% trong 2-3 tuần tới."
@@ -345,7 +352,7 @@
         "level": "sub",
         "pct": 65,
         "bar": "fm",
-        "desc": "Yếu tố NFP yếu và phát biểu dovish của Fed Chair Warsh từ đầu tuần vẫn chi phối kỳ vọng thị trường. Nếu FOMC 28-29/7 cắt giảm → NHNN có thể theo sau trong Q3/2026."
+        "desc": "Yếu tố NFP yếu và phát biểu dovish của Fed Chair Warsh tuần trước vẫn chi phối kỳ vọng thị trường. Nếu FOMC 28-29/7 cắt giảm → NHNN có thể theo sau trong Q3/2026."
       },
       {
         "name": "Big4 về 6.5-6.6%/12T cuối Q3 — xác suất giữ ở ~72%",
@@ -353,13 +360,6 @@
         "pct": 72,
         "bar": "fm",
         "desc": "Big4 giữ 6.8%/12T. Với TDH 40% giảm áp lực và Fed dovish signals, xác suất Big4 về 6.5-6.6% cuối Q3 giữ ổn định ở ~72%."
-      },
-      {
-        "name": "Tín dụng ổn định; NH giảm cạnh tranh huy động khi TDH 40% phát huy hiệu quả",
-        "level": "sub",
-        "pct": 68,
-        "bar": "fm",
-        "desc": "Tăng trưởng tín dụng H1/2026 đạt kế hoạch. NH đang giảm dần cạnh tranh huy động. Người có tiết kiệm lãi cao nên giữ đến đáo hạn trước khi tái tục."
       }
     ],
     "rate_forecast": [
@@ -392,12 +392,12 @@
         "desc": "FOMC 28-29/7 là event quyết định. Fed cắt hoặc dovish pivot → NHNN mở window điều chỉnh, vàng test $4,250+, BTC test $65,000+. Fed giữ hawkish → retest $4,100 và $58,000."
       }
     ],
-    "rate_outlook_label": "4/7 Thứ Bảy — Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8% ổn định cuối tuần; FOMC 28-29/7 catalyst",
+    "rate_outlook_label": "5/7 Chủ Nhật — Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8% ổn định cuối tuần; khuyến mãi ngắn hạn 8.55-8.9%; FOMC 28-29/7 catalyst",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "4/7 (Thứ Bảy): Lãi suất ổn định cuối tuần, không có điều chỉnh mới. Saigonbank 7.9%/13T; HLBank/ACB 7.3%/12T; Big4 6.8%/12T. TDH 40% tiếp tục giảm áp lực huy động — chu kỳ lãi cao đã đỉnh. NFP tháng 6 yếu + Fed Chair Warsh dovish signals → window NHNN điều chỉnh sớm hơn xác suất ~45%. Catalyst chính: FOMC 28-29/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3.",
+    "rate_outlook_text": "5/7 (Chủ Nhật): Lãi suất niêm yết ổn định cuối tuần, không có điều chỉnh mới. Saigonbank 7.9%/13T; HLBank/ACB 7.3%/12T; Big4 6.8%/12T. Một số NH (SeABank, Cake by VPBank) khuyến mãi ngắn hạn đẩy lãi thực nhận lên 8.55-8.9%. TDH 40% tiếp tục giảm áp lực huy động — chu kỳ lãi cao đã đỉnh. NFP tháng 6 yếu + Fed Chair Warsh dovish signals → window NHNN điều chỉnh sớm hơn xác suất ~45%. Catalyst chính: FOMC 28-29/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3.",
     "rate_sources": [
       {
-        "name": "techcombank.com — Lãi suất tiết kiệm 03/07/2026",
+        "name": "techcombank.com — Lãi suất tiết kiệm 04/07/2026",
         "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
       },
       {
@@ -595,7 +595,8 @@
       "01/07",
       "02/07",
       "03/07",
-      "04/07"
+      "04/07",
+      "05/07"
     ],
     "sjc": [
       152.8,
@@ -781,7 +782,8 @@
       144.0,
       143.5,
       148.5,
-      149.0
+      149.0,
+      148.5
     ],
     "world_vnd": [
       121,
@@ -967,7 +969,8 @@
       128.1,
       127.4,
       131.4,
-      133.3
+      133.3,
+      132.6
     ]
   }
 }
