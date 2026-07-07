@@ -1,162 +1,162 @@
 {
   "meta": {
-    "date": "6 tháng 7, 2026",
-    "day": "Thứ Hai",
-    "updated": "2026-07-06 07:10"
+    "date": "7 tháng 7, 2026",
+    "day": "Thứ Ba",
+    "updated": "2026-07-07 07:10"
   },
   "alert": {
     "type": "green",
-    "text": "🟢 <b>6/7 — Thứ Hai:</b> Vàng ~$4,185/oz (giữ vững hướng tới kháng cự $4,200 khi thị trường Mỹ mở cửa lại sau nghỉ lễ Độc lập); world_vnd ~133.0M; SJC ~146.0M (giảm nhẹ, premium thu hẹp còn ~13M). BTC ~$63,300 (+1.9%), vượt mốc $63K nhờ kỳ vọng CLARITY Act được Quốc hội Mỹ thông qua trước kỳ nghỉ tháng 8. UN Global Dialogue on AI Governance khai mạc tại Geneva; Tesla giới hạn chi AI token nhân viên $200/tuần từ 6/7; Anthropic ra mắt Claude Science (nghiên cứu dược phẩm). <b>Lãi suất hệ thống: niêm yết công khai ổn định (Saigonbank 7.9% cao nhất) nhưng lãi suất huy động thực tế tại một số NH tư nhân âm thầm chạm 9.2%/năm.</b>"
+    "text": "🟢 <b>7/7 — Thứ Ba:</b> Vàng ~$4,162/oz (quay đầu giảm ~$11 khi USD phục hồi mạnh, hạ nhiệt từ đỉnh 2 tuần); world_vnd ~132.3M; SJC ~145.3M (giảm 300 nghìn-1 triệu đồng/lượng, premium ~13.0M). BTC ~$64,194 (+2%), vượt $64K, tăng 7% so với tuần trước khi kiểm định kháng cự quan trọng. Chứng khoán Mỹ lập kỷ lục: Dow vượt 53,000 điểm, Nasdaq +1.1% nhờ cổ phiếu AI/bán dẫn phục hồi. Nhà Trắng có thể công bố khung tiêu chuẩn tự nguyện cho mô hình AI biên giới ngay trong tuần; Anthropic đàm phán sơ bộ với Samsung để sản xuất chip AI tùy chỉnh tiến trình 2nm; UN Global Dialogue on AI Governance tại Geneva cảnh báo nguy cơ 'tổn hại thảm khốc' từ AI. <b>Lãi suất: Techcombank giảm lãi suất cộng thêm 1%→0.8% (gửi online 6 tháng); PVcomBank vẫn niêm yết đặc biệt cao nhất hệ thống 10%/năm; Big4 ổn định 6.8%/12T.</b>"
   },
   "news_ai": [
     {
-      "title": "UN Global Dialogue on AI Governance khai mạc tại Geneva ngày 6/7/2026",
+      "title": "Claude Fable 5 kết thúc giai đoạn miễn phí trong gói Pro/Max/Team từ 8/7/2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Đối thoại Toàn cầu của Liên Hợp Quốc về Quản trị AI chính thức khai mạc tại Geneva ngày 6/7/2026, quy tụ các quốc gia thành viên thảo luận cách tiếp cận quốc tế trong quản lý công nghệ AI, giữa lúc tốc độ phát triển mô hình và mức độ ứng dụng doanh nghiệp tiếp tục tăng nhanh.",
-      "source": "UN News, 6/7/2026",
-      "source_url": "https://news.un.org/en/story/2026/07/1167848"
+      "body": "Ngày 7/7/2026 là ngày cuối Claude Fable 5 được bao gồm miễn phí trong các gói Pro, Max, Team và một số gói Enterprise của Anthropic. Từ 8/7, model này sẽ tính theo usage credit với mức giá API tiêu chuẩn $10/triệu token đầu vào và $50/triệu token đầu ra.",
+      "source": "AI News Roundup, 6-7/7/2026",
+      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026"
     },
     {
-      "title": "Tesla giới hạn chi tiêu AI token nhân viên còn $200/tuần từ 6/7/2026, ngoại trừ Grok",
+      "title": "Nhà Trắng chuẩn bị công bố khung tiêu chuẩn tự nguyện cho các mô hình AI biên giới",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Theo memo nội bộ được The Information trích dẫn, Tesla áp trần chi tiêu AI token $200/tuần cho toàn bộ nhân viên bắt đầu từ 6/7/2026 (không tính các sản phẩm beta của xAI); nhân viên cần vượt mức này phải được quản lý phê duyệt. Đáng chú ý, kỹ sư Tesla được cho là vẫn ưa dùng Claude của Anthropic hơn Grok nội bộ.",
-      "source": "The Information / Electrek, 2-6/7/2026",
-      "source_url": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/"
+      "body": "Nhà Trắng đang trong giai đoạn đàm phán nâng cao với các công ty AI để hoàn thiện bộ tiêu chuẩn tự nguyện cho việc phát hành các mô hình AI biên giới (frontier models), với khả năng công bố ngay trong tuần từ 7/7/2026.",
+      "source": "Tech industry reports, 7/7/2026",
+      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026"
     },
     {
-      "title": "Anthropic ra mắt Claude Science — workbench AI cho nghiên cứu dược phẩm, hướng tới bệnh bị lãng quên",
+      "title": "Anthropic đàm phán sơ bộ với Samsung Electronics để sản xuất chip AI tùy chỉnh tiến trình 2nm",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic công bố Claude Science ngày 30/6, một workbench AI tích hợp PubMed, Jupyter và R phục vụ nghiên cứu sinh học tính toán và phát triển thuốc, cùng chương trình cấp tới $30,000 tín dụng điện toán cho các dự án nghiên cứu y sinh được chọn. Công ty cũng lập chương trình nội bộ nghiên cứu thuốc cho các bệnh bị ngành dược lãng quên.",
-      "source": "Pharmaceutical Technology / BigGo Finance, 1-4/7/2026",
-      "source_url": "https://www.pharmaceutical-technology.com/news/anthropic-launches-claude-science-ai-tool-drug-discovery/"
+      "body": "Anthropic được cho là đã bắt đầu các cuộc thảo luận sơ bộ với Samsung Electronics nhằm sản xuất chip tăng tốc AI (AI accelerator) tùy chỉnh, có thể tận dụng tiến trình 2nm và công nghệ đóng gói tiên tiến của Samsung — một phần trong cuộc đua hạ tầng chip của các hãng AI lớn.",
+      "source": "Tech industry reports, 7/7/2026",
+      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026"
     },
     {
-      "title": "Vốn đầu tư startup toàn cầu đạt kỷ lục $510 tỷ nửa đầu 2026, AI chiếm hơn 70%; OpenAI & Anthropic chiếm 43%",
+      "title": "UN Global Dialogue on AI Governance tại Geneva cảnh báo nguy cơ 'tổn hại thảm khốc' từ AI",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Theo Crunchbase, vốn đầu tư mạo hiểm toàn cầu đạt kỷ lục $510 tỷ trong H1/2026, vượt tổng cả năm 2025 ($440 tỷ). Hơn 70% vốn Q2 đổ vào các công ty AI. Riêng OpenAI và Anthropic chiếm $217 tỷ (43% tổng vốn H1); Anthropic huy động $65 tỷ trong Q2, trở thành công ty tư nhân giá trị nhất trên Crunchbase Unicorn Board.",
-      "source": "Crunchbase News, 2/7/2026",
-      "source_url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/"
+      "body": "Đối thoại Toàn cầu của Liên Hợp Quốc về Quản trị AI, diễn ra tại Geneva 6-7/7/2026, ghi nhận cảnh báo về nguy cơ 'tổn hại thảm khốc' (catastrophic harm) nếu công nghệ AI không được quản lý chặt chẽ, giữa lúc các quốc gia thúc đẩy nỗ lực toàn cầu về quản trị AI.",
+      "source": "UN News, 7/7/2026",
+      "source_url": "https://news.un.org/en/story/2026/07/1167862"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "green",
-      "text": "🟢 BTC ~$63,300 (+1.9%) — vượt mốc $63K, cao nhất hơn 1 tháng, nhờ kỳ vọng CLARITY Act được thông qua trước kỳ nghỉ Quốc hội Mỹ tháng 8. Vàng ~$4,185/oz, giữ hướng tới kháng cự $4,200 khi thị trường Mỹ mở cửa lại sau nghỉ lễ Độc lập. MicroStrategy công bố chương trình mua lại cổ phiếu $2 tỷ kèm khung Bitcoin monetization mới. FOMC 28-29/7 vẫn là catalyst chính tháng 7."
+      "type": "yellow",
+      "text": "🟡 BTC ~$64,194 (+2%) — vượt $64K, tăng 7% so với tuần trước, kiểm định kháng cự quan trọng giữa đà phục hồi tháng 7. Vàng ~$4,162/oz, quay đầu giảm ~$11 khi USD phục hồi mạnh (+0.2%), hạ nhiệt từ đỉnh 2 tuần. Chứng khoán Mỹ lập kỷ lục: Dow vượt 53,000 điểm, Nasdaq +1.1% nhờ cổ phiếu AI/bán dẫn phục hồi; Samsung Electronics công bố KQKD quý hôm nay, dự báo lợi nhuận tăng gấp 18 lần cùng kỳ. FOMC 28-29/7 vẫn là catalyst chính tháng 7."
     },
     "items": [
       {
-        "title": "BTC ~$63,300 (+1.9%) — vượt $63K, cao nhất hơn 1 tháng nhờ đà phục hồi và kỳ vọng CLARITY Act",
+        "title": "BTC ~$64,194 (+2%) — vượt $64K, kiểm định kháng cự quan trọng giữa đà phục hồi tháng 7",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin vượt mốc $63,000 trong phiên 4-6/7, mức cao nhất trong hơn một tháng, khi nhà đầu tư đánh giá triển vọng CLARITY Act — dự luật quy định crypto tại Mỹ — có xác suất được thông qua tăng mạnh trên Polymarket sau các tuyên bố ủng hộ từ giới thực thi pháp luật, trước kỳ nghỉ Quốc hội tháng 8.",
-        "source": "Yahoo Finance / CoinDesk, 4-6/7/2026",
-        "source_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-trades-above-62k-u-102159196.html"
+        "body": "Bitcoin giao dịch quanh $64,194, tăng 2% so với 24 giờ trước và tăng 7% so với một tuần trước ($60,257), khi thị trường kiểm định vùng kháng cự quan trọng giữa đà phục hồi của tháng 7 sau chuỗi giảm tháng 6.",
+        "source": "Cryptonomist, 7/7/2026",
+        "source_url": "https://en.cryptonomist.ch/2026/07/07/bitcoin-price-analysis-resistance-july-2026/"
       },
       {
-        "title": "Vàng ~$4,185/oz — giữ hướng tới kháng cự $4,200 khi thị trường Mỹ mở cửa lại sau nghỉ lễ Độc lập",
+        "title": "Vàng ~$4,162/oz — quay đầu giảm khi USD phục hồi mạnh, hạ nhiệt từ đỉnh 2 tuần",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Vàng thế giới tiếp tục giữ vùng $4,185-4,190/oz đầu tuần, sau khi leo lên gần $4,200 phiên 3/7 nhờ số liệu việc làm tháng 6 yếu khiến thị trường giảm kỳ vọng Fed duy trì lãi suất cao. Thị trường Mỹ mở cửa lại hôm nay sau kỳ nghỉ lễ Độc lập cuối tuần trước.",
-        "source": "TradingEconomics / 150currency.com, 4-6/7/2026",
-        "source_url": "https://tradingeconomics.com/commodity/gold"
+        "body": "Giá vàng giao ngay giảm còn khoảng $4,162.4/oz (giảm $11.3) sáng 7/7 do chỉ số USD tăng 0.2%, khiến vàng đắt đỏ hơn với nhà đầu tư ngoại tệ khác. Đà giảm được giới hạn phần nào nhờ thị trường giảm bớt kỳ vọng Fed tăng lãi suất.",
+        "source": "Báo Quốc tế, 7/7/2026",
+        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-772026-lai-quay-xe-usd-tiep-da-hoi-phuc-loi-khuyen-cho-nha-dau-tu-ngay-luc-nay-415073.html"
       },
       {
-        "title": "MicroStrategy công bố mua lại cổ phiếu $2 tỷ, kèm khung Bitcoin monetization cho phép bán tới $1.25 tỷ BTC nắm giữ",
+        "title": "Chứng khoán Mỹ lập kỷ lục: Dow vượt 53,000 điểm nhờ đà phục hồi cổ phiếu AI và bán dẫn",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "MicroStrategy (MSTR) phê duyệt chương trình mua lại tới $1 tỷ cổ phiếu digital credit và $1 tỷ cổ phiếu phổ thông loại A, cùng khung Bitcoin monetization mới cho phép ban lãnh đạo bán tới $1.25 tỷ lượng BTC nắm giữ khi cần — động thái linh hoạt hóa bảng cân đối tài sản giữa lúc giá BTC phục hồi.",
-        "source": "Market reports, 4-6/7/2026",
-        "source_url": "https://www.coindesk.com/price/bitcoin"
+        "body": "Các chỉ số chứng khoán Mỹ tăng điểm phiên 6/7 khi cổ phiếu AI và bán dẫn phục hồi mạnh; Nasdaq dẫn đầu với mức tăng 1.1%, Dow Jones lập kỷ lục đóng cửa trên 53,000 điểm. Nhà cung cấp của Nvidia là Hon Hai (Foxconn) báo doanh thu quý vượt kỳ vọng, làm dấy lên kỳ vọng vào KQKD của Samsung Electronics công bố hôm nay.",
+        "source": "Yahoo Finance/TheStreet, 6-7/7/2026",
+        "source_url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>6/7 — Thứ Hai:</b> Vàng ~$4,185/oz, giữ hướng tới kháng cự $4,200. SJC ~146.0M; world_vnd ~133.0M; premium thu hẹp còn ~13.0M (9.8%). BTC ~$63,300 (+1.9%), vượt $63K. FOMC 28-29/7 vẫn là catalyst chính. JPM $5,055 / GS $5,400 Q4/2026.",
+    "summary": "🟡 <b>7/7 — Thứ Ba:</b> Vàng ~$4,162/oz, quay đầu giảm ~$11 khi USD phục hồi mạnh. SJC ~145.3M; world_vnd ~132.3M; premium ~13.0M (9.8%). BTC ~$64,194 (+2%), vượt $64K. Chứng khoán Mỹ lập kỷ lục Dow 53,000+. FOMC 28-29/7 vẫn là catalyst chính. JPM $5,055 / GS $5,400 Q4/2026.",
     "factors": [
       {
-        "name": "Vàng ~$4,185/oz (6/7) — giữ vững hướng tới kháng cự $4,200 khi thị trường Mỹ mở cửa lại",
-        "pct": 72,
-        "direction": "up",
-        "bar": "fh",
-        "desc": "Vàng giao dịch quanh $4,185/oz đầu tuần, nối tiếp đà tăng từ phiên 3/7 ($4,170-4,190) nhờ báo cáo việc làm tháng 6 yếu làm giảm kỳ vọng Fed giữ lãi suất cao. Kháng cự tiếp theo: $4,200 và $4,250; hỗ trợ $4,150-$4,100."
+        "name": "Vàng ~$4,162/oz (7/7) — quay đầu giảm khi USD phục hồi mạnh, hạ nhiệt từ đỉnh 2 tuần",
+        "pct": 45,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Vàng giảm ~$11.3 xuống $4,162.4/oz sáng 7/7 khi chỉ số USD tăng 0.2%, khiến vàng đắt đỏ hơn với nhà đầu tư ngoại tệ khác. Đà giảm được giới hạn nhờ kỳ vọng Fed bớt khả năng tăng lãi suất. Hỗ trợ $4,100-4,150; kháng cự $4,200."
       },
       {
-        "name": "BTC ~$63,300 (+1.9%) — vượt $63K, cao nhất hơn 1 tháng nhờ kỳ vọng CLARITY Act",
+        "name": "BTC ~$64,194 (+2%) — vượt $64K, kiểm định kháng cự quan trọng giữa đà phục hồi tháng 7",
         "pct": 74,
         "direction": "up",
         "bar": "fh",
-        "desc": "Bitcoin vượt mốc $63,000, mức cao nhất trong hơn một tháng, khi xác suất CLARITY Act được thông qua trước kỳ nghỉ Quốc hội Mỹ tháng 8 tăng mạnh trên thị trường dự đoán Polymarket. Đà phục hồi củng cố sau chuỗi giảm tháng 6."
+        "desc": "Bitcoin tăng 2% lên $64,194, tăng 7% so với tuần trước ($60,257), khi thị trường kiểm định vùng kháng cự quan trọng. Đà phục hồi tiếp tục củng cố sau chuỗi giảm tháng 6, được hỗ trợ bởi kỳ vọng CLARITY Act."
       },
       {
-        "name": "SJC ~146.0M; world_vnd ~133.0M; premium thu hẹp còn ~13.0M (9.8%) — SJC điều chỉnh giảm nhẹ",
+        "name": "SJC ~145.3M; world_vnd ~132.3M; premium ~13.0M (9.8%) — SJC điều chỉnh giảm theo đà thế giới",
         "pct": 55,
         "direction": "down",
         "bar": "fm",
-        "desc": "Các thương hiệu trong nước hạ giá bán SJC còn ~146 triệu đồng/lượng ngày 6/7, thu hẹp mức chênh với thế giới xuống còn ~13 triệu đồng (9.8%) — thấp hơn giai đoạn trước, cho thấy cung-cầu trong nước bớt căng thẳng."
+        "desc": "Giá vàng trong nước giảm 300 nghìn-1 triệu đồng/lượng theo đà giảm của thế giới, đưa SJC về quanh 145.3 triệu đồng/lượng. Premium so với thế giới giữ ổn định quanh 13.0 triệu đồng (9.8%), cho thấy cung-cầu trong nước tiếp tục cân bằng."
       },
       {
-        "name": "MicroStrategy mua lại cổ phiếu $2 tỷ + khung Bitcoin monetization — linh hoạt hóa bảng cân đối BTC",
-        "pct": 55,
+        "name": "Chứng khoán Mỹ lập kỷ lục: Dow vượt 53,000, Nasdaq +1.1% nhờ cổ phiếu AI/bán dẫn phục hồi",
+        "pct": 65,
         "direction": "up",
         "bar": "fm",
-        "desc": "MicroStrategy phê duyệt mua lại $2 tỷ cổ phiếu và khung cho phép bán tới $1.25 tỷ BTC khi cần — tín hiệu các tổ chức lớn tiếp tục chủ động quản trị rủi ro thanh khoản dù giữ chiến lược tích lũy dài hạn."
+        "desc": "Dow Jones đóng cửa kỷ lục trên 53,000 điểm, Nasdaq dẫn đầu +1.1% nhờ đà phục hồi của cổ phiếu AI và bán dẫn. Samsung Electronics công bố KQKD quý hôm nay với dự báo lợi nhuận tăng gấp 18 lần cùng kỳ, củng cố tâm lý risk-on chung."
       },
       {
-        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 20-29% từ ~$4,185; FOMC 28-29/7 là catalyst chính",
+        "name": "J.P. Morgan $5,055 / Goldman $5,400 Q4/2026 — upside 21-30% từ ~$4,162; FOMC 28-29/7 là catalyst chính",
         "pct": 80,
         "direction": "up",
         "bar": "fh",
-        "desc": "Target dài hạn JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,185, upside tiềm năng 20-29%. FOMC 28-29/7 vẫn là sự kiện quyết định cho xu hướng vàng, BTC và lãi suất VN trong tháng 7."
+        "desc": "Target dài hạn JPM $5,055 và GS $5,400 Q4/2026 giữ nguyên. Tại ~$4,162, upside tiềm năng 21-30%. FOMC 28-29/7 vẫn là sự kiện quyết định cho xu hướng vàng, BTC và lãi suất VN trong tháng 7."
       }
     ],
-    "outlook_label": "Vàng ~$4,185/oz (6/7 Thứ Hai) — hướng tới kháng cự $4,200; SJC ~146.0M; BTC $63,300 (+1.9%); FOMC 28-29/7 catalyst chính",
+    "outlook_label": "Vàng ~$4,162/oz (7/7 Thứ Ba) — quay đầu giảm khi USD phục hồi; SJC ~145.3M; BTC $64,194 (+2%); FOMC 28-29/7 catalyst chính",
     "outlook_class": "pbg",
-    "outlook_text": "6/7 (Thứ Hai): Vàng ~$4,185/oz, giữ hướng tới kháng cự $4,200 khi thị trường Mỹ mở cửa lại sau nghỉ lễ Độc lập. SJC ~146.0M, giảm nhẹ, premium thu hẹp còn ~13.0M so với world_vnd ~133.0M. BTC ~$63,300 (+1.9%), vượt mốc $63K nhờ kỳ vọng CLARITY Act. Hỗ trợ vàng: $4,150-$4,100. Kháng cự: $4,200-$4,250. Catalyst chính: FOMC 28-29/7. Dài hạn: JPM $5,055 / GS $5,400; MicroStrategy linh hoạt hóa bảng cân đối BTC bằng khung monetization mới.",
+    "outlook_text": "7/7 (Thứ Ba): Vàng ~$4,162/oz, giảm ~$11 khi USD phục hồi mạnh, hạ nhiệt từ đỉnh 2 tuần. SJC ~145.3M, giảm 300 nghìn-1 triệu đồng/lượng theo đà thế giới, premium giữ ~13.0M so với world_vnd ~132.3M. BTC ~$64,194 (+2%), vượt $64K, kiểm định kháng cự quan trọng. Chứng khoán Mỹ lập kỷ lục Dow 53,000+ nhờ cổ phiếu AI/bán dẫn. Hỗ trợ vàng: $4,100-$4,150. Kháng cự: $4,200-$4,250. Catalyst chính: FOMC 28-29/7. Dài hạn: JPM $5,055 / GS $5,400.",
     "sources": [
       {
-        "name": "TradingEconomics — Gold Price Today",
-        "url": "https://tradingeconomics.com/commodity/gold"
+        "name": "Báo Quốc tế — Giá vàng hôm nay 7/7",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-772026-lai-quay-xe-usd-tiep-da-hoi-phuc-loi-khuyen-cho-nha-dau-tu-ngay-luc-nay-415073.html"
       },
       {
-        "name": "CoinDesk — Bitcoin Price Today",
-        "url": "https://www.coindesk.com/price/bitcoin"
+        "name": "Cryptonomist — Bitcoin Price Analysis 7/7",
+        "url": "https://en.cryptonomist.ch/2026/07/07/bitcoin-price-analysis-resistance-july-2026/"
       },
       {
-        "name": "VnExpress — Giá vàng hôm nay 6/7",
-        "url": "https://vnexpress.net/chu-de/gia-vang-1403"
+        "name": "VietnamNet — Giá vàng hôm nay 6/7",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-6-7-2026-nong-tro-lai-sjc-neo-tren-151-trieu-dong-luong-2532807.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 6/7 (Thứ Hai): Niêm yết công khai <b>tiếp tục ổn định</b> đầu tuần — Saigonbank dẫn đầu 7.9%/13T; ACB & HLBank 7.3%/12T; Big4 6.8%/12T. Đáng chú ý: lãi suất huy động <b>thực tế</b> tại một số NH tư nhân đã âm thầm chạm 9.2%/năm (gửi online kỳ hạn 12 tháng, số dư ≥100 triệu) dù biểu niêm yết công khai cao nhất mới chỉ 7.9%. SeABank 8.55%, Cake by VPBank 8.9% vẫn duy trì khuyến mãi. Chờ FOMC 28-29/7.",
+    "alert": "📊 7/7 (Thứ Ba): Niêm yết công khai <b>tiếp tục ổn định</b> — Big4 6.8%/12T; ACB cao nhất nhóm niêm yết chuẩn 7.3%/12T. Đáng chú ý: Techcombank vừa <b>giảm mức lãi suất cộng thêm</b> từ 1 điểm % xuống 0.8 điểm % cho khách gửi tiết kiệm trực tuyến mới kỳ hạn 6 tháng vào thứ Hai hàng tuần (lãi thực nhận tối đa 7.35%/năm thay vì 7.55%/năm trước đó). PVcomBank vẫn niêm yết lãi suất đặc biệt cao nhất hệ thống 10%/năm (kỳ hạn 12-13 tháng, số dư từ 2,000 tỷ đồng). MSB 9%/năm (từ 500 tỷ); OCB 8.5%/năm (từ 1,000 tỷ). Chờ FOMC 28-29/7.",
     "highlights": [
       {
-        "label": "Saigonbank 7.9%/13T dẫn đầu niêm yết chính thức",
-        "value": "7.9%",
-        "sub": "Saigonbank cao nhất hệ thống với 7.9%/năm kỳ hạn 13 tháng; 7.2%/12T; 7.0%/18T",
-        "note": "Saigonbank vẫn dẫn đầu hệ thống 7.9%/năm kỳ hạn 13 tháng, không đổi đầu tuần. TDH 40% tiếp tục giảm áp lực huy động — có thể điều chỉnh về 7.5-7.6% trong 2-3 tuần tới."
+        "label": "PVcomBank 10%/năm — lãi suất đặc biệt cao nhất hệ thống",
+        "value": "10%",
+        "sub": "Kỳ hạn 12-13 tháng, lĩnh lãi cuối kỳ, điều kiện số dư tiền gửi từ 2,000 tỷ đồng trở lên",
+        "note": "PVcomBank tiếp tục là ngân hàng niêm yết lãi suất huy động đặc biệt cao nhất hệ thống với 10%/năm, áp dụng cho khách hàng có số dư tiền gửi rất lớn (từ 2,000 tỷ đồng), không đại diện cho lãi suất phổ biến trên thị trường."
       },
       {
-        "label": "ACB & HLBank giữ 7.3%/12T",
+        "label": "Techcombank giảm lãi suất cộng thêm 1%→0.8% cho gửi online kỳ hạn 6 tháng",
+        "value": "0.8%",
+        "sub": "Ưu đãi 'Tiết kiệm Phát Lộc Online' kỳ hạn 6 tháng vào thứ Hai hàng tuần; lãi thực nhận tối đa giảm còn 7.35%/năm",
+        "note": "Đây là tín hiệu đầu tiên trong tháng 7 cho thấy một ngân hàng tư nhân lớn bắt đầu hạ nhiệt các chương trình cộng lãi suất khuyến mãi, có thể báo hiệu xu hướng giảm dần ưu đãi trong thời gian tới."
+      },
+      {
+        "label": "ACB dẫn đầu nhóm niêm yết chuẩn với 7.3%/12T",
         "value": "7.3%",
-        "sub": "HLBank 7.3%/12T; ACB 7.3%/12T — nhóm cao nhất kỳ hạn chuẩn 12 tháng",
-        "note": "ACB và HLBank tiếp tục giữ 7.3%/12T ngày 6/7, không thay đổi đầu tuần. Áp lực duy trì mức cao giảm dần khi TDH 40% phát huy hiệu quả."
+        "sub": "ACB 7.1%/6T và 7.3%/12T — cao nhất trong nhóm ngân hàng tư nhân niêm yết trực tuyến chuẩn",
+        "note": "ACB tiếp tục giữ mức niêm yết trực tuyến cao nhất nhóm tư nhân lớn, không đổi so với đầu tháng 7."
       },
       {
         "label": "Big4 ổn định 6.8%/12T",
         "value": "6.8%",
-        "sub": "BIDV, Vietcombank, Agribank, VietinBank — 6.8%/12T (sản phẩm tiết kiệm truyền thống); dự báo về 6.5-6.6% Q3",
-        "note": "Big4 giữ nguyên 6.8%/12T cho sản phẩm truyền thống. Một số sản phẩm rút gốc linh hoạt tại Vietcombank có thể lên tới 7.4%/năm. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở ~72%."
-      },
-      {
-        "label": "Lãi suất huy động thực tế âm thầm chạm 9.2%/năm tại một số NH tư nhân, dù niêm yết công khai cao nhất chỉ 7.9%",
-        "value": "9.2%",
-        "sub": "Gửi online kỳ hạn 12 tháng, số dư từ 100 triệu đồng trở lên tại một số ngân hàng đạt mức thực nhận 9.2%/năm",
-        "note": "Khác với niêm yết công khai (cao nhất 7.9% tại Saigonbank), một số ngân hàng áp dụng ưu đãi cộng lãi không công bố chính thức, đẩy lãi suất thực nhận lên tới 9.2%/năm cho khách gửi online kỳ hạn 12 tháng, số dư lớn — phản ánh cạnh tranh huy động ngầm vẫn gay gắt."
+        "sub": "BIDV, Vietcombank, Agribank, VietinBank — 6.8%/12T; dự báo về 6.5-6.6% cuối Q3",
+        "note": "Big4 giữ nguyên 6.8%/12T từ đầu tháng 7. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở khoảng 70-72%, chờ tín hiệu từ FOMC 28-29/7."
       }
     ],
     "banks": [
@@ -181,44 +181,67 @@
         "m3": "4.75%",
         "m6": "7.0%",
         "m12": "7.0%",
-        "m12_hi": true,
-        "trend": "hold"
+        "trend": "hold",
+        "m12_hi": true
+      },
+      {
+        "name": "Saigonbank",
+        "m3": "4.75%",
+        "m6": "6.9%",
+        "m12": "7.2%",
+        "trend": "hold",
+        "m12_hi": true
       },
       {
         "name": "PGBank",
         "m3": "4.75%",
-        "m6": "6.5%",
+        "m6": "6.9%",
         "m12": "7.0%",
-        "m12_hi": true,
-        "trend": "hold"
+        "trend": "up",
+        "m12_hi": true
+      },
+      {
+        "name": "VCBNeo",
+        "m3": "4.75%",
+        "m6": "7.0%",
+        "m12": "7.0%",
+        "trend": "hold",
+        "m12_hi": true
+      },
+      {
+        "name": "VIB",
+        "m3": "4.45%",
+        "m6": "5.7%",
+        "m12": "7.0%",
+        "trend": "hold",
+        "m12_hi": true
       },
       {
         "name": "OCB",
-        "m3": "4.5%",
-        "m6": "6.5%",
-        "m12": "7.0%",
-        "m12_hi": true,
-        "trend": "hold"
+        "m3": "4.75%",
+        "m6": "6.6%",
+        "m12": "6.9%",
+        "trend": "down",
+        "m12_hi": true
       },
       {
         "name": "MB",
-        "m3": "4.1%",
-        "m6": "4.6%",
-        "m12": "7.0%",
-        "m12_hi": true,
-        "trend": "hold"
+        "m3": "4.7%",
+        "m6": "5.8%",
+        "m12": "6.35%",
+        "trend": "down"
       },
       {
         "name": "LPBank",
-        "m3": "4.3%",
-        "m6": "6.6%",
+        "m3": "4.65%",
+        "m6": "6.8%",
         "m12": "6.9%",
         "trend": "hold"
       },
       {
         "name": "BVBank",
         "m3": "4.75%",
-        "m6": "6.5%",
+        "m6": "6.7%",
         "m12": "6.9%",
         "trend": "hold"
       },
@@ -252,153 +275,153 @@
       },
       {
         "name": "MSB",
-        "m3": "4.5%",
-        "m6": "6.0%",
+        "m3": "4.75%",
+        "m6": "6.3%",
         "m12": "6.8%",
         "trend": "hold"
       },
       {
         "name": "Techcombank",
-        "m3": "4.35%",
-        "m6": "6.4%",
+        "m3": "4.65%",
+        "m6": "6.55%",
         "m12": "6.75%",
         "trend": "hold"
       },
       {
         "name": "Sacombank",
-        "m3": "4.3%",
-        "m6": "5.7%",
+        "m3": "4.5%",
+        "m6": "6.4%",
         "m12": "6.6%",
         "trend": "hold"
       },
       {
         "name": "SHB",
-        "m3": "4.40%",
+        "m3": "4.65%",
         "m6": "6.2%",
         "m12": "6.5%",
         "trend": "hold"
       },
       {
         "name": "VPBank",
-        "m3": "4.75%",
-        "m6": "5.5%",
-        "m12": "6.3%",
-        "trend": "hold"
+        "m3": "4.65%",
+        "m6": "6.0%",
+        "m12": "6.0%",
+        "trend": "down"
       },
       {
         "name": "TPBank",
         "m3": "4.75%",
-        "m6": "5.8%",
+        "m6": "6.05%",
         "m12": "6.25%",
         "trend": "hold"
       },
       {
         "name": "SeABank",
-        "m3": "4.55%",
-        "m6": "6.0%",
+        "m3": "4.45%",
+        "m6": "4.95%",
         "m12": "5.3%",
         "trend": "hold"
       },
       {
         "name": "HDBank",
-        "m3": "4.0%",
+        "m3": "4.3%",
         "m6": "5.0%",
         "m12": "5.3%",
         "trend": "hold"
       }
     ],
     "analysis": {
-      "title": "Lãi suất 6/7 (Thứ Hai): Niêm yết ổn định đầu tuần; lãi suất thực tế một số NH âm thầm chạm 9.2%/năm",
-      "body": "Ngày 6/7/2026 (Thứ Hai). Biểu lãi suất niêm yết công khai của hệ thống ngân hàng tiếp tục ổn định đầu tuần. Saigonbank vẫn dẫn đầu 7.9%/năm kỳ hạn 13 tháng; ACB & HLBank giữ 7.3%/12T; Big4 ổn định 6.8%/12T. Điểm đáng chú ý nhất trong tuần là lãi suất huy động thực tế tại một số ngân hàng thương mại tư nhân đã âm thầm vượt ngưỡng 9%/năm, chạm 9.2%/năm cho khách gửi online kỳ hạn 12 tháng với số dư từ 100 triệu đồng — cao hơn nhiều so với biểu niêm yết công khai cao nhất hệ thống. Ngoài ra SeABank và Cake by VPBank tiếp tục công khai ưu đãi 8.55-8.9%/năm ở một số kỳ hạn. TDH 40% (hiệu lực từ 1/7) vẫn đang giảm dần áp lực huy động chính thức nhưng cạnh tranh ngầm giữa các NH tư nhân vẫn gay gắt. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3/2026. Catalyst chính: FOMC 28-29/7.",
+      "title": "Lãi suất 7/7 (Thứ Ba): Niêm yết ổn định; Techcombank giảm lãi cộng thêm, PVcomBank vẫn cao nhất 10%",
+      "body": "Ngày 7/7/2026 (Thứ Ba). Biểu lãi suất huy động niêm yết tại các ngân hàng thương mại tiếp tục không đổi kể từ đầu tháng 7. Big4 giữ 6.8%/12T; ACB dẫn đầu nhóm niêm yết trực tuyến chuẩn với 7.3%/12T. Điểm mới đáng chú ý nhất là Techcombank giảm mức lãi suất cộng thêm cho khách gửi tiết kiệm trực tuyến mới kỳ hạn 6 tháng (chương trình 'Tiết kiệm Phát Lộc Online', áp dụng thứ Hai hàng tuần) từ 1 điểm % xuống còn 0.8 điểm %, đưa lãi thực nhận tối đa về 7.35%/năm thay vì 7.55%/năm trước đó — tín hiệu đầu tiên cho thấy một ngân hàng tư nhân lớn bắt đầu hạ nhiệt ưu đãi. Ở nhóm lãi suất đặc biệt dành khách VIP số dư siêu lớn, PVcomBank vẫn niêm yết cao nhất hệ thống 10%/năm (từ 2,000 tỷ đồng, kỳ hạn 12-13 tháng); MSB 9%/năm (từ 500 tỷ); OCB 8.5%/năm (từ 1,000 tỷ); Nam A Bank 8.3%/năm (từ 500 tỷ, kỳ hạn 24 tháng). Dự báo: Big4 về 6.5-6.6%; nhóm niêm yết chuẩn tư nhân về 7.0% cuối Q3/2026. Catalyst chính: FOMC 28-29/7.",
       "sources": [
         {
-          "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 3/7/2026: âm thầm lên 9,2%/năm",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-7-2026-lai-suat-huy-dong-am-tham-len-9-2-nam-2531999.html"
+          "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 6/7/2026: 'Ông lớn' tư nhân giảm lãi suất cộng thêm",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-6-7-2026-ong-lon-tu-nhan-giam-lai-suat-cong-them-2532919.html"
         },
         {
           "name": "webgia.com — Lãi suất ngân hàng tháng 7/2026",
           "url": "https://webgia.com/lai-suat/"
         },
         {
-          "name": "techcombank.com — Lãi suất tiết kiệm 04/07/2026",
-          "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
+          "name": "topi.vn — Lãi suất tiết kiệm tháng 7/2026",
+          "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "Niêm yết công khai ổn định 6/7 — Saigonbank 7.9%/13T; ACB/HLBank 7.3%/12T; Big4 6.8%/12T",
+        "name": "Niêm yết công khai ổn định 7/7 — Big4 6.8%/12T; ACB dẫn đầu nhóm niêm yết chuẩn 7.3%/12T",
         "level": "main",
         "pct": 78,
         "bar": "fh",
-        "desc": "Hệ thống NH đi ngang đầu tuần theo biểu niêm yết công khai. Saigonbank 7.9%/13T; ACB và HLBank 7.3%/12T; Big4 6.8%/12T. Không ghi nhận thay đổi niêm yết mới."
+        "desc": "Hệ thống NH tiếp tục đi ngang theo biểu niêm yết công khai, không đổi từ đầu tháng 7. Big4 6.8%/12T; ACB 7.3%/12T dẫn đầu nhóm tư nhân niêm yết chuẩn."
       },
       {
-        "name": "Lãi suất huy động thực tế âm thầm chạm 9.2%/năm — cạnh tranh ngầm giữa các NH tư nhân vẫn gay gắt",
+        "name": "Techcombank giảm lãi suất cộng thêm 1%→0.8% — tín hiệu đầu tiên hạ nhiệt ưu đãi khuyến mãi",
         "level": "main",
+        "pct": 62,
+        "bar": "fm",
+        "desc": "Techcombank giảm mức cộng thêm cho gói tiết kiệm online kỳ hạn 6 tháng, đưa lãi thực nhận tối đa về 7.35%/năm. Đây có thể là tín hiệu sớm cho xu hướng các NH tư nhân lớn giảm dần cạnh tranh khuyến mãi trong quý 3."
+      },
+      {
+        "name": "PVcomBank, MSB, OCB, Nam A Bank duy trì lãi suất đặc biệt 8.3-10%/năm cho khách VIP số dư siêu lớn",
+        "level": "sub",
         "pct": 68,
         "bar": "fm",
-        "desc": "Một số NH tư nhân áp dụng ưu đãi cộng lãi không công bố chính thức cho khách gửi online kỳ hạn 12 tháng, số dư lớn, đẩy lãi suất thực nhận lên 9.2%/năm — cao hơn nhiều biểu niêm yết công khai, cho thấy áp lực huy động vẫn chưa hạ nhiệt hoàn toàn ở nhóm này."
+        "desc": "Nhóm lãi suất đặc biệt dành cho khách hàng có số dư tiền gửi từ 500 tỷ đến 2,000 tỷ đồng trở lên vẫn duy trì ở mức cao (8.3-10%/năm), phản ánh nhu cầu huy động vốn lớn từ nhóm khách hàng tổ chức chưa hạ nhiệt."
       },
       {
         "name": "TDH 40% hiệu lực từ 1/7 — áp lực huy động chính thức giảm dần; chu kỳ lãi cao đã đỉnh",
         "level": "sub",
         "pct": 80,
         "bar": "fh",
-        "desc": "TDH nâng từ 30% lên 40% từ 1/7 tiếp tục phát huy hiệu quả sau gần 1 tuần đối với biểu niêm yết công khai. NH tư nhân giảm dần cạnh tranh huy động chính thức → ceiling 7.3% có thể về 7.0-7.1% trong 2-3 tuần tới."
+        "desc": "TDH nâng từ 30% lên 40% từ 1/7 tiếp tục phát huy hiệu quả. NH tư nhân giảm dần cạnh tranh huy động chính thức và cộng thêm khuyến mãi, thể hiện rõ qua động thái của Techcombank."
       },
       {
-        "name": "CLARITY Act tiến triển tại Mỹ + Fed dovish signals — window NHNN có thể đến sớm hơn Q1/2027",
+        "name": "Dow lập kỷ lục 53,000+, Fed dovish signals — window NHNN có thể đến sớm hơn Q1/2027",
         "level": "sub",
         "pct": 62,
         "bar": "fm",
-        "desc": "Xác suất CLARITY Act được thông qua tăng mạnh cùng phát biểu dovish của Fed tuần trước tiếp tục chi phối kỳ vọng thị trường. Nếu FOMC 28-29/7 cắt giảm → NHNN có thể theo sau trong Q3/2026."
-      },
-      {
-        "name": "Big4 về 6.5-6.6%/12T cuối Q3 — xác suất giữ ở ~72%",
-        "level": "sub",
-        "pct": 72,
-        "bar": "fm",
-        "desc": "Big4 giữ 6.8%/12T. Với TDH 40% giảm áp lực niêm yết chính thức và Fed dovish signals, xác suất Big4 về 6.5-6.6% cuối Q3 giữ ổn định ở ~72%."
+        "desc": "Chứng khoán Mỹ lập kỷ lục cùng phát biểu dovish của Fed tiếp tục chi phối kỳ vọng thị trường. Nếu FOMC 28-29/7 cắt giảm → NHNN có thể theo sau trong Q3/2026."
       }
     ],
     "rate_forecast": [
       {
-        "name": "ACB/HLBank 7.3%/12T — cơ hội lock lãi cao đang thu hẹp; có thể về 7.0-7.1% trong 2-3 tuần",
-        "pct": 78,
+        "name": "ACB 7.3%/12T — cơ hội lock lãi cao đang thu hẹp dần sau tín hiệu từ Techcombank",
+        "pct": 75,
         "direction": "down",
         "bar": "fh",
-        "desc": "ACB/HLBank vẫn ở 7.3%/12T nhưng áp lực duy trì giảm sau TDH 40%. Đầu tháng 7 vẫn là cơ hội tốt để lock lãi dài hạn trước khi điều chỉnh."
+        "desc": "ACB vẫn ở 7.3%/12T nhưng áp lực duy trì giảm sau khi Techcombank hạ lãi suất cộng thêm. Đầu tháng 7 vẫn là cơ hội tốt để lock lãi dài hạn trước khi điều chỉnh lan rộng."
       },
       {
-        "name": "Big4 về 6.5-6.6%/12T cuối Q3/2026 — xác suất ~72%",
-        "pct": 72,
+        "name": "Big4 về 6.5-6.6%/12T cuối Q3/2026 — xác suất ~70-72%",
+        "pct": 71,
         "direction": "down",
         "bar": "fm",
-        "desc": "Big4 điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3 với xác suất ~72%. CLARITY Act tiến triển + Fed dovish signals vẫn là catalysts bổ sung."
+        "desc": "Big4 điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3 với xác suất ~70-72%. Chứng khoán Mỹ lập kỷ lục và Fed dovish signals vẫn là catalysts bổ sung."
       },
       {
-        "name": "Lãi suất thực tế 9.2%/năm tại một số NH tư nhân có thể hạ nhiệt khi TDH 40% ngấm sâu hơn",
-        "pct": 50,
+        "name": "Lãi suất cộng thêm khuyến mãi có thể tiếp tục hạ nhiệt sau động thái của Techcombank",
+        "pct": 55,
         "direction": "down",
         "bar": "fm",
-        "desc": "Cạnh tranh huy động ngầm dự báo giảm dần trong 2-4 tuần tới khi TDH 40% phát huy hiệu quả đầy đủ, nhưng khó về ngay mức niêm yết công khai."
+        "desc": "Sau khi Techcombank giảm mức cộng thêm, nhiều khả năng thêm một số NH tư nhân khác sẽ điều chỉnh giảm ưu đãi khuyến mãi trong 2-4 tuần tới khi TDH 40% ngấm sâu hơn."
       },
       {
         "name": "FOMC 28-29/7 — catalyst lớn nhất tháng 7 cho lãi suất VN, vàng và BTC",
         "pct": 60,
         "direction": "down",
         "bar": "fm",
-        "desc": "FOMC 28-29/7 là event quyết định. Fed cắt hoặc dovish pivot → NHNN mở window điều chỉnh, vàng test $4,250+, BTC test $65,000+. Fed giữ hawkish → retest $4,100 và $58,000."
+        "desc": "FOMC 28-29/7 là event quyết định. Fed cắt hoặc dovish pivot → NHNN mở window điều chỉnh, vàng test $4,250+, BTC test $65,000+. Fed giữ hawkish → retest $4,100 và $60,000."
       }
     ],
-    "rate_outlook_label": "6/7 Thứ Hai — Saigonbank 7.9%; ACB/HLBank 7.3%; Big4 6.8% ổn định niêm yết; lãi suất thực tế một số NH chạm 9.2%; FOMC 28-29/7 catalyst",
+    "rate_outlook_label": "7/7 Thứ Ba — Big4 6.8%; ACB 7.3% dẫn đầu niêm yết chuẩn; Techcombank giảm lãi cộng thêm; PVcomBank vẫn 10% đặc biệt; FOMC 28-29/7 catalyst",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "6/7 (Thứ Hai): Biểu lãi suất niêm yết công khai ổn định đầu tuần, không có điều chỉnh mới. Saigonbank 7.9%/13T; HLBank/ACB 7.3%/12T; Big4 6.8%/12T. Đáng chú ý, lãi suất huy động thực tế tại một số NH tư nhân âm thầm chạm 9.2%/năm cho khách gửi online kỳ hạn 12 tháng, số dư lớn — cao hơn nhiều biểu niêm yết công khai. TDH 40% tiếp tục giảm áp lực huy động chính thức nhưng cạnh tranh ngầm vẫn gay gắt. CLARITY Act tiến triển tại Mỹ + Fed dovish signals → window NHNN điều chỉnh sớm hơn xác suất ~45-50%. Catalyst chính: FOMC 28-29/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3.",
+    "rate_outlook_text": "7/7 (Thứ Ba): Biểu lãi suất niêm yết công khai ổn định, không có điều chỉnh mới. Big4 6.8%/12T; ACB 7.3%/12T dẫn đầu nhóm niêm yết chuẩn. Điểm mới: Techcombank giảm lãi suất cộng thêm cho gói tiết kiệm online 6 tháng từ 1%→0.8%, đưa lãi thực nhận tối đa về 7.35%/năm — tín hiệu sớm cho xu hướng hạ nhiệt khuyến mãi. PVcomBank vẫn niêm yết đặc biệt cao nhất hệ thống 10%/năm cho khách VIP số dư từ 2,000 tỷ. TDH 40% tiếp tục giảm áp lực huy động chính thức. Catalyst chính: FOMC 28-29/7. Dự báo: Big4 về 6.5-6.6%; top tư nhân về 7.0% cuối Q3.",
     "rate_sources": [
       {
-        "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 3/7/2026",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-7-2026-lai-suat-huy-dong-am-tham-len-9-2-nam-2531999.html"
+        "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 6/7/2026",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-6-7-2026-ong-lon-tu-nhan-giam-lai-suat-cong-them-2532919.html"
       },
       {
         "name": "webgia.com — Lãi suất tháng 7/2026",
@@ -597,7 +620,8 @@
       "03/07",
       "04/07",
       "05/07",
-      "06/07"
+      "06/07",
+      "07/07"
     ],
     "sjc": [
       152.8,
@@ -785,7 +809,8 @@
       148.5,
       149.0,
       148.5,
-      146.0
+      146.0,
+      145.3
     ],
     "world_vnd": [
       121,
@@ -973,7 +998,8 @@
       131.4,
       133.3,
       132.6,
-      133.0
+      133.0,
+      132.3
     ]
   }
 }
