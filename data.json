@@ -1,150 +1,150 @@
 {
   "meta": {
-    "date": "10 tháng 7, 2026",
-    "day": "Thứ Sáu",
-    "updated": "2026-07-10 07:10"
+    "date": "12 tháng 7, 2026",
+    "day": "Chủ Nhật",
+    "updated": "2026-07-12 22:40"
   },
   "alert": {
-    "type": "green",
-    "text": "🟢 <b>10/7 — Thứ Sáu:</b> Vàng thế giới phục hồi lên ~$4,029.9/oz (tăng +$52.2 so với cùng giờ hôm qua) sau khi test đáy gần $4,000; SJC trong nước tăng theo, Phú Quý/DOJI/Bảo Tín Minh Châu niêm yết 144.6-149 triệu đồng/lượng (tăng 300-500 nghìn đồng/lượng). BTC ~$63,257.52 (+1.56%), phục hồi sau đợt bán tháo do căng thẳng Iran. Chứng khoán Mỹ (phiên 9/7): Nasdaq +1.30% lên 26,206.89, S&P500 +0.81% lên 7,543.64, Dow +0.27% lên 52,487.41 — tâm lý risk-on trở lại dù lợi suất TPCP Mỹ vẫn neo cao ~4.58%. Anthropic đóng vòng gọi vốn định giá 965 tỷ USD vượt OpenAI, nộp hồ sơ IPO bí mật; OpenAI chuẩn bị ra mắt GPT-5.6. <b>Lãi suất: không có điều chỉnh mới, NCB vẫn niêm yết cao nhất hệ thống 9.2%/năm (36T); Big4 ổn định 6.8%/12T.</b>"
+    "type": "yellow",
+    "text": "🟡 <b>12/7 — Chủ Nhật:</b> Vàng thế giới chốt tuần đi ngang quanh $4,121/oz (giảm nhẹ -$1 so với hôm qua), SJC trong nước niêm yết 146.9-149.9 triệu đồng/lượng, giảm 1.5 triệu đồng/lượng so với cuối tuần trước do lợi suất TPCP Mỹ tăng và USD Index neo cao 100.87. BTC ~$63,800 (+0.86%). Chứng khoán Mỹ chốt tuần tăng nhẹ (10/7): S&P500 +0.42% lên 7,575.39, Nasdaq +0.29% lên 26,281.61, Dow +0.29% lên 52,637.01, được hỗ trợ bởi màn ra mắt Nasdaq thành công của SK Hynix (thương vụ ADR lớn nhất lịch sử, 28-29 tỷ USD). Apple kiện OpenAI (11/7) cáo buộc đánh cắp bí mật thương mại, liên quan hơn 400 cựu nhân viên Apple; OpenAI chuẩn bị nộp hồ sơ IPO bí mật, định giá tư nhân ~730 tỷ USD, có thể niêm yết sớm nhất tháng 9/2026. <b>Lãi suất: cuối tuần không có điều chỉnh mới, NCB vẫn niêm yết cao nhất hệ thống 9.2%/năm (36T); Big4 ổn định 6.8%/12T.</b>"
   },
   "news_ai": [
     {
-      "title": "Anthropic đóng vòng gọi vốn ở định giá 965 tỷ USD, vượt OpenAI; đã nộp hồ sơ IPO bí mật",
+      "title": "Apple kiện OpenAI vì cáo buộc đánh cắp bí mật thương mại, liên quan hơn 400 cựu nhân viên Apple",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic vừa hoàn tất vòng gọi vốn mới đưa định giá công ty lên 965 tỷ USD, chính thức vượt qua OpenAI để trở thành startup AI giá trị nhất. Công ty cũng đã âm thầm nộp hồ sơ IPO bảo mật, mở đường cho khả năng niêm yết trong tương lai gần.",
+      "body": "Ngày 11/7, Apple đã đệ đơn kiện OpenAI lên tòa liên bang Bắc California, cáo buộc công ty này đánh cắp bí mật thương mại thông qua việc tuyển dụng có hệ thống hơn 400 cựu nhân viên Apple từ các mảng thiết kế chip, AI trên thiết bị và phần cứng — coi đây là một chiến dịch phối hợp để khai thác công nghệ bảo mật, không đơn thuần là dịch chuyển nhân sự thông thường.",
+      "source": "Legal/tech industry reports, 7/2026",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+    },
+    {
+      "title": "OpenAI chuẩn bị nộp hồ sơ IPO bí mật cùng Goldman Sachs, Morgan Stanley; định giá ~730 tỷ USD",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "OpenAI đang chuẩn bị hồ sơ IPO bảo mật với sự tư vấn của Goldman Sachs và Morgan Stanley, hướng tới khả năng niêm yết công khai sớm nhất vào tháng 9/2026 ở mức định giá tư nhân khoảng 730 tỷ USD. Nếu thành hiện thực, đây sẽ là đợt IPO công nghệ lớn nhất lịch sử.",
+      "source": "Tech/finance industry reports, 7/2026",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+    },
+    {
+      "title": "SK Hynix niêm yết Nasdaq (mã SKHY), thương vụ ADR lớn nhất lịch sử 28-29 tỷ USD",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "SK Hynix chính thức giao dịch trên Nasdaq từ 10/7 với mã SKHY, đợt phát hành ADR trị giá 28-29 tỷ USD, định giá 149-166 USD/cổ phiếu — vượt qua thương vụ Alibaba năm 2014 (21.8 tỷ USD) để trở thành đợt niêm yết ADR lớn nhất lịch sử, phản ánh nhu cầu bùng nổ với chip nhớ phục vụ AI.",
+      "source": "Hardware/finance industry reports, 7/2026",
+      "source_url": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html"
+    },
+    {
+      "title": "Gemini 3.5 Pro của Google ra mắt 17/7 với cửa sổ ngữ cảnh 2 triệu token, chế độ Deep Think",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Google chuẩn bị ra mắt Gemini 3.5 Pro vào ngày 17/7 với cửa sổ ngữ cảnh lên tới 2 triệu token, chế độ suy luận sâu Deep Think trên gói Ultra 250 USD/tháng, và giá API khoảng 1.25 USD/triệu token đầu vào — tiếp tục cuộc đua cạnh tranh mô hình với Grok 4.5 và GPT-5.6.",
       "source": "AI industry reports, 7/2026",
-      "source_url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/"
-    },
-    {
-      "title": "OpenAI chuẩn bị ra mắt GPT-5.6 sau đánh giá an ninh của chính phủ Mỹ; đề xuất Washington nắm 5% cổ phần",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "OpenAI dự kiến ra mắt GPT-5.6 — mô hình mạnh nhất từ trước đến nay — ngay sau khi hoàn tất đánh giá an ninh từ chính phủ Mỹ. Công ty cũng đề xuất để chính phủ Mỹ nắm giữ 5% cổ phần, tương đương khoảng 42.6 tỷ USD theo định giá tư nhân hiện tại.",
-      "source": "Tech industry reports, 7/2026",
-      "source_url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html"
-    },
-    {
-      "title": "VC toàn cầu đạt kỷ lục 510 tỷ USD nửa đầu 2026; OpenAI và Anthropic chiếm 43% tổng vốn",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Vốn đầu tư mạo hiểm toàn cầu 6 tháng đầu năm 2026 đạt mức kỷ lục 510 tỷ USD, trong đó riêng OpenAI và Anthropic đã hút về 217 tỷ USD — tương đương 43% tổng vốn khởi nghiệp toàn cầu, cho thấy dòng tiền tiếp tục đổ dồn vào nhóm dẫn đầu AI.",
-      "source": "Startup funding reports, 7/2026",
-      "source_url": "https://aitoolsrecap.com/Blog/ai-news-july-3-2026"
-    },
-    {
-      "title": "Nvidia ra mắt Nemotron-Labs-TwoTower — mô hình ngôn ngữ diffusion mã nguồn mở, tăng thông lượng 2.42 lần",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "NVIDIA giới thiệu Nemotron-Labs-TwoTower, một mô hình ngôn ngữ diffusion mã nguồn mở có khả năng sinh văn bản song song, đạt thông lượng cao hơn 2.42 lần so với baseline trong khi vẫn giữ được 98.7% chất lượng đầu ra — bước tiến đáng chú ý về phần cứng/hạ tầng suy luận AI.",
-      "source": "Hardware/AI industry reports, 7/2026",
-      "source_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "green",
-      "text": "🟢 Chứng khoán Mỹ phiên 9/7 phục hồi: Nasdaq +1.30% lên 26,206.89, S&P500 +0.81% lên 7,543.64, Dow +0.27% lên 52,487.41, dẫn dắt bởi nhóm bán dẫn (SMH +2.5%, Micron +4.5%, Sandisk +7.6%). Vàng thế giới bật tăng lên ~$4,029.9/oz (+$52.2) sau khi test đáy gần $4,000, dù HSBC vừa hạ dự báo giá vàng trung bình 2026 xuống 4,560 USD/oz. BTC ~$63,257.52 (+1.56%), phục hồi sau đợt bán tháo liên quan căng thẳng Iran. Lợi suất TPCP Mỹ kỳ hạn 10 năm vẫn neo quanh 4.58% (đỉnh 4 tuần); giá dầu vẫn cao do căng thẳng Trung Đông. Delta Air Lines báo cáo lợi nhuận hôm nay, PepsiCo gây thất vọng nhẹ."
+      "type": "yellow",
+      "text": "🟡 Chứng khoán Mỹ chốt tuần (10/7) tăng nhẹ: S&P500 +0.42% lên 7,575.39, Nasdaq +0.29% lên 26,281.61, Dow +0.29% lên 52,637.01, được hỗ trợ bởi màn ra mắt Nasdaq thành công của SK Hynix và kỳ vọng đàm phán ngừng bắn Mỹ-Iran. Vàng thế giới đi ngang cuối tuần quanh $4,121/oz do lợi suất TPCP Mỹ neo cao (~4.55%/10 năm) và USD Index ở mức 100.87; SJC trong nước giảm 1.5 triệu đồng/lượng trong tuần còn 146.9-149.9 triệu đồng/lượng. BTC ~$63,800 (+0.86%). Thị trường đang chờ báo cáo CPI tháng 6 của Mỹ và phiên điều trần của Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7."
     },
     "items": [
       {
-        "title": "Chứng khoán Mỹ phục hồi: Nasdaq +1.30% lên 26,206.89, dẫn dắt bởi nhóm bán dẫn",
+        "title": "Chứng khoán Mỹ chốt tuần tăng nhẹ: S&P500 +0.42% lên 7,575.39, SK Hynix niêm yết Nasdaq thành công",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Phiên 9/7, Nasdaq tăng 1.30% lên 26,206.89 điểm, S&P500 tăng 0.81% lên 7,543.64, Dow Jones tăng 139.02 điểm (+0.27%) lên 52,487.41. Nhóm bán dẫn dẫn dắt đà tăng với VanEck Semiconductor ETF (SMH) +2.5%, Micron +4.5%, Sandisk +7.6%, dù căng thẳng Mỹ-Iran tại Eo biển Hormuz vẫn phủ bóng thị trường.",
-        "source": "Yahoo Finance / CNBC, 9/7/2026",
-        "source_url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html"
+        "body": "Phiên 10/7, S&P500 tăng 0.42% lên 7,575.39, Nasdaq tăng 0.29% lên 26,281.61, Dow Jones tăng 149.60 điểm (+0.29%) lên 52,637.01. Đà tăng được hỗ trợ bởi màn ra mắt thành công của SK Hynix trên Nasdaq (mã SKHY) — thương vụ ADR lớn nhất lịch sử — và tín hiệu tích cực từ đàm phán ngừng bắn Mỹ-Iran.",
+        "source": "Yahoo Finance, 10/7/2026",
+        "source_url": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html"
       },
       {
-        "title": "Vàng thế giới bật tăng lên ~$4,029.9/oz (+$52.2), HSBC hạ dự báo giá vàng trung bình 2026 xuống 4,560 USD",
+        "title": "Vàng thế giới chốt tuần đi ngang quanh $4,121/oz; SJC trong nước giảm 1.5 triệu đồng/lượng trong tuần",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Giá vàng giao ngay sáng 10/7 phục hồi lên quanh $4,029.9/oz, tăng 52.2 USD so với cùng thời điểm hôm trước, sau khi từng lùi sát mốc tâm lý $4,000. Trong nước, SJC/DOJI/Phú Quý/Bảo Tín Minh Châu đồng loạt tăng 300-500 nghìn đồng/lượng lên 144.6-149 triệu đồng/lượng. HSBC vừa hạ dự báo giá vàng trung bình 2026 từ 4,864 xuống 4,560 USD/oz do Fed duy trì lãi suất cao lâu hơn và USD mạnh lên.",
-        "source": "techz.vn, 10/7/2026",
-        "source_url": "https://www.techz.vn/216-726-5-gia-vang-hom-nay-10-7-vang-sjc-nhan-9999-dong-loat-doi-gia-canh-bao-lo-to-neu-luot-song-ylt700640.html"
+        "body": "Giá vàng giao ngay chốt tuần ở mức khoảng $4,121/oz, giảm nhẹ so với phiên liền trước do lợi suất TPCP Mỹ kỳ hạn 10 năm neo quanh 4.55% và USD Index ở mức 100.87. Trong nước, vàng miếng SJC niêm yết 146.9-149.9 triệu đồng/lượng, giảm 1.5 triệu đồng/lượng so với cuối tuần trước; vàng nhẫn SJC giảm 1.7 triệu đồng/lượng còn 146.6-149.6 triệu đồng/lượng.",
+        "source": "vietnamnet.vn, 12/7/2026",
+        "source_url": "https://vietnamnet.vn/gia-vang-hom-nay-12-7-2026-cuoi-tuan-chim-sau-vang-sjc-giam-1-5-trieu-dong-2534834.html"
       },
       {
-        "title": "BTC ~$63,257.52 (+1.56%) — phục hồi sau đợt bán tháo do căng thẳng Iran",
+        "title": "BTC ~$63,800 (+0.86%) — dao động ổn định quanh vùng $63,700-63,850",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin tăng trở lại lên khoảng $63,257.52, tăng 1.56% so với phiên trước, khi tâm lý risk-on quay lại thị trường tài sản số sau chuỗi giảm liên quan tới căng thẳng Mỹ-Iran. Diễn biến này đồng pha với đà phục hồi của chứng khoán Mỹ và vàng thế giới.",
-        "source": "Yahoo Finance, 10/7/2026",
+        "body": "Bitcoin giao dịch ổn định trong vùng $63,700-63,850, tăng nhẹ 0.86% so với phiên trước, khi thị trường tài sản số đi ngang theo nhịp chứng khoán Mỹ cuối tuần, chờ dữ liệu CPI tháng 6 và phiên điều trần của Chủ tịch Fed Kevin Warsh.",
+        "source": "Yahoo Finance / MetaMask, 12/7/2026",
         "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>10/7 — Thứ Sáu:</b> Vàng thế giới phục hồi lên ~$4,029.9/oz (+$52.2 so với hôm qua) sau khi test đáy gần $4,000. SJC ~148.8M; world_vnd ~128.1M; premium ~20.7M. BTC ~$63,257.52 (+1.56%). Chứng khoán Mỹ tăng mạnh phiên 9/7 (Nasdaq +1.30%, S&P500 +0.81%, Dow +0.27%). HSBC hạ dự báo giá vàng trung bình 2026 xuống 4,560 USD (từ 4,864 USD); dự báo vàng dao động 3,800-4,700 USD trong các tháng còn lại của năm.",
+    "summary": "🟡 <b>12/7 — Chủ Nhật:</b> Vàng thế giới chốt tuần đi ngang quanh $4,121/oz. SJC ~149.9M (bán ra); world_vnd ~131.0M; premium ~18.9M. BTC ~$63,800 (+0.86%). Chứng khoán Mỹ chốt tuần tăng nhẹ (S&P500 +0.42%, Nasdaq +0.29%, Dow +0.29%), SK Hynix niêm yết Nasdaq thành công. Thị trường chờ CPI tháng 6 Mỹ và điều trần Fed Chair Warsh ngày 14/7; kỹ thuật vàng vẫn nghiêng giảm ngắn hạn khi dưới MA20 ngày.",
     "factors": [
       {
-        "name": "Vàng thế giới ~$4,029.9/oz (10/7) — phục hồi kỹ thuật +$52.2 (~+1.3%) sau khi test đáy gần $4,000",
-        "pct": 55,
-        "direction": "up",
+        "name": "Vàng thế giới ~$4,121/oz (12/7) — đi ngang cuối tuần, giảm nhẹ so với phiên trước",
+        "pct": 50,
+        "direction": "down",
         "bar": "fm",
-        "desc": "Vàng bật tăng trở lại lên $4,029.9/oz sau chuỗi giảm sâu trước đó, được xem là nhịp phục hồi kỹ thuật. Ngưỡng $4,000 tiếp tục đóng vai trò hỗ trợ tâm lý quan trọng; kháng cự gần nhất quanh $4,100-$4,120."
+        "desc": "Vàng chốt tuần giao dịch quanh $4,121/oz, gần như đi ngang so với phiên liền trước ($4,122.96), thiếu động lực mới khi thị trường trong nước và thế giới đều chờ dữ liệu CPI tháng 6 của Mỹ. Hỗ trợ gần nhất quanh $4,021/oz, kháng cự $4,138/oz."
       },
       {
-        "name": "SJC trong nước tăng theo: Phú Quý/DOJI/Bảo Tín Minh Châu niêm yết 144.6-149M, tăng 300-500 nghìn đồng/lượng",
-        "pct": 48,
-        "direction": "up",
+        "name": "SJC trong nước giảm 1.5 triệu đồng/lượng trong tuần, còn 146.9-149.9M",
+        "pct": 45,
+        "direction": "down",
         "bar": "fm",
-        "desc": "Vàng miếng SJC và vàng nhẫn 9999 đồng loạt tăng giá tại các doanh nghiệp lớn, lực cầu có dấu hiệu cải thiện. Tuy nhiên biên độ chênh lệch mua-bán vẫn ở mức cao (3-4 triệu đồng/lượng), tiềm ẩn rủi ro cho nhà đầu tư lướt sóng ngắn hạn."
+        "desc": "Vàng miếng SJC và vàng nhẫn 9999 đồng loạt giảm trong tuần qua, phản ánh áp lực từ lợi suất TPCP Mỹ tăng và USD mạnh lên. Biên độ chênh lệch mua-bán vẫn ở mức cao (~3 triệu đồng/lượng)."
       },
       {
-        "name": "BTC ~$63,257.52 (+1.56%) — phục hồi sau đợt bán tháo liên quan căng thẳng Iran",
+        "name": "BTC ~$63,800 (+0.86%) — dao động ổn định cuối tuần",
         "pct": 52,
         "direction": "up",
         "bar": "fm",
-        "desc": "Bitcoin phục hồi cùng nhịp với chứng khoán Mỹ khi tâm lý risk-on quay lại, sau đợt giảm mạnh vì lo ngại xung đột Mỹ-Iran leo thang."
+        "desc": "Bitcoin duy trì vùng $63,700-63,850, tăng nhẹ so với phiên trước, đi ngang cùng nhịp thị trường tài sản rủi ro khi nhà đầu tư chờ tín hiệu vĩ mô mới."
       },
       {
-        "name": "Chứng khoán Mỹ tăng mạnh phiên 9/7: Nasdaq +1.30%, S&P500 +0.81%, Dow +0.27%, dẫn dắt bởi nhóm bán dẫn",
-        "pct": 60,
+        "name": "Chứng khoán Mỹ chốt tuần tăng nhẹ: S&P500 +0.42%, Nasdaq +0.29%, Dow +0.29%; SK Hynix niêm yết Nasdaq thành công",
+        "pct": 58,
         "direction": "up",
         "bar": "fh",
-        "desc": "Thị trường chứng khoán Mỹ hồi phục mạnh nhờ nhóm cổ phiếu bán dẫn (Micron +4.5%, Sandisk +7.6%), dù căng thẳng tại Eo biển Hormuz vẫn khiến nhà đầu tư thận trọng. Lợi suất TPCP 10 năm neo quanh 4.58%, đỉnh 4 tuần."
+        "desc": "Thị trường chứng khoán Mỹ khép lại tuần giao dịch nhiều biến động trong sắc xanh, được hỗ trợ bởi màn ra mắt Nasdaq thành công của SK Hynix (thương vụ ADR lớn nhất lịch sử) và tín hiệu tích cực từ đàm phán ngừng bắn Mỹ-Iran."
       },
       {
-        "name": "HSBC hạ dự báo giá vàng trung bình 2026 xuống 4,560 USD (từ 4,864 USD); ETF vàng toàn cầu bị rút ròng 8.9 tỷ USD trong tháng 6",
-        "pct": 62,
+        "name": "Báo cáo việc làm tháng 6 Mỹ yếu (chỉ +57,000, bằng nửa dự báo) — thị trường chờ CPI và điều trần Fed Chair Warsh ngày 14/7",
+        "pct": 60,
         "direction": "down",
-        "bar": "fm",
-        "desc": "HSBC hạ dự báo giá vàng trung bình 2026 từ 4,864 xuống 4,560 USD/oz và 2027 từ 5,000 xuống 4,925 USD/oz, do Fed duy trì lãi suất cao lâu hơn và USD mạnh lên. Dù vậy, tính chung 6 tháng đầu năm, ETF vàng toàn cầu vẫn hút ròng ~8 tỷ USD, lượng nắm giữ tăng thêm 18 tấn lên 4,047 tấn."
+        "bar": "fh",
+        "desc": "Kinh tế Mỹ chỉ tạo thêm 57,000 việc làm trong tháng 6, khoảng một nửa dự báo, số liệu tháng 4-5 bị điều chỉnh giảm tổng cộng 74,000. Dữ liệu yếu làm tăng kỳ vọng Fed nới lỏng, nhưng biên bản họp Fed vẫn nhấn mạnh rủi ro lạm phát khiến nhà đầu tư thận trọng, chờ CPI tháng 6 và điều trần Chủ tịch Fed Kevin Warsh ngày 14/7."
       }
     ],
-    "outlook_label": "Vàng ~$4,029.9/oz (10/7 Thứ Sáu) — phục hồi +$52.2 sau khi test đáy $4,000; SJC ~148.8M; BTC $63,257; chứng khoán Mỹ tăng mạnh",
-    "outlook_class": "pbg",
-    "outlook_text": "10/7 (Thứ Sáu): Vàng thế giới phục hồi lên ~$4,029.9/oz, tăng 52.2 USD so với cùng thời điểm hôm qua, sau khi từng lùi sát mốc tâm lý $4,000/oz. Giới phân tích đánh giá đây chủ yếu là nhịp phục hồi kỹ thuật, thị trường vẫn chịu sức ép từ chính sách tiền tệ Mỹ, đồng USD và lợi suất trái phiếu Chính phủ Mỹ. SJC trong nước tăng theo: Phú Quý 145.3-149M, DOJI 146-149M, Bảo Tín Minh Châu 144.6-148.6M (tăng 300-500 nghìn đồng/lượng); world_vnd ước tính ~128.1M, premium ~20.7M. BTC ~$63,257.52 (+1.56%), phục hồi cùng nhịp risk-on. Chứng khoán Mỹ tăng mạnh phiên 9/7: Nasdaq +1.30% lên 26,206.89, S&P500 +0.81% lên 7,543.64, Dow +0.27% lên 52,487.41, dẫn dắt bởi nhóm bán dẫn. HSBC vừa hạ dự báo giá vàng trung bình 2026 xuống 4,560 USD/oz (từ 4,864 USD) và dự báo vàng dao động 3,800-4,700 USD trong các tháng còn lại năm 2026, kết thúc năm quanh 4,750 USD. Hỗ trợ vàng: $4,000. Kháng cự: $4,100-$4,120. Nhà đầu tư cần thận trọng với rủi ro lướt sóng khi biên độ mua-bán trong nước vẫn cao (3-4 triệu đồng/lượng).",
+    "outlook_label": "Vàng ~$4,121/oz (12/7 Chủ Nhật) — chốt tuần đi ngang; SJC ~149.9M (-1.5M/tuần); BTC $63,800; chứng khoán Mỹ tăng nhẹ, SK Hynix niêm yết Nasdaq",
+    "outlook_class": "pbe",
+    "outlook_text": "12/7 (Chủ Nhật): Vàng thế giới chốt tuần giao dịch quanh $4,121/oz, gần như đi ngang so với phiên liền trước khi cả thị trường trong nước và quốc tế thiếu động lực mới. Lợi suất TPCP Mỹ kỳ hạn 10 năm neo quanh 4.55%, kỳ hạn 2 năm trên 4.2%, USD Index ở mức 100.87 tiếp tục tạo áp lực lên vàng. Trong nước, SJC niêm yết 146.9-149.9 triệu đồng/lượng, giảm 1.5 triệu đồng/lượng trong tuần; vàng nhẫn SJC giảm 1.7 triệu đồng/lượng còn 146.6-149.6 triệu; world_vnd ước tính ~131.0M, premium ~18.9M. BTC ~$63,800 (+0.86%), dao động ổn định cuối tuần. Chứng khoán Mỹ chốt tuần tăng nhẹ (10/7): S&P500 +0.42% lên 7,575.39, Nasdaq +0.29% lên 26,281.61, Dow +0.29% lên 52,637.01, được hỗ trợ bởi màn niêm yết Nasdaq thành công của SK Hynix. Về kỹ thuật, vàng vẫn nghiêng về xu hướng giảm ngắn hạn khi nằm dưới đường trung bình động 20 ngày; nếu vượt $4,138 có thể hướng tới $4,203 rồi $4,352, ngược lại nếu mất $4,021 có thể lùi về $3,942 rồi $3,886. Thị trường đang chờ báo cáo CPI tháng 6 Mỹ và phiên điều trần của Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7 để định hướng xu hướng tiếp theo.",
     "sources": [
       {
-        "name": "techz.vn — Giá vàng hôm nay 10/7",
-        "url": "https://www.techz.vn/216-726-5-gia-vang-hom-nay-10-7-vang-sjc-nhan-9999-dong-loat-doi-gia-canh-bao-lo-to-neu-luot-song-ylt700640.html"
+        "name": "vietnamnet.vn — Giá vàng hôm nay 12/7/2026 cuối tuần chìm sâu",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-12-7-2026-cuoi-tuan-chim-sau-vang-sjc-giam-1-5-trieu-dong-2534834.html"
       },
       {
-        "name": "Yahoo Finance — Bitcoin price history",
+        "name": "Yahoo Finance — Stock market today, Friday July 10 2026",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html"
+      },
+      {
+        "name": "Yahoo Finance / MetaMask — Bitcoin price today",
         "url": "https://finance.yahoo.com/quote/BTC-USD/history/"
-      },
-      {
-        "name": "Yahoo Finance — Stock market today, July 9 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 10/7 (Thứ Sáu): Không ghi nhận điều chỉnh lãi suất huy động mới trong ngày. NCB (Ngân hàng Quốc Dân) tiếp tục là nhà băng niêm yết công khai cao nhất hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng). HLBank dẫn đầu nhóm niêm yết chuẩn quầy với 7.3%/năm (12T); MBV, MB, OCB giữ 7%/năm. Big4 ổn định 6.8%/12T. Thị trường tiếp tục chờ tín hiệu từ biên bản họp Fed tháng 6 và diễn biến căng thẳng Iran để định hướng room điều chỉnh tiếp theo.",
+    "alert": "📊 12/7 (Chủ Nhật): Cuối tuần không ghi nhận điều chỉnh lãi suất huy động mới. NCB (Ngân hàng Quốc Dân) tiếp tục niêm yết công khai cao nhất hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng). Nhóm quốc doanh (Vietcombank, BIDV, Agribank, VietinBank) không có nhiều thay đổi so với những ngày trước, giữ 6.8%/năm kỳ hạn 12 tháng. Thị trường tiếp tục chờ báo cáo CPI tháng 6 của Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7 để định hướng room điều chỉnh tiếp theo.",
     "highlights": [
       {
         "label": "NCB tiếp tục niêm yết cao nhất hệ thống 9.2%/năm — không đổi",
         "value": "9.2%",
         "sub": "Sản phẩm NCB Signature Saving, kỳ hạn 36 tháng; các kỳ hạn ngắn hơn: 8.6%/6T, 8.7%/9T, 8.8%/12T, 8.9%/13T, 9%/15T, 9.1%/24T",
-        "note": "Không có ngân hàng nào công bố mức niêm yết công khai cao hơn NCB trong ngày 10/7."
+        "note": "Không có ngân hàng nào công bố mức niêm yết công khai cao hơn NCB tính đến 12/7."
       },
       {
-        "label": "HLBank dẫn đầu nhóm niêm yết chuẩn quầy với 7.3%/năm (12T)",
-        "value": "7.3%",
+        "label": "ACB niêm yết trực tuyến kỳ hạn 6 tháng lên tới 7.1%/năm, thuộc nhóm 4 NH có kỳ hạn 6T từ 7%/năm",
+        "value": "7.1%",
         "sub": "MBV (OceanBank), MB, OCB giữ 7%/năm; BacABank 6.9%/12T",
-        "note": "Thứ hạng nhóm dẫn đầu niêm yết chuẩn ổn định so với các ngày trước, không có xáo trộn lớn."
+        "note": "Nhóm dẫn đầu niêm yết chuẩn ổn định so với các ngày trước, không có xáo trộn lớn."
       },
       {
         "label": "PVcomBank 10%/năm — lãi suất đặc biệt cao nhất hệ thống",
@@ -153,10 +153,10 @@
         "note": "Không đại diện cho lãi suất phổ biến trên thị trường, chỉ áp dụng cho khách hàng số dư siêu lớn."
       },
       {
-        "label": "Big4 ổn định 6.8%/12T",
+        "label": "Big4 ổn định 6.8%/12T, không có nhiều thay đổi so với các ngày trước",
         "value": "6.8%",
         "sub": "BIDV, Vietcombank, Agribank, VietinBank — 6.8%/12T; dự báo về 6.5-6.6% cuối Q3",
-        "note": "Big4 giữ nguyên 6.8%/12T, không có điều chỉnh mới trong ngày 10/7. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở khoảng 70-72%, chờ tín hiệu từ biên bản họp Fed tháng 6 và diễn biến Iran."
+        "note": "Big4 giữ nguyên 6.8%/12T trong tuần. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở khoảng 70-72%, chờ CPI tháng 6 Mỹ và điều trần Fed Chair Warsh 14/7."
       }
     ],
     "banks": [
@@ -339,16 +339,16 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 10/7 (Thứ Sáu): Không có điều chỉnh mới, NCB vẫn dẫn đầu hệ thống với 9.2%/năm",
-      "body": "Ngày 10/7/2026 (Thứ Sáu), thị trường lãi suất huy động không ghi nhận điều chỉnh đáng chú ý nào so với phiên trước. NCB (Ngân hàng Quốc Dân) tiếp tục là ngân hàng niêm yết công khai mức lãi suất cao nhất hệ thống với 9.2%/năm cho sản phẩm NCB Signature Saving, kỳ hạn 36 tháng. Nhóm niêm yết chuẩn quầy tiếp tục dẫn đầu bởi HLBank (7.3%/12T), theo sau là MBV, MB, OCB (7%/năm) và BacABank (6.9%/12T). Big4 (BIDV, Vietcombank, Agribank, VietinBank) giữ nguyên 6.8%/12T. Nhóm lãi suất đặc biệt số dư siêu lớn (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank 8.9%) không đổi. Dự báo: Big4 về 6.5-6.6% cuối Q3/2026; nhóm niêm yết chuẩn tư nhân giữ quanh 7.0-7.3%. Catalyst chính vẫn là biên bản họp Fed tháng 6 (FOMC minutes) và diễn biến căng thẳng Iran, dù thị trường chứng khoán Mỹ đã có dấu hiệu ổn định trở lại trong phiên 9/7.",
+      "title": "Lãi suất 12/7 (Chủ Nhật): Cuối tuần đi ngang, NCB vẫn dẫn đầu hệ thống với 9.2%/năm",
+      "body": "Ngày 12/7/2026 (Chủ Nhật), thị trường lãi suất huy động tiếp tục đi ngang, không ghi nhận điều chỉnh đáng chú ý so với phiên cuối tuần trước (11/7). NCB (Ngân hàng Quốc Dân) tiếp tục là ngân hàng niêm yết công khai mức lãi suất cao nhất hệ thống với 9.2%/năm cho sản phẩm NCB Signature Saving, kỳ hạn 36 tháng. Ở nhóm quốc doanh, mặt bằng lãi suất không có nhiều thay đổi so với những ngày trước: Vietcombank, BIDV, VietinBank, Agribank giữ quanh 6.8%/năm kỳ hạn 12 tháng. Nhóm niêm yết chuẩn quầy tư nhân (ACB, MBV, MB, OCB) giữ quanh 7-7.1%/12T. Nhóm lãi suất đặc biệt số dư siêu lớn (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank 8.9%) không đổi. Dự báo: Big4 về 6.5-6.6% cuối Q3/2026; nhóm niêm yết chuẩn tư nhân giữ quanh 7.0-7.3%. Catalyst chính vẫn là báo cáo CPI tháng 6 của Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7, dù chứng khoán Mỹ đã có tuần tăng điểm nhẹ.",
       "sources": [
         {
-          "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 8/7, nhà băng đầu tiên công khai mức 9,2%/năm",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-8-7-nha-bang-dau-tien-cong-khai-muc-9-2-nam-2533575.html"
+          "name": "doanhnghiephoinhap.vn — Lãi suất ngân hàng ngày 11/7/2026: Biến động nhẹ, gửi dài hạn tiếp tục hấp dẫn",
+          "url": "https://doanhnghiephoinhap.vn/lai-suat-ngan-hang-ngay-1172026-bien-dong-nhe-gui-dai-han-tiep-tuc-hap-dan-142916.html"
         },
         {
-          "name": "topi.vn — Lãi suất tiết kiệm ngân hàng nào hấp dẫn tháng 7/2026",
-          "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+          "name": "kenh14.vn — Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank",
+          "url": "https://kenh14.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-215260711180640453.chn"
         },
         {
           "name": "webgia.com — Lãi suất ngân hàng tháng 7/2026",
@@ -386,11 +386,11 @@
         "desc": "TDH nâng từ 30% lên 40% từ 1/7 tiếp tục phát huy hiệu quả, giúp NH tư nhân giảm dần áp lực cạnh tranh huy động chính thức, dù một số NH vẫn tung sản phẩm đặc biệt như NCB để hút vốn dài hạn."
       },
       {
-        "name": "Căng thẳng Iran leo thang, chứng khoán Mỹ giảm mạnh — biên bản họp Fed tháng 6 là catalyst gần nhất",
+        "name": "Báo cáo CPI tháng 6 Mỹ và điều trần Fed Chair Warsh 14/7 là catalyst gần nhất",
         "level": "sub",
         "pct": 58,
         "bar": "fm",
-        "desc": "Chứng khoán Mỹ giảm mạnh sau tuyên bố ngừng bắn Iran chấm dứt, đẩy giá dầu và lợi suất trái phiếu tăng. Biên bản họp Fed tháng 6 sắp công bố sẽ hé lộ rõ hơn quan điểm về lãi suất, ảnh hưởng gián tiếp tới room điều chỉnh của NHNN."
+        "desc": "Báo cáo việc làm tháng 6 Mỹ yếu (chỉ +57,000, bằng nửa dự báo) làm tăng kỳ vọng Fed nới lỏng, nhưng biên bản họp Fed vẫn nhấn mạnh rủi ro lạm phát. Báo cáo CPI tháng 6 và phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7 sẽ là catalyst quyết định cho room điều chỉnh lãi suất của NHNN."
       }
     ],
     "rate_forecast": [
@@ -416,24 +416,24 @@
         "desc": "HLBank, MBV, MB, OCB nhiều khả năng giữ nguyên mức 7%/12T trong ngắn hạn khi TDH 40% đã giảm bớt áp lực huy động chính thức."
       },
       {
-        "name": "Biên bản họp Fed tháng 6 và diễn biến Iran — catalyst lớn nhất tuần này cho lãi suất VN, vàng và BTC",
+        "name": "Báo cáo CPI tháng 6 Mỹ và điều trần Fed Chair Warsh 14/7 — catalyst lớn nhất tuần tới cho lãi suất VN, vàng và BTC",
         "pct": 64,
         "direction": "down",
         "bar": "fm",
-        "desc": "Biên bản họp Fed tháng 6 sắp công bố cùng diễn biến căng thẳng Iran là các sự kiện quyết định. Nếu Fed phát tín hiệu dovish → NHNN có thêm dư địa điều chỉnh; nếu căng thẳng Iran tiếp tục leo thang, áp lực lạm phát từ giá dầu có thể trì hoãn room giảm lãi suất."
+        "desc": "Báo cáo CPI tháng 6 Mỹ (dự báo tương đối ôn hòa nhờ giá xăng giảm ~10%) và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7 là các sự kiện quyết định. Nếu CPI thấp hơn dự báo và Fed phát tín hiệu dovish → NHNN có thêm dư địa điều chỉnh; ngược lại áp lực lạm phát có thể trì hoãn room giảm lãi suất."
       }
     ],
-    "rate_outlook_label": "10/7 Thứ Sáu — Không đổi: NCB niêm yết 9.2%/36T cao nhất hệ thống; Big4 6.8%; HLBank dẫn đầu chuẩn quầy 7.3%; chờ biên bản Fed tháng 6",
+    "rate_outlook_label": "12/7 Chủ Nhật — Không đổi: NCB niêm yết 9.2%/36T cao nhất hệ thống; Big4 6.8%; ACB dẫn đầu chuẩn quầy 7.1%; chờ CPI Mỹ và điều trần Fed Chair Warsh 14/7",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "10/7 (Thứ Sáu): Thị trường lãi suất huy động đi ngang, không có điều chỉnh mới. NCB tiếp tục dẫn đầu hệ thống với mức niêm yết công khai 9.2%/năm (36 tháng). HLBank dẫn đầu nhóm chuẩn quầy với 7.3%/năm; MBV, MB, OCB giữ 7%/năm. Big4 ổn định 6.8%/12T. Các chương trình đặc biệt (PVcomBank 10%, Cake Bank 8.9%, MSB 9%, OCB 8.5%) vẫn duy trì cho khách VIP/số dư lớn. Catalyst chính: biên bản họp Fed tháng 6 và diễn biến căng thẳng Iran — dù chứng khoán Mỹ đã hồi phục trong phiên 9/7, thị trường lãi suất trong nước vẫn thận trọng chờ tín hiệu rõ ràng hơn. Dự báo: Big4 về 6.5-6.6%; top tư nhân giữ quanh 7.0-7.3% cuối Q3.",
+    "rate_outlook_text": "12/7 (Chủ Nhật): Thị trường lãi suất huy động tiếp tục đi ngang cuối tuần, không có điều chỉnh mới. NCB tiếp tục dẫn đầu hệ thống với mức niêm yết công khai 9.2%/năm (36 tháng). ACB dẫn đầu nhóm niêm yết chuẩn trực tuyến kỳ hạn 6 tháng với 7.1%/năm; MBV, MB, OCB giữ 7%/năm. Big4 ổn định 6.8%/12T, không có nhiều thay đổi so với các ngày trước. Các chương trình đặc biệt (PVcomBank 10%, Cake Bank 8.9%, MSB 9%, OCB 8.5%) vẫn duy trì cho khách VIP/số dư lớn. Catalyst chính: báo cáo CPI tháng 6 Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7 — thị trường lãi suất trong nước vẫn thận trọng chờ tín hiệu rõ ràng hơn. Dự báo: Big4 về 6.5-6.6%; top tư nhân giữ quanh 7.0-7.3% cuối Q3.",
     "rate_sources": [
       {
-        "name": "vietnamnet.vn — Nhà băng đầu tiên công khai mức 9,2%/năm, 8/7/2026",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-8-7-nha-bang-dau-tien-cong-khai-muc-9-2-nam-2533575.html"
+        "name": "doanhnghiephoinhap.vn — Lãi suất ngân hàng ngày 11/7/2026",
+        "url": "https://doanhnghiephoinhap.vn/lai-suat-ngan-hang-ngay-1172026-bien-dong-nhe-gui-dai-han-tiep-tuc-hap-dan-142916.html"
       },
       {
-        "name": "topi.vn — Lãi suất tiết kiệm ngân hàng nào hấp dẫn tháng 7/2026",
-        "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+        "name": "kenh14.vn — Lãi suất ngân hàng 11/7",
+        "url": "https://kenh14.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-215260711180640453.chn"
       },
       {
         "name": "webgia.com — Lãi suất ngân hàng tháng 7/2026",
@@ -632,7 +632,9 @@
       "07/07",
       "08/07",
       "09/07",
-      "10/07"
+      "10/07",
+      "11/07",
+      "12/07"
     ],
     "sjc": [
       152.8,
@@ -824,7 +826,9 @@
       145.3,
       146.5,
       148.4,
-      148.8
+      148.8,
+      149.9,
+      149.9
     ],
     "world_vnd": [
       121,
@@ -1016,7 +1020,9 @@
       132.3,
       131.3,
       128.4,
-      128.1
+      128.1,
+      131.1,
+      131.0
     ]
   }
 }
