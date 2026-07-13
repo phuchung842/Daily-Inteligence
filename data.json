@@ -1,129 +1,129 @@
 {
   "meta": {
-    "date": "12 tháng 7, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-07-12 22:40"
+    "date": "13 tháng 7, 2026",
+    "day": "Thứ Hai",
+    "updated": "2026-07-13 07:15"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>12/7 — Chủ Nhật:</b> Vàng thế giới chốt tuần đi ngang quanh $4,121/oz (giảm nhẹ -$1 so với hôm qua), SJC trong nước niêm yết 146.9-149.9 triệu đồng/lượng, giảm 1.5 triệu đồng/lượng so với cuối tuần trước do lợi suất TPCP Mỹ tăng và USD Index neo cao 100.87. BTC ~$63,800 (+0.86%). Chứng khoán Mỹ chốt tuần tăng nhẹ (10/7): S&P500 +0.42% lên 7,575.39, Nasdaq +0.29% lên 26,281.61, Dow +0.29% lên 52,637.01, được hỗ trợ bởi màn ra mắt Nasdaq thành công của SK Hynix (thương vụ ADR lớn nhất lịch sử, 28-29 tỷ USD). Apple kiện OpenAI (11/7) cáo buộc đánh cắp bí mật thương mại, liên quan hơn 400 cựu nhân viên Apple; OpenAI chuẩn bị nộp hồ sơ IPO bí mật, định giá tư nhân ~730 tỷ USD, có thể niêm yết sớm nhất tháng 9/2026. <b>Lãi suất: cuối tuần không có điều chỉnh mới, NCB vẫn niêm yết cao nhất hệ thống 9.2%/năm (36T); Big4 ổn định 6.8%/12T.</b>"
+    "text": "🟡 <b>13/7 — Thứ Hai:</b> Vàng thế giới dao động trong vùng tích lũy quanh $4,121/oz, chưa xác lập xu hướng rõ ràng do sức ép lãi suất từ Fed, dù các Ngân hàng trung ương (Ba Lan +82 tấn từ đầu năm, Trung Quốc) tiếp tục mua vào tạo lực đỡ. SJC trong nước giữ nguyên 146.9-149.9 triệu đồng/lượng so với cuối tuần. BTC ổn định quanh $63,800-64,100. Tuần này (13-17/7) là tuần bản lề: CPI tháng 6 Mỹ và điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội (14/7), cùng loạt báo cáo KQKD ngân hàng lớn (JPMorgan, BofA, Goldman Sachs, Wells Fargo, Citigroup). Về công nghệ: OpenAI ra mắt công khai GPT-5.6 (Sol/Terra/Luna), Meta tung Muse Spark 1.1 cạnh tranh trực tiếp Gemini, Amazon huy động 25 tỷ USD trái phiếu cho hạ tầng AI. <b>Lãi suất: đầu tuần chưa có điều chỉnh mới, NCB vẫn niêm yết cao nhất hệ thống 9.2%/năm (36T); Big4 ổn định 6.8%/12T.</b>"
   },
   "news_ai": [
     {
-      "title": "Apple kiện OpenAI vì cáo buộc đánh cắp bí mật thương mại, liên quan hơn 400 cựu nhân viên Apple",
+      "title": "OpenAI ra mắt công khai bộ ba mô hình GPT-5.6: Sol, Terra và Luna",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Ngày 11/7, Apple đã đệ đơn kiện OpenAI lên tòa liên bang Bắc California, cáo buộc công ty này đánh cắp bí mật thương mại thông qua việc tuyển dụng có hệ thống hơn 400 cựu nhân viên Apple từ các mảng thiết kế chip, AI trên thiết bị và phần cứng — coi đây là một chiến dịch phối hợp để khai thác công nghệ bảo mật, không đơn thuần là dịch chuyển nhân sự thông thường.",
-      "source": "Legal/tech industry reports, 7/2026",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+      "body": "Sau khi được chính phủ Mỹ phê duyệt triển khai rộng, OpenAI chính thức phát hành công khai GPT-5.6 từ 9/7 gồm ba mô hình: Sol (flagship mới), Terra (tầm trung cho công việc hàng ngày) và Luna (giá rẻ, tốc độ nhanh), đi kèm tính năng GPT-Live và định vị ChatGPT như một 'đối tác' cho các dự án tham vọng.",
+      "source": "OpenAI News / tech industry reports, 7/2026",
+      "source_url": "https://openai.com/news/"
     },
     {
-      "title": "OpenAI chuẩn bị nộp hồ sơ IPO bí mật cùng Goldman Sachs, Morgan Stanley; định giá ~730 tỷ USD",
+      "title": "Meta tung Muse Spark 1.1, tuyên bố vượt Gemini 3.1 Pro của Google",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "OpenAI đang chuẩn bị hồ sơ IPO bảo mật với sự tư vấn của Goldman Sachs và Morgan Stanley, hướng tới khả năng niêm yết công khai sớm nhất vào tháng 9/2026 ở mức định giá tư nhân khoảng 730 tỷ USD. Nếu thành hiện thực, đây sẽ là đợt IPO công nghệ lớn nhất lịch sử.",
-      "source": "Tech/finance industry reports, 7/2026",
-      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+      "body": "Meta giới thiệu Muse Spark 1.1 — mô hình suy luận đa phương thức (multimodal reasoning) tối ưu cho tác vụ agentic, hỗ trợ cửa sổ ngữ cảnh 1 triệu token và điều phối hệ thống đa agent. Mark Zuckerberg khẳng định với Bloomberg rằng mô hình này vượt trội hơn Gemini 3.1 Pro của Google, tiếp tục leo thang cuộc đua với OpenAI và Anthropic.",
+      "source": "Yahoo Finance / tech industry reports, 7/2026",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/meta-takes-aim-google-openai-185601327.html"
     },
     {
-      "title": "SK Hynix niêm yết Nasdaq (mã SKHY), thương vụ ADR lớn nhất lịch sử 28-29 tỷ USD",
+      "title": "Google ra mắt Gemini 2.5 Pro với chế độ Deep Think, vượt benchmark GPT-5.5 và Fable 5",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "SK Hynix chính thức giao dịch trên Nasdaq từ 10/7 với mã SKHY, đợt phát hành ADR trị giá 28-29 tỷ USD, định giá 149-166 USD/cổ phiếu — vượt qua thương vụ Alibaba năm 2014 (21.8 tỷ USD) để trở thành đợt niêm yết ADR lớn nhất lịch sử, phản ánh nhu cầu bùng nổ với chip nhớ phục vụ AI.",
-      "source": "Hardware/finance industry reports, 7/2026",
-      "source_url": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html"
-    },
-    {
-      "title": "Gemini 3.5 Pro của Google ra mắt 17/7 với cửa sổ ngữ cảnh 2 triệu token, chế độ Deep Think",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Google chuẩn bị ra mắt Gemini 3.5 Pro vào ngày 17/7 với cửa sổ ngữ cảnh lên tới 2 triệu token, chế độ suy luận sâu Deep Think trên gói Ultra 250 USD/tháng, và giá API khoảng 1.25 USD/triệu token đầu vào — tiếp tục cuộc đua cạnh tranh mô hình với Grok 4.5 và GPT-5.6.",
+      "body": "Gemini 2.5 Pro bản Deep Think đạt 82.4% trên GPQA Diamond và 89.8% trên MMLU-Pro nhờ kỹ thuật suy luận song song (parallel thinking) và cửa sổ ngữ cảnh 2 triệu token, vượt qua GPT-5.5 của OpenAI và Fable 5 của Anthropic trên các benchmark khoa học.",
       "source": "AI industry reports, 7/2026",
-      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026"
+      "source_url": "https://llm-stats.com/llm-updates"
+    },
+    {
+      "title": "Amazon huy động ít nhất 25 tỷ USD trái phiếu để mở rộng hạ tầng AI",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Amazon phát hành trái phiếu 8 kỳ hạn (3-40 năm) qua Barclays, Goldman Sachs, J.P. Morgan và Morgan Stanley, huy động ít nhất 25 tỷ USD — nâng tổng phát hành nợ trong năm lên khoảng 54 tỷ USD — nhằm tài trợ kế hoạch chi vốn 200 tỷ USD năm 2026 cho trung tâm dữ liệu, chip và hạ tầng AI, tăng mạnh so với 131 tỷ USD năm 2025.",
+      "source": "CNBC / Bloomberg, 7/7/2026",
+      "source_url": "https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Chứng khoán Mỹ chốt tuần (10/7) tăng nhẹ: S&P500 +0.42% lên 7,575.39, Nasdaq +0.29% lên 26,281.61, Dow +0.29% lên 52,637.01, được hỗ trợ bởi màn ra mắt Nasdaq thành công của SK Hynix và kỳ vọng đàm phán ngừng bắn Mỹ-Iran. Vàng thế giới đi ngang cuối tuần quanh $4,121/oz do lợi suất TPCP Mỹ neo cao (~4.55%/10 năm) và USD Index ở mức 100.87; SJC trong nước giảm 1.5 triệu đồng/lượng trong tuần còn 146.9-149.9 triệu đồng/lượng. BTC ~$63,800 (+0.86%). Thị trường đang chờ báo cáo CPI tháng 6 của Mỹ và phiên điều trần của Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7."
+      "text": "🟡 Tuần giao dịch 13-17/7 được xem là tuần bản lề cho thị trường Mỹ: CPI tháng 6 công bố 14/7 cùng phiên điều trần của Chủ tịch Fed Kevin Warsh trước Quốc hội, và mùa báo cáo KQKD quý 2 khởi động với loạt ngân hàng lớn (JPMorgan, BofA, Goldman Sachs, Wells Fargo, Citigroup ngày 14/7; ASML, Morgan Stanley, BlackRock ngày 15/7; TSMC, Netflix, UnitedHealth ngày 16/7). Giới phân tích dự báo lợi nhuận doanh nghiệp S&P500 tăng trên 20% quý thứ hai liên tiếp. Vàng thế giới dao động trong vùng tích lũy quanh $4,121/oz do sức ép lãi suất Fed, trong khi BTC ổn định quanh $63,800-64,100."
     },
     "items": [
       {
-        "title": "Chứng khoán Mỹ chốt tuần tăng nhẹ: S&P500 +0.42% lên 7,575.39, SK Hynix niêm yết Nasdaq thành công",
+        "title": "Tuần bản lề 13-17/7: CPI tháng 6 Mỹ, điều trần Fed Chair Warsh và mùa báo cáo KQKD ngân hàng lớn",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Phiên 10/7, S&P500 tăng 0.42% lên 7,575.39, Nasdaq tăng 0.29% lên 26,281.61, Dow Jones tăng 149.60 điểm (+0.29%) lên 52,637.01. Đà tăng được hỗ trợ bởi màn ra mắt thành công của SK Hynix trên Nasdaq (mã SKHY) — thương vụ ADR lớn nhất lịch sử — và tín hiệu tích cực từ đàm phán ngừng bắn Mỹ-Iran.",
-        "source": "Yahoo Finance, 10/7/2026",
-        "source_url": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html"
+        "body": "Thị trường Mỹ bước vào tuần giao dịch quan trọng với CPI tháng 6 và phiên điều trần của Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7, cùng lúc mùa báo cáo KQKD quý 2 khởi động với JPMorgan, Bank of America, Goldman Sachs, Wells Fargo và Citigroup. Giới đầu tư kỳ vọng lợi nhuận doanh nghiệp S&P500 tiếp tục tăng trưởng trên 20% quý thứ hai liên tiếp, củng cố luận điểm tăng giá cho cổ phiếu.",
+        "source": "CNBC, 10/7/2026",
+        "source_url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html"
       },
       {
-        "title": "Vàng thế giới chốt tuần đi ngang quanh $4,121/oz; SJC trong nước giảm 1.5 triệu đồng/lượng trong tuần",
+        "title": "Vàng thế giới đi ngang vùng tích lũy $4,121/oz; Ngân hàng trung ương Ba Lan, Trung Quốc tiếp tục gom vàng",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Giá vàng giao ngay chốt tuần ở mức khoảng $4,121/oz, giảm nhẹ so với phiên liền trước do lợi suất TPCP Mỹ kỳ hạn 10 năm neo quanh 4.55% và USD Index ở mức 100.87. Trong nước, vàng miếng SJC niêm yết 146.9-149.9 triệu đồng/lượng, giảm 1.5 triệu đồng/lượng so với cuối tuần trước; vàng nhẫn SJC giảm 1.7 triệu đồng/lượng còn 146.6-149.6 triệu đồng/lượng.",
-        "source": "vietnamnet.vn, 12/7/2026",
-        "source_url": "https://vietnamnet.vn/gia-vang-hom-nay-12-7-2026-cuoi-tuan-chim-sau-vang-sjc-giam-1-5-trieu-dong-2534834.html"
+        "body": "Giá vàng thế giới chốt tuần trước ở 4,121.40 USD/oz và tiếp tục dao động trong vùng tích lũy, chịu sức ép từ lợi suất TPCP Mỹ cao và USD mạnh. Điểm sáng là lực mua bền vững từ các NHTW: Ba Lan đã mua thêm 82 tấn vàng từ đầu năm, Trung Quốc duy trì tăng dự trữ nhiều tháng liên tiếp; khảo sát Hội đồng Vàng Thế giới cho thấy 45% NHTW dự kiến tăng nắm giữ vàng trong 12 tháng tới — mức cao kỷ lục.",
+        "source": "baoquocte.vn, 13/7/2026",
+        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-13-7-2026-dao-dong-trong-vung-tich-luy-chua-xac-lap-xu-huong-tang-cac-ngan-hang-trung-uong-tao-luc-do-dang-ke-417565.html"
       },
       {
-        "title": "BTC ~$63,800 (+0.86%) — dao động ổn định quanh vùng $63,700-63,850",
+        "title": "BTC ổn định quanh $63,800-64,100, thị trường chờ CPI tháng 6 Mỹ",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch ổn định trong vùng $63,700-63,850, tăng nhẹ 0.86% so với phiên trước, khi thị trường tài sản số đi ngang theo nhịp chứng khoán Mỹ cuối tuần, chờ dữ liệu CPI tháng 6 và phiên điều trần của Chủ tịch Fed Kevin Warsh.",
-        "source": "Yahoo Finance / MetaMask, 12/7/2026",
+        "body": "Bitcoin dao động hẹp trong vùng $63,800-64,100 khi nhà đầu tư giữ tâm lý thận trọng chờ dữ liệu CPI tháng 6 Mỹ và phiên điều trần Fed Chair Warsh ngày 14/7 — hai sự kiện có thể định hướng dòng vốn vào tài sản rủi ro trong ngắn hạn.",
+        "source": "Yahoo Finance / MetaMask, 13/7/2026",
         "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>12/7 — Chủ Nhật:</b> Vàng thế giới chốt tuần đi ngang quanh $4,121/oz. SJC ~149.9M (bán ra); world_vnd ~131.0M; premium ~18.9M. BTC ~$63,800 (+0.86%). Chứng khoán Mỹ chốt tuần tăng nhẹ (S&P500 +0.42%, Nasdaq +0.29%, Dow +0.29%), SK Hynix niêm yết Nasdaq thành công. Thị trường chờ CPI tháng 6 Mỹ và điều trần Fed Chair Warsh ngày 14/7; kỹ thuật vàng vẫn nghiêng giảm ngắn hạn khi dưới MA20 ngày.",
+    "summary": "🟡 <b>13/7 — Thứ Hai:</b> Vàng thế giới dao động trong vùng tích lũy quanh $4,121/oz, chưa xác lập xu hướng tăng. SJC giữ nguyên 146.9-149.9M; world_vnd ~131.0M; premium ~18.9M. BTC ổn định $63,800-64,100. Tuần bản lề 13-17/7 với CPI tháng 6 Mỹ, điều trần Fed Chair Warsh 14/7 và mùa báo cáo KQKD ngân hàng lớn sẽ định hướng xu thế tiếp theo. NHTW (Ba Lan, Trung Quốc) tiếp tục mua vào tạo lực đỡ quanh vùng $4,000/oz.",
     "factors": [
       {
-        "name": "Vàng thế giới ~$4,121/oz (12/7) — đi ngang cuối tuần, giảm nhẹ so với phiên trước",
+        "name": "Vàng thế giới ~$4,121/oz (13/7) — dao động trong vùng tích lũy, chưa xác lập xu hướng",
         "pct": 50,
         "direction": "down",
         "bar": "fm",
-        "desc": "Vàng chốt tuần giao dịch quanh $4,121/oz, gần như đi ngang so với phiên liền trước ($4,122.96), thiếu động lực mới khi thị trường trong nước và thế giới đều chờ dữ liệu CPI tháng 6 của Mỹ. Hỗ trợ gần nhất quanh $4,021/oz, kháng cự $4,138/oz."
+        "desc": "Vàng giữ nguyên quanh mức chốt tuần trước 4,121.40 USD/oz, thị trường chịu sức ép từ tín hiệu cứng rắn của Fed, lợi suất TPCP Mỹ cao và USD mạnh. Vùng $4,000/oz tiếp tục đóng vai trò hỗ trợ quan trọng nhờ lực mua của NHTW."
       },
       {
-        "name": "SJC trong nước giảm 1.5 triệu đồng/lượng trong tuần, còn 146.9-149.9M",
+        "name": "SJC trong nước giữ nguyên 146.9-149.9 triệu đồng/lượng so với cuối tuần",
         "pct": 45,
         "direction": "down",
         "bar": "fm",
-        "desc": "Vàng miếng SJC và vàng nhẫn 9999 đồng loạt giảm trong tuần qua, phản ánh áp lực từ lợi suất TPCP Mỹ tăng và USD mạnh lên. Biên độ chênh lệch mua-bán vẫn ở mức cao (~3 triệu đồng/lượng)."
+        "desc": "So với phiên 5/7 (một tuần trước), SJC đã giảm 1.5 triệu đồng/lượng cả hai chiều; vàng nhẫn 9999 niêm yết 145-149 triệu đồng/lượng, giảm sâu hơn ở chiều mua vào. Chênh lệch mua-bán vẫn neo cao 3-4 triệu đồng/lượng."
       },
       {
-        "name": "BTC ~$63,800 (+0.86%) — dao động ổn định cuối tuần",
-        "pct": 52,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Bitcoin duy trì vùng $63,700-63,850, tăng nhẹ so với phiên trước, đi ngang cùng nhịp thị trường tài sản rủi ro khi nhà đầu tư chờ tín hiệu vĩ mô mới."
-      },
-      {
-        "name": "Chứng khoán Mỹ chốt tuần tăng nhẹ: S&P500 +0.42%, Nasdaq +0.29%, Dow +0.29%; SK Hynix niêm yết Nasdaq thành công",
-        "pct": 58,
+        "name": "Ngân hàng trung ương toàn cầu tiếp tục gom vàng: Ba Lan +82 tấn từ đầu năm, Trung Quốc duy trì đà mua",
+        "pct": 68,
         "direction": "up",
         "bar": "fh",
-        "desc": "Thị trường chứng khoán Mỹ khép lại tuần giao dịch nhiều biến động trong sắc xanh, được hỗ trợ bởi màn ra mắt Nasdaq thành công của SK Hynix (thương vụ ADR lớn nhất lịch sử) và tín hiệu tích cực từ đàm phán ngừng bắn Mỹ-Iran."
+        "desc": "Theo khảo sát Hội đồng Vàng Thế giới, 45% NHTW dự kiến tăng nắm giữ vàng trong 12 tháng tới — mức cao kỷ lục, gần 90% cho rằng tổng dự trữ vàng chính thức toàn cầu sẽ tiếp tục tăng, củng cố vai trò vàng như tài sản chiến lược phòng ngừa rủi ro."
       },
       {
-        "name": "Báo cáo việc làm tháng 6 Mỹ yếu (chỉ +57,000, bằng nửa dự báo) — thị trường chờ CPI và điều trần Fed Chair Warsh ngày 14/7",
-        "pct": 60,
+        "name": "BTC ổn định $63,800-64,100 — thị trường chờ tín hiệu vĩ mô mới",
+        "pct": 52,
+        "direction": "hold",
+        "bar": "fm",
+        "desc": "Bitcoin giao dịch trong biên độ hẹp, thiếu động lực bứt phá khi nhà đầu tư chờ CPI tháng 6 Mỹ và điều trần Fed Chair Warsh để xác định hướng đi tiếp theo của tài sản rủi ro."
+      },
+      {
+        "name": "Tuần bản lề 13-17/7: CPI tháng 6 Mỹ, điều trần Fed Chair Warsh 14/7 và mùa báo cáo KQKD ngân hàng lớn",
+        "pct": 66,
         "direction": "down",
         "bar": "fh",
-        "desc": "Kinh tế Mỹ chỉ tạo thêm 57,000 việc làm trong tháng 6, khoảng một nửa dự báo, số liệu tháng 4-5 bị điều chỉnh giảm tổng cộng 74,000. Dữ liệu yếu làm tăng kỳ vọng Fed nới lỏng, nhưng biên bản họp Fed vẫn nhấn mạnh rủi ro lạm phát khiến nhà đầu tư thận trọng, chờ CPI tháng 6 và điều trần Chủ tịch Fed Kevin Warsh ngày 14/7."
+        "desc": "CPI tháng 6 công bố 14/7 cùng phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội là catalyst quyết định cho lãi suất, vàng và tiền số tuần này. Đồng thời mùa báo cáo KQKD quý 2 khởi động với JPMorgan, BofA, Goldman Sachs — dự báo lợi nhuận S&P500 tăng trên 20% quý thứ hai liên tiếp, có thể củng cố khẩu vị rủi ro và tạo áp lực giảm thêm lên vàng."
       }
     ],
-    "outlook_label": "Vàng ~$4,121/oz (12/7 Chủ Nhật) — chốt tuần đi ngang; SJC ~149.9M (-1.5M/tuần); BTC $63,800; chứng khoán Mỹ tăng nhẹ, SK Hynix niêm yết Nasdaq",
+    "outlook_label": "Vàng ~$4,121/oz (13/7 Thứ Hai) — vùng tích lũy; SJC 146.9-149.9M; BTC $63,800-64,100; tuần bản lề CPI Mỹ và điều trần Fed Chair Warsh 14/7",
     "outlook_class": "pbe",
-    "outlook_text": "12/7 (Chủ Nhật): Vàng thế giới chốt tuần giao dịch quanh $4,121/oz, gần như đi ngang so với phiên liền trước khi cả thị trường trong nước và quốc tế thiếu động lực mới. Lợi suất TPCP Mỹ kỳ hạn 10 năm neo quanh 4.55%, kỳ hạn 2 năm trên 4.2%, USD Index ở mức 100.87 tiếp tục tạo áp lực lên vàng. Trong nước, SJC niêm yết 146.9-149.9 triệu đồng/lượng, giảm 1.5 triệu đồng/lượng trong tuần; vàng nhẫn SJC giảm 1.7 triệu đồng/lượng còn 146.6-149.6 triệu; world_vnd ước tính ~131.0M, premium ~18.9M. BTC ~$63,800 (+0.86%), dao động ổn định cuối tuần. Chứng khoán Mỹ chốt tuần tăng nhẹ (10/7): S&P500 +0.42% lên 7,575.39, Nasdaq +0.29% lên 26,281.61, Dow +0.29% lên 52,637.01, được hỗ trợ bởi màn niêm yết Nasdaq thành công của SK Hynix. Về kỹ thuật, vàng vẫn nghiêng về xu hướng giảm ngắn hạn khi nằm dưới đường trung bình động 20 ngày; nếu vượt $4,138 có thể hướng tới $4,203 rồi $4,352, ngược lại nếu mất $4,021 có thể lùi về $3,942 rồi $3,886. Thị trường đang chờ báo cáo CPI tháng 6 Mỹ và phiên điều trần của Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7 để định hướng xu hướng tiếp theo.",
+    "outlook_text": "13/7 (Thứ Hai): Vàng thế giới mở đầu tuần mới trong vùng tích lũy quanh $4,121/oz, chưa xác lập được xu hướng tăng rõ ràng khi thị trường tiếp tục chịu sức ép từ tín hiệu cứng rắn của Fed, lợi suất TPCP Mỹ neo cao và USD mạnh lên. Trong nước, SJC giữ nguyên 146.9-149.9 triệu đồng/lượng so với cuối tuần trước; vàng nhẫn SJC niêm yết 145-149 triệu đồng/lượng; world_vnd ước tính ~131.0M, premium ~18.9M. Điểm sáng là lực mua bền vững từ các NHTW — Ba Lan đã mua thêm 82 tấn vàng từ đầu năm, Trung Quốc duy trì đà tăng dự trữ nhiều tháng liên tiếp, khảo sát Hội đồng Vàng Thế giới cho thấy 45% NHTW dự kiến tiếp tục tăng nắm giữ vàng trong 12 tháng tới. BTC ổn định quanh $63,800-64,100. Tuần này (13-17/7) được xem là tuần bản lề cho thị trường: CPI tháng 6 Mỹ và điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7, cùng mùa báo cáo KQKD quý 2 với loạt ngân hàng lớn (JPMorgan, BofA, Goldman Sachs, Wells Fargo, Citigroup) sẽ là các catalyst quyết định xu hướng tiếp theo của vàng, lãi suất và tài sản rủi ro. Vùng $4,000/oz tiếp tục là hỗ trợ quan trọng nhờ lực mua NHTW, trong khi $4,138 là kháng cự gần nhất.",
     "sources": [
       {
-        "name": "vietnamnet.vn — Giá vàng hôm nay 12/7/2026 cuối tuần chìm sâu",
-        "url": "https://vietnamnet.vn/gia-vang-hom-nay-12-7-2026-cuoi-tuan-chim-sau-vang-sjc-giam-1-5-trieu-dong-2534834.html"
+        "name": "baoquocte.vn — Giá vàng hôm nay 13/7/2026 dao động trong vùng tích lũy",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-13-7-2026-dao-dong-trong-vung-tich-luy-chua-xac-lap-xu-huong-tang-cac-ngan-hang-trung-uong-tao-luc-do-dang-ke-417565.html"
       },
       {
-        "name": "Yahoo Finance — Stock market today, Friday July 10 2026",
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html"
+        "name": "CNBC — Stock market next week: Outlook for July 13-17, 2026",
+        "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html"
       },
       {
         "name": "Yahoo Finance / MetaMask — Bitcoin price today",
@@ -132,7 +132,7 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 12/7 (Chủ Nhật): Cuối tuần không ghi nhận điều chỉnh lãi suất huy động mới. NCB (Ngân hàng Quốc Dân) tiếp tục niêm yết công khai cao nhất hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng). Nhóm quốc doanh (Vietcombank, BIDV, Agribank, VietinBank) không có nhiều thay đổi so với những ngày trước, giữ 6.8%/năm kỳ hạn 12 tháng. Thị trường tiếp tục chờ báo cáo CPI tháng 6 của Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7 để định hướng room điều chỉnh tiếp theo.",
+    "alert": "📊 13/7 (Thứ Hai): Đầu tuần chưa ghi nhận điều chỉnh lãi suất huy động mới. NCB (Ngân hàng Quốc Dân) tiếp tục niêm yết công khai cao nhất hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng). Nhóm quốc doanh (Vietcombank, BIDV, Agribank, VietinBank) giữ nguyên 6.8%/năm kỳ hạn 12 tháng. Thị trường đang hướng sự chú ý tới báo cáo CPI tháng 6 của Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7 để định hướng room điều chỉnh tiếp theo.",
     "highlights": [
       {
         "label": "NCB tiếp tục niêm yết cao nhất hệ thống 9.2%/năm — không đổi",
@@ -339,8 +339,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 12/7 (Chủ Nhật): Cuối tuần đi ngang, NCB vẫn dẫn đầu hệ thống với 9.2%/năm",
-      "body": "Ngày 12/7/2026 (Chủ Nhật), thị trường lãi suất huy động tiếp tục đi ngang, không ghi nhận điều chỉnh đáng chú ý so với phiên cuối tuần trước (11/7). NCB (Ngân hàng Quốc Dân) tiếp tục là ngân hàng niêm yết công khai mức lãi suất cao nhất hệ thống với 9.2%/năm cho sản phẩm NCB Signature Saving, kỳ hạn 36 tháng. Ở nhóm quốc doanh, mặt bằng lãi suất không có nhiều thay đổi so với những ngày trước: Vietcombank, BIDV, VietinBank, Agribank giữ quanh 6.8%/năm kỳ hạn 12 tháng. Nhóm niêm yết chuẩn quầy tư nhân (ACB, MBV, MB, OCB) giữ quanh 7-7.1%/12T. Nhóm lãi suất đặc biệt số dư siêu lớn (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank 8.9%) không đổi. Dự báo: Big4 về 6.5-6.6% cuối Q3/2026; nhóm niêm yết chuẩn tư nhân giữ quanh 7.0-7.3%. Catalyst chính vẫn là báo cáo CPI tháng 6 của Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7, dù chứng khoán Mỹ đã có tuần tăng điểm nhẹ.",
+      "title": "Lãi suất 13/7 (Thứ Hai): Đầu tuần đi ngang, NCB vẫn dẫn đầu hệ thống với 9.2%/năm",
+      "body": "Ngày 13/7/2026 (Thứ Hai), thị trường lãi suất huy động mở đầu tuần mới trong trạng thái ổn định, chưa ghi nhận điều chỉnh đáng chú ý. NCB (Ngân hàng Quốc Dân) tiếp tục là ngân hàng niêm yết công khai mức lãi suất cao nhất hệ thống với 9.2%/năm cho sản phẩm NCB Signature Saving, kỳ hạn 36 tháng. Ở nhóm quốc doanh, Vietcombank, BIDV, VietinBank, Agribank giữ quanh 6.8%/năm kỳ hạn 12 tháng. Nhóm niêm yết chuẩn quầy tư nhân (ACB, MBV, MB, OCB) giữ quanh 7-7.1%/12T. Nhóm lãi suất đặc biệt số dư siêu lớn (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank 8.9%) không đổi. Dự báo: Big4 về 6.5-6.6% cuối Q3/2026; nhóm niêm yết chuẩn tư nhân giữ quanh 7.0-7.3%. Catalyst chính tuần này là báo cáo CPI tháng 6 của Mỹ, phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội ngày 14/7, và mùa báo cáo KQKD ngân hàng lớn tại Mỹ.",
       "sources": [
         {
           "name": "doanhnghiephoinhap.vn — Lãi suất ngân hàng ngày 11/7/2026: Biến động nhẹ, gửi dài hạn tiếp tục hấp dẫn",
@@ -423,9 +423,9 @@
         "desc": "Báo cáo CPI tháng 6 Mỹ (dự báo tương đối ôn hòa nhờ giá xăng giảm ~10%) và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7 là các sự kiện quyết định. Nếu CPI thấp hơn dự báo và Fed phát tín hiệu dovish → NHNN có thêm dư địa điều chỉnh; ngược lại áp lực lạm phát có thể trì hoãn room giảm lãi suất."
       }
     ],
-    "rate_outlook_label": "12/7 Chủ Nhật — Không đổi: NCB niêm yết 9.2%/36T cao nhất hệ thống; Big4 6.8%; ACB dẫn đầu chuẩn quầy 7.1%; chờ CPI Mỹ và điều trần Fed Chair Warsh 14/7",
+    "rate_outlook_label": "13/7 Thứ Hai — Không đổi: NCB niêm yết 9.2%/36T cao nhất hệ thống; Big4 6.8%; ACB dẫn đầu chuẩn quầy 7.1%; chờ CPI Mỹ và điều trần Fed Chair Warsh 14/7",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "12/7 (Chủ Nhật): Thị trường lãi suất huy động tiếp tục đi ngang cuối tuần, không có điều chỉnh mới. NCB tiếp tục dẫn đầu hệ thống với mức niêm yết công khai 9.2%/năm (36 tháng). ACB dẫn đầu nhóm niêm yết chuẩn trực tuyến kỳ hạn 6 tháng với 7.1%/năm; MBV, MB, OCB giữ 7%/năm. Big4 ổn định 6.8%/12T, không có nhiều thay đổi so với các ngày trước. Các chương trình đặc biệt (PVcomBank 10%, Cake Bank 8.9%, MSB 9%, OCB 8.5%) vẫn duy trì cho khách VIP/số dư lớn. Catalyst chính: báo cáo CPI tháng 6 Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7 — thị trường lãi suất trong nước vẫn thận trọng chờ tín hiệu rõ ràng hơn. Dự báo: Big4 về 6.5-6.6%; top tư nhân giữ quanh 7.0-7.3% cuối Q3.",
+    "rate_outlook_text": "13/7 (Thứ Hai): Thị trường lãi suất huy động mở đầu tuần mới chưa có điều chỉnh mới. NCB tiếp tục dẫn đầu hệ thống với mức niêm yết công khai 9.2%/năm (36 tháng). ACB dẫn đầu nhóm niêm yết chuẩn trực tuyến kỳ hạn 6 tháng với 7.1%/năm; MBV, MB, OCB giữ 7%/năm. Big4 ổn định 6.8%/12T. Các chương trình đặc biệt (PVcomBank 10%, Cake Bank 8.9%, MSB 9%, OCB 8.5%) vẫn duy trì cho khách VIP/số dư lớn. Catalyst chính tuần này: báo cáo CPI tháng 6 Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh ngày 14/7, cùng mùa báo cáo KQKD ngân hàng lớn tại Mỹ — thị trường lãi suất trong nước nhiều khả năng giữ trạng thái thận trọng chờ tín hiệu rõ ràng hơn. Dự báo: Big4 về 6.5-6.6%; top tư nhân giữ quanh 7.0-7.3% cuối Q3.",
     "rate_sources": [
       {
         "name": "doanhnghiephoinhap.vn — Lãi suất ngân hàng ngày 11/7/2026",
@@ -634,7 +634,8 @@
       "09/07",
       "10/07",
       "11/07",
-      "12/07"
+      "12/07",
+      "13/07"
     ],
     "sjc": [
       152.8,
@@ -827,6 +828,7 @@
       146.5,
       148.4,
       148.8,
+      149.9,
       149.9,
       149.9
     ],
@@ -1022,6 +1024,7 @@
       128.4,
       128.1,
       131.1,
+      131.0,
       131.0
     ]
   }
