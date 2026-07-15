@@ -1,144 +1,144 @@
 {
   "meta": {
-    "date": "14 tháng 7, 2026",
-    "day": "Thứ Ba",
-    "updated": "2026-07-14 07:15"
+    "date": "15 tháng 7, 2026",
+    "day": "Thứ Tư",
+    "updated": "2026-07-15 07:03"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>14/7 — Thứ Ba:</b> Vàng thế giới tiếp tục giảm về quanh $4,119/oz, đang tiến gần mốc hỗ trợ tâm lý $4,000/oz dù lực mua từ NHTW (Ba Lan, Trung Quốc) vẫn tạo lực đỡ dài hạn. SJC trong nước giảm thêm 1 triệu đồng/lượng xuống 145.9-148.9 triệu đồng/lượng. BTC lùi về quanh $62,800, giảm so với vùng $63,800-64,100 cuối tuần. Hôm nay là ngày then chốt của tuần: CPI tháng 6 Mỹ công bố 8h30 sáng (giờ Mỹ) cùng phiên điều trần Chủ tịch Fed Kevin Warsh trước Ủy ban Dịch vụ Tài chính Hạ viện — thị trường đặt cược 65% khả năng Fed giữ nguyên lãi suất. Về công nghệ: DeepSeek phát triển chip suy luận riêng để giảm phụ thuộc Nvidia/Huawei, Meta tích hợp công cụ tạo ảnh/video AI vào Instagram và WhatsApp, Microsoft cắt giảm khoảng 3,200 việc làm tại mảng Xbox. <b>Lãi suất: không có điều chỉnh mới, NCB vẫn niêm yết cao nhất hệ thống 9.2%/năm (36T); Big4 ổn định 6.8%/12T.</b>"
+    "text": "🟡 <b>15/7 — Thứ Tư:</b> Vàng thế giới biến động trái chiều, phục hồi nhẹ lên quanh $4,021.8/oz sau khi CPI tháng 6 Mỹ hạ nhiệt hơn dự báo hôm qua (3.5% so với dự báo 3.8%), giúp giảm bớt áp lực Fed phải tăng lãi suất; một NHTW lớn (Trung Quốc) tiếp tục mua vào tạo nghịch lý cung-cầu. SJC trong nước đảo chiều tăng 700,000 đồng/lượng lên 144.5-147.5 triệu đồng/lượng. BTC nhích nhẹ lên quanh $63,700 khi cổ phiếu nhóm chip dẫn dắt đà tăng của Phố Wall. Hôm nay Chủ tịch Fed Kevin Warsh tiếp tục điều trần trước Ủy ban Ngân hàng Thượng viện lúc 10h sáng giờ Mỹ — phiên điều trần thứ hai liên tiếp sau Hạ viện hôm qua. Về công nghệ: OpenAI ra mắt họ mô hình GPT-5.6 (Sol, Terra, Luna) với năng lực agentic mạnh hơn và giá rẻ hơn; Trung Quốc áp quy định mới về AI 'nhân cách hóa' có hiệu lực từ hôm nay, buộc ByteDance và Alibaba tắt bớt tính năng AI giống người; Qualcomm đàm phán mua Tenstorrent với giá 8-10 tỷ USD. <b>Lãi suất: chưa ghi nhận điều chỉnh mới, NCB vẫn niêm yết cao nhất hệ thống 9.2%/năm (36T); Big4 ổn định 6.8%/12T.</b>"
   },
   "news_ai": [
     {
-      "title": "DeepSeek phát triển chip suy luận (inference chip) riêng, giảm phụ thuộc Nvidia và Huawei",
+      "title": "OpenAI ra mắt họ mô hình GPT-5.6 (Sol, Terra, Luna) với năng lực agentic vượt trội, giá cạnh tranh",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Startup AI Trung Quốc DeepSeek được cho là đang tự phát triển chip chuyên dụng cho suy luận mô hình AI, nhằm giảm sự phụ thuộc vào nguồn cung chip Nvidia (bị hạn chế xuất khẩu) và Huawei, trong bối cảnh cuộc đua tự chủ bán dẫn AI giữa các công ty Trung Quốc ngày càng gay gắt.",
-      "source": "Tech industry reports, 7/2026",
-      "source_url": "https://techstartups.com/2026/07/08/top-tech-news-today-july-8-2026/"
+      "body": "OpenAI chính thức ra mắt họ mô hình GPT-5.6 ngày 9/7 gồm ba phiên bản Sol, Terra và Luna, cải thiện mạnh khả năng agentic trong lập trình, sinh học và an ninh mạng. Giá cũng được cắt giảm đáng kể: Sol $5/$30 mỗi triệu token, Terra $2.5/$15, Luna $1/$6 — tạo áp lực cạnh tranh giá lớn lên Google và các đối thủ.",
+      "source": "TechCrunch / Tech industry reports, 7/2026",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
     },
     {
-      "title": "Meta đưa công cụ tạo ảnh/video AI vào thẳng Instagram, WhatsApp; Microsoft âm thầm chuyển tác vụ Excel, Outlook sang mô hình AI của riêng mình",
+      "title": "Google tung Gemini 2.5 Pro với chế độ suy luận Deep Think, cửa sổ ngữ cảnh 2 triệu token",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta tích hợp trực tiếp các công cụ sinh ảnh và video AI mới nhất vào Instagram, WhatsApp và Meta AI để mở rộng tiếp cận người dùng phổ thông. Cùng lúc, Microsoft được cho là đang chuyển dần khối lượng công việc sản xuất trong Excel và Outlook sang các mô hình AI tự phát triển để cắt giảm chi phí phụ thuộc OpenAI.",
+      "body": "Google ra mắt Gemini 2.5 Pro với chế độ Deep Think reasoning mode, đạt điểm cao trên các bài kiểm tra khoa học (benchmark) và hỗ trợ cửa sổ ngữ cảnh lên tới 2 triệu token, tiếp tục cuộc đua mô hình suy luận (reasoning models) giữa các Big Tech.",
       "source": "Tech industry reports, 7/2026",
-      "source_url": "https://techstartups.com/2026/07/07/top-tech-news-today-july-7-2026/"
+      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026"
     },
     {
-      "title": "Cơ quan giám sát rủi ro hệ thống châu Âu (ESRB) cảnh báo mô hình AI tiên tiến có thể gây rủi ro an ninh mạng cho hệ thống tài chính",
+      "title": "Trung Quốc siết quy định AI 'nhân cách hóa' có hiệu lực từ 15/7, ByteDance và Alibaba phải tắt bớt tính năng AI giống người",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Ngày 7/7, Ủy ban Rủi ro Hệ thống châu Âu (ESRB) phát cảnh báo rằng các mô hình AI biên (frontier models) có thể làm gia tăng rủi ro tấn công mạng nhắm vào hệ thống tài chính, đe dọa sự ổn định tài chính khu vực nếu không được giám sát và quản lý rủi ro chặt chẽ.",
-      "source": "European Systemic Risk Board, 7/7/2026",
-      "source_url": "https://www.artificialintelligence-news.com/"
+      "body": "Quy định mới của Trung Quốc quản lý các dịch vụ AI mô phỏng tính cách, mối quan hệ và tương tác cảm xúc con người chính thức có hiệu lực từ ngày 15/7. ByteDance và Alibaba đã phải vô hiệu hóa hoặc điều chỉnh các tính năng AI đồng hành (companion AI) có thể tùy biến giống người thật trên nền tảng của mình.",
+      "source": "UN News / Tech industry reports, 15/7/2026",
+      "source_url": "https://news.un.org/en/story/2026/07/1167862"
     },
     {
-      "title": "Microsoft tái cơ cấu mạnh mảng Xbox, cắt giảm khoảng 3,200 việc làm (~20% nhân sự gaming)",
+      "title": "Qualcomm đàm phán mua Tenstorrent với giá 8-10 tỷ USD; Nvidia bắt tay SK hynix phát triển bộ nhớ thế hệ mới cho AI",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Microsoft tiến hành đợt tái cơ cấu lớn nhất từ trước đến nay tại bộ phận Xbox, cắt giảm khoảng 3,200 vị trí — tương đương 20% lực lượng lao động mảng game — trong bối cảnh hãng dồn nguồn lực đầu tư cho hạ tầng và mô hình AI.",
+      "body": "Qualcomm được cho là đang trong giai đoạn đàm phán sớm để mua lại Tenstorrent — công ty thiết kế chip AI theo chuẩn mở RISC-V — với giá trị 8-10 tỷ USD, nhằm củng cố năng lực hạ tầng AI. Cùng lúc, Nvidia và SK hynix công bố quan hệ đối tác công nghệ nhiều năm để đồng phát triển bộ nhớ thế hệ mới phù hợp lộ trình hạ tầng AI của Nvidia.",
       "source": "Tech industry reports, 7/2026",
-      "source_url": "https://techstartups.com/2026/07/08/top-tech-news-today-july-8-2026/"
+      "source_url": "https://techstartups.com/2026/07/10/top-tech-news-today-july-8-2026-todays-biggest-ai-tech-stories-from-meta-openai-microsoft-bytedance-more/"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Hôm nay 14/7 là ngày then chốt của tuần: CPI tháng 6 Mỹ công bố 8h30 sáng (giờ Mỹ) — dự báo giảm nhẹ ~0.1-0.2% so với tháng trước, tăng 3.8-3.9% so với cùng kỳ năm ngoái — cùng phiên điều trần Chủ tịch Fed Kevin Warsh trước Ủy ban Dịch vụ Tài chính Hạ viện. Thị trường đặt cược 65% khả năng Fed giữ nguyên lãi suất, đồng thời dự đoán khả năng tăng 0.25 điểm % vào tháng 9 và một lần nữa vào tháng 1/2027. Chứng khoán Mỹ giảm phiên đầu tuần (S&P500 -0.79% còn 7,515.34 điểm) sau khi Tổng thống Trump tái áp lệnh phong tỏa vận tải qua Eo biển Hormuz, đẩy giá dầu tăng. Vàng thế giới tiếp tục giảm về $4,119/oz, tiệm cận mốc $4,000. BTC lùi về khoảng $62,800."
+      "text": "🟡 CPI tháng 6 Mỹ công bố hôm qua (14/7) thấp hơn dự báo — tăng 3.5% so với cùng kỳ, thấp hơn mức dự báo 3.8% — giúp giảm bớt áp lực Fed phải tăng lãi suất, dù thị trường vẫn định giá khả năng có thêm một lần tăng 0.25 điểm % trong năm 2026. Chứng khoán Mỹ tăng điểm phiên 14/7 (Dow, S&P500, Nasdaq đều tăng, cổ phiếu chip dẫn dắt đà tăng) nhờ kỳ vọng Fed bớt cứng rắn. Hôm nay 15/7, Chủ tịch Fed Kevin Warsh tiếp tục điều trần trước Ủy ban Ngân hàng Thượng viện lúc 10h sáng giờ Mỹ — lần điều trần thứ hai trong hai ngày liên tiếp. Giá dầu Brent tăng mạnh nhất hơn 6 năm phiên đầu tuần (+9.6%) do căng thẳng tại Eo biển Hormuz. Vàng thế giới biến động trái chiều quanh $4,021.8/oz; BTC quanh $63,700."
     },
     "items": [
       {
-        "title": "CPI tháng 6 Mỹ công bố hôm nay 14/7 — dữ liệu quyết định hướng đi lãi suất Fed",
+        "title": "CPI tháng 6 Mỹ thấp hơn dự báo (3.5% so với 3.8%), Fed Chair Warsh điều trần Thượng viện hôm nay 15/7",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Cục Thống kê Lao động Mỹ công bố CPI tháng 6 lúc 8h30 sáng giờ Mỹ ngày 14/7. Công cụ Nowcasting của Fed Cleveland dự báo CPI toàn phần giảm ~0.1% so với tháng trước, tăng 3.9% so với cùng kỳ; CPI lõi tăng 0.2% so với tháng trước. Nếu lạm phát lõi thấp hơn dự báo, thị trường có thể tăng điểm nhờ kỳ vọng Fed bớt cứng rắn.",
-        "source": "The Motley Fool / Yahoo Finance, 13/7/2026",
-        "source_url": "https://finance.yahoo.com/economy/policy/articles/latest-inflation-data-drop-july-143801630.html"
+        "body": "CPI tháng 6 công bố ngày 14/7 tăng 3.5% so với cùng kỳ năm ngoái, thấp hơn mức dự báo 3.8% của giới phân tích, giúp giảm bớt áp lực buộc Fed phải tiếp tục thắt chặt. Chủ tịch Fed Kevin Warsh, sau phiên điều trần trước Hạ viện hôm 14/7, tiếp tục điều trần trước Ủy ban Ngân hàng Thượng viện vào 10h sáng giờ Mỹ hôm nay 15/7 — lần xuất hiện trước Quốc hội thứ hai kể từ khi nhậm chức.",
+        "source": "Yahoo Finance / Kiplinger, 14-15/7/2026",
+        "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html"
       },
       {
-        "title": "Vàng thế giới giảm về $4,119/oz, tiến gần mốc hỗ trợ tâm lý $4,000/oz",
+        "title": "Vàng thế giới biến động trái chiều quanh $4,021.8/oz, SJC trong nước đảo chiều tăng 700,000 đồng/lượng",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Giá vàng thế giới lúc 6h sáng 14/7 niêm yết quanh 4,119.4 USD/oz, tiếp tục xu hướng giảm và tiệm cận vùng hỗ trợ quan trọng $4,000/oz. Trong nước, SJC giảm thêm 1 triệu đồng/lượng xuống 145.9-148.9 triệu đồng/lượng; vàng nhẫn SJC giảm 1.2 triệu đồng/lượng xuống 145.4-148.4 triệu đồng/lượng. Giới phân tích cho rằng lực mua bền vững của các NHTW đang giúp hình thành vùng đáy vững chắc quanh ngưỡng này.",
-        "source": "baoquocte.vn, 14/7/2026",
-        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-14-7-2026-lao-doc-sap-thung-moc-4-000-usd-vung-day-vung-chac-dang-hinh-thanh-nho-luc-luong-quan-trong-nay-417969.html"
+        "body": "Giá vàng thế giới sáng 15/7 tăng 21.6 USD/oz lên 4,021.8 USD/oz sau chuỗi giảm, phản ánh nghịch lý cung-cầu khi một ngân hàng trung ương lớn (Trung Quốc) tiếp tục mua vào bất chấp áp lực từ lợi suất trái phiếu Mỹ. Trong nước, SJC niêm yết 144.5-147.5 triệu đồng/lượng (mua-bán), tăng 700,000 đồng/lượng ở cả hai chiều so với phiên mở cửa 14/7.",
+        "source": "baoquocte.vn / VOV, 15/7/2026",
+        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-15-7-2026-bien-dong-trai-chieu-thi-truong-phan-anh-nghich-ly-quan-trong-mot-ngan-hang-trung-uong-lien-tuc-mua-vao-418477.html"
       },
       {
-        "title": "BTC lùi về quanh $62,800 khi thị trường chờ CPI Mỹ và điều trần Fed Chair Warsh",
+        "title": "BTC quanh $63,700, cổ phiếu chip dẫn dắt đà tăng khi kỳ vọng Fed bớt cứng rắn",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin giảm về khoảng $62,800-63,000, nới rộng đà giảm so với vùng $63,800-64,100 cuối tuần trước, khi nhà đầu tư thận trọng chờ dữ liệu CPI tháng 6 Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh — hai sự kiện có thể định hướng dòng vốn vào tài sản rủi ro trong ngắn hạn.",
-        "source": "Yahoo Finance / CoinMarketCap, 14/7/2026",
+        "body": "Bitcoin giao dịch quanh $63,700, nhích nhẹ so với vùng $62,800 hôm qua, khi khẩu vị rủi ro cải thiện nhờ dữ liệu CPI hạ nhiệt. Cổ phiếu nhóm chip trên Phố Wall dẫn dắt đà tăng của Dow, S&P500 và Nasdaq phiên 14/7 nhờ kỳ vọng Fed sẽ bớt cứng rắn hơn trong chính sách lãi suất.",
+        "source": "Yahoo Finance, 14-15/7/2026",
         "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>14/7 — Thứ Ba:</b> Vàng thế giới giảm về $4,119/oz, tiến gần mốc $4,000. SJC giảm 1 triệu còn 145.9-148.9M; world_vnd ~130.9M; premium ~18.0M. BTC lùi về $62,800. Hôm nay là ngày quyết định: CPI tháng 6 Mỹ và điều trần Fed Chair Warsh trước Quốc hội sẽ định hướng xu thế tiếp theo của vàng, lãi suất và tài sản rủi ro. NHTW (Ba Lan, Trung Quốc) tiếp tục mua vào tạo lực đỡ quanh vùng $4,000/oz.",
+    "summary": "🟡 <b>15/7 — Thứ Tư:</b> Vàng thế giới biến động trái chiều quanh $4,021.8/oz sau khi CPI Mỹ hạ nhiệt; SJC đảo chiều tăng 700,000 đồng lên 144.5-147.5M; world_vnd ~127.8M; premium ~19.7M. BTC quanh $63,700. Chủ tịch Fed Warsh điều trần Thượng viện hôm nay tiếp tục là tâm điểm; NHTW Trung Quốc tiếp tục mua vào tạo nghịch lý cung-cầu.",
     "factors": [
       {
-        "name": "Vàng thế giới giảm về ~$4,119/oz (14/7) — tiến gần mốc hỗ trợ tâm lý $4,000/oz",
-        "pct": 42,
-        "direction": "down",
+        "name": "Vàng thế giới biến động trái chiều, tăng nhẹ lên ~$4,021.8/oz (15/7) sau chuỗi giảm",
+        "pct": 48,
+        "direction": "up",
         "bar": "fm",
-        "desc": "Vàng tiếp tục giảm nhẹ so với 4,121.40 USD/oz cuối tuần trước, chịu sức ép từ kỳ vọng CPI và điều trần Fed Chair Warsh. Vùng $4,000/oz tiếp tục đóng vai trò hỗ trợ tâm lý quan trọng, được củng cố bởi lực mua bền vững của NHTW."
+        "desc": "Vàng phục hồi nhẹ 21.6 USD/oz sau khi CPI tháng 6 Mỹ thấp hơn dự báo làm giảm áp lực lãi suất, nhưng vẫn thấp hơn đáng kể so với vùng $4,119 hôm 14/7, phản ánh tâm lý giằng co giữa kỳ vọng Fed và lực bán chốt lời."
       },
       {
-        "name": "SJC trong nước giảm thêm 1 triệu đồng/lượng xuống 145.9-148.9 triệu đồng/lượng",
-        "pct": 40,
-        "direction": "down",
+        "name": "SJC trong nước đảo chiều tăng 700,000 đồng/lượng lên 144.5-147.5 triệu đồng/lượng",
+        "pct": 45,
+        "direction": "up",
         "bar": "fm",
-        "desc": "So với chốt tuần trước, SJC giảm 1 triệu đồng/lượng cả hai chiều; vàng nhẫn SJC giảm 1.2 triệu đồng/lượng xuống 145.4-148.4 triệu đồng/lượng. Chênh lệch mua-bán vẫn neo cao 3 triệu đồng/lượng."
+        "desc": "Sau chuỗi giảm liên tiếp, SJC bật tăng trở lại 700,000 đồng/lượng cả hai chiều mua-bán trong phiên sáng 15/7, theo sát diễn biến hồi phục của giá vàng thế giới."
       },
       {
-        "name": "Ngân hàng trung ương toàn cầu tiếp tục gom vàng: Ba Lan +82 tấn từ đầu năm, Trung Quốc duy trì đà mua",
-        "pct": 68,
+        "name": "Ngân hàng trung ương Trung Quốc tiếp tục mua vào, tạo nghịch lý cung-cầu trên thị trường vàng",
+        "pct": 65,
         "direction": "up",
         "bar": "fh",
-        "desc": "Lực mua bền vững từ các NHTW (Ba Lan, Trung Quốc) tiếp tục là yếu tố hỗ trợ chính giúp hình thành vùng đáy vững chắc cho vàng quanh $4,000/oz, bất chấp áp lực giảm ngắn hạn từ lợi suất TPCP Mỹ và USD mạnh."
+        "desc": "Truyền thông trong nước ghi nhận một NHTW lớn (Trung Quốc) tiếp tục mua vào bất chấp giá vàng biến động, tạo ra nghịch lý khi lực cầu dài hạn từ khối chính thức vẫn bền vững trong lúc giá giằng co ngắn hạn."
       },
       {
-        "name": "BTC lùi về $62,800 — chịu áp lực giảm cùng chiều với vàng trước sự kiện CPI",
-        "pct": 40,
-        "direction": "down",
+        "name": "BTC quanh $63,700 — nhích nhẹ theo đà phục hồi khẩu vị rủi ro sau CPI hạ nhiệt",
+        "pct": 52,
+        "direction": "up",
         "bar": "fm",
-        "desc": "Bitcoin giảm về vùng $62,800-63,000, nới rộng đà giảm so với cuối tuần trước, phản ánh tâm lý thận trọng chung của thị trường tài sản rủi ro trước thềm công bố CPI tháng 6 Mỹ và điều trần Fed Chair Warsh."
+        "desc": "Bitcoin tăng nhẹ lên khoảng $63,700 từ vùng $62,800 hôm qua, khi CPI thấp hơn dự báo giúp cải thiện khẩu vị rủi ro chung, dù chưa hồi phục hoàn toàn về vùng $64,000+ cuối tuần trước."
       },
       {
-        "name": "CPI tháng 6 Mỹ (14/7) và điều trần Fed Chair Warsh — catalyst quyết định trong ngày",
+        "name": "Điều trần Fed Chair Warsh trước Thượng viện (15/7) — catalyst chính trong ngày",
         "pct": 70,
         "direction": "down",
         "bar": "fh",
-        "desc": "CPI tháng 6 Mỹ công bố 8h30 sáng giờ Mỹ, dự báo giảm nhẹ so với tháng trước nhưng tăng ~3.8-3.9% so với cùng kỳ; thị trường đặt cược 65% khả năng Fed giữ nguyên lãi suất. Phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội cùng ngày sẽ là catalyst quyết định cho lãi suất, vàng và tiền số trong ngắn hạn."
+        "desc": "Sau phiên điều trần Hạ viện hôm 14/7, Chủ tịch Fed Kevin Warsh tiếp tục điều trần trước Ủy ban Ngân hàng Thượng viện lúc 10h sáng giờ Mỹ hôm nay. Phát biểu của ông về định hướng lãi suất sẽ là yếu tố quyết định xu hướng vàng, USD và tài sản rủi ro trong phiên."
       }
     ],
-    "outlook_label": "Vàng ~$4,119/oz (14/7 Thứ Ba) — tiến gần $4,000; SJC 145.9-148.9M; BTC ~$62,800; CPI Mỹ và điều trần Fed Chair Warsh trong ngày",
+    "outlook_label": "Vàng ~$4,021.8/oz (15/7 Thứ Tư) — biến động trái chiều; SJC 144.5-147.5M; BTC ~$63,700; Fed Chair Warsh điều trần Thượng viện trong ngày",
     "outlook_class": "pbe",
-    "outlook_text": "14/7 (Thứ Ba): Vàng thế giới tiếp tục xu hướng giảm, niêm yết quanh $4,119/oz và tiến gần mốc hỗ trợ tâm lý quan trọng $4,000/oz, khi thị trường chịu sức ép từ kỳ vọng về CPI tháng 6 Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội trong ngày. Trong nước, SJC giảm thêm 1 triệu đồng/lượng xuống 145.9-148.9 triệu đồng/lượng; vàng nhẫn SJC giảm 1.2 triệu đồng/lượng xuống 145.4-148.4 triệu đồng/lượng; world_vnd ước tính ~130.9M, premium ~18.0M. Điểm sáng vẫn là lực mua bền vững từ các NHTW — Ba Lan đã mua thêm 82 tấn vàng từ đầu năm, Trung Quốc duy trì đà tăng dự trữ nhiều tháng liên tiếp — giúp hình thành vùng đáy vững chắc quanh $4,000/oz. BTC lùi về quanh $62,800, nới rộng đà giảm so với vùng $63,800-64,100 cuối tuần trước. Hôm nay là ngày quyết định của tuần: CPI tháng 6 Mỹ công bố 8h30 sáng giờ Mỹ (dự báo giảm nhẹ so với tháng trước, tăng ~3.8-3.9% so với cùng kỳ) cùng phiên điều trần Fed Chair Warsh sẽ định hướng xu thế tiếp theo của vàng, lãi suất VND và tài sản rủi ro. Nếu CPI thấp hơn dự báo và Fed phát tín hiệu dovish, vàng có thể phục hồi; ngược lại áp lực giảm có thể tiếp diễn về vùng $4,000/oz.",
+    "outlook_text": "15/7 (Thứ Tư): Vàng thế giới biến động trái chiều, phục hồi nhẹ 21.6 USD/oz lên quanh $4,021.8/oz sau khi CPI tháng 6 Mỹ hạ nhiệt hơn dự báo (3.5% so với dự báo 3.8%) giúp giảm bớt áp lực Fed phải tăng lãi suất. Trong nước, SJC đảo chiều tăng 700,000 đồng/lượng lên 144.5-147.5 triệu đồng/lượng (mua-bán); world_vnd ước tính ~127.8 triệu đồng/lượng, premium ~19.7 triệu đồng/lượng. Diễn biến đáng chú ý là nghịch lý cung-cầu khi một NHTW lớn (Trung Quốc) tiếp tục mua vào bất chấp giá biến động ngắn hạn, cho thấy nhu cầu dự trữ dài hạn vẫn vững. BTC nhích nhẹ lên quanh $63,700 khi khẩu vị rủi ro cải thiện, cổ phiếu nhóm chip dẫn dắt đà tăng của Phố Wall phiên 14/7. Tâm điểm hôm nay là phiên điều trần thứ hai liên tiếp của Chủ tịch Fed Kevin Warsh, lần này trước Ủy ban Ngân hàng Thượng viện lúc 10h sáng giờ Mỹ — phát biểu của ông sẽ định hướng xu thế vàng, lãi suất VND và tài sản rủi ro trong những phiên tới. Rủi ro địa chính trị tại Eo biển Hormuz (giá dầu Brent +9.6% phiên đầu tuần) tiếp tục là yếu tố cần theo dõi, có thể hỗ trợ vàng như tài sản trú ẩn nếu căng thẳng leo thang.",
     "sources": [
       {
-        "name": "baoquocte.vn — Giá vàng hôm nay 14/7/2026 lao dốc, sắp thủng mốc 4.000 USD",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-14-7-2026-lao-doc-sap-thung-moc-4-000-usd-vung-day-vung-chac-dang-hinh-thanh-nho-luc-luong-quan-trong-nay-417969.html"
+        "name": "baoquocte.vn — Giá vàng hôm nay 15/7/2026 biến động trái chiều",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-15-7-2026-bien-dong-trai-chieu-thi-truong-phan-anh-nghich-ly-quan-trong-mot-ngan-hang-trung-uong-lien-tuc-mua-vao-418477.html"
       },
       {
-        "name": "The Motley Fool / Yahoo Finance — Latest Inflation Data, July 14",
-        "url": "https://finance.yahoo.com/economy/policy/articles/latest-inflation-data-drop-july-143801630.html"
+        "name": "Yahoo Finance — Stock market today, July 14",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html"
       },
       {
-        "name": "Yahoo Finance — Bitcoin price today",
-        "url": "https://finance.yahoo.com/quote/BTC-USD/history/"
+        "name": "Kiplinger — What to Look Out for in Economic Data This Week (July 13-17)",
+        "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
       }
     ]
   },
   "interest_rates": {
-    "alert": "📊 14/7 (Thứ Ba): Khảo sát sáng nay cho thấy lãi suất huy động toàn hệ thống không đổi so với hôm qua. NCB tiếp tục niêm yết công khai cao nhất hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng). Nhóm quốc doanh (Vietcombank, BIDV, Agribank, VietinBank) giữ nguyên 6.8%/năm kỳ hạn 12 tháng. Thị trường đang chờ báo cáo CPI tháng 6 của Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh công bố trong ngày hôm nay để định hướng room điều chỉnh tiếp theo.",
+    "alert": "📊 15/7 (Thứ Tư): Khảo sát sáng nay cho thấy lãi suất huy động toàn hệ thống chưa ghi nhận điều chỉnh mới so với hôm qua. NCB tiếp tục niêm yết công khai cao nhất hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng). Nhóm quốc doanh (Vietcombank, BIDV, Agribank, VietinBank) giữ nguyên 6.8%/năm kỳ hạn 12 tháng. Thị trường đang chờ phiên điều trần thứ hai liên tiếp của Chủ tịch Fed Kevin Warsh trước Ủy ban Ngân hàng Thượng viện (10h sáng giờ Mỹ hôm nay) để định hướng room điều chỉnh tiếp theo, sau khi CPI tháng 6 Mỹ hạ nhiệt hơn dự báo hôm qua.",
     "highlights": [
       {
         "label": "NCB tiếp tục niêm yết cao nhất hệ thống 9.2%/năm — không đổi",
         "value": "9.2%",
         "sub": "Sản phẩm NCB Signature Saving, kỳ hạn 36 tháng; các kỳ hạn ngắn hơn: 8.6%/6T, 8.7%/9T, 8.8%/12T, 8.9%/13T, 9%/15T, 9.1%/24T",
-        "note": "Không có ngân hàng nào công bố mức niêm yết công khai cao hơn NCB tính đến 14/7."
+        "note": "Không có ngân hàng nào công bố mức niêm yết công khai cao hơn NCB tính đến 15/7."
       },
       {
         "label": "ACB niêm yết trực tuyến kỳ hạn 6 tháng lên tới 7.1%/năm, thuộc nhóm 4 NH có kỳ hạn 6T từ 7%/năm",
@@ -156,7 +156,7 @@
         "label": "Big4 ổn định 6.8%/12T, chưa có điều chỉnh mới",
         "value": "6.8%",
         "sub": "BIDV, Vietcombank, Agribank, VietinBank — 6.8%/12T; dự báo về 6.5-6.6% cuối Q3",
-        "note": "Big4 giữ nguyên 6.8%/12T. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở khoảng 70-72%, chờ CPI tháng 6 Mỹ và điều trần Fed Chair Warsh công bố hôm nay."
+        "note": "Big4 giữ nguyên 6.8%/12T. Xác suất điều chỉnh giảm về 6.5-6.6% cuối Q3 vẫn ở khoảng 70-72%, chờ điều trần Fed Chair Warsh trước Thượng viện hôm nay."
       }
     ],
     "banks": [
@@ -339,20 +339,20 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 14/7 (Thứ Ba): Toàn hệ thống đi ngang, thị trường chờ CPI Mỹ và điều trần Fed Chair Warsh",
-      "body": "Ngày 14/7/2026 (Thứ Ba), khảo sát sáng nay cho thấy lãi suất huy động tại các ngân hàng được theo dõi không thay đổi so với hôm qua. NCB (Ngân hàng Quốc Dân) tiếp tục là ngân hàng niêm yết công khai mức lãi suất cao nhất hệ thống với 9.2%/năm cho sản phẩm NCB Signature Saving, kỳ hạn 36 tháng. Ở nhóm quốc doanh, Vietcombank, BIDV, VietinBank, Agribank giữ quanh 6.8%/năm kỳ hạn 12 tháng (kênh trực tuyến); kỳ hạn 3 tháng đồng loạt 4.75%/năm. Nhóm niêm yết chuẩn quầy tư nhân (ACB, MBV, MB, OCB) giữ quanh 7-7.1%/12T. Nhóm lãi suất đặc biệt số dư siêu lớn (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank 8.9%) không đổi. Toàn thị trường đang hướng sự chú ý về báo cáo CPI tháng 6 Mỹ công bố 8h30 sáng giờ Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh trước Ủy ban Dịch vụ Tài chính Hạ viện diễn ra trong hôm nay — hai sự kiện được xem là catalyst chính cho định hướng lãi suất trong nước những tuần tới.",
+      "title": "Lãi suất 15/7 (Thứ Tư): Toàn hệ thống tiếp tục đi ngang, chờ điều trần Fed Chair Warsh trước Thượng viện",
+      "body": "Ngày 15/7/2026 (Thứ Tư), khảo sát sáng nay cho thấy lãi suất huy động tại các ngân hàng được theo dõi không thay đổi so với hôm qua. NCB (Ngân hàng Quốc Dân) tiếp tục là ngân hàng niêm yết công khai mức lãi suất cao nhất hệ thống với 9.2%/năm cho sản phẩm NCB Signature Saving, kỳ hạn 36 tháng. Ở nhóm quốc doanh, Vietcombank, BIDV, VietinBank, Agribank giữ quanh 6.8%/năm kỳ hạn 12 tháng (kênh trực tuyến); kỳ hạn 3 tháng đồng loạt 4.75%/năm. Nhóm niêm yết chuẩn quầy tư nhân (ACB, MBV, MB, OCB) giữ quanh 7-7.1%/12T. Nhóm lãi suất đặc biệt số dư siêu lớn (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank 8.9%) không đổi. Toàn thị trường đang hướng sự chú ý về phiên điều trần thứ hai liên tiếp của Chủ tịch Fed Kevin Warsh trước Ủy ban Ngân hàng Thượng viện lúc 10h sáng giờ Mỹ hôm nay, sau khi CPI tháng 6 Mỹ công bố hôm qua thấp hơn dự báo (3.5% so với 3.8%) — hai sự kiện được xem là catalyst chính cho định hướng lãi suất trong nước những tuần tới.",
       "sources": [
         {
-          "name": "vietnambiz.vn — Lãi suất ngân hàng hôm nay 13/7 Vietcombank, BIDV, Agribank, VietinBank tiếp tục neo cao",
-          "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-137-vietcombank-bidv-agribank-vietinbank-hdbank-techcombank-tiep-tuc-neo-cao-2026713111553604.htm"
+          "name": "vietnambiz.vn — Lãi suất ngân hàng hôm nay 14/7 Big4 đang niêm yết bao nhiêu?",
+          "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-147-big4-agribank-vietcombank-bidv-vietinbank-sacombank-dang-niem-yet-bao-nhieu-2026714111532921.htm"
         },
         {
-          "name": "webgia.com — Lãi suất ngân hàng tháng 7/2026",
-          "url": "https://webgia.com/lai-suat/"
+          "name": "Techcombank — Lãi suất gửi tiết kiệm của 30+ ngân hàng hôm nay",
+          "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
         },
         {
-          "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 8/7: Nhà băng đầu tiên công khai mức 9.2%/năm",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-8-7-nha-bang-dau-tien-cong-khai-muc-9-2-nam-2533575.html"
+          "name": "Kiplinger — What to Look Out for in Economic Data This Week (July 13-17)",
+          "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
         }
       ]
     },
@@ -386,11 +386,11 @@
         "desc": "TDH nâng từ 30% lên 40% từ 1/7 tiếp tục phát huy hiệu quả, giúp NH tư nhân giảm dần áp lực cạnh tranh huy động chính thức, dù một số NH vẫn tung sản phẩm đặc biệt như NCB để hút vốn dài hạn."
       },
       {
-        "name": "CPI tháng 6 Mỹ và điều trần Fed Chair Warsh công bố trong hôm nay 14/7 — catalyst quyết định",
+        "name": "CPI tháng 6 Mỹ hạ nhiệt (14/7) và điều trần Fed Chair Warsh trước Thượng viện hôm nay 15/7 — catalyst quyết định",
         "level": "sub",
         "pct": 65,
         "bar": "fh",
-        "desc": "CPI tháng 6 Mỹ công bố 8h30 sáng giờ Mỹ, dự báo giảm nhẹ so với tháng trước nhưng tăng ~3.8-3.9% so với cùng kỳ. Thị trường đặt cược 65% khả năng Fed giữ nguyên lãi suất. Phiên điều trần Chủ tịch Fed Kevin Warsh trước Quốc hội cùng ngày sẽ là catalyst quyết định cho room điều chỉnh lãi suất của NHNN trong các tuần tới."
+        "desc": "CPI tháng 6 Mỹ công bố hôm qua tăng 3.5% so với cùng kỳ, thấp hơn dự báo 3.8%, giúp giảm áp lực Fed. Phiên điều trần thứ hai liên tiếp của Chủ tịch Fed Kevin Warsh trước Ủy ban Ngân hàng Thượng viện hôm nay sẽ là catalyst quyết định cho room điều chỉnh lãi suất của NHNN trong các tuần tới."
       }
     ],
     "rate_forecast": [
@@ -406,7 +406,7 @@
         "pct": 71,
         "direction": "down",
         "bar": "fm",
-        "desc": "Big4 điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3 với xác suất ~70-72%. Diễn biến CPI Mỹ hôm nay và điều trần Fed Chair Warsh là catalyst bổ sung quan trọng."
+        "desc": "Big4 điều chỉnh từ 6.8% về 6.5-6.6% cuối Q3 với xác suất ~70-72%. CPI Mỹ hạ nhiệt và điều trần Fed Chair Warsh hôm nay là catalyst bổ sung quan trọng."
       },
       {
         "name": "Nhóm niêm yết chuẩn quầy (7%/12T) có thể giữ ổn định 2-4 tuần tới",
@@ -416,20 +416,20 @@
         "desc": "HLBank, MBV, MB, OCB nhiều khả năng giữ nguyên mức 7%/12T trong ngắn hạn khi TDH 40% đã giảm bớt áp lực huy động chính thức."
       },
       {
-        "name": "CPI tháng 6 Mỹ và điều trần Fed Chair Warsh hôm nay 14/7 — catalyst lớn nhất tuần cho lãi suất VN, vàng và BTC",
+        "name": "Điều trần Fed Chair Warsh trước Thượng viện hôm nay 15/7 — catalyst lớn nhất tuần cho lãi suất VN, vàng và BTC",
         "pct": 68,
         "direction": "down",
         "bar": "fm",
-        "desc": "Nếu CPI thấp hơn dự báo và Fed Chair Warsh phát tín hiệu dovish trong điều trần, NHNN có thêm dư địa điều chỉnh giảm lãi suất; ngược lại áp lực lạm phát dai dẳng có thể trì hoãn room giảm lãi suất trong nước."
+        "desc": "Nếu Fed Chair Warsh tiếp tục phát tín hiệu dovish trong điều trần Thượng viện, NHNN có thêm dư địa điều chỉnh giảm lãi suất; ngược lại rủi ro địa chính trị (Eo biển Hormuz) và lạm phát dai dẳng có thể trì hoãn room giảm lãi suất trong nước."
       }
     ],
-    "rate_outlook_label": "14/7 Thứ Ba — Không đổi: NCB niêm yết 9.2%/36T cao nhất hệ thống; Big4 6.8%; ACB dẫn đầu chuẩn quầy 7.1%; chờ CPI Mỹ và điều trần Fed Chair Warsh công bố hôm nay",
+    "rate_outlook_label": "15/7 Thứ Tư — Không đổi: NCB niêm yết 9.2%/36T cao nhất hệ thống; Big4 6.8%; ACB dẫn đầu chuẩn quầy 7.1%; chờ điều trần Fed Chair Warsh trước Thượng viện hôm nay",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "14/7 (Thứ Ba): Thị trường lãi suất huy động tiếp tục đi ngang, không ghi nhận điều chỉnh mới so với hôm qua. NCB tiếp tục dẫn đầu hệ thống với mức niêm yết công khai 9.2%/năm (36 tháng). ACB dẫn đầu nhóm niêm yết chuẩn trực tuyến kỳ hạn 6 tháng với 7.1%/năm; MBV, MB, OCB giữ 7%/năm. Big4 ổn định 6.8%/12T. Các chương trình đặc biệt (PVcomBank 10%, Cake Bank 8.9%, MSB 9%, OCB 8.5%) vẫn duy trì cho khách VIP/số dư lớn. Catalyst chính trong ngày hôm nay: báo cáo CPI tháng 6 Mỹ công bố 8h30 sáng giờ Mỹ và phiên điều trần Chủ tịch Fed Kevin Warsh trước Ủy ban Dịch vụ Tài chính Hạ viện — thị trường lãi suất trong nước nhiều khả năng giữ trạng thái thận trọng chờ kết quả. Dự báo: Big4 về 6.5-6.6%; top tư nhân giữ quanh 7.0-7.3% cuối Q3.",
+    "rate_outlook_text": "15/7 (Thứ Tư): Thị trường lãi suất huy động tiếp tục đi ngang, không ghi nhận điều chỉnh mới so với hôm qua. NCB tiếp tục dẫn đầu hệ thống với mức niêm yết công khai 9.2%/năm (36 tháng). ACB dẫn đầu nhóm niêm yết chuẩn trực tuyến kỳ hạn 6 tháng với 7.1%/năm; MBV, MB, OCB giữ 7%/năm. Big4 ổn định 6.8%/12T. Các chương trình đặc biệt (PVcomBank 10%, Cake Bank 8.9%, MSB 9%, OCB 8.5%) vẫn duy trì cho khách VIP/số dư lớn. Catalyst chính trong ngày hôm nay: phiên điều trần thứ hai liên tiếp của Chủ tịch Fed Kevin Warsh trước Ủy ban Ngân hàng Thượng viện lúc 10h sáng giờ Mỹ, sau khi CPI tháng 6 Mỹ hạ nhiệt hơn dự báo hôm qua (3.5% so với 3.8%) — thị trường lãi suất trong nước nhiều khả năng giữ trạng thái thận trọng chờ kết quả. Dự báo: Big4 về 6.5-6.6%; top tư nhân giữ quanh 7.0-7.3% cuối Q3.",
     "rate_sources": [
       {
-        "name": "vietnambiz.vn — Lãi suất ngân hàng hôm nay 13/7 tiếp tục neo cao",
-        "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-137-vietcombank-bidv-agribank-vietinbank-hdbank-techcombank-tiep-tuc-neo-cao-2026713111553604.htm"
+        "name": "vietnambiz.vn — Lãi suất ngân hàng hôm nay 14/7 Big4 đang niêm yết bao nhiêu?",
+        "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-147-big4-agribank-vietcombank-bidv-vietinbank-sacombank-dang-niem-yet-bao-nhieu-2026714111532921.htm"
       },
       {
         "name": "Kiplinger — What to Look Out for in Economic Data This Week (July 13-17)",
@@ -636,7 +636,8 @@
       "11/07",
       "12/07",
       "13/07",
-      "14/07"
+      "14/07",
+      "15/07"
     ],
     "sjc": [
       152.8,
@@ -832,7 +833,8 @@
       149.9,
       149.9,
       149.9,
-      148.9
+      148.9,
+      147.5
     ],
     "world_vnd": [
       121,
@@ -1028,7 +1030,8 @@
       131.1,
       131.0,
       131.0,
-      130.9
+      130.9,
+      127.8
     ]
   }
 }
