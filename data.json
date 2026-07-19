@@ -1,129 +1,129 @@
 {
   "meta": {
-    "date": "16 tháng 7, 2026",
-    "day": "Thứ Năm",
-    "updated": "2026-07-16 07:03"
+    "date": "19 tháng 7, 2026",
+    "day": "Chủ Nhật",
+    "updated": "2026-07-19 22:45"
   },
   "alert": {
-    "type": "yellow",
-    "text": "🟡 <b>16/7 — Thứ Năm:</b> Vàng thế giới bật tăng lên $4,076.8/oz (+55 USD so với hôm qua) khi dữ liệu CPI tháng 6 Mỹ hạ nhiệt (3.5% so với dự báo 3.8%) tiếp tục hỗ trợ tâm lý thị trường, dù Chủ tịch Fed Kevin Warsh cảnh báo \"chưa phải lúc ăn mừng\" và giữ lập trường thận trọng. SJC trong nước tăng thêm lên 145.5-148.5 triệu đồng/lượng. BTC vượt $64,750, tăng hơn 4% trong ngày nhờ khẩu vị rủi ro cải thiện. Về công nghệ: Anthropic gia hạn miễn phí Fable 5 lần thứ ba trong 5 tuần để cạnh tranh GPT-5.6 Sol của OpenAI; SK Hynix niêm yết Nasdaq tăng vọt 13% phiên đầu, vốn hóa 1.27 nghìn tỷ USD; startup AI Neko huy động 700 triệu USD Series C do Lightspeed dẫn dắt; GitHub Copilot ra mắt mô hình coding mã nguồn mở đầu tiên. <b>Lãi suất: Big4 tiếp tục niêm yết đồng nhất 5.9%/năm kỳ hạn 12 tháng (24T: 6.0%), không đổi 2 ngày qua; NCB vẫn cao nhất hệ thống 9.2%/năm (36T).</b>"
+    "type": "red",
+    "text": "🔴 <b>19/7 — Chủ Nhật:</b> Thị trường toàn cầu bán tháo mạnh trong tuần qua: chỉ số bán dẫn Philadelphia (SOX) giảm khoảng 10% chỉ trong tuần — tệ nhất kể từ 4/2025 — do giới đầu tư nghi ngờ Big Tech chưa thể biện minh cho chi tiêu AI khổng lồ (Bloomberg, 19/7). Dầu Brent vượt $80/thùng khi căng thẳng Trung Đông leo thang. Vàng thế giới rơi xuống dưới $4,000/oz phiên 18/7 (mất hơn 3% trong tuần) trước khi phục hồi nhẹ lên khoảng $4,019/oz sáng 19/7; SJC trong nước niêm yết 144.5-147.5 triệu đồng/lượng, tăng 900,000 đồng/lượng so với 18/7. BTC lùi về quanh $63,800, giảm từ đỉnh tuần gần $65,000 do dòng vốn rút khỏi các quỹ ETF crypto. Về công nghệ: Thinking Machines Lab (Mira Murati) ra mắt Inkling — mô hình mã nguồn mở đầu tiên của hãng; Meta đàm phán cho Anthropic thuê hạ tầng tính toán trị giá tới 10 tỷ USD; startup quốc phòng Đức Helsing huy động 1.8 tỷ USD, vòng gọi vốn quốc phòng lớn nhất châu Âu. <b>Lãi suất: Big4 (Vietcombank, BIDV, Agribank, VietinBank) đồng loạt tăng lên 6.8%/năm kỳ hạn 12-18 tháng (từ 5.9% trước đó) — đợt tăng lãi suất huy động đầu tiên trong tháng 7.</b>"
   },
   "news_ai": [
     {
-      "title": "Anthropic gia hạn miễn phí Fable 5 lần thứ ba trong 5 tuần để cạnh tranh GPT-5.6 Sol của OpenAI",
+      "title": "Thinking Machines Lab (Mira Murati) ra mắt Inkling — mô hình mã nguồn mở đầu tiên của hãng",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic tiếp tục gia hạn quyền truy cập miễn phí mô hình Fable 5 đến ngày 19/7 — lần thứ ba trong vòng 5 tuần — nhằm đối đầu trực tiếp với GPT-5.6 Sol vừa ra mắt của OpenAI. So sánh chi phí thực tế cho thấy Grok 4.5 chỉ tốn khoảng 2.49 USD cho mỗi tác vụ agentic hoàn thành, trong khi Fable 5 tốn tới 11.80 USD, cho thấy cuộc đua giá giữa các Big Tech AI đang rất khốc liệt.",
-      "source": "AIToolsRecap — AI News July 2026",
-      "source_url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+      "body": "Thinking Machines Lab, startup của cựu CTO OpenAI Mira Murati, chính thức phát hành Inkling — mô hình AI mã nguồn mở (open-weight) đầu tiên, xử lý được nhiều loại dữ liệu (đa phương tiện) và tối ưu cân bằng giữa chi phí và hiệu năng. Đây là bước đi khác biệt so với chiến lược 'một mô hình cho tất cả' của các Big Tech.",
+      "source": "TechCrunch, 15/7/2026",
+      "source_url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
     },
     {
-      "title": "SK Hynix niêm yết Nasdaq tăng vọt 13% phiên đầu, vốn hóa 1.27 nghìn tỷ USD, mở đường cho IPO hạ tầng AI",
+      "title": "Big Tech chịu áp lực chứng minh hiệu quả chi tiêu AI khi nhà đầu tư bán tháo cổ phiếu công nghệ",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Cổ phiếu SK Hynix tăng 13% trong phiên chào sàn Nasdaq, đóng cửa ở 168.01 USD, đưa vốn hóa công ty lên 1.27 nghìn tỷ USD sau khi đợt IPO được đặt mua gấp 7 lần nhu cầu chào bán. Giới quan sát xem đây là tín hiệu tích cực, mở đường cho các đợt niêm yết hạ tầng AI của Anthropic và OpenAI dự kiến vào quý IV/2026.",
-      "source": "AIToolsRecap — AI News July 2026",
-      "source_url": "https://aitoolsrecap.com/Blog/AINewsJuly2026.aspx"
+      "body": "Nhóm cổ phiếu công nghệ thông tin là nhóm giảm mạnh nhất trong S&P 500 tuần qua; chỉ số bán dẫn Philadelphia (SOX) giảm khoảng 10%, tệ nhất kể từ tháng 4/2025. Giới đầu tư ngày càng hoài nghi về khả năng Big Tech biện minh cho các khoản đầu tư khổng lồ vào hạ tầng AI.",
+      "source": "Bloomberg, 19/7/2026",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks"
     },
     {
-      "title": "Startup AI Neko huy động 700 triệu USD vòng Series C do Lightspeed dẫn dắt",
+      "title": "Helsing (Đức) huy động 1.8 tỷ USD — vòng gọi vốn quốc phòng lớn nhất châu Âu",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Neko công bố hoàn tất vòng gọi vốn Series C trị giá 700 triệu USD do Lightspeed Venture Partners dẫn dắt ngày 15/7, một trong những thương vụ lớn nhất tuần. Dòng vốn tiếp tục đổ mạnh vào các startup AI, đặc biệt ở mảng hạ tầng và các ứng dụng chuyên biệt như robot tự hành và năng lượng.",
-      "source": "AlleyWatch — Startup Daily Funding Report, 15/7/2026",
-      "source_url": "https://www.alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-15-2026/"
+      "body": "Startup quốc phòng Đức Helsing công bố hoàn tất vòng gọi vốn trị giá 1.8 tỷ USD, trở thành vòng gọi vốn lớn nhất từ trước đến nay cho một startup quốc phòng châu Âu, phản ánh dòng vốn đang dịch chuyển mạnh sang các ứng dụng AI trong lĩnh vực quốc phòng và an ninh.",
+      "source": "Defense News, 13/7/2026",
+      "source_url": "https://www.defensenews.com/global/europe/2026/07/13/helsing-raises-18-billion-in-europes-biggest-defense-startup-round/"
     },
     {
-      "title": "GitHub Copilot ra mắt mô hình lập trình mã nguồn mở đầu tiên; Google bổ sung công cụ video/hình ảnh mới cho Gemini",
+      "title": "Meta đàm phán cho Anthropic thuê hạ tầng tính toán, thương vụ có thể lên tới 10 tỷ USD",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "GitHub Copilot giới thiệu mô hình coding mã nguồn mở (open-weight) đầu tiên của mình, mở rộng lựa chọn cho lập trình viên bên cạnh các mô hình đóng hiện có. Cùng lúc, Google bổ sung các công cụ tạo video và hình ảnh mới cho hệ sinh thái Gemini, tiếp tục cuộc đua tính năng agentic giữa các Big Tech trong tháng 7.",
-      "source": "Tech industry reports, 7/2026",
-      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026"
+      "body": "Meta được cho là đang trong giai đoạn đàm phán sớm để cho Anthropic thuê năng lực tính toán (compute), với giá trị thương vụ có thể lên tới 10 tỷ USD — cho thấy nhu cầu hạ tầng AI vẫn rất lớn ngay cả khi cổ phiếu công nghệ đang bị bán tháo.",
+      "source": "Financial reports, 19/7/2026",
+      "source_url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "yellow",
-      "text": "🟡 CPI tháng 6 Mỹ (công bố 14/7) giảm 0.4% so với tháng trước, đưa lạm phát năm về 3.5% — thấp hơn dự báo 3.8%; lạm phát lõi đi ngang, còn 2.6% theo năm. Xác suất Fed tăng lãi suất tháng 7 giảm còn 17% (từ 42%) theo CME FedWatch. Tuy nhiên Chủ tịch Fed Kevin Warsh cảnh báo \"chưa phải lúc ăn mừng\", giữ quan điểm thận trọng về lạm phát dai dẳng và rủi ro địa chính trị (giá dầu Brent neo cao do căng thẳng Eo biển Hormuz). Vàng thế giới bật tăng lên $4,076.8/oz, SJC trong nước tăng thêm lên 145.5-148.5 triệu đồng/lượng. BTC vượt $64,750, tăng hơn 4% trong ngày."
+      "type": "red",
+      "text": "🔴 Thị trường tài chính toàn cầu bán tháo mạnh tuần qua: S&P 500 giảm 1.01% xuống 7,457.69 điểm, Nasdaq giảm 1.4% xuống 25,520.24, Dow Jones giảm 406.55 điểm (0.77%) xuống 52,146.42. Chỉ số bán dẫn SOX giảm ~10-20% từ đỉnh gần nhất — tệ nhất kể từ 4/2025. Dầu tăng 2% vượt $80/thùng do xung đột Trung Đông leo thang. Vàng thế giới giảm dưới $4,000/oz phiên 18/7 (mất hơn 3%/tuần) trước khi phục hồi nhẹ lên ~$4,019/oz sáng 19/7. BTC lùi về quanh $63,800 từ đỉnh tuần ~$65,000 do dòng vốn ETF crypto tiếp tục rút ròng."
     },
     "items": [
       {
-        "title": "CPI tháng 6 Mỹ hạ nhiệt còn 3.5%, nhưng Fed Chair Warsh cảnh báo 'chưa phải lúc ăn mừng'",
+        "title": "Chứng khoán Mỹ bán tháo, cổ phiếu bán dẫn giảm mạnh nhất kể từ 4/2025",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "CPI tháng 6 giảm 0.4% so với tháng trước, đưa lạm phát năm về 3.5% — thấp hơn dự báo 3.8% của giới phân tích Dow Jones; lạm phát lõi đi ngang ở 2.6%. Dù vậy, Chủ tịch Fed Kevin Warsh nhấn mạnh đây chưa phải dấu hiệu 'hoàn thành nhiệm vụ', giữ lập trường thận trọng khi Fed vẫn được dự báo có thể tăng lãi suất vào tháng 9.",
-        "source": "CNBC, 14/7/2026",
-        "source_url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
+        "body": "S&P 500 giảm 1.01% xuống 7,457.69 điểm, Nasdaq Composite giảm 1.4% xuống 25,520.24 điểm, Dow Jones giảm 406.55 điểm (0.77%) xuống 52,146.42 điểm. Chỉ số bán dẫn Philadelphia (SOX) hướng tới mức giảm khoảng 20% từ đỉnh gần nhất, tuần tệ nhất kể từ tháng 4/2025, khi nhà đầu tư nghi ngờ hiệu quả chi tiêu AI của Big Tech.",
+        "source": "CNBC, 16-19/7/2026",
+        "source_url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html"
       },
       {
-        "title": "Vàng thế giới bật tăng lên $4,076.8/oz, SJC trong nước lên 145.5-148.5 triệu đồng/lượng",
+        "title": "Vàng thế giới rơi dưới $4,000/oz rồi phục hồi nhẹ lên $4,019/oz sáng 19/7",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Giá vàng thế giới phục hồi lên khoảng 4,076.8 USD/oz nhờ dữ liệu lạm phát Mỹ hạ nhiệt giúp giảm bớt lo ngại Fed phải giữ lãi suất cao kéo dài. Trong nước, SJC niêm yết 145.5 triệu đồng/lượng (mua) và 148.5 triệu đồng/lượng (bán), tăng thêm khoảng 1 triệu đồng/lượng so với phiên 15/7.",
-        "source": "baoquocte.vn, 16/7/2026",
-        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-16-7-2026-dao-nguoc-cuc-dien-tiep-tuc-qua-trinh-tich-luy-chuyen-gia-chi-giai-phap-dau-tu-thay-the-418909.html"
+        "body": "Giá vàng thế giới giảm xuống dưới ngưỡng 4,000 USD/oz trong phiên 18/7, mất hơn 3% trong tuần, trước khi phục hồi nhẹ lên khoảng 4,019.3 USD/oz tính đến 10h30 sáng 19/7 (giờ Việt Nam). Trong nước, SJC niêm yết 144.5-147.5 triệu đồng/lượng, tăng 900,000 đồng/lượng so với phiên 18/7.",
+        "source": "VietnamNet / Báo Lâm Đồng, 19/7/2026",
+        "source_url": "https://vietnamnet.vn/gia-vang-hom-nay-19-7-2026-da-giam-chua-dung-vang-nhan-sjc-mat-3-6-trieu-luong-2536928.html"
       },
       {
-        "title": "BTC vượt $64,750, tăng hơn 4% trong ngày nhờ khẩu vị rủi ro cải thiện",
+        "title": "BTC lùi về quanh $63,800 khi dòng vốn ETF crypto tiếp tục rút ròng",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch quanh 64,758 USD, tăng hơn 4% trong ngày, khi nhà đầu tư phản ứng tích cực với dữ liệu CPI hạ nhiệt và kỳ vọng Fed bớt cứng rắn hơn trong ngắn hạn.",
-        "source": "Yahoo Finance, 16/7/2026",
+        "body": "Bitcoin lùi về vùng 63,000-64,400 USD, giảm từ đỉnh tuần gần 65,000 USD, khi làn sóng bán tháo cổ phiếu bán dẫn lan sang tài sản rủi ro và các quỹ ETF Bitcoin ghi nhận dòng rút ròng liên tục nhiều ngày.",
+        "source": "Yahoo Finance, 19/7/2026",
         "source_url": "https://finance.yahoo.com/quote/BTC-USD/history/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>16/7 — Thứ Năm:</b> Vàng thế giới bật tăng lên $4,076.8/oz (+55 USD so với 15/7) nhờ CPI Mỹ hạ nhiệt tiếp tục hỗ trợ tâm lý thị trường, dù Fed Chair Warsh giữ quan điểm thận trọng. SJC tăng thêm lên 145.5-148.5 triệu đồng/lượng; world_vnd ~129.6 triệu; premium ~18.9 triệu. BTC vượt $64,750 (+4%).",
+    "summary": "🔴 <b>19/7 — Chủ Nhật:</b> Vàng thế giới rơi dưới $4,000/oz phiên 18/7 (mất hơn 3%/tuần) trước khi phục hồi nhẹ lên ~$4,019.3/oz sáng 19/7. SJC trong nước 144.5-147.5 triệu đồng/lượng (+900,000đ so với 18/7); world_vnd ~127.8 triệu; premium ~19.7 triệu. BTC lùi về ~$63,800 (-2% so với đỉnh tuần).",
     "factors": [
       {
-        "name": "Vàng thế giới bật tăng lên $4,076.8/oz, cao nhất trong tuần",
-        "pct": 58,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Vàng tăng thêm khoảng 55 USD/oz so với phiên 15/7 lên 4,076.8 USD/oz, tiếp nối đà phục hồi khi dữ liệu CPI Mỹ hạ nhiệt làm giảm kỳ vọng Fed phải giữ lãi suất cao kéo dài."
-      },
-      {
-        "name": "SJC trong nước tăng thêm lên 145.5-148.5 triệu đồng/lượng",
-        "pct": 50,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Giá vàng SJC bám sát đà tăng của thế giới, niêm yết 145.5 triệu đồng/lượng (mua) và 148.5 triệu đồng/lượng (bán), cao hơn khoảng 1 triệu đồng/lượng so với phiên hôm qua."
-      },
-      {
-        "name": "Fed Chair Warsh giữ lập trường thận trọng dù CPI hạ nhiệt — 'chưa phải lúc ăn mừng'",
-        "pct": 68,
+        "name": "Vàng thế giới rơi dưới $4,000/oz phiên 18/7, mất hơn 3% trong tuần",
+        "pct": 62,
         "direction": "down",
         "bar": "fh",
-        "desc": "Dù CPI tháng 6 thấp hơn dự báo, Chủ tịch Fed Kevin Warsh cảnh báo lạm phát lõi vẫn dai dẳng và chưa đủ cơ sở để nới lỏng chính sách, hạn chế đà giảm của USD và tiếp tục hỗ trợ cho vàng."
+        "desc": "Vàng giảm mạnh trong tuần, có lúc thủng ngưỡng 4,000 USD/oz phiên 18/7, khi khẩu vị rủi ro và lợi suất trái phiếu Mỹ biến động mạnh theo diễn biến bán tháo cổ phiếu công nghệ."
       },
       {
-        "name": "BTC vượt $64,750, tăng hơn 4% trong ngày theo đà cải thiện khẩu vị rủi ro",
+        "name": "Vàng phục hồi nhẹ lên $4,019.3/oz sáng 19/7, SJC tăng 900,000đ",
+        "pct": 45,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Sáng 19/7 (giờ Việt Nam), vàng thế giới hồi phục nhẹ lên khoảng 4,019.3 USD/oz; SJC trong nước niêm yết 144.5-147.5 triệu đồng/lượng, tăng 900,000 đồng/lượng so với phiên 18/7."
+      },
+      {
+        "name": "Căng thẳng Trung Đông đẩy giá dầu vượt $80/thùng, hỗ trợ vai trò trú ẩn của vàng",
+        "pct": 64,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "Xung đột tại Trung Đông tiếp tục leo thang, đẩy giá dầu Brent tăng 2% vượt 80 USD/thùng, làm gia tăng vai trò trú ẩn an toàn của vàng trong bối cảnh rủi ro địa chính trị chưa hạ nhiệt."
+      },
+      {
+        "name": "Bán tháo cổ phiếu công nghệ/bán dẫn lan sang tài sản rủi ro, kéo BTC lùi về ~$63,800",
+        "pct": 58,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Chỉ số SOX giảm mạnh nhất kể từ 4/2025 khiến dòng vốn rút khỏi tài sản rủi ro, trong đó Bitcoin lùi về khoảng 63,800 USD, giảm so với đỉnh tuần gần 65,000 USD."
+      },
+      {
+        "name": "Nhà đầu tư nghi ngờ hiệu quả chi tiêu AI của Big Tech — áp lực lên toàn thị trường",
         "pct": 55,
-        "direction": "up",
+        "direction": "down",
         "bar": "fm",
-        "desc": "Bitcoin bật tăng mạnh hơn 4% lên khoảng 64,758 USD khi nhà đầu tư phản ứng tích cực với dữ liệu lạm phát, dù vẫn thấp hơn đáng kể so với các đỉnh đầu năm."
-      },
-      {
-        "name": "Rủi ro địa chính trị tại Eo biển Hormuz và giá dầu cao tiếp tục hỗ trợ vai trò trú ẩn của vàng",
-        "pct": 60,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Căng thẳng tại Eo biển Hormuz tiếp tục đẩy giá dầu Brent neo cao, làm gia tăng vai trò trú ẩn an toàn của vàng trong bối cảnh rủi ro địa chính trị chưa hạ nhiệt."
+        "desc": "Giới đầu tư ngày càng hoài nghi khả năng Big Tech biện minh cho các khoản chi khổng lồ vào hạ tầng AI, góp phần vào đợt bán tháo cổ phiếu công nghệ và tâm lý risk-off chung trên thị trường."
       }
     ],
-    "outlook_label": "Vàng ~$4,076.8/oz (16/7 Thứ Năm) — bật tăng; SJC 145.5-148.5M; BTC ~$64,758 (+4%); Fed Chair Warsh giữ thận trọng dù CPI hạ nhiệt",
+    "outlook_label": "Vàng ~$4,019.3/oz (19/7 Chủ Nhật) — phục hồi nhẹ sau khi thủng $4,000; SJC 144.5-147.5M; BTC ~$63,800; thị trường risk-off do bán tháo cổ phiếu bán dẫn",
     "outlook_class": "pbe",
-    "outlook_text": "16/7 (Thứ Năm): Vàng thế giới bật tăng khoảng 55 USD/oz lên quanh $4,076.8/oz, tiếp nối đà phục hồi từ phiên trước sau khi CPI tháng 6 Mỹ hạ nhiệt hơn dự báo (3.5% so với dự báo 3.8%) giúp giảm bớt lo ngại Fed phải giữ lãi suất cao kéo dài. Trong nước, SJC tăng thêm lên 145.5-148.5 triệu đồng/lượng (mua-bán); world_vnd ước tính ~129.6 triệu đồng/lượng, premium ~18.9 triệu đồng/lượng. Dù dữ liệu lạm phát tích cực, Chủ tịch Fed Kevin Warsh vẫn giữ lập trường thận trọng, cảnh báo 'chưa phải lúc ăn mừng' — quan điểm này giúp hạn chế đà giảm của USD và tiếp tục hỗ trợ giá vàng. BTC bật tăng mạnh hơn 4% lên khoảng $64,758 khi khẩu vị rủi ro cải thiện. Rủi ro địa chính trị tại Eo biển Hormuz và giá dầu Brent neo cao tiếp tục là yếu tố hỗ trợ vai trò trú ẩn an toàn của vàng trong các phiên tới, trong khi thị trường chờ thêm tín hiệu từ các phát biểu tiếp theo của giới chức Fed.",
+    "outlook_text": "19/7 (Chủ Nhật): Vàng thế giới trải qua một tuần biến động mạnh, có lúc rơi xuống dưới ngưỡng 4,000 USD/oz trong phiên 18/7 (mất hơn 3% trong tuần) trước khi phục hồi nhẹ lên khoảng 4,019.3 USD/oz tính đến sáng 19/7 (giờ Việt Nam). Trong nước, SJC niêm yết 144.5-147.5 triệu đồng/lượng, tăng 900,000 đồng/lượng so với phiên 18/7; world_vnd ước tính ~127.8 triệu đồng/lượng, premium ~19.7 triệu đồng/lượng. Nguyên nhân chính của biến động là làn sóng bán tháo cổ phiếu công nghệ/bán dẫn toàn cầu (chỉ số SOX giảm mạnh nhất kể từ 4/2025) khi nhà đầu tư nghi ngờ hiệu quả chi tiêu AI của Big Tech, kết hợp với căng thẳng địa chính trị tại Trung Đông đẩy giá dầu Brent vượt 80 USD/thùng. BTC lùi về khoảng 63,800 USD, giảm so với đỉnh tuần gần 65,000 USD do dòng vốn rút khỏi tài sản rủi ro và các quỹ ETF crypto. Trong ngắn hạn, vàng nhiều khả năng tiếp tục biến động mạnh theo diễn biến bán tháo cổ phiếu công nghệ và căng thẳng Trung Đông, trong khi thị trường chờ thêm tín hiệu rõ ràng hơn về việc Big Tech có thể xoa dịu lo ngại của nhà đầu tư hay không.",
     "sources": [
       {
-        "name": "baoquocte.vn — Giá vàng hôm nay 16/7/2026",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-16-7-2026-dao-nguoc-cuc-dien-tiep-tuc-qua-trinh-tich-luy-chuyen-gia-chi-giai-phap-dau-tu-thay-the-418909.html"
+        "name": "VietnamNet — Giá vàng hôm nay 19/7/2026",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-19-7-2026-da-giam-chua-dung-vang-nhan-sjc-mat-3-6-trieu-luong-2536928.html"
       },
       {
-        "name": "CNBC — Consumer price index inflation report June 2026",
-        "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
+        "name": "Bloomberg — Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks"
       },
       {
         "name": "Yahoo Finance — BTC-USD Price History",
@@ -132,31 +132,31 @@
     ]
   },
   "interest_rates": {
-    "alert": "📊 16/7 (Thứ Năm): Big4 (Vietcombank, BIDV, Agribank, VietinBank) tiếp tục niêm yết đồng nhất <b>5.9%/năm</b> kỳ hạn 12 tháng và 6.0%/năm kỳ hạn 24 tháng tại cả quầy và trực tuyến, không đổi trong 2 ngày qua. NCB vẫn dẫn đầu hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng). Thị trường tiếp tục theo dõi các phát biểu tiếp theo của giới chức Fed sau CPI hạ nhiệt để định hướng room điều chỉnh lãi suất trong nước.",
+    "alert": "📊 19/7 (Chủ Nhật): Big4 (Vietcombank, BIDV, Agribank, VietinBank) đồng loạt <b>tăng lãi suất</b> lên <b>6.8%/năm</b> kỳ hạn 12-18 tháng (từ 5.9% trước đó) và 6.6%/năm kỳ hạn 6-9 tháng — đợt tăng lãi suất huy động đầu tiên trong tháng 7, theo khảo sát ngày 18/7. NCB vẫn dẫn đầu hệ thống với <b>9.2%/năm</b> (kỳ hạn 36 tháng); SHB nổi bật với 7.7%/năm kỳ hạn 6 tháng, cao nhất nhóm NH tư nhân cho kỳ hạn này.",
     "highlights": [
+      {
+        "label": "Big4 đồng loạt tăng lên 6.8%/năm kỳ hạn 12-18 tháng — đợt tăng đầu tiên trong tháng 7",
+        "value": "6.8%",
+        "sub": "Agribank, BIDV, Vietcombank, VietinBank cùng niêm yết 6.8%/năm (12-18T), 6.6%/năm (6-9T), 4.75%/năm (1-3T)",
+        "note": "Tăng đáng kể so với mức 5.9%/năm (12T) niêm yết trước đó, đánh dấu xu hướng tăng lãi suất huy động rõ rệt từ giữa tháng 7."
+      },
+      {
+        "label": "SHB niêm yết 7.7%/năm kỳ hạn 6 tháng — cao nhất nhóm NH tư nhân cho kỳ hạn này",
+        "value": "7.7%",
+        "sub": "Cao hơn ACB, OCB (7.1%/năm online) và HLBank, MBV, MB (7%/năm)",
+        "note": "Phản ánh cạnh tranh huy động vốn ngắn-trung hạn gia tăng giữa các NH tư nhân quy mô vừa."
+      },
       {
         "label": "NCB tiếp tục niêm yết cao nhất hệ thống 9.2%/năm — không đổi",
         "value": "9.2%",
-        "sub": "Sản phẩm NCB Signature Saving, kỳ hạn 36 tháng; các kỳ hạn ngắn hơn: 8.6%/6T, 8.7%/9T, 8.8%/12T, 8.9%/13T, 9%/15T, 9.1%/24T",
-        "note": "Không có ngân hàng nào công bố mức niêm yết công khai cao hơn NCB tính đến 16/7."
+        "sub": "Sản phẩm NCB Signature Saving, kỳ hạn 36 tháng",
+        "note": "Không có ngân hàng nào công bố mức niêm yết công khai cao hơn NCB tính đến 19/7."
       },
       {
-        "label": "ACB niêm yết trực tuyến kỳ hạn 6 tháng lên tới 7.1%/năm, thuộc nhóm 4 NH có kỳ hạn 6T từ 7%/năm",
-        "value": "7.1%",
-        "sub": "MBV (OceanBank), MB, OCB giữ 7%/năm; BacABank 6.9%/12T",
-        "note": "Nhóm dẫn đầu niêm yết chuẩn ổn định, không có xáo trộn lớn so với hôm qua."
-      },
-      {
-        "label": "PVcomBank 10%/năm — lãi suất đặc biệt cao nhất hệ thống",
-        "value": "10%",
-        "sub": "Kỳ hạn 12-13 tháng, lĩnh lãi cuối kỳ, điều kiện số dư tiền gửi từ 2,000 tỷ đồng trở lên",
-        "note": "Không đại diện cho lãi suất phổ biến trên thị trường, chỉ áp dụng cho khách hàng số dư siêu lớn."
-      },
-      {
-        "label": "Big4 niêm yết đồng nhất 5.9%/năm kỳ hạn 12 tháng, 6.0%/năm kỳ hạn 24 tháng — không đổi 2 ngày qua",
-        "value": "5.9%",
-        "sub": "Vietcombank, BIDV, Agribank, VietinBank cùng niêm yết 5.9%/12T tại quầy và trực tuyến; kỳ hạn 24T đạt 6.0%, cao nhất trong biểu Big4",
-        "note": "Ghi nhận theo biểu niêm yết chính thức trực tiếp từ từng ngân hàng ngày 15-16/7; kỳ hạn ngắn (1-3 tháng) dao động 2.1-2.9%/năm tùy ngân hàng."
+        "label": "Cake Bank cộng thêm 1.5%/năm cho tiền gửi từ 200 triệu đồng, lên tới 8.9%/năm (10-24T) — chỉ áp dụng trong tháng 7",
+        "value": "8.9%",
+        "sub": "Ưu đãi có thời hạn, chỉ áp dụng trong tháng 7/2026",
+        "note": "Chương trình khuyến mãi ngắn hạn nhằm thu hút tiền gửi số dư lớn trước khi kết thúc tháng 7."
       }
     ],
     "banks": [
@@ -227,9 +227,9 @@
       {
         "name": "OCB",
         "m3": "4.75%",
-        "m6": "6.6%",
-        "m12": "6.9%",
-        "trend": "down",
+        "m6": "7.1%",
+        "m12": "7.1%",
+        "trend": "up",
         "m12_hi": true
       },
       {
@@ -255,31 +255,31 @@
       },
       {
         "name": "BIDV",
-        "m3": "2.4%",
-        "m6": "3.5%",
-        "m12": "5.9%",
-        "trend": "hold"
+        "m3": "4.75%",
+        "m6": "6.6%",
+        "m12": "6.8%",
+        "trend": "up"
       },
       {
         "name": "Vietcombank",
-        "m3": "2.4%",
-        "m6": "3.5%",
-        "m12": "5.9%",
-        "trend": "hold"
+        "m3": "4.75%",
+        "m6": "6.6%",
+        "m12": "6.8%",
+        "trend": "up"
       },
       {
         "name": "Agribank",
-        "m3": "2.9%",
-        "m6": "3.5%",
-        "m12": "5.9%",
-        "trend": "hold"
+        "m3": "4.75%",
+        "m6": "6.6%",
+        "m12": "6.8%",
+        "trend": "up"
       },
       {
         "name": "VietinBank",
-        "m3": "2.4%",
-        "m6": "3.5%",
-        "m12": "5.9%",
-        "trend": "hold"
+        "m3": "4.75%",
+        "m6": "6.6%",
+        "m12": "6.8%",
+        "trend": "up"
       },
       {
         "name": "MSB",
@@ -305,9 +305,9 @@
       {
         "name": "SHB",
         "m3": "4.65%",
-        "m6": "6.2%",
-        "m12": "6.5%",
-        "trend": "hold"
+        "m6": "7.7%",
+        "m12": "7.7%",
+        "trend": "up"
       },
       {
         "name": "VPBank",
@@ -339,101 +339,101 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 16/7 (Thứ Năm): Big4 niêm yết đồng nhất 5.9%/12 tháng, hệ thống ổn định chờ định hướng sau CPI Mỹ hạ nhiệt",
-      "body": "Ngày 16/7/2026 (Thứ Năm), khảo sát theo biểu niêm yết chính thức trực tiếp từ các ngân hàng cho thấy nhóm Big4 (Vietcombank, BIDV, Agribank, VietinBank) đồng nhất áp dụng 5.9%/năm cho kỳ hạn 12 tháng và 6.0%/năm cho kỳ hạn 24 tháng — không đổi so với 2 phiên gần nhất; kỳ hạn ngắn 1-3 tháng dao động 2.1-2.9%/năm tùy ngân hàng, kỳ hạn 6-9 tháng đồng loạt 3.5%/năm. NCB (Ngân hàng Quốc Dân) tiếp tục là ngân hàng niêm yết công khai mức lãi suất cao nhất hệ thống với 9.2%/năm cho sản phẩm NCB Signature Saving, kỳ hạn 36 tháng. Nhóm niêm yết chuẩn quầy tư nhân (ACB, MBV, MB, OCB) giữ quanh 7-7.1%/12T. Nhóm lãi suất đặc biệt số dư siêu lớn (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank 8.9%) không đổi. Toàn thị trường tiếp tục hướng sự chú ý về các phát biểu tiếp theo của giới chức Fed sau khi CPI tháng 6 Mỹ hạ nhiệt hơn dự báo (3.5% so với 3.8%) nhưng Chủ tịch Fed Kevin Warsh vẫn giữ lập trường thận trọng — hai yếu tố này được xem là catalyst chính cho định hướng lãi suất trong nước những tuần tới.",
+      "title": "Lãi suất 19/7 (Chủ Nhật): Big4 tăng lên 6.8%/12 tháng — đợt tăng lãi suất huy động đầu tiên trong tháng 7",
+      "body": "Theo khảo sát biểu niêm yết trực tuyến ngày 18-19/7/2026, nhóm Big4 (Vietcombank, BIDV, Agribank, VietinBank) đã đồng loạt điều chỉnh tăng lãi suất huy động, niêm yết 6.8%/năm cho kỳ hạn 12 và 18 tháng, 6.6%/năm cho kỳ hạn 6 và 9 tháng, trong khi kỳ hạn ngắn 1-3 tháng giữ nguyên 4.75%/năm. Đây là mức tăng đáng kể so với 5.9%/năm (12 tháng) niêm yết trong tuần trước, đánh dấu đợt tăng lãi suất huy động đầu tiên của nhóm quốc doanh trong tháng 7. Ở khối tư nhân, SHB gây chú ý khi niêm yết 7.7%/năm cho kỳ hạn 6 tháng — cao nhất trong nhóm khảo sát cho kỳ hạn này, vượt ACB và OCB (7.1%/năm niêm yết trực tuyến). NCB tiếp tục là ngân hàng công bố mức lãi suất công khai cao nhất toàn hệ thống với 9.2%/năm cho kỳ hạn 36 tháng. Đáng chú ý, ngân hàng số Cake Bank áp dụng chương trình cộng thêm 1.5%/năm cho khoản tiền gửi từ 200 triệu đồng trở lên, đưa lãi suất kỳ hạn 10-24 tháng lên tới 8.9%/năm, nhưng chỉ áp dụng trong tháng 7/2026. Xu hướng tăng lãi suất của Big4 diễn ra trong bối cảnh thị trường tài chính toàn cầu biến động mạnh (bán tháo cổ phiếu công nghệ, vàng và BTC cùng giảm), cho thấy áp lực huy động vốn trong nước có thể đang gia tăng trở lại.",
       "sources": [
         {
-          "name": "vietnambiz.vn — Lãi suất ngân hàng hôm nay 15/7 Agribank, BIDV, VietinBank, Vietcombank và các NH tư nhân",
-          "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-157-agribank-bidv-vietinbank-vietcombank-va-cac-ngan-hang-tu-nhan-dang-tra-lai-bao-nhieu-2026715113520332.htm"
+          "name": "CafeF — Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank",
+          "url": "https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn"
         },
         {
-          "name": "Techcombank — Lãi suất gửi tiết kiệm của 30+ ngân hàng hôm nay",
-          "url": "https://techcombank.com/thong-tin/blog/lai-suat-tiet-kiem"
+          "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 9/7/2026: 4 nhà băng niêm yết kỳ hạn 6 tháng từ 7%/năm",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-9-7-2026-4-nha-bang-gui-ky-han-6-thang-tu-7-nam-2533967.html"
         },
         {
-          "name": "CNBC — Consumer price index inflation report June 2026",
-          "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
+          "name": "cake.vn — Lãi suất gửi tiết kiệm ngân hàng cao hiện nay 07/2026",
+          "url": "https://cake.vn/tin-tuc/tai-chinh/lai-suat-gui-tiet-kiem-ngan-hang-nao-cao-nhat"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "NCB công khai niêm yết 9.2%/năm (36T) — mức cao nhất hệ thống cho sản phẩm tiêu chuẩn",
+        "name": "Big4 tăng lãi suất lên 6.8%/12T (từ 5.9%) — đợt tăng đầu tiên trong tháng 7",
         "level": "main",
-        "pct": 82,
+        "pct": 80,
         "bar": "fh",
-        "desc": "NCB Signature Saving niêm yết công khai tới 9.2%/năm cho kỳ hạn 36 tháng, cao hơn hẳn mặt bằng chung, cho thấy áp lực huy động vốn dài hạn tại một số NH tư nhân quy mô vừa vẫn còn lớn."
+        "desc": "Vietcombank, BIDV, Agribank, VietinBank đồng loạt tăng biểu niêm yết 12-18 tháng lên 6.8%/năm, phản ánh nhu cầu huy động vốn của nhóm quốc doanh đang gia tăng trở lại sau giai đoạn ổn định kéo dài."
       },
       {
-        "name": "Big4 niêm yết đồng nhất 5.9%/12T, 6.0%/24T — không đổi 2 ngày qua",
+        "name": "SHB niêm yết 7.7%/6T — cao nhất nhóm khảo sát cho kỳ hạn ngắn-trung",
         "level": "main",
-        "pct": 68,
+        "pct": 70,
         "bar": "fh",
-        "desc": "Vietcombank, BIDV, Agribank, VietinBank tiếp tục giữ nguyên biểu niêm yết 5.9%/12T và 6.0%/24T tại cả quầy và trực tuyến, phản ánh trạng thái ổn định của nhóm quốc doanh."
+        "desc": "SHB tăng mạnh lãi suất kỳ hạn 6 tháng lên 7.7%/năm, vượt các ngân hàng tư nhân khác, cho thấy cạnh tranh huy động vốn ngắn-trung hạn đang nóng lên."
       },
       {
-        "name": "PVcomBank, MSB, OCB, Cake Bank duy trì lãi suất đặc biệt 8.5-10%/năm cho khách VIP và ưu đãi số dư lớn",
-        "level": "sub",
-        "pct": 66,
-        "bar": "fm",
-        "desc": "Nhóm lãi suất đặc biệt/khuyến mãi (PVcomBank 10%, MSB 9%, OCB 8.5%, Cake Bank tới 8.9% cho kỳ hạn 10-24 tháng) vẫn duy trì ở mức cao, phản ánh nhu cầu huy động vốn từ nhóm khách hàng số dư lớn chưa hạ nhiệt."
-      },
-      {
-        "name": "TDH 40% hiệu lực từ 1/7 — áp lực huy động chính thức giảm dần, chu kỳ lãi cao đã đỉnh",
+        "name": "NCB duy trì 9.2%/36T — mức niêm yết công khai cao nhất hệ thống",
         "level": "sub",
         "pct": 78,
         "bar": "fh",
-        "desc": "TDH nâng từ 30% lên 40% từ 1/7 tiếp tục phát huy hiệu quả, giúp NH tư nhân giảm dần áp lực cạnh tranh huy động chính thức, dù một số NH vẫn tung sản phẩm đặc biệt như NCB để hút vốn dài hạn."
+        "desc": "NCB Signature Saving tiếp tục niêm yết 9.2%/năm cho kỳ hạn 36 tháng, cao hơn hẳn mặt bằng chung, phản ánh nhu cầu vốn dài hạn của một số NH tư nhân quy mô vừa."
       },
       {
-        "name": "CPI tháng 6 Mỹ hạ nhiệt nhưng Fed Chair Warsh giữ thận trọng — catalyst quyết định cho room điều chỉnh",
+        "name": "Cake Bank cộng thêm 1.5%/năm cho số dư từ 200 triệu — chương trình ngắn hạn trong tháng 7",
+        "level": "sub",
+        "pct": 60,
+        "bar": "fm",
+        "desc": "Chương trình cộng lãi suất của Cake Bank đưa mức niêm yết lên tới 8.9%/năm cho kỳ hạn 10-24 tháng, nhưng chỉ áp dụng trong tháng 7/2026, mang tính khuyến mãi ngắn hạn."
+      },
+      {
+        "name": "Biến động mạnh trên thị trường tài chính toàn cầu (bán tháo cổ phiếu công nghệ) tạo áp lực lên thanh khoản",
         "level": "sub",
         "pct": 65,
         "bar": "fh",
-        "desc": "CPI tháng 6 Mỹ giảm còn 3.5% so với dự báo 3.8%, nhưng Chủ tịch Fed Kevin Warsh cảnh báo 'chưa phải lúc ăn mừng'. Diễn biến này khiến NHNN có thể tiếp tục thận trọng trước khi mở thêm room điều chỉnh lãi suất trong nước."
+        "desc": "Làn sóng bán tháo cổ phiếu công nghệ/bán dẫn toàn cầu và biến động vàng, BTC có thể khiến các ngân hàng trong nước thận trọng hơn về thanh khoản, góp phần vào xu hướng tăng lãi suất huy động."
       }
     ],
     "rate_forecast": [
       {
-        "name": "NCB 9.2%/36T tiếp tục dẫn đầu xu hướng NH tư nhân vừa tung sản phẩm lãi cao để hút vốn dài hạn",
-        "pct": 65,
+        "name": "Big4 có thể tiếp tục điều chỉnh tăng nhẹ trong 2-4 tuần tới sau đợt tăng lên 6.8%/12T",
+        "pct": 62,
         "direction": "up",
         "bar": "fm",
-        "desc": "Nhiều khả năng một số NH tư nhân quy mô vừa khác sẽ tung thêm sản phẩm tiết kiệm đặc biệt lãi suất cao trong 2-4 tuần tới để cạnh tranh huy động vốn dài hạn, theo sau NCB."
+        "desc": "Sau đợt tăng đầu tiên trong tháng 7, Big4 có thể tiếp tục điều chỉnh tăng nhẹ nếu nhu cầu huy động vốn tiếp tục gia tăng, đặc biệt nếu thị trường tài chính toàn cầu còn biến động."
       },
       {
-        "name": "Big4 giữ ổn định 5.9%/12T trong ngắn hạn, dư địa giảm thêm hạn chế",
+        "name": "Nhóm NH tư nhân (SHB, ACB, OCB) nhiều khả năng duy trì mức cao 7-7.7%/6-12T",
+        "pct": 60,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Cạnh tranh huy động vốn ngắn-trung hạn giữa các NH tư nhân có thể tiếp tục đẩy lãi suất kỳ hạn 6-12 tháng lên cao trong các tuần tới."
+      },
+      {
+        "name": "NCB giữ vị trí dẫn đầu 9.2%/36T trong ngắn hạn",
         "pct": 55,
         "direction": "hold",
         "bar": "fm",
-        "desc": "Với mặt bằng hiện tại đã khá thấp so với đầu năm, Big4 nhiều khả năng giữ nguyên 5.9%/12T trong 2-4 tuần tới, trừ khi có chỉ đạo mới từ NHNN."
+        "desc": "NCB nhiều khả năng giữ nguyên mức niêm yết 9.2%/năm cho kỳ hạn 36 tháng trong 2-4 tuần tới, trừ khi có ngân hàng khác công bố mức cao hơn."
       },
       {
-        "name": "Nhóm niêm yết chuẩn quầy (7%/12T) có thể giữ ổn định 2-4 tuần tới",
-        "pct": 60,
-        "direction": "hold",
-        "bar": "fm",
-        "desc": "HLBank, MBV, MB, OCB nhiều khả năng giữ nguyên mức 7%/12T trong ngắn hạn khi TDH 40% đã giảm bớt áp lực huy động chính thức."
-      },
-      {
-        "name": "Phát biểu tiếp theo của giới chức Fed sau CPI hạ nhiệt — catalyst lớn nhất cho lãi suất VN, vàng và BTC",
+        "name": "Biến động thị trường tài chính toàn cầu là catalyst lớn nhất cho định hướng lãi suất, vàng và BTC trong nước",
         "pct": 68,
-        "direction": "down",
+        "direction": "up",
         "bar": "fm",
-        "desc": "Nếu giới chức Fed tiếp tục phát tín hiệu dovish trong các tuần tới, NHNN có thêm dư địa điều chỉnh giảm lãi suất; ngược lại rủi ro địa chính trị (Eo biển Hormuz) và lạm phát dai dẳng có thể trì hoãn room giảm lãi suất trong nước."
+        "desc": "Nếu đợt bán tháo cổ phiếu công nghệ toàn cầu tiếp diễn, áp lực thanh khoản có thể khiến NHNN và các ngân hàng thương mại tiếp tục xu hướng tăng lãi suất huy động trong ngắn hạn."
       }
     ],
-    "rate_outlook_label": "16/7 Thứ Năm — Big4 niêm yết đồng nhất 5.9%/12T (24T: 6.0%), không đổi 2 ngày qua; NCB dẫn đầu 9.2%/36T; ACB dẫn đầu chuẩn quầy 7.1%; chờ phát biểu tiếp theo của Fed sau CPI hạ nhiệt",
+    "rate_outlook_label": "19/7 Chủ Nhật — Big4 tăng lên 6.8%/12T (từ 5.9%), đợt tăng đầu tiên trong tháng 7; SHB dẫn đầu tư nhân 7.7%/6T; NCB vẫn cao nhất hệ thống 9.2%/36T",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "16/7 (Thứ Năm): Thị trường lãi suất huy động tiếp tục ổn định. Big4 (Vietcombank, BIDV, Agribank, VietinBank) niêm yết đồng nhất 5.9%/năm kỳ hạn 12 tháng và 6.0%/năm kỳ hạn 24 tháng tại cả quầy và trực tuyến, không đổi trong 2 ngày qua; kỳ hạn ngắn 1-3 tháng dao động 2.1-2.9%/năm. NCB tiếp tục dẫn đầu hệ thống với mức niêm yết công khai 9.2%/năm (36 tháng). ACB dẫn đầu nhóm niêm yết chuẩn trực tuyến kỳ hạn 6 tháng với 7.1%/năm; MBV, MB, OCB giữ 7%/năm. Các chương trình đặc biệt (PVcomBank 10%, Cake Bank 8.9%, MSB 9%, OCB 8.5%) vẫn duy trì cho khách VIP/số dư lớn. Catalyst chính trong ngày hôm nay: thị trường tiếp tục theo dõi các phát biểu tiếp theo của giới chức Fed sau khi CPI tháng 6 Mỹ hạ nhiệt hơn dự báo (3.5% so với 3.8%) nhưng Chủ tịch Fed Kevin Warsh vẫn giữ lập trường thận trọng — lãi suất trong nước nhiều khả năng giữ trạng thái ổn định chờ thêm tín hiệu rõ ràng hơn. Dự báo: Big4 giữ ổn định quanh 5.9%/12T; top tư nhân giữ quanh 7.0-7.3% cuối Q3.",
+    "rate_outlook_text": "19/7 (Chủ Nhật): Thị trường lãi suất huy động ghi nhận biến động đáng chú ý khi Big4 (Vietcombank, BIDV, Agribank, VietinBank) đồng loạt tăng lãi suất lên 6.8%/năm kỳ hạn 12-18 tháng (từ 5.9% trước đó) và 6.6%/năm kỳ hạn 6-9 tháng — đợt tăng lãi suất huy động đầu tiên của nhóm quốc doanh trong tháng 7. Ở khối tư nhân, SHB niêm yết 7.7%/năm kỳ hạn 6 tháng, cao nhất nhóm khảo sát cho kỳ hạn này, trong khi ACB và OCB giữ 7.1%/năm trực tuyến. NCB tiếp tục dẫn đầu hệ thống với 9.2%/năm (36 tháng). Cake Bank duy trì chương trình cộng thêm 1.5%/năm cho tiền gửi từ 200 triệu đồng, đưa lãi suất lên tới 8.9%/năm (10-24 tháng), nhưng chỉ áp dụng trong tháng 7. Catalyst chính: biến động mạnh trên thị trường tài chính toàn cầu (bán tháo cổ phiếu công nghệ, vàng và BTC cùng giảm) có thể tiếp tục tạo áp lực thanh khoản, khiến lãi suất huy động trong nước nhiều khả năng duy trì xu hướng tăng nhẹ trong 2-4 tuần tới. Dự báo: Big4 quanh 6.8-7.0%/12T; top tư nhân quanh 7.0-7.7% cuối Q3.",
     "rate_sources": [
       {
-        "name": "vietnambiz.vn — Lãi suất ngân hàng hôm nay 15/7 Agribank, BIDV, VietinBank, Vietcombank",
-        "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-157-agribank-bidv-vietinbank-vietcombank-va-cac-ngan-hang-tu-nhan-dang-tra-lai-bao-nhieu-2026715113520332.htm"
+        "name": "CafeF — Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank",
+        "url": "https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn"
       },
       {
-        "name": "CNBC — Consumer price index inflation report June 2026",
-        "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
+        "name": "vietnamnet.vn — Lãi suất ngân hàng hôm nay 13/7: Nhà băng mở màn tăng lãi suất trong tháng 7",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-13-7-nha-bang-mo-man-tang-lai-suat-trong-thang-7-2535104.html"
       },
       {
         "name": "webgia.com — Lãi suất ngân hàng tháng 7/2026",
@@ -638,7 +638,10 @@
       "13/07",
       "14/07",
       "15/07",
-      "16/07"
+      "16/07",
+      "17/07",
+      "18/07",
+      "19/07"
     ],
     "sjc": [
       152.8,
@@ -836,7 +839,10 @@
       149.9,
       148.9,
       147.5,
-      148.5
+      148.5,
+      147.5,
+      146.6,
+      147.5
     ],
     "world_vnd": [
       121,
@@ -1034,7 +1040,10 @@
       131.0,
       130.9,
       127.8,
-      129.6
+      129.6,
+      128.1,
+      126.5,
+      127.8
     ]
   }
 }
