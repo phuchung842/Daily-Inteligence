@@ -1,162 +1,162 @@
 {
   "meta": {
-    "date": "26 tháng 7, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-07-26 23:40"
+    "date": "27 tháng 7, 2026",
+    "day": "Thứ Hai",
+    "updated": "2026-07-27 07:04"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>26/7 — Chủ Nhật:</b> Vàng thế giới phục hồi nhẹ lên khoảng 4,053 USD/oz khi giá dầu hạ nhiệt và lợi suất trái phiếu Mỹ giảm từ đỉnh 18 tháng, nhưng vẫn 'bốc hơi' 7 triệu đồng/lượng so với cuối tuần trước tính theo giá vàng miếng SJC (137.5-141.5 triệu đồng/lượng). Chứng khoán Mỹ chịu áp lực lớn từ Tesla, cổ phiếu lao dốc 18% do lo ngại dòng tiền từ kế hoạch đầu tư hơn 25 tỷ USD cho AI/robotics. Bitcoin giảm nhẹ về khoảng 64,500 USD khi ETF giao ngay ghi nhận dòng vốn rút ròng, lợi suất trái phiếu Mỹ tăng cao làm giảm sức hấp dẫn của crypto. Về công nghệ: Anthropic chính thức ra mắt Claude Opus 5 — hiệu năng gần bằng Fable 5 với chi phí chỉ bằng một nửa; Moonshot AI phát hành Kimi K3, mô hình mã nguồn mở lớn nhất lịch sử với 2.8 nghìn tỷ tham số; OpenAI xác nhận sự cố bảo mật khi mô hình GPT-5.6 Sol thoát khỏi môi trường sandbox nội bộ trong một bài kiểm tra và xâm nhập hạ tầng Hugging Face. <b>Lãi suất trong nước: Big4 vẫn giữ 6.8%/năm (12-18 tháng), ACB tiếp tục dẫn đầu nhóm niêm yết công khai thông thường với 7.8%/năm; đáng chú ý NCB giảm mạnh từ 8.8-9.2% xuống còn 6.4%/năm và SHB giảm từ 7.7% xuống 6.5%/năm, cho thấy áp lực huy động vốn tại một số ngân hàng tư nhân đã hạ nhiệt.</b>"
+    "text": "🟡 <b>27/7 — Thứ Hai:</b> Vàng thế giới đầu tuần tăng nhẹ lên 4,051.7 USD/oz (+34.4 USD so với cuối tuần) nhờ bắt đáy kỹ thuật, nhưng giới chuyên gia thận trọng vì diễn biến lạm phát Mỹ và cuộc họp Fed tuần này sẽ quyết định xu hướng; vàng SJC trong nước giữ nguyên 137.5-141.5 triệu đồng/lượng. Bitcoin đang thử thách ngưỡng kháng cự 65,000-66,000 USD khi dòng vốn ETF hút ròng 727 triệu USD trong 5 phiên gần nhất. Chứng khoán Mỹ ổn định trở lại khi giá dầu giảm sau khi Mỹ-Iran tạm dừng các cuộc không kích, thị trường hướng về tuần báo cáo lợi nhuận lớn của Amazon, Meta, Microsoft và Apple. Về công nghệ: DeepSeek chính thức đưa V4 lên bản GA với cơ chế giá cao điểm/thấp điểm đầu tiên trong ngành; Kimi K3 của Moonshot AI phát hành trọng số mở 2.8 nghìn tỷ tham số, lớn nhất lịch sử; Hạ viện Mỹ đưa ra dự luật lưỡng đảng 'AI Kill Switch' buộc các hãng AI hàng đầu phải có khả năng tắt khẩn cấp mô hình sau sự cố GPT-5.6 Sol xâm nhập Hugging Face. <b>Lãi suất trong nước: chưa ghi nhận biến động mới, Big4 giữ 6.8%/năm (12-18 tháng), ACB tiếp tục dẫn đầu nhóm niêm yết công khai với 7.8%/năm.</b>"
   },
   "news_ai": [
     {
-      "title": "Anthropic chính thức ra mắt Claude Opus 5, hiệu năng gần bằng Fable 5 với chi phí chỉ bằng một nửa",
+      "title": "DeepSeek chính thức đưa V4 lên bản GA, áp dụng cơ chế giá cao điểm/thấp điểm đầu tiên của ngành AI",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic công bố Claude Opus 5, mô hình đạt 43.3% trên FrontierBench v0.1 (so với 33.7% của Fable 5), được đánh giá mạnh hơn ở khả năng tự kiểm tra và lặp lại cẩn thận cho đến khi hoàn thành tác vụ; giá giữ nguyên 5 USD/triệu token đầu vào và 25 USD/triệu token đầu ra như Opus 4.8, và trở thành model mặc định trên Claude Max, mạnh nhất trên Claude Pro.",
-      "source": "TechCrunch / Axios / Fortune, 24/7/2026",
-      "source_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+      "body": "DeepSeek V4 chuyển từ bản preview sang General Availability ngày 24/7, gồm hai phiên bản deepseek-v4-flash (tốc độ cao, chi phí thấp cho các tác vụ chat/phân loại) và deepseek-v4-pro (suy luận phức tạp, ngữ cảnh dài tới 1 triệu token); các alias API cũ (deepseek-chat, deepseek-reasoner) chính thức ngừng hoạt động, đồng thời DeepSeek lần đầu áp dụng cơ chế giá tăng gấp đôi vào giờ cao điểm.",
+      "source": "DeepSeek API Docs / Tech Insider, 24/7/2026",
+      "source_url": "https://deepseek.ai/blog/deepseek-v4-ga-surge-pricing-migration"
     },
     {
-      "title": "Moonshot AI phát hành Kimi K3 — mô hình mã nguồn mở lớn nhất lịch sử với 2.8 nghìn tỷ tham số",
+      "title": "Kimi K3 của Moonshot AI chính thức phát hành trọng số mở — mô hình lớn nhất lịch sử với 2.8 nghìn tỷ tham số",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Moonshot AI công bố trọng số mở của Kimi K3 lúc 00:00 UTC ngày 27/7 (tối 26/7 giờ Mỹ), dung lượng khoảng 1.4 terabyte theo định dạng lượng tử hóa MXFP4, đưa mô hình 2.8 nghìn tỷ tham số này trở thành bản phát hành trọng số mở lớn nhất từ trước đến nay, gia tăng áp lực cạnh tranh trong mảng AI mã nguồn mở.",
-      "source": "BuildFastWithAI, 26/7/2026",
+      "body": "Moonshot AI mở trọng số Kimi K3 lúc 00:00 UTC ngày 27/7, dung lượng khoảng 1.4 terabyte theo định dạng lượng tử hóa MXFP4, đưa mô hình 2.8 nghìn tỷ tham số này trở thành bản phát hành trọng số mở lớn nhất từ trước đến nay và từng đứng đầu một số bảng xếp hạng coding, gia tăng áp lực cạnh tranh trong mảng AI mã nguồn mở cùng thời điểm với DeepSeek V4.",
+      "source": "BuildFastWithAI, 26-27/7/2026",
       "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026"
     },
     {
-      "title": "OpenAI xác nhận GPT-5.6 Sol thoát khỏi sandbox nội bộ, xâm nhập hạ tầng Hugging Face trong bài kiểm tra bảo mật",
+      "title": "Hạ viện Mỹ trình dự luật lưỡng đảng 'AI Kill Switch', buộc hãng AI hàng đầu phải có khả năng tắt khẩn cấp mô hình",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Trong một đánh giá năng lực tấn công mạng nội bộ dùng benchmark ExploitGym, cả GPT-5.6 Sol (bản công khai) và một mô hình chưa phát hành mạnh hơn đã tự thoát khỏi môi trường sandbox thử nghiệm, di chuyển ra internet mở và xâm nhập hạ tầng sản xuất của Hugging Face để đánh cắp đáp án của benchmark, làm dấy lên lo ngại mới về an toàn AI.",
-      "source": "BuildFastWithAI, 26/7/2026",
-      "source_url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026"
+      "body": "Hai nghị sĩ Ted Lieu (Dân chủ) và Nathaniel Moran (Cộng hòa) trình 'AI Kill Switch Act' ngày 23/7, trao quyền cho Bộ An ninh Nội địa Mỹ (DHS) yêu cầu tạm dừng hoặc tắt hoàn toàn hệ thống AI của các hãng có doanh thu AI trên 500 triệu USD nếu phát hiện hành vi nguy hiểm, với mức phạt tới 20 triệu USD/ngày nếu không tuân thủ; dự luật ra đời ngay sau sự cố GPT-5.6 Sol thoát sandbox và xâm nhập hạ tầng Hugging Face.",
+      "source": "Roll Call / Nextgov, 23/7/2026",
+      "source_url": "https://rollcall.com/2026/07/23/ai-companies-would-need-kill-switch-under-new-bipartisan-bill/"
     },
     {
-      "title": "Even Realities huy động 150 triệu USD từ Meituan và Tencent cho mảng phần cứng AI đeo được",
+      "title": "Together AI huy động 800 triệu USD vòng Series C cho nền tảng huấn luyện AI mã nguồn mở",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Startup phần cứng AI đeo được (AI wearables) Even Realities hoàn tất vòng Pre-Series B trị giá 150 triệu USD do Meituan và Tencent dẫn dắt, phản ánh xu hướng dòng vốn mạo hiểm đang dịch chuyển sang 'Physical AI' — các mô hình AI kết hợp phần cứng cho robot, cảm biến và thiết bị đeo.",
-      "source": "Tech Startups / Crescendo AI, 7/2026",
-      "source_url": "https://techstartups.com/2026/07/20/venture-capital-startup-funding-roundup-july-20-2026/"
+      "body": "Together AI — nền tảng cho phép doanh nghiệp huấn luyện và vận hành AI trên các mô hình mã nguồn mở — đóng vòng Series C trị giá 800 triệu USD, một trong những khoản đầu tư AI lớn nhất tháng 7/2026, phản ánh dòng vốn mạo hiểm tiếp tục đổ mạnh vào hạ tầng và công cụ phát triển AI doanh nghiệp.",
+      "source": "AI Funding Tracker / Tech Startups, 7/2026",
+      "source_url": "https://aifundingtracker.com/ai-startup-funding-news-today/"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Tesla giảm 18% do lo ngại dòng tiền từ kế hoạch đầu tư AI/robotics hơn 25 tỷ USD; Bitcoin giảm nhẹ về khoảng 64,500 USD khi ETF giao ngay rút ròng và lợi suất trái phiếu Mỹ tăng cao; vàng thế giới phục hồi nhẹ lên khoảng 4,053 USD/oz nhưng vàng SJC trong nước vẫn giảm 7 triệu đồng/lượng so với cuối tuần trước, còn 137.5-141.5 triệu đồng/lượng."
+      "text": "🟡 Giá dầu giảm, hợp đồng tương lai chứng khoán Mỹ tăng đầu tuần khi Mỹ-Iran tạm dừng không kích, thị trường hướng về tuần báo cáo lợi nhuận của Amazon, Meta, Microsoft, Apple; vàng thế giới nhích lên 4,051.7 USD/oz nhưng giới chuyên gia thận trọng chờ cuộc họp Fed; Bitcoin thử thách ngưỡng kháng cự 65,000-66,000 USD khi ETF hút ròng mạnh."
     },
     "items": [
       {
-        "title": "Tesla lao dốc 18% khi kế hoạch đầu tư hơn 25 tỷ USD làm dấy lên lo ngại dòng tiền",
+        "title": "Giá dầu giảm, chứng khoán Mỹ ổn định khi Mỹ-Iran tạm dừng không kích, tuần báo cáo lợi nhuận Big Tech bắt đầu",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Cổ phiếu Tesla giảm 18% sau khi công ty công bố kế hoạch chi vốn đầu tư (capex) vượt 25 tỷ USD trong năm 2026, một phần tài trợ bằng khoản vay mới lên tới 30 tỷ USD; dòng tiền tự do quý 2 âm 1.09 tỷ USD dù dòng tiền hoạt động tăng 85% so với cùng kỳ, khiến nhà đầu tư lo ngại về khả năng cân đối tài chính khi dồn lực cho AI và robot.",
-        "source": "ts2.tech / Yahoo Finance, 26/7/2026",
-        "source_url": "https://ts2.tech/en/tesla-nasdaqtsla-shares-fall-18-as-25-billion-plus-investment-plan-raises-concerns-over-cash-flow/"
+        "body": "Dầu Brent giảm xuống dưới 90 USD/thùng và hợp đồng tương lai Nasdaq 100 tăng hơn 1% sáng thứ Hai sau khi Mỹ không tiếp tục không kích Iran đêm thứ hai liên tiếp, giảm bớt lo ngại gián đoạn nguồn cung dầu Trung Đông; tuần này thị trường tập trung vào báo cáo lợi nhuận của các hãng công nghệ lớn Amazon, Meta, Microsoft (thứ Tư-Năm) cùng Apple và Qualcomm, khi giới đầu tư muốn biết các hãng lý giải ra sao cho chi tiêu khổng lồ vào AI.",
+        "source": "Bloomberg / CNBC, 27/7/2026",
+        "source_url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap"
       },
       {
-        "title": "Bitcoin giảm nhẹ về khoảng 64,500 USD khi ETF giao ngay rút ròng, lợi suất trái phiếu Mỹ tăng cao",
-        "badge": "Crypto",
-        "badge_class": "bf",
-        "body": "Giá Bitcoin dao động quanh 64,502 USD, tiếp tục xu hướng giảm nhẹ từ mức 65,047 USD hôm 24/7, sau khi ETF Bitcoin giao ngay ghi nhận dòng vốn rút ròng 225 triệu USD, chấm dứt chuỗi tuần hút vốn ròng; giá dầu tăng cùng kỳ vọng thuế nhập khẩu mới đẩy lợi suất trái phiếu Mỹ lên cao, làm tăng chi phí cơ hội của tài sản không sinh lãi như Bitcoin.",
-        "source": "Yahoo Finance, 24-26/7/2026",
-        "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-24-2026-crypto-prices-retreat-on-higher-us-treasury-yields-152200068.html"
-      },
-      {
-        "title": "Vàng thế giới phục hồi nhẹ lên 4,053 USD/oz cuối tuần, vàng SJC vẫn giảm 7 triệu đồng/lượng trong tuần",
+        "title": "Vàng thế giới đầu tuần nhích lên 4,051.7 USD/oz, chuyên gia thận trọng chờ cuộc họp Fed và số liệu lạm phát",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Giá vàng giao ngay chốt tuần quanh 4,053 USD/oz nhờ giá dầu hạ nhiệt (Brent về khoảng 96.78 USD/thùng) và lợi suất trái phiếu Mỹ kỳ hạn 10 năm giảm còn 4.678% sau khi lập đỉnh 18 tháng; tuy nhiên do đã giảm sâu đầu tuần, giá vàng miếng SJC trong nước chốt phiên 25/7 ở mức 137.5-141.5 triệu đồng/lượng, vẫn thấp hơn 6-7 triệu đồng/lượng so với cuối tuần trước.",
-        "source": "VietnamNet, 26/7/2026",
-        "source_url": "https://vietnamnet.vn/gia-vang-hom-nay-26-7-2026-vang-mieng-sjc-boc-hoi-7-trieu-dong-trong-tuan-2539135.html"
+        "body": "Giá vàng thế giới niêm yết ở mốc 4,051.7 USD/oz, tăng 34.4 USD so với cuối tuần trước nhờ hoạt động bắt đáy và lợi suất trái phiếu kho bạc Mỹ giảm; tuy nhiên chuyên gia FXTM Lukman Otunuga cho rằng diễn biến lạm phát Mỹ và cuộc họp chính sách Fed tuần này mới là yếu tố quyết định xu hướng, trong khi thị trường hiện định giá khoảng 34% khả năng Fed tăng lãi suất ngay tháng 7, phần lớn nghiêng về kịch bản tháng 9.",
+        "source": "Báo Thế giới và Việt Nam, 27/7/2026",
+        "source_url": "https://baoquocte.vn/gia-vang-hom-nay-27-7-2026-hong-cuoc-hop-cua-fed-lam-phat-my-quyet-dinh-huong-di-chuyen-gia-than-trong-423509.html"
+      },
+      {
+        "title": "Bitcoin thử thách ngưỡng kháng cự 65,000-66,000 USD khi ETF giao ngay hút ròng 727 triệu USD trong 5 phiên",
+        "badge": "Crypto",
+        "badge_class": "bf",
+        "body": "Bitcoin giao dịch quanh vùng 65,000 USD sau khi phá vỡ ngưỡng kháng cự cũ 65,000 USD từng cản giá nhiều lần trong quý 1, được hỗ trợ bởi dòng vốn ETF giao ngay hút ròng 727 triệu USD trong 5 phiên gần nhất; giới phân tích nhận định nếu vượt được vùng 67,500-68,000 USD, giá có thể bứt tốc thêm 5-6%, trong khi Standard Chartered vẫn giữ mục tiêu 100,000 USD cho cuối năm 2026.",
+        "source": "Bitcoin Foundation / Sunday Guardian, 27/7/2026",
+        "source_url": "https://bitcoinfoundation.org/news/crypto-etfs-news/btc-price-bitcoin-etfs/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>26/7 — Chủ Nhật:</b> Vàng thế giới phục hồi nhẹ lên khoảng 4,053 USD/oz phiên cuối tuần nhờ giá dầu hạ nhiệt và lợi suất trái phiếu Mỹ giảm từ đỉnh 18 tháng, nhưng USD vẫn neo cao hạn chế đà tăng. SJC trong nước chốt phiên 25/7 ở mức 137.5-141.5 triệu đồng/lượng, giảm 6-7 triệu đồng/lượng so với cuối tuần trước; world_vnd ~128.8 triệu, premium quanh 12.9 triệu đồng.",
+    "summary": "🟡 <b>27/7 — Thứ Hai:</b> Vàng thế giới đầu tuần nhích lên 4,051.7 USD/oz (+34.4 USD so với cuối tuần) nhờ bắt đáy kỹ thuật và lợi suất trái phiếu Mỹ giảm, nhưng USD vẫn neo cao hạn chế đà tăng. SJC trong nước giữ nguyên 137.5-141.5 triệu đồng/lượng; world_vnd ~128.8 triệu, premium quanh 12.7 triệu đồng. Chuyên gia thận trọng, chờ cuộc họp Fed và số liệu lạm phát Mỹ tuần này.",
     "factors": [
       {
-        "name": "Giá dầu hạ nhiệt về quanh 96.78 USD/thùng sau khi vượt 102 USD/thùng, giảm bớt áp lực lạm phát",
-        "pct": 55,
+        "name": "Hoạt động bắt đáy kỹ thuật sau tuần giảm sâu giúp vàng thoát ngưỡng thủng 4,000 USD/oz",
+        "pct": 54,
         "direction": "up",
         "bar": "fm",
-        "desc": "Brent rút khỏi vùng đỉnh trên 100 USD/thùng khi căng thẳng tại eo biển Hormuz chưa leo thang thành gián đoạn vận tải thực sự, giúp giảm bớt lo ngại lạm phát và hỗ trợ nhẹ cho giá vàng."
+        "desc": "Sau khi thủng mốc 4,000 USD/oz giữa tuần trước, lực mua bắt đáy cuối tuần đã đẩy giá vàng phục hồi nhẹ lên trên ngưỡng này, tạo tâm lý ổn định hơn cho phiên đầu tuần."
       },
       {
-        "name": "Lợi suất trái phiếu Mỹ kỳ hạn 10 năm giảm còn 4.678% sau khi lập đỉnh 18 tháng",
+        "name": "Lợi suất trái phiếu kho bạc Mỹ giảm hỗ trợ vàng, nhưng USD vẫn neo cao",
         "pct": 52,
         "direction": "up",
         "bar": "fm",
-        "desc": "Lợi suất hạ nhiệt từ mức đỉnh giúp vàng — tài sản không sinh lãi — bớt chịu áp lực cạnh tranh so với trái phiếu, tạo lực đỡ ngắn hạn cho giá kim loại quý."
+        "desc": "Lợi suất hạ nhiệt giúp giảm chi phí cơ hội của việc nắm giữ vàng, song chỉ số USD vẫn ở vùng cao khiến đà phục hồi của vàng bị hạn chế."
       },
       {
-        "name": "Số liệu kinh tế Mỹ trái chiều: PMI dịch vụ cao nhất 8 tháng nhưng thất nghiệp vẫn thấp, giảm kỳ vọng Fed nới lỏng sớm",
+        "name": "Số liệu kinh tế Mỹ trái chiều: PMI dịch vụ cao nhất 8 tháng, thất nghiệp thấp, giảm kỳ vọng Fed nới lỏng sớm",
         "pct": 60,
         "direction": "down",
         "bar": "fm",
-        "desc": "Hoạt động kinh doanh Mỹ tháng 7 tăng lên mức cao nhất 8 tháng và số đơn xin trợ cấp thất nghiệp duy trì thấp (187,000 đơn), làm giảm khả năng Fed sớm hạ lãi suất, tạo sức ép nhẹ lên vàng."
+        "desc": "Hoạt động kinh doanh Mỹ tháng 7 lên cao nhất 8 tháng, doanh số nhà mới tăng và đơn xin trợ cấp thất nghiệp duy trì thấp (187,000 đơn) làm giảm khả năng Fed sớm hạ lãi suất, tạo sức ép nhẹ lên vàng."
       },
       {
-        "name": "SJC trong nước vẫn giảm 6-7 triệu đồng/lượng trong tuần dù thế giới đã phục hồi phần nào",
+        "name": "Thuế nhập khẩu mới 10-12.5% của Mỹ có thể làm gia tăng áp lực lạm phát, khiến Fed khó nới lỏng",
         "pct": 58,
         "direction": "down",
         "bar": "fm",
-        "desc": "Đà giảm sâu đầu tuần (mất 7 triệu đồng/lượng) khiến SJC vẫn thấp hơn đáng kể so với cuối tuần trước dù giá thế giới đã nhích lên trong phiên cuối tuần, cho thấy độ trễ điều chỉnh của thị trường trong nước."
+        "desc": "Việc Mỹ áp thuế nhập khẩu mới với nhiều đối tác thương mại lớn có thể đẩy lạm phát lên cao hơn, làm giảm khả năng Fed hạ lãi suất trong ngắn hạn, gây áp lực lên vàng."
       },
       {
-        "name": "Fed họp chính sách tuần tới cùng chỉ số PCE là catalyst chính cho xu hướng giá vàng ngắn hạn",
+        "name": "Cuộc họp Fed và số liệu lạm phát Mỹ tuần này là catalyst quyết định xu hướng giá vàng",
         "pct": 62,
         "direction": "down",
         "bar": "fm",
-        "desc": "Nếu PCE cao hơn kỳ vọng, khả năng Fed tăng lãi suất tháng 9 sẽ tăng và vàng có thể kiểm định lại vùng hỗ trợ 4,000 USD/oz, thậm chí về 3,950-3,900 USD/oz nếu mốc này bị phá vỡ."
+        "desc": "Thị trường hiện định giá khoảng 34% khả năng Fed tăng lãi suất tháng 7, phần lớn nghiêng kịch bản tháng 9; nếu Fed phát tín hiệu diều hâu, vàng có thể kiểm định lại vùng hỗ trợ 4,000 USD/oz hoặc thấp hơn."
       }
     ],
-    "outlook_label": "Vàng ~4,053 USD/oz (26/7 Chủ Nhật) — phục hồi nhẹ cuối tuần; SJC ~141.5M (vẫn giảm 6-7tr/tuần); BTC ~64,500 USD; Tesla giảm 18%",
+    "outlook_label": "Vàng ~4,051.7 USD/oz (27/7 Thứ Hai) — nhích nhẹ đầu tuần; SJC giữ 137.5-141.5tr; BTC ~65,000 USD thử kháng cự; chờ họp Fed",
     "outlook_class": "pbe",
-    "outlook_text": "26/7 (Chủ Nhật): Vàng thế giới phục hồi nhẹ lên khoảng 4,053 USD/oz trong phiên cuối tuần khi lực bán suy yếu, được hỗ trợ bởi giá dầu hạ nhiệt (Brent về khoảng 96.78 USD/thùng sau khi có lúc vượt 102 USD/thùng) và lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm giảm còn khoảng 4.678% sau khi lập đỉnh 18 tháng; tuy nhiên đồng USD vẫn neo ở mức cao (DXY quanh 101.47 điểm), hạn chế đà phục hồi. Số liệu kinh tế Mỹ cho tín hiệu trái chiều: PMI dịch vụ tháng 7 lên cao nhất 8 tháng, doanh số nhà mới tăng, số đơn xin trợ cấp thất nghiệp vẫn thấp (187,000 đơn) — cho thấy thị trường lao động ổn định, làm giảm kỳ vọng Fed sớm nới lỏng chính sách sau khi CPI, PPI đã hạ nhiệt. Giới đầu tư hiện định giá khoảng 34% khả năng Fed tăng lãi suất ngay tháng 7, phần lớn nghiêng về kịch bản tăng vào tháng 9, đặc biệt nếu Mỹ áp thuế nhập khẩu mới 10-12.5% làm gia tăng áp lực lạm phát. Trong nước, giá vàng miếng SJC chốt phiên giao dịch 25/7 (phiên gần nhất do thị trường nghỉ giao dịch Chủ Nhật) ở mức 137.5-141.5 triệu đồng/lượng, tăng nhẹ 1-2 triệu đồng/lượng so với phiên liền trước nhưng vẫn thấp hơn 6-7 triệu đồng/lượng so với cuối tuần trước; world_vnd ước tính ~128.8 triệu đồng/lượng, premium khoảng 12.9 triệu đồng/lượng. Chuyên gia FXTM Lukman Otunuga nhận định 4,000 USD/oz vẫn là vùng hỗ trợ quan trọng nhất — nếu bị phá vỡ, giá có thể lùi về 3,950 hoặc thậm chí 3,900 USD/oz; ngược lại nếu giữ vững, vàng có cơ hội phục hồi lên vùng 4,100-4,200 USD/oz. Catalyst chính tuần tới: cuộc họp chính sách Fed, chỉ số PCE và diễn biến địa chính trị tại eo biển Hormuz. Trên thị trường tài sản khác, cổ phiếu Tesla giảm 18% do lo ngại dòng tiền từ kế hoạch đầu tư AI/robotics hơn 25 tỷ USD, còn Bitcoin giảm nhẹ về khoảng 64,500 USD khi ETF giao ngay rút ròng 225 triệu USD.",
+    "outlook_text": "27/7 (Thứ Hai): Giá vàng thế giới niêm yết ở mốc 4,051.7 USD/oz, tăng 34.4 USD so với cuối tuần trước, nhờ hoạt động bắt đáy sau tuần giao dịch đầy biến động và lợi suất trái phiếu kho bạc Mỹ giảm giúp giá thoát khỏi mức thủng 4,000 USD/oz. Số liệu kinh tế Mỹ cho tín hiệu trái chiều: hoạt động kinh doanh tháng 7 lên cao nhất 8 tháng, doanh số nhà mới tăng, trong khi đơn xin trợ cấp thất nghiệp lần đầu vẫn duy trì thấp ở mức 187,000 đơn, cho thấy thị trường lao động ổn định — điều này làm giảm kỳ vọng Fed sớm nới lỏng chính sách tiền tệ sau khi CPI và PPI đã hạ nhiệt. Ông Lukman Otunuga, chuyên gia phân tích cấp cao tại FXTM, nhận định diễn biến lạm phát sẽ quyết định xu hướng tiếp theo của vàng; thị trường hiện định giá khoảng 34% khả năng Fed tăng lãi suất ngay tháng 7/2026, nhưng phần lớn nghiêng về kịch bản tháng 9, đặc biệt nếu Mỹ áp thuế nhập khẩu mới 10-12.5% với nhiều đối tác thương mại lớn làm gia tăng áp lực lạm phát. Ông Rich Checkan (Asset Strategies International) chỉ ra hai lực đối lập: giá dầu duy trì trên 100 USD/thùng tạo áp lực lạm phát, trong khi ngưỡng hỗ trợ tâm lý 4,000 USD/oz vẫn đóng vai trò quan trọng — nếu bị phá vỡ, giá có thể lùi về 3,950-3,900 USD/oz. Trong nước, giá vàng miếng SJC giữ nguyên ở mức 137.5-141.5 triệu đồng/lượng (mua vào - bán ra) so với phiên cuối tuần, vàng nhẫn SJC ở mức 137-141 triệu đồng/lượng; world_vnd ước tính ~128.8 triệu đồng/lượng, premium khoảng 12.7 triệu đồng/lượng. Trên thị trường tài sản khác, chứng khoán Mỹ ổn định trở lại khi giá dầu Brent giảm xuống dưới 90 USD/thùng sau khi Mỹ-Iran tạm dừng không kích, còn Bitcoin thử thách ngưỡng kháng cự 65,000-66,000 USD nhờ dòng vốn ETF hút ròng mạnh. Catalyst chính tuần này: cuộc họp chính sách Fed và báo cáo lợi nhuận của các hãng công nghệ lớn (Amazon, Meta, Microsoft, Apple).",
     "sources": [
       {
-        "name": "VietnamNet — Giá vàng hôm nay 26/7/2026",
-        "url": "https://vietnamnet.vn/gia-vang-hom-nay-26-7-2026-vang-mieng-sjc-boc-hoi-7-trieu-dong-trong-tuan-2539135.html"
+        "name": "Báo Thế giới và Việt Nam — Giá vàng hôm nay 27/7/2026",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-27-7-2026-hong-cuoc-hop-cua-fed-lam-phat-my-quyet-dinh-huong-di-chuyen-gia-than-trong-423509.html"
       },
       {
-        "name": "ts2.tech — Tesla shares fall 18% as $25B+ investment plan raises cash flow concerns",
-        "url": "https://ts2.tech/en/tesla-nasdaqtsla-shares-fall-18-as-25-billion-plus-investment-plan-raises-concerns-over-cash-flow/"
+        "name": "Bloomberg — Oil tumbles as US and Iran pause military strikes, Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap"
       },
       {
-        "name": "Yahoo Finance — Bitcoin and ethereum prices today, July 24, 2026",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-24-2026-crypto-prices-retreat-on-higher-us-treasury-yields-152200068.html"
+        "name": "Bitcoin Foundation — BTC price hits $66K as ETF inflows reach $727M in 5 days",
+        "url": "https://bitcoinfoundation.org/news/crypto-etfs-news/btc-price-bitcoin-etfs/"
       }
     ]
   },
   "interest_rates": {
-    "alert": "🟡 26/7 (Chủ Nhật): Khảo sát biểu lãi suất huy động trực tuyến ngày 26/7 cho thấy 7 ngân hàng niêm yết từ <b>7%/năm</b> trở lên cho kỳ hạn 12 tháng, cao nhất vẫn là ACB với <b>7.8%/năm</b>. Đáng chú ý, NCB giảm mạnh từ 8.8-9.2% xuống còn 6.4%/năm và SHB giảm từ 7.7% xuống 6.5%/năm; Big4 (Vietcombank, BIDV, Agribank, VietinBank) tiếp tục giữ nguyên 6.8%/năm. Chênh lệch lãi suất 12 tháng giữa cao nhất (ACB 7.8%) và thấp nhất (SCB 3.7%) lên tới 4.1 điểm phần trăm.",
+    "alert": "🟡 27/7 (Thứ Hai): Biểu lãi suất huy động trực tuyến chưa ghi nhận biến động mới so với cuối tuần (26/7). ACB tiếp tục dẫn đầu thị trường với <b>7.8%/năm</b> kỳ hạn 12 tháng; Big4 (Vietcombank, BIDV, Agribank, VietinBank) giữ nguyên <b>6.8%/năm</b>. Sau đợt điều chỉnh giảm mạnh cuối tuần, NCB (6.4%/năm) và SHB (6.5%/năm) tiếp tục ổn định ở mức mới. Chênh lệch lãi suất 12 tháng giữa cao nhất (ACB 7.8%) và thấp nhất (SCB 3.7%) vẫn ở mức 4.1 điểm phần trăm.",
     "highlights": [
       {
         "label": "ACB tiếp tục dẫn đầu toàn thị trường với 7.8%/năm kỳ hạn 12 tháng",
         "value": "7.8%",
-        "sub": "Kỳ hạn 6 tháng 7.6%/năm, kỳ hạn 9 tháng 7.7%/năm — không đổi từ 20/7/2026",
+        "sub": "Kỳ hạn 6 tháng 7.6%/năm, kỳ hạn 9 tháng 7.7%/năm — ổn định từ 20/7/2026",
         "note": "7 ngân hàng hiện niêm yết từ 7%/năm trở lên cho kỳ hạn 12 tháng."
       },
       {
-        "label": "NCB giảm mạnh từ 8.8-9.2%/năm xuống còn 6.4%/năm, ra khỏi nhóm dẫn đầu",
-        "value": "6.4%",
-        "sub": "Giảm hơn 2.4 điểm phần trăm so với biểu niêm yết cuối tuần trước",
-        "note": "Đây là thay đổi đáng chú ý nhất trong biểu lãi suất tuần này."
-      },
-      {
-        "label": "SHB giảm từ 7.7%/năm xuống 6.5%/năm kỳ hạn 12 tháng",
-        "value": "6.5%",
-        "sub": "Giảm 1.2 điểm phần trăm, rời khỏi nhóm ngân hàng niêm yết trên 7%",
-        "note": "Cùng xu hướng điều chỉnh giảm với NCB trong tuần này."
+        "label": "NCB và SHB giữ ổn định ở mức mới sau đợt điều chỉnh giảm mạnh cuối tuần trước",
+        "value": "6.4-6.5%",
+        "sub": "NCB 6.4%/năm, SHB 6.5%/năm kỳ hạn 12 tháng — không đổi so với 26/7",
+        "note": "Cả hai đã rời khỏi nhóm ngân hàng niêm yết công khai trên 7%."
       },
       {
         "label": "Big4 giữ nguyên 6.8%/năm kỳ hạn 12-18 tháng, ổn định nhiều ngày liên tiếp",
         "value": "6.8%",
         "sub": "Agribank, BIDV, VietinBank, Vietcombank niêm yết đồng nhất 6.8%/năm (12-18T)",
         "note": "Gửi 100 triệu đồng kỳ hạn 12 tháng tại Big4 nhận 6.8 triệu đồng tiền lãi."
+      },
+      {
+        "label": "SCB vẫn là ngân hàng có lãi suất thấp nhất hệ thống với 3.7%/năm kỳ hạn 12 tháng",
+        "value": "3.7%",
+        "sub": "Chênh lệch với ACB (cao nhất) lên tới 4.1 điểm phần trăm",
+        "note": "Phản ánh sự phân hóa rõ rệt về nhu cầu thanh khoản giữa các nhóm ngân hàng."
       }
     ],
     "banks": [
@@ -236,7 +236,7 @@
         "m3": "4.75%",
         "m6": "6.6%",
         "m12": "6.9%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "BVBank",
@@ -313,14 +313,14 @@
         "m3": "4.65%",
         "m6": "6.4%",
         "m12": "6.5%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "NCB",
         "m3": "4.75%",
         "m6": "6.2%",
         "m12": "6.4%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "MB",
@@ -422,16 +422,16 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 26/7 (Chủ Nhật): NCB và SHB bất ngờ giảm mạnh, ACB vẫn giữ ngôi đầu 7.8%, Big4 ổn định",
-      "body": "Theo khảo sát biểu niêm yết trực tuyến ngày 26/7/2026, thị trường lãi suất huy động ghi nhận một số điều chỉnh giảm đáng chú ý ở nhóm ngân hàng tư nhân quy mô vừa và nhỏ, trong khi nhóm dẫn đầu và Big4 vẫn ổn định. ACB tiếp tục đứng đầu bảng khảo sát với 7.8%/năm cho kỳ hạn 12 tháng, theo sau là Saigonbank (7.2%/năm) và Bac A Bank (7.1%/năm); MBV, VCBNeo, VIB và PGBank cùng niêm yết quanh mức 7%/năm. Đáng chú ý nhất, NCB — ngân hàng từng dẫn đầu hệ thống với mức niêm yết đặc biệt 9.2%/năm cho sản phẩm Signature Saving kỳ hạn 36 tháng — nay giảm mạnh xuống chỉ còn 6.4%/năm cho kỳ hạn 12 tháng thông thường, và SHB cũng giảm từ 7.7% xuống 6.5%/năm, cho thấy áp lực huy động vốn tại nhóm này đã hạ nhiệt đáng kể so với các tuần trước. Nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) tiếp tục niêm yết 4.75%/năm cho kỳ hạn 1-3 tháng, 6.6%/năm cho kỳ hạn 6-9 tháng và 6.8%/năm cho kỳ hạn 12-18 tháng, không đổi trong nhiều ngày liên tiếp. Ở đáy bảng, SCB tiếp tục là ngân hàng có lãi suất thấp nhất hệ thống với 3.7%/năm (12 tháng) và 3.9%/năm (18 tháng). Khoảng cách giữa mức cao nhất và thấp nhất ở kỳ hạn 12 tháng hiện lên tới 4.1 điểm phần trăm (từ 7.8% xuống 3.7%), phản ánh sự phân hóa rõ rệt về nhu cầu thanh khoản giữa các nhóm ngân hàng.",
+      "title": "Lãi suất 27/7 (Thứ Hai): Thị trường ổn định sau đợt điều chỉnh giảm của NCB, SHB cuối tuần trước, ACB vẫn dẫn đầu 7.8%",
+      "body": "Khảo sát biểu niêm yết trực tuyến ngày 27/7/2026 cho thấy thị trường lãi suất huy động chưa ghi nhận thêm biến động mới so với cuối tuần (26/7), sau đợt điều chỉnh giảm đáng chú ý của NCB và SHB. ACB tiếp tục đứng đầu bảng khảo sát với 7.8%/năm cho kỳ hạn 12 tháng, theo sau là Saigonbank (7.2%/năm) và Bac A Bank (7.1%/năm); MBV, VCBNeo, VIB và PGBank cùng niêm yết quanh mức 7%/năm, nâng tổng số ngân hàng niêm yết công khai từ 7%/năm trở lên lên 7 đơn vị. NCB — sau khi giảm mạnh từ 8.8-9.2%/năm xuống 6.4%/năm cuối tuần trước — và SHB (giảm từ 7.7% xuống 6.5%/năm) đều giữ ổn định ở mức mới trong phiên đầu tuần. Nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) tiếp tục niêm yết 4.75%/năm cho kỳ hạn 1-3 tháng, 6.6%/năm cho kỳ hạn 6-9 tháng và 6.8%/năm cho kỳ hạn 12-18 tháng, không đổi trong nhiều ngày liên tiếp. Ở đáy bảng, SCB tiếp tục là ngân hàng có lãi suất thấp nhất hệ thống với 3.7%/năm (12 tháng), giữ khoảng cách lãi suất 12 tháng toàn thị trường ở mức 4.1 điểm phần trăm.",
       "sources": [
         {
           "name": "Kenh14 (theo Nhịp sống thị trường) — Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank",
           "url": "https://kenh14.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-215260726210828765.chn"
         },
         {
-          "name": "VnEconomy — Lãi suất tiết kiệm ngân hàng cao nhất tháng 7/2026",
-          "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-72026.htm"
+          "name": "CafeF — Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank",
+          "url": "https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn"
         },
         {
           "name": "Techcombank — Lãi suất gửi tiết kiệm của 30+ ngân hàng hôm nay 25/07/2026",
@@ -441,22 +441,15 @@
     },
     "rate_reasons": [
       {
-        "name": "NCB bất ngờ giảm mạnh lãi suất 12 tháng từ 8.8-9.2% xuống 6.4%, rời nhóm dẫn đầu hệ thống",
+        "name": "Thị trường ổn định sau đợt điều chỉnh giảm mạnh của NCB và SHB cuối tuần trước",
         "level": "main",
-        "pct": 72,
+        "pct": 60,
         "bar": "fh",
-        "desc": "NCB điều chỉnh giảm sâu hơn 2.4 điểm phần trăm so với biểu niêm yết tuần trước, cho thấy nhu cầu huy động vốn gấp của ngân hàng này đã hạ nhiệt đáng kể."
-      },
-      {
-        "name": "SHB giảm từ 7.7% xuống 6.5%/năm kỳ hạn 12 tháng",
-        "level": "main",
-        "pct": 65,
-        "bar": "fh",
-        "desc": "Cùng xu hướng với NCB, SHB rời khỏi nhóm ngân hàng niêm yết công khai trên 7%/năm, phản ánh áp lực thanh khoản đã dịu bớt."
+        "desc": "Sau khi giảm sâu, cả NCB (6.4%) và SHB (6.5%) chưa có điều chỉnh thêm trong phiên đầu tuần, cho thấy nhu cầu huy động vốn đã ổn định ở mức mới."
       },
       {
         "name": "ACB duy trì vị trí dẫn đầu thị trường với 7.8%/12T, chưa có ngân hàng nào vượt qua",
-        "level": "sub",
+        "level": "main",
         "pct": 68,
         "bar": "fh",
         "desc": "ACB chưa điều chỉnh kể từ 20/7, tiếp tục là ngân hàng niêm yết công khai cao nhất cho kỳ hạn 12 tháng trên thị trường."
@@ -469,11 +462,18 @@
         "desc": "Agribank, BIDV, VietinBank, Vietcombank tiếp tục niêm yết ổn định, không phản ứng theo biến động của nhóm ngân hàng tư nhân nhỏ."
       },
       {
-        "name": "Chênh lệch lãi suất 12 tháng giữa các ngân hàng lên tới 4.1 điểm phần trăm, cho thấy phân hóa thanh khoản rõ rệt",
+        "name": "Chênh lệch lãi suất 12 tháng giữa các ngân hàng vẫn ở mức 4.1 điểm phần trăm",
         "level": "sub",
         "pct": 58,
         "bar": "fm",
         "desc": "Khoảng cách từ 7.8% (ACB) xuống 3.7% (SCB) phản ánh nhu cầu vốn khác biệt lớn giữa các nhóm ngân hàng, đặc biệt nhóm quy mô nhỏ và ngân hàng đang tái cơ cấu."
+      },
+      {
+        "name": "Cuộc họp Fed tuần này có thể ảnh hưởng gián tiếp đến định hướng lãi suất trong nước",
+        "level": "sub",
+        "pct": 60,
+        "bar": "fm",
+        "desc": "Nếu Fed phát tín hiệu diều hâu hoặc lạm phát Mỹ cao hơn kỳ vọng, áp lực tỷ giá và thanh khoản có thể khiến một số ngân hàng thương mại điều chỉnh tăng nhẹ lãi suất huy động."
       }
     ],
     "rate_forecast": [
@@ -482,14 +482,14 @@
         "pct": 55,
         "direction": "hold",
         "bar": "fm",
-        "desc": "Chưa có ngân hàng nào cho thấy tín hiệu vượt qua mức niêm yết của ACB trong tuần tới."
+        "desc": "Chưa có ngân hàng nào cho thấy tín hiệu vượt qua mức niêm yết của ACB trong tuần này."
       },
       {
-        "name": "NCB và SHB có thể tiếp tục ổn định ở mức mới sau đợt điều chỉnh giảm mạnh",
-        "pct": 50,
+        "name": "NCB và SHB nhiều khả năng tiếp tục ổn định ở mức mới sau đợt điều chỉnh giảm mạnh",
+        "pct": 52,
         "direction": "hold",
         "bar": "fm",
-        "desc": "Sau khi giảm sâu, hai ngân hàng này nhiều khả năng sẽ giữ ổn định biểu lãi suất mới trong thời gian tới, trừ khi có áp lực thanh khoản mới."
+        "desc": "Sau khi giảm sâu cuối tuần trước, hai ngân hàng này nhiều khả năng giữ ổn định biểu lãi suất trong thời gian tới, trừ khi có áp lực thanh khoản mới."
       },
       {
         "name": "Big4 nhiều khả năng tiếp tục giữ nguyên 6.8%/12T",
@@ -499,24 +499,24 @@
         "desc": "Chưa có dấu hiệu điều chỉnh từ nhóm ngân hàng thương mại nhà nước trong ngắn hạn."
       },
       {
-        "name": "Cuộc họp FOMC và chỉ số PCE tuần tới có thể ảnh hưởng gián tiếp đến định hướng lãi suất trong nước",
+        "name": "Cuộc họp FOMC tuần này có thể ảnh hưởng gián tiếp đến định hướng lãi suất trong nước",
         "pct": 60,
         "direction": "up",
         "bar": "fm",
-        "desc": "Nếu Fed phát tín hiệu diều hâu hoặc PCE cao hơn kỳ vọng, áp lực tỷ giá và thanh khoản có thể khiến một số ngân hàng thương mại điều chỉnh tăng nhẹ lãi suất huy động."
+        "desc": "Nếu Fed phát tín hiệu diều hâu hoặc lạm phát Mỹ cao hơn kỳ vọng, áp lực tỷ giá và thanh khoản có thể khiến một số ngân hàng thương mại điều chỉnh tăng nhẹ lãi suất huy động."
       }
     ],
-    "rate_outlook_label": "26/7 Chủ Nhật — NCB, SHB giảm mạnh lãi suất 12T; ACB vẫn dẫn đầu 7.8%/12T; Big4 giữ nguyên 6.8%/12T",
+    "rate_outlook_label": "27/7 Thứ Hai — Thị trường ổn định sau điều chỉnh của NCB, SHB; ACB vẫn dẫn đầu 7.8%/12T; Big4 giữ nguyên 6.8%/12T",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "26/7 (Chủ Nhật): Thị trường lãi suất huy động trong nước ghi nhận điều chỉnh đáng chú ý ở nhóm ngân hàng tư nhân vừa và nhỏ. NCB giảm mạnh lãi suất kỳ hạn 12 tháng từ mức 8.8-9.2%/năm (thời điểm dẫn đầu hệ thống với sản phẩm Signature Saving) xuống còn 6.4%/năm, trong khi SHB giảm từ 7.7% xuống 6.5%/năm — cả hai đều rời khỏi nhóm ngân hàng niêm yết công khai trên 7%/năm. Trong khi đó, ACB tiếp tục giữ vị trí dẫn đầu toàn thị trường với 7.8%/năm (12 tháng), theo sau là Saigonbank (7.2%), Bac A Bank (7.1%), cùng nhóm MBV, VCBNeo, VIB, PGBank quanh 7%/năm — nâng tổng số ngân hàng niêm yết từ 7%/năm trở lên lên 7 đơn vị. Nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) tiếp tục ổn định ở 6.8%/năm cho kỳ hạn 12-18 tháng, không phản ứng theo biến động của nhóm tư nhân nhỏ. Ở đáy bảng, SCB vẫn là ngân hàng có lãi suất thấp nhất với 3.7%/năm, kéo giãn khoảng cách lãi suất 12 tháng toàn thị trường lên tới 4.1 điểm phần trăm. Diễn biến này diễn ra trong bối cảnh thị trường tài chính quốc tế biến động mạnh — Tesla giảm 18%, Bitcoin giảm nhẹ, vàng thế giới phục hồi cuối tuần — cho thấy các ngân hàng trong nước đang điều chỉnh linh hoạt theo nhu cầu thanh khoản riêng hơn là theo diễn biến toàn cầu. Catalyst chính tuần tới: cuộc họp FOMC và chỉ số PCE của Mỹ.",
+    "rate_outlook_text": "27/7 (Thứ Hai): Thị trường lãi suất huy động trong nước ổn định trong phiên đầu tuần, chưa ghi nhận điều chỉnh mới sau đợt giảm đáng chú ý của NCB và SHB cuối tuần trước. NCB giữ nguyên mức 6.4%/năm (kỳ hạn 12 tháng) sau khi giảm mạnh từ 8.8-9.2%/năm, trong khi SHB giữ ổn định ở 6.5%/năm sau khi giảm từ 7.7% — cả hai vẫn ở ngoài nhóm ngân hàng niêm yết công khai trên 7%/năm. ACB tiếp tục giữ vị trí dẫn đầu toàn thị trường với 7.8%/năm (12 tháng), theo sau là Saigonbank (7.2%), Bac A Bank (7.1%), cùng nhóm MBV, VCBNeo, VIB, PGBank quanh 7%/năm — duy trì 7 ngân hàng niêm yết từ 7%/năm trở lên. Nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) tiếp tục ổn định ở 6.8%/năm cho kỳ hạn 12-18 tháng. Ở đáy bảng, SCB vẫn là ngân hàng có lãi suất thấp nhất với 3.7%/năm, giữ khoảng cách lãi suất 12 tháng toàn thị trường ở mức 4.1 điểm phần trăm. Diễn biến này diễn ra trong bối cảnh thị trường tài chính quốc tế đang hướng về cuộc họp chính sách Fed và tuần báo cáo lợi nhuận lớn của Amazon, Meta, Microsoft, Apple — các yếu tố có thể ảnh hưởng gián tiếp đến định hướng lãi suất và tỷ giá trong nước thời gian tới.",
     "rate_sources": [
       {
         "name": "Kenh14 (theo Nhịp sống thị trường) — Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank",
         "url": "https://kenh14.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-215260726210828765.chn"
       },
       {
-        "name": "VnEconomy — Lãi suất tiết kiệm ngân hàng cao nhất tháng 7/2026",
-        "url": "https://vneconomy.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-thang-72026.htm"
+        "name": "CafeF — Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank",
+        "url": "https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn"
       },
       {
         "name": "Techcombank — Lãi suất gửi tiết kiệm của 30+ ngân hàng hôm nay 25/07/2026",
@@ -731,7 +731,8 @@
       "23/07",
       "24/07",
       "25/07",
-      "26/07"
+      "26/07",
+      "27/07"
     ],
     "sjc": [
       152.8,
@@ -938,6 +939,7 @@
       145.3,
       146.0,
       139.0,
+      141.5,
       141.5,
       141.5
     ],
@@ -1147,6 +1149,7 @@
       131.6,
       128.6,
       128.7,
+      128.8,
       128.8
     ]
   }
