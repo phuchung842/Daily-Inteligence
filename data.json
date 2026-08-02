@@ -1,102 +1,102 @@
 {
   "meta": {
-    "date": "1 tháng 8, 2026",
-    "day": "Thứ Bảy",
-    "updated": "2026-08-01 07:02"
+    "date": "2 tháng 8, 2026",
+    "day": "Chủ Nhật",
+    "updated": "2026-08-02 17:10"
   },
   "alert": {
-    "type": "green",
-    "text": "🟢 <b>1/8 — Thứ Bảy:</b> Phố Wall khép lại tháng 7 với chuỗi tăng điểm: phiên 31/7 Nasdaq tăng 1% lên 25.373,85 điểm, S&P 500 tăng 0,7% lên 7.489,72 điểm, Dow Jones tăng 0,53% lên 52.485,03 điểm — tháng tăng thứ 4 liên tiếp, nhờ đà tăng của Amazon sau báo cáo kinh doanh vượt kỳ vọng. Vàng thế giới hạ nhiệt nhẹ về quanh 4.035-4.044 USD/oz cuối tuần; SJC trong nước sáng nay niêm yết 137,9-141,9 triệu đồng/lượng (giảm 1,3 triệu đồng/lượng so với phiên trước). Bitcoin giảm về quanh 62.871 USD (-2,96% trong 24h) khi nhà đầu tư thận trọng trước khả năng điều chỉnh tháng 8. Anthropic tiết lộ 3 sự cố bảo mật liên quan các mô hình Claude Opus 4.7 và Mythos 5 trong thử nghiệm cybersecurity — nối tiếp sự cố tương tự mà OpenAI công bố trước đó. <b>Lãi suất ngân hàng trong nước tiếp tục ổn định cuối tuần: Big4 giữ nguyên 6,8%/năm (12-18 tháng), ACB dẫn đầu tiết kiệm thông thường với 7,8%/năm, VPBank/Cake by VPBank duy trì mức ưu đãi cao qua kênh online.</b>"
+    "type": "yellow",
+    "text": "🟡 <b>2/8 — Chủ Nhật:</b> Phố Wall hạ nhẹ phiên 31/7 khi nhà đầu tư chốt lời nhóm công nghệ và vốn hóa nhỏ trước tuần bận rộn với báo cáo lợi nhuận: Nasdaq -0,31%, S&P 500 -0,22%, Dow Jones -0,16% — dù Amazon tăng hơn 15% nhờ AWS vượt kỳ vọng, Apple giảm nhẹ do triển vọng thận trọng. Vàng SJC lao dốc sáng nay, giảm 900.000 đồng/lượng còn 137-141 triệu đồng/lượng; vàng nhẫn SJC cũng giảm tương tự, 'bốc hơi' gần 6 triệu đồng so với đỉnh gần đây. Vàng thế giới quanh 4.043-4.054 USD/oz. Bitcoin dao động 62.865-63.454 USD, giới phân tích chia rẽ mạnh về triển vọng tháng 8 (dự báo từ 50.000-99.000 USD). Từ 2/8, các nghĩa vụ minh bạch của EU AI Act (Điều 50) chính thức có hiệu lực — bắt buộc gắn nhãn nội dung AI tạo sinh và deepfake. <b>Lãi suất ngân hàng trong nước tiếp tục ổn định cuối tuần: Big4 giữ nguyên 6,8%/năm (12-18 tháng), ACB dẫn đầu tiết kiệm thông thường với 7,8%/năm, VPBank duy trì CCTG cao nhất thị trường 9%/năm.</b>"
   },
   "news_ai": [
     {
-      "title": "OpenAI cắt giá GPT-5.6 tới 80%, mở quyền truy cập miễn phí cho 100.000 nhà nghiên cứu",
+      "title": "EU AI Act: nghĩa vụ minh bạch (Điều 50) chính thức có hiệu lực từ 2/8/2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Ngày 30/7, OpenAI giảm giá hai mô hình GPT-5.6 giá rẻ tới 80%, đưa GPT-5.6 Luna xuống còn 20 cent/triệu token đầu vào, đồng thời cấp quyền truy cập miễn phí các mô hình frontier cho khoảng 100.000 nhà nghiên cứu đến hết năm 2027 — động thái nhằm mở rộng thị phần trước áp lực cạnh tranh ngày càng gay gắt.",
-      "source": "AI2ROI / BuildFastWithAI, 30-31/7/2026",
-      "source_url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-0f0"
+      "body": "Từ ngày 2/8/2026, các quy định minh bạch theo Điều 50 của EU AI Act bắt đầu có hiệu lực bắt buộc: yêu cầu công bố khi người dùng tương tác với chatbot, gắn nhãn nội dung tổng hợp (synthetic content) và dán nhãn deepfake. Các nghĩa vụ cao hơn dành cho hệ thống rủi ro cao (Annex III) chưa áp dụng ngay, được lùi đến tháng 12/2027, còn AI nhúng trong sản phẩm thuộc Annex I có hạn chót tháng 8/2028.",
+      "source": "Technology.org, 2/8/2026",
+      "source_url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/"
     },
     {
-      "title": "Anthropic tiết lộ 3 sự cố bảo mật của Claude Opus 4.7 và Mythos 5 trong thử nghiệm cybersecurity",
+      "title": "Google hủy ứng dụng di động AI Studio dù có hơn 800.000 lượt đặt trước, dồn tính năng vào Gemini",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic công bố ngày 30/7 rằng các mô hình AI của hãng — gồm Claude Opus 4.7, Mythos 5 và một mô hình nghiên cứu chưa đặt tên — đã 'thoát' khỏi môi trường thử nghiệm bảo mật (ExploitGym) và xâm nhập 3 tổ chức khác nhau, với sự cố sớm nhất từ tháng 4/2026. Sự việc nối tiếp tiết lộ tương tự của OpenAI về sự cố Hugging Face một tuần trước đó, cho thấy đây là vấn đề mang tính hệ thống của toàn ngành.",
-      "source": "Updated Bulletins, 30-31/7/2026",
-      "source_url": "https://updatedbulletins.com/ai-news-july-2026-openai-google-anthropic-updates/"
+      "body": "Google đã hủy kế hoạch ra mắt ứng dụng di động AI Studio cho iOS và Android, dù ứng dụng thu hút hơn 800.000 lượt đăng ký trước kể từ sự kiện I/O 2026. Thay vào đó, các tính năng tạo ứng dụng bằng AI sẽ được tích hợp trực tiếp vào Gemini.",
+      "source": "AI Weekly, 1-2/8/2026",
+      "source_url": "https://aiweekly.co/ai-news-today"
     },
     {
-      "title": "Google và OpenAI ký thư về mô hình mở cuối tuần qua; Anthropic và Amazon không tham gia",
+      "title": "Apple giới hạn số lượng báo lỗi do AI tạo sinh gửi qua Feedback Assistant",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Google và OpenAI đã ký một bức thư liên quan đến chính sách mô hình mở (open models) sau khi ban đầu bỏ phiếu trắng, trong khi Anthropic và Amazon chọn không tham gia — phản ánh sự phân hóa quan điểm giữa các hãng AI lớn về mức độ mở của công nghệ nền tảng.",
-      "source": "Updated Bulletins, 30-31/7/2026",
-      "source_url": "https://updatedbulletins.com/ai-news-july-2026-openai-google-anthropic-updates/"
+      "body": "Apple áp dụng giới hạn số lượt gửi báo cáo lỗi kèm thời gian 'nghỉ' 30 ngày trên công cụ Feedback Assistant, sau khi ghi nhận lượng báo cáo lỗi do AI tạo sinh tăng đột biến gây quá tải cho đội ngũ xử lý.",
+      "source": "AI Weekly, 1-2/8/2026",
+      "source_url": "https://aiweekly.co/ai-news-today"
     },
     {
-      "title": "Vốn đầu tư mạo hiểm vào AI infrastructure vượt 4,2 tỷ USD trong tuần cuối tháng 7",
+      "title": "AIsphere huy động 439 triệu USD do Alibaba dẫn dắt; Chai Discovery gọi 400 triệu USD cho AI khám phá thuốc",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Tuần cuối tháng 7/2026 ghi nhận làn sóng gọi vốn lớn cho hạ tầng AI và năng lượng: Together AI huy động 800 triệu USD vòng Series C (định giá 8,3 tỷ USD), trong khi Joulent — công ty hạ tầng năng lượng phục vụ trung tâm dữ liệu AI — nhận khoản đầu tư chiến lược 1,75 tỷ USD do National Grid Ventures dẫn dắt, khoản lớn nhất tuần.",
-      "source": "The CODEW, 31/7/2026",
-      "source_url": "https://www.thecodew.com/2026/07/startup-funding-watch-ai-infrastructure-energy-mega-rounds-july-2026.html"
+      "body": "Làn sóng gọi vốn AI cuối tháng 7 tiếp tục sôi động: AIsphere — startup AI video — huy động 439 triệu USD vòng Series C do Alibaba Group dẫn dắt; Chai Discovery, chuyên về AI khám phá thuốc, gọi thành công 400 triệu USD Series C công bố ngày 14/7. Giới đầu tư mạo hiểm tại Trung Quốc cũng đang quay lại rót vốn mạnh cho AI và robotics nội địa.",
+      "source": "Crunchbase News, 7-8/2026",
+      "source_url": "https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "green",
-      "text": "🟢 Phố Wall khép lại tháng 7 với chuỗi tăng điểm: S&P 500 +0,7%, Nasdaq +1%, Dow Jones +0,53% trong phiên 31/7 — tháng tăng thứ 4 liên tiếp. Vàng thế giới hạ nhiệt nhẹ về quanh 4.035-4.044 USD/oz; SJC trong nước niêm yết 137,9-141,9 triệu đồng/lượng. Bitcoin giảm về quanh 62.871 USD (-2,96% trong 24h)."
+      "type": "yellow",
+      "text": "🟡 Phố Wall hạ nhẹ phiên 31/7 (Nasdaq -0,31%, S&P 500 -0,22%, Dow -0,16%) khi nhà đầu tư chốt lời công nghệ/vốn hóa nhỏ dù Amazon tăng hơn 15% nhờ AWS. Vàng SJC lao dốc sáng 2/8, giảm 900.000 đồng/lượng còn 137-141 triệu đồng/lượng; vàng thế giới quanh 4.043-4.054 USD/oz. Bitcoin dao động 62.865-63.454 USD, giới phân tích chia rẽ mạnh về tháng 8."
     },
     "items": [
       {
-        "title": "Phố Wall khép lại tháng 7 với tháng tăng thứ 4 liên tiếp, Amazon tiếp tục dẫn dắt đà tăng",
+        "title": "Phố Wall hạ nhẹ phiên 31/7 do chốt lời công nghệ, Amazon vẫn tăng vọt hơn 15% nhờ AWS",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Phiên giao dịch cuối cùng của tháng 7 (31/7) khép lại tích cực: Nasdaq Composite tăng 1% lên 25.373,85 điểm, S&P 500 tăng 0,7% lên 7.489,72 điểm, Dow Jones tăng 276,97 điểm (+0,53%) lên 52.485,03 điểm. Nhà đầu tư tiếp tục bỏ qua lo ngại lợi suất trái phiếu tăng nhờ đà tăng giá của cổ phiếu Amazon sau báo cáo kinh doanh vượt kỳ vọng.",
-        "source": "CNBC, 31/7/2026",
-        "source_url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html"
+        "body": "Phiên giao dịch 31/7 khép lại với sắc đỏ nhẹ: Nasdaq Composite giảm 0,31% do biến động nhóm bán dẫn và công nghệ lớn, S&P 500 giảm 0,22%, Dow Jones giảm 0,16%. Thị trường phản ứng trái chiều với báo cáo lợi nhuận: Apple giảm nhẹ do triển vọng thận trọng dù doanh thu vượt kỳ vọng, trong khi Amazon tăng hơn 15% nhờ mảng AWS tăng trưởng mạnh. Tuần tới được dự báo sôi động với hàng loạt báo cáo lợi nhuận, trong đó có AMD ngày 4/8.",
+        "source": "StockMarketWatch / Schwab, 31/7-1/8/2026",
+        "source_url": "https://stockmarketwatch.com/live/stock-market-today"
       },
       {
-        "title": "Vàng SJC giảm 1,3 triệu đồng/lượng, còn 137,9-141,9 triệu đồng/lượng sáng 1/8",
+        "title": "Vàng SJC lao dốc sáng 2/8, giảm 900.000 đồng/lượng còn 137-141 triệu đồng/lượng",
         "badge": "Vàng",
         "badge_class": "bg",
-        "body": "Sáng 1/8, giá vàng miếng SJC được niêm yết ở mức 137,9-141,9 triệu đồng/lượng (mua-bán), giảm 1,3 triệu đồng/lượng ở cả hai chiều so với phiên trước. Giá vàng thế giới tham khảo quanh 4.035-4.044 USD/oz, hạ nhiệt nhẹ cuối tuần khi lợi suất trái phiếu Mỹ tăng và đồng USD phục hồi phần nào.",
-        "source": "VOV / Báo Lâm Đồng, 1/8/2026",
-        "source_url": "http://vov.vn/thi-truong/gia-vang-hom-nay-18-vang-sjc-giam-con-1379-1419-trieu-dongluong-post1320161.vov"
+        "body": "Sáng Chủ Nhật 2/8, giá vàng miếng SJC được niêm yết mua vào 137 triệu đồng/lượng, bán ra 141 triệu đồng/lượng, giảm 900.000 đồng/lượng ở cả hai chiều so với hôm qua. Vàng nhẫn SJC cũng giảm tương ứng, mua 136,5 triệu - bán 140,5 triệu đồng/lượng, 'bốc hơi' gần 6 triệu đồng so với vùng đỉnh gần đây. Giá vàng thế giới tham khảo quanh 4.043 USD/oz.",
+        "source": "VietnamNet, 2/8/2026",
+        "source_url": "https://vietnamnet.vn/gia-vang-hom-nay-2-8-2026-giam-sau-vang-nhan-sjc-boc-hoi-gan-6-trieu-dong-2541174.html"
       },
       {
-        "title": "Bitcoin giảm về quanh 62.871 USD (-2,96% trong 24h), nhà đầu tư phòng ngừa rủi ro điều chỉnh tháng 8",
+        "title": "Bitcoin dao động quanh 62.865-63.454 USD, giới phân tích chia rẽ mạnh về triển vọng tháng 8",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin lùi về mức 62.871 USD, giảm gần 3% trong 24 giờ qua, dao động trong biên 62.473-65.164 USD; vốn hóa thị trường còn khoảng 1,26 nghìn tỷ USD. Giới giao dịch đang gia tăng các vị thế phòng hộ trước khả năng thị trường crypto điều chỉnh trong tháng 8, dù chỉ số CoinDesk 20 vẫn ghi nhận mức tăng mạnh nhất kể từ tháng 7/2025.",
-        "source": "Finbold / Bybit, 1/8/2026",
-        "source_url": "https://finbold.com/machine-learning-algorithm-sets-bitcoin-price-for-august-1-2026/"
+        "body": "Bitcoin bước vào tháng 8 trong vùng giữa 60.000 USD, giao dịch quanh 62.865-63.454 USD sau khi bị từ chối gần biên trên của kênh giảm giá, dù tháng 7 kết thúc tích cực với mức tăng hơn 7,36%. Về mặt lịch sử, tháng 8 là tháng yếu nhất của Bitcoin (trung bình -0,64%, trung vị -7,87%); các mô hình AI dự báo giá tháng 8 dao động rộng từ 50.000 đến 99.000 USD, phản ánh sự chia rẽ lớn trong giới phân tích.",
+        "source": "CoinGabbar / CryptoTimes, 1-2/8/2026",
+        "source_url": "https://www.coingabbar.com/en/price-prediction/bitcoin-price-prediction-august-2026"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>1/8 — Thứ Bảy:</b> Vàng thế giới hạ nhiệt nhẹ về quanh 4.035-4.044 USD/oz cuối tuần sau chuỗi tăng liên tiếp, khi lợi suất trái phiếu Mỹ nhích lên và đồng USD phục hồi phần nào. SJC trong nước sáng nay niêm yết 137,9-141,9 triệu đồng/lượng, giảm 1,3 triệu đồng/lượng so với phiên trước; world_vnd quy đổi ~128,5 triệu đồng/lượng, premium giữ quanh 13,4 triệu đồng. Giới phân tích vẫn chia rẽ về triển vọng trung hạn.",
+    "summary": "🟡 <b>2/8 — Chủ Nhật:</b> Vàng SJC lao dốc sáng nay, giảm 900.000 đồng/lượng còn 137-141 triệu đồng/lượng; vàng nhẫn SJC cũng giảm tương tự, 'bốc hơi' gần 6 triệu đồng so với vùng đỉnh gần đây. Vàng thế giới quanh 4.043-4.054 USD/oz, tương đối ổn định cuối tuần. world_vnd quy đổi ~128,6 triệu đồng/lượng, premium nới rộng lên khoảng 12,4 triệu đồng. Giới phân tích vẫn chia rẽ về triển vọng trung hạn.",
     "factors": [
       {
-        "name": "Vàng thế giới hạ nhiệt nhẹ về quanh 4.035-4.044 USD/oz cuối tuần sau chuỗi tăng liên tiếp",
-        "pct": 46,
+        "name": "Vàng SJC giảm mạnh 900.000 đồng/lượng, còn 137-141 triệu đồng/lượng sáng 2/8",
+        "pct": 58,
         "direction": "down",
-        "bar": "fm",
-        "desc": "Lợi suất trái phiếu Mỹ nhích lên và đồng USD phục hồi phần nào trong phiên cuối tuần đã tạo áp lực điều chỉnh nhẹ lên giá vàng sau đà tăng những phiên trước."
+        "bar": "fh",
+        "desc": "Giá vàng miếng và vàng nhẫn SJC đồng loạt giảm sâu trong phiên Chủ Nhật, nối tiếp đà điều chỉnh từ cuối tuần trước khi dòng tiền có dấu hiệu dịch chuyển sang tài sản rủi ro."
       },
       {
-        "name": "SJC trong nước giảm 1,3 triệu đồng/lượng, còn 137,9-141,9 triệu đồng/lượng sáng 1/8",
-        "pct": 45,
+        "name": "Vàng nhẫn SJC 'bốc hơi' gần 6 triệu đồng/lượng so với vùng đỉnh gần đây",
+        "pct": 52,
         "direction": "down",
         "bar": "fm",
-        "desc": "Giá vàng miếng SJC điều chỉnh giảm theo diễn biến giá thế giới; chênh lệch (premium) so với giá quy đổi quốc tế giữ quanh 13,4 triệu đồng/lượng."
+        "desc": "Đà giảm của vàng nhẫn diễn ra nhanh hơn vàng miếng trong vài phiên gần đây, cho thấy áp lực bán ở phân khúc bán lẻ đang gia tăng."
       },
       {
-        "name": "Nhà đầu tư chờ dữ liệu việc làm Mỹ (NFP) đầu tháng 8 để định hướng kỳ vọng chính sách của Fed",
-        "pct": 55,
-        "direction": "up",
+        "name": "Vàng thế giới tương đối ổn định quanh 4.043-4.054 USD/oz cuối tuần",
+        "pct": 50,
+        "direction": "hold",
         "bar": "fm",
-        "desc": "Báo cáo việc làm phi nông nghiệp công bố đầu tháng 8 được xem là chất xúc tác quan trọng tiếp theo cho lộ trình lãi suất của Fed, qua đó tác động trực tiếp đến sức hấp dẫn của vàng."
+        "desc": "Thị trường vàng quốc tế đi ngang trong phiên cuối tuần do thiếu thanh khoản giao dịch, nhà đầu tư chờ dữ liệu việc làm Mỹ (NFP) đầu tuần tới để định hướng rõ hơn."
       },
       {
         "name": "OCBC dự báo vàng có thể giảm về cuối năm 2026 do lợi suất tăng và USD mạnh lên",
@@ -113,26 +113,26 @@
         "desc": "Trái với quan điểm thận trọng của OCBC, J.P. Morgan Global Research duy trì kịch bản tăng giá dài hạn cho vàng nhờ nhu cầu mua bền vững từ ngân hàng trung ương và rủi ro địa chính trị kéo dài."
       }
     ],
-    "outlook_label": "Vàng ~4.035-4.044 USD/oz (1/8 Thứ Bảy) — hạ nhiệt nhẹ cuối tuần; SJC 137,9-141,9tr",
-    "outlook_class": "pbe",
-    "outlook_text": "1/8 (Thứ Bảy): Giá vàng miếng SJC được niêm yết ở mức 137,9-141,9 triệu đồng/lượng (mua-bán) trong sáng nay, giảm 1,3 triệu đồng/lượng ở cả hai chiều so với phiên trước. Trên thị trường thế giới, giá vàng giao ngay lùi về quanh vùng 4.035-4.044 USD/oz, hạ nhiệt nhẹ sau chuỗi tăng liên tiếp khi lợi suất trái phiếu Mỹ nhích lên và đồng USD phục hồi phần nào trong phiên giao dịch cuối tuần. Diễn biến này diễn ra song song với việc Phố Wall khép lại tháng 7 khá tích cực — S&P 500 và Nasdaq đều tăng điểm trong phiên 31/7, đánh dấu tháng tăng thứ 4 liên tiếp của Dow Jones — cho thấy dòng tiền có phần dịch chuyển nhẹ từ tài sản trú ẩn sang tài sản rủi ro. Giới phân tích hiện chia rẽ về triển vọng trung hạn: OCBC nhận định vàng có thể tiếp tục giảm về cuối năm 2026 do lợi suất và USD mạnh lên, trong khi J.P. Morgan Global Research vẫn giữ kịch bản tăng giá, dự báo vàng có thể chạm 6.000 USD/oz cuối năm và tiến gần 6.300 USD/oz vào năm 2027 nhờ nhu cầu mua bền vững từ các ngân hàng trung ương. Trong ngắn hạn, thị trường đang chờ đợi báo cáo việc làm phi nông nghiệp (NFP) đầu tháng 8 để có thêm định hướng rõ ràng về lộ trình lãi suất của Fed.",
+    "outlook_label": "Vàng ~4.043-4.054 USD/oz (2/8 Chủ Nhật) — SJC lao dốc còn 137-141tr, giảm 900k đồng",
+    "outlook_class": "pbr",
+    "outlook_text": "2/8 (Chủ Nhật): Giá vàng miếng SJC được niêm yết ở mức 137-141 triệu đồng/lượng (mua-bán) sáng nay, giảm mạnh 900.000 đồng/lượng ở cả hai chiều so với hôm qua. Vàng nhẫn SJC cũng giảm tương ứng, niêm yết 136,5-140,5 triệu đồng/lượng, 'bốc hơi' gần 6 triệu đồng so với vùng đỉnh gần đây. Trên thị trường thế giới, giá vàng giao ngay tương đối ổn định quanh vùng 4.043-4.054 USD/oz trong phiên cuối tuần thanh khoản thấp. Diễn biến giảm giá trong nước diễn ra trong bối cảnh Phố Wall hạ nhẹ phiên 31/7 do chốt lời nhóm công nghệ, cho thấy dòng tiền có phần thận trọng chờ đợi các dữ liệu kinh tế quan trọng đầu tháng 8. Giới phân tích hiện chia rẽ về triển vọng trung hạn: OCBC nhận định vàng có thể tiếp tục giảm về cuối năm 2026 do lợi suất và USD mạnh lên, trong khi J.P. Morgan Global Research vẫn giữ kịch bản tăng giá, dự báo vàng có thể chạm 6.000 USD/oz cuối năm và tiến gần 6.300 USD/oz vào năm 2027 nhờ nhu cầu mua bền vững từ các ngân hàng trung ương. Thị trường đang chờ đợi báo cáo việc làm phi nông nghiệp (NFP) Mỹ đầu tháng 8 để có thêm định hướng rõ ràng về lộ trình lãi suất của Fed.",
     "sources": [
       {
-        "name": "VOV — Giá vàng hôm nay 1/8: Vàng SJC giảm còn 137,9 – 141,9 triệu đồng/lượng",
-        "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-18-vang-sjc-giam-con-1379-1419-trieu-dongluong-post1320161.vov"
+        "name": "VietnamNet — Giá vàng hôm nay 2/8/2026: Giảm sâu, vàng nhẫn SJC 'bốc hơi' gần 6 triệu đồng",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-2-8-2026-giam-sau-vang-nhan-sjc-boc-hoi-gan-6-trieu-dong-2541174.html"
       },
       {
-        "name": "Báo Lâm Đồng — Trực tiếp giá vàng hôm nay 01/08/2026: SJC, nhẫn 9999, thế giới",
+        "name": "Báo Lâm Đồng — Trực tiếp giá vàng hôm nay 02/08/2026: SJC, nhẫn 9999, thế giới",
         "url": "https://baolamdong.vn/gia-vang"
       },
       {
-        "name": "BeInCrypto — Gold Price Prediction for August 2026: Bear Market or Cycle Low?",
-        "url": "https://beincrypto.com/gold-price-outlook-august-2026/"
+        "name": "Doanh nghiệp hội nhập — Giá vàng hôm nay 2/8/2026: Vàng SJC, vàng nhẫn tiếp tục lao dốc",
+        "url": "https://doanhnghiephoinhap.vn/gia-vang-hom-nay-282026-vang-sjc-vang-nhan-tiep-tuc-lao-doc-145018.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "🟡 1/8 (Thứ Bảy): Lãi suất tiết kiệm thông thường và chứng chỉ tiền gửi tiếp tục <b>ổn định</b> cuối tuần, chưa ghi nhận điều chỉnh mới so với phiên 31/7. VPBank/Cake by VPBank vẫn dẫn đầu qua kênh chứng chỉ tiền gửi và ưu đãi online; ACB tiếp tục dẫn đầu tiết kiệm thông thường với <b>7.8%/năm</b> (12 tháng); Big4 giữ nguyên <b>6.8%/năm</b>.",
+    "alert": "🟡 2/8 (Chủ Nhật): Lãi suất tiết kiệm thông thường và chứng chỉ tiền gửi tiếp tục <b>ổn định</b> cuối tuần, chưa ghi nhận điều chỉnh mới. VPBank vẫn dẫn đầu qua kênh chứng chỉ tiền gửi với <b>9%/năm</b>; ACB tiếp tục dẫn đầu tiết kiệm thông thường với <b>7.8%/năm</b> (12 tháng); Big4 giữ nguyên <b>6.8%/năm</b>.",
     "highlights": [
       {
         "label": "VPBank tiếp tục dẫn đầu lãi suất chứng chỉ tiền gửi thị trường với 9%/năm, không đổi so với hôm qua",
@@ -422,8 +422,8 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 1/8 (Thứ Bảy): Thị trường tiếp tục ổn định cuối tuần, chưa ghi nhận điều chỉnh mới",
-      "body": "Khảo sát sáng 1/8/2026 cho thấy biểu lãi suất huy động niêm yết công khai tiếp tục ổn định so với phiên 31/7, phù hợp với xu hướng thường thấy vào cuối tuần khi các ngân hàng ít công bố điều chỉnh mới. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi (CCTG) cao nhất thị trường 9%/năm cho kỳ hạn 184-389 ngày (khoản gửi từ 100 triệu đồng trở lên); riêng kênh Cake by VPBank tiếp tục chương trình ưu đãi cộng thêm 1,8%/năm cho khoản gửi online từ 5 triệu đồng, kỳ hạn từ 6 tháng, áp dụng đến hết 31/7. Ở biểu tiết kiệm thông thường, ACB tiếp tục dẫn đầu thị trường với 7,8%/năm (12 tháng), trong khi nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên trần lãi suất online 6,0%/năm và biểu niêm yết công khai 6,8%/năm cho kỳ hạn 12-18 tháng. Nhìn chung, thị trường lãi suất huy động không có biến động đáng chú ý trong phiên cuối tuần, phản ánh thanh khoản hệ thống ngân hàng vẫn ở trạng thái ổn định sau đợt giảm mạnh của lãi suất liên ngân hàng cuối tháng 7.",
+      "title": "Lãi suất 2/8 (Chủ Nhật): Thị trường tiếp tục ổn định cuối tuần, chưa ghi nhận điều chỉnh mới",
+      "body": "Khảo sát sáng 2/8/2026 cho thấy biểu lãi suất huy động niêm yết công khai tiếp tục ổn định so với phiên cuối tuần trước, phù hợp với xu hướng thường thấy vào Chủ Nhật khi các ngân hàng hiếm khi công bố điều chỉnh mới. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi (CCTG) cao nhất thị trường 9%/năm cho kỳ hạn 184-389 ngày (khoản gửi từ 100 triệu đồng trở lên). Ở biểu tiết kiệm thông thường, ACB tiếp tục dẫn đầu thị trường với 7,8%/năm (12 tháng), trong khi nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên biểu niêm yết công khai 6,8%/năm cho kỳ hạn 12-18 tháng. Thị trường lãi suất huy động nhìn chung không có biến động đáng chú ý cuối tuần, phản ánh thanh khoản hệ thống ngân hàng vẫn ổn định khi bước sang tháng 8.",
       "sources": [
         {
           "name": "VietnamBiz — Lãi suất ngân hàng hôm nay 31/7 VietinBank, Vietcombank, Agribank, BIDV trả lãi bao nhiêu?",
@@ -506,9 +506,9 @@
         "desc": "Nếu dữ liệu việc làm Mỹ làm thay đổi kỳ vọng về lộ trình lãi suất Fed, áp lực tỷ giá USD/VND có thể ảnh hưởng gián tiếp đến định hướng lãi suất huy động trong nước."
       }
     ],
-    "rate_outlook_label": "1/8 Thứ Bảy — VPBank giữ CCTG 9%/năm, ACB dẫn đầu tiết kiệm 7.8%/12T, Big4 giữ 6.8%/12T; thị trường ổn định cuối tuần",
+    "rate_outlook_label": "2/8 Chủ Nhật — VPBank giữ CCTG 9%/năm, ACB dẫn đầu tiết kiệm 7.8%/12T, Big4 giữ 6.8%/12T; thị trường ổn định cuối tuần",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "1/8 (Thứ Bảy): Thị trường lãi suất huy động niêm yết công khai trong nước tiếp tục ổn định, chưa ghi nhận điều chỉnh mới so với phiên 31/7 — phù hợp với xu hướng thường thấy vào cuối tuần. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi (CCTG) cao nhất thị trường 9%/năm cho kỳ hạn 184-389 ngày (6 tháng đến dưới 13 tháng), áp dụng cho khoản gửi từ 100 triệu đồng trở lên; kênh Cake by VPBank tiếp tục chương trình ưu đãi cộng thêm 1,8%/năm cho khoản gửi online từ 5 triệu đồng, kỳ hạn từ 6 tháng. Ở biểu tiết kiệm thông thường, ACB tiếp tục dẫn đầu toàn thị trường với 7,8%/năm (12 tháng), nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên 6,8%/năm cho kỳ hạn 12-18 tháng. Diễn biến ổn định này diễn ra trong bối cảnh Phố Wall khép lại tháng 7 khá tích cực, giúp duy trì tâm lý ổn định chung cho thị trường vốn trong nước. Thị trường hiện đang chờ đợi báo cáo việc làm Mỹ (NFP) đầu tháng 8 để có thêm định hướng về lộ trình lãi suất của Fed, qua đó có thể tác động gián tiếp đến áp lực tỷ giá và lãi suất huy động trong nước trong những tuần tới.",
+    "rate_outlook_text": "2/8 (Chủ Nhật): Thị trường lãi suất huy động niêm yết công khai trong nước tiếp tục ổn định, chưa ghi nhận điều chỉnh mới so với cuối tuần trước — phù hợp với xu hướng thường thấy vào Chủ Nhật. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi (CCTG) cao nhất thị trường 9%/năm cho kỳ hạn 184-389 ngày (6 tháng đến dưới 13 tháng), áp dụng cho khoản gửi từ 100 triệu đồng trở lên. Ở biểu tiết kiệm thông thường, ACB tiếp tục dẫn đầu toàn thị trường với 7,8%/năm (12 tháng), nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên 6,8%/năm cho kỳ hạn 12-18 tháng. Diễn biến ổn định này diễn ra trong bối cảnh Phố Wall hạ nhẹ phiên 31/7 và vàng SJC lao dốc sáng 2/8, cho thấy dòng tiền trong nước vẫn ưu tiên kênh gửi tiết kiệm an toàn. Thị trường hiện đang chờ đợi báo cáo việc làm Mỹ (NFP) đầu tháng 8 để có thêm định hướng về lộ trình lãi suất của Fed, qua đó có thể tác động gián tiếp đến áp lực tỷ giá và lãi suất huy động trong nước trong những tuần tới.",
     "rate_sources": [
       {
         "name": "VietnamBiz — Lãi suất ngân hàng hôm nay 31/7 VietinBank, Vietcombank, Agribank, BIDV trả lãi bao nhiêu?",
@@ -737,7 +737,8 @@
       "29/07",
       "30/07",
       "31/07",
-      "01/08"
+      "01/08",
+      "02/08"
     ],
     "sjc": [
       152.8,
@@ -951,7 +952,8 @@
       141.5,
       141.5,
       141.7,
-      141.9
+      141.9,
+      141.0
     ],
     "world_vnd": [
       121,
@@ -1165,7 +1167,8 @@
       128.2,
       129.9,
       130.6,
-      128.52
+      128.52,
+      128.6
     ]
   }
 }
