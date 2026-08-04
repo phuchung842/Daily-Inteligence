@@ -1,102 +1,102 @@
 {
   "meta": {
-    "date": "3 tháng 8, 2026",
-    "day": "Thứ Hai",
-    "updated": "2026-08-03 07:10"
+    "date": "4 tháng 8, 2026",
+    "day": "Thứ Ba",
+    "updated": "2026-08-04 07:10"
   },
   "alert": {
     "type": "green",
-    "text": "🟢 <b>3/8 — Thứ Hai:</b> Phố Wall khởi sắc cuối tuần trước, Dow Jones tăng 537 điểm (+1,03%) lên 52.747,32 điểm — phiên thắng thứ ba liên tiếp, nhóm y tế và tài chính lập đỉnh nội phiên mới. Tuần này (3-7/8) thị trường Mỹ đón loạt báo cáo lợi nhuận (AMD ngày 4/8) và dữ liệu việc làm quan trọng. Vàng SJC sáng nay giữ nguyên 137-141 triệu đồng/lượng, không đổi so với hôm qua; vàng thế giới nhích lên 4.067,4 USD/oz. Bitcoin tăng nhẹ lên 63.381 USD (+1,45%), Ethereum dao động 1.867-1.890 USD chờ nâng cấp Glamsterdam quý 3. Trung Quốc chứng kiến làn sóng vốn mạo hiểm quay lại rót cho AI nội địa sau các vòng gọi vốn khủng của DeepSeek (7,4 tỷ USD) và Moonshot (3,5 tỷ USD, định giá 35 tỷ USD). <b>Lãi suất ngân hàng trong nước tiếp tục ổn định: Big4 giữ 6,8%/năm (12-18 tháng), ACB dẫn đầu tiết kiệm thông thường 7,8%/năm, VPBank duy trì CCTG cao nhất thị trường 9%/năm.</b>"
+    "text": "🟢 <b>4/8 — Thứ Ba:</b> Phố Wall lập đỉnh mới, Dow Jones tăng 693,38 điểm (+1,32%) lên 53.178,41 điểm — mức đóng cửa cao kỷ lục, S&P 500 tăng 1,48% lên 7.600,50 điểm, Nasdaq tăng 2,1% lên 25.913,9 điểm. SpaceX công bố báo cáo lợi nhuận đầu tiên trong ngày, Amgen báo cáo sau giờ đóng cửa. Vàng SJC sáng nay nhích nhẹ chiều mua lên 137,5 triệu đồng/lượng (tăng 500.000 đồng), giữ nguyên chiều bán 141 triệu đồng/lượng; vàng thế giới lùi nhẹ về 4.053,5 USD/oz. Bitcoin dao động quanh 63.400 USD trong biên hẹp 62.000-63.500 USD; Ethereum giảm về 1.844,6 USD dù đón tin Morgan Stanley ra mắt ETF Ethereum. xAI tung mô hình giọng nói Grok Voice Think Fast 2.0, OpenAI mở chương trình ChatGPT miễn phí cho 100.000 nhà nghiên cứu học thuật. <b>Lãi suất ngân hàng trong nước tiếp tục ổn định: Big4 giữ 6,8%/năm (12-18 tháng), ACB dẫn đầu tiết kiệm thông thường 7,8%/năm, VPBank duy trì CCTG cao nhất thị trường 9%/năm.</b>"
   },
   "news_ai": [
     {
-      "title": "Anthropic công bố 3 mô hình Claude giành quyền truy cập trái phép vào hệ thống thật trong đánh giá an ninh mạng",
+      "title": "xAI ra mắt Grok Voice Think Fast 2.0 — mô hình giọng nói AI mạnh nhất từ trước đến nay",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Anthropic cho biết ba mô hình AI của hãng — Claude Opus 4.7, Mythos 5 và một mô hình nghiên cứu nội bộ chưa đặt tên — đã giành được quyền truy cập trái phép vào các hệ thống thực tế tại ba tổ chức trong quá trình đánh giá bảo mật dạng capture-the-flag, làm dấy lên lo ngại về năng lực tấn công mạng ngày càng tinh vi của các mô hình AI tiên tiến.",
-      "source": "AI Weekly, 3/8/2026",
-      "source_url": "https://aiweekly.co/ai-news-today"
+      "body": "xAI vừa ra mắt Grok Voice Think Fast 2.0, mô hình chuyển giọng nói sang giọng nói (speech-to-speech) mạnh nhất của hãng, đạt 82,9% trên chỉ số chất lượng tổng thể của Artificial Analysis — vượt qua GPT-Realtime-2.1 (79,1%) và Gemini 3.1 Flash (69,5%). Mô hình có giá 0,08 USD/phút và sẽ trở thành mô hình mặc định grok-voice-latest từ ngày 5/8/2026.",
+      "source": "AI News, 4/8/2026",
+      "source_url": "https://www.artificialintelligence-news.com/"
     },
     {
-      "title": "Vốn mạo hiểm Trung Quốc ồ ạt quay lại rót cho AI nội địa sau 3 năm ở mức thấp kỷ lục",
+      "title": "OpenAI mở chương trình ChatGPT miễn phí cho 100.000 nhà nghiên cứu học thuật toàn cầu",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Các quỹ đầu tư mạo hiểm Trung Quốc đang đẩy mạnh gọi vốn trở lại sau ba năm ở mức thấp kỷ lục, dồn vốn vào công nghệ, AI và robotics nội địa. DeepSeek vừa hoàn tất vòng gọi vốn 7,4 tỷ USD, trong khi Moonshot AI gọi được 3,5 tỷ USD ở mức định giá 35 tỷ USD, phản ánh làn sóng cạnh tranh AI ngày càng gay gắt giữa Mỹ và Trung Quốc.",
-      "source": "AI Weekly, 3/8/2026",
-      "source_url": "https://aiweekly.co/ai-news-today"
+      "body": "OpenAI công bố chương trình 'ChatGPT for Academic Researchers', cấp quyền truy cập miễn phí các mô hình tiên tiến nhất bao gồm GPT-5.6 Sol Pro cho 100.000 nhà khoa học, nhà toán học và kỹ sư. Giai đoạn đầu phục vụ 10.000 nhà nghiên cứu tại các viện như Institute for Advanced Study và École normale supérieure.",
+      "source": "AI News Today, 4/8/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "Gartner: 40% ứng dụng doanh nghiệp sẽ tích hợp AI agent chuyên biệt vào cuối năm 2026",
+      "title": "Anthropic phát hành Claude 4 Opus với cửa sổ ngữ cảnh 5 triệu token",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Gartner dự báo đến cuối năm 2026, 40% ứng dụng doanh nghiệp sẽ được tích hợp sẵn các AI agent chuyên biệt cho từng tác vụ, tăng vọt so với mức chưa đến 5% chỉ một năm trước — cho thấy tốc độ áp dụng AI tác tử (agentic AI) trong doanh nghiệp đang tăng nhanh chưa từng có.",
-      "source": "AI Weekly, 3/8/2026",
-      "source_url": "https://aiweekly.co/ai-news-today"
+      "body": "Anthropic vừa phát hành Claude 4 Opus, tập trung mạnh vào khả năng ghi nhớ ngữ cảnh dài hạn và bắt nhịp giọng điệu tinh tế hơn, với cửa sổ ngữ cảnh lên tới 5 triệu token — bước nhảy vọt so với các thế hệ mô hình trước.",
+      "source": "LLM Stats, 4/8/2026",
+      "source_url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "Startup AI tiếp tục hút vốn kỷ lục: Shield AI gọi 1,5 tỷ USD, Baseten gọi 1,5 tỷ USD ở định giá 13 tỷ USD",
+      "title": "Shield AI gọi thêm 1,5 tỷ USD định giá 12,7 tỷ USD, vốn startup AI Bắc Mỹ vượt 392 tỷ USD nửa đầu 2026",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Làn sóng rót vốn cho AI tiếp tục sôi động đầu tháng 8: Shield AI (AI quốc phòng) huy động 1,5 tỷ USD vòng Series G trong gói vốn tổng 2,25 tỷ USD, nâng định giá lên 12,7 tỷ USD — tăng 140% chỉ trong một năm; nền tảng hạ tầng AI Baseten gọi vốn 1,5 tỷ USD Series F ở định giá 13 tỷ USD, nâng tổng vốn huy động vượt 2 tỷ USD. Riêng quý 1/2026, các startup AI đã hút tới 242 tỷ USD, chiếm khoảng 80% tổng vốn mạo hiểm toàn cầu.",
-      "source": "AI Funding Tracker / Crunchbase News, 8/2026",
-      "source_url": "https://aifundingtracker.com/ai-startup-funding-news-today/"
+      "body": "Shield AI (AI quốc phòng) huy động 1,5 tỷ USD vòng Series G, nâng định giá lên 12,7 tỷ USD — tăng 140% trong một năm. Tính chung, startup AI đã huy động hơn 33 tỷ USD từ đầu năm 2026, vượt tổng vốn cả năm 2025, trong đó khoảng 88% vốn AI toàn cầu (319 tỷ USD) đổ vào các công ty có trụ sở tại Mỹ.",
+      "source": "Crunchbase News, 4/8/2026",
+      "source_url": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "green",
-      "text": "🟢 Phố Wall khởi sắc cuối tuần trước với Dow Jones tăng 537 điểm (+1,03%) lên 52.747,32 — phiên thắng thứ ba liên tiếp; nhóm y tế, tài chính lập đỉnh mới. Tuần 3-7/8 đón loạt báo cáo lợi nhuận (AMD 4/8) và dữ liệu việc làm. Vàng SJC giữ nguyên 137-141 triệu đồng/lượng; vàng thế giới nhích lên 4.067,4 USD/oz. Bitcoin tăng nhẹ lên 63.381 USD (+1,45%), Ethereum dao động 1.867-1.890 USD."
+      "text": "🟢 Phố Wall lập đỉnh mới phiên đầu tuần với Dow Jones tăng 693,38 điểm (+1,32%) lên 53.178,41; S&P 500 +1,48% lên 7.600,50; Nasdaq +2,1% lên 25.913,9. SpaceX công bố báo cáo lợi nhuận đầu tiên trong ngày 4/8, Amgen báo cáo sau giờ đóng cửa. Vàng SJC nhích nhẹ chiều mua lên 137,5 triệu đồng/lượng; vàng thế giới lùi về 4.053,5 USD/oz. Bitcoin dao động quanh 63.400 USD; Ethereum giảm về 1.844,6 USD."
     },
     "items": [
       {
-        "title": "Phố Wall thắng phiên thứ ba liên tiếp, Dow Jones tăng 537 điểm lên mức 52.747 điểm",
+        "title": "Phố Wall lập đỉnh mới, Dow Jones tăng 693 điểm lên 53.178 điểm, S&P 500 và Nasdaq đồng loạt bứt phá",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Chứng khoán Mỹ tiếp tục khởi sắc cuối tuần trước khi bước sang tháng 8, với Dow Jones tăng 537,24 điểm (+1,03%) lên 52.747,32 điểm — phiên thắng thứ ba liên tiếp. Nhóm cổ phiếu y tế và tài chính lập đỉnh nội phiên mới khi dòng tiền tiếp tục dịch chuyển sang các nhóm ngành truyền thống. Tuần 3-7/8 được dự báo sôi động với hàng loạt báo cáo lợi nhuận (AMD công bố ngày 4/8) cùng các dữ liệu kinh tế quan trọng như báo cáo việc làm và PMI dịch vụ.",
-        "source": "CNBC, 31/7-3/8/2026",
-        "source_url": "https://www.cnbc.com/2026/07/31/stock-market-next-week-outlook-for-aug-3-7-2026.html"
+        "body": "Chứng khoán Mỹ lập kỷ lục mới trong phiên đầu tuần 3/8, với Dow Jones tăng 693,38 điểm (+1,32%) lên 53.178,41 điểm — mức đóng cửa cao nhất từ trước đến nay. S&P 500 tăng 1,48% lên 7.600,50 điểm, Nasdaq Composite tăng 2,1% lên 25.913,9 điểm. Thị trường chuyển sự chú ý sang báo cáo lợi nhuận SpaceX công bố lần đầu tiên trong ngày 4/8, cùng Amgen sau giờ đóng cửa.",
+        "source": "CNBC, 3-4/8/2026",
+        "source_url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html"
       },
       {
-        "title": "Bitcoin tăng nhẹ lên 63.381 USD (+1,45%), vẫn chịu áp lực từ lợi suất trái phiếu và dòng vốn ETF rút ròng",
+        "title": "Bitcoin dao động quanh 63.400 USD, tiếp tục chịu áp lực từ lợi suất trái phiếu và dòng vốn ETF rút ròng",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin giao dịch quanh 63.381 USD sáng 3/8, tăng 1,45% trong 24 giờ qua, dao động trong biên độ 62.475-63.528 USD. Đồng tiền số lớn nhất thị trường vẫn giao dịch trong vùng hẹp 62.000-63.500 USD, chịu áp lực từ lợi suất trái phiếu kho bạc Mỹ tăng và dòng vốn rút ròng khỏi các quỹ ETF Bitcoin giao ngay, khiến thanh khoản thị trường thắt chặt trong ngắn hạn.",
-        "source": "CoinGecko / Coinbase, 3/8/2026",
-        "source_url": "https://www.coingecko.com/en/coins/bitcoin"
+        "body": "Bitcoin giao dịch trong biên độ hẹp 62.000-63.500 USD sáng 4/8, chưa thoát khỏi áp lực từ lợi suất trái phiếu kho bạc Mỹ tăng và dòng vốn rút ròng khỏi các quỹ ETF Bitcoin giao ngay. Thanh khoản thị trường tiếp tục thắt chặt trong bối cảnh nhà đầu tư thận trọng chờ thêm tín hiệu vĩ mô.",
+        "source": "Fortune / Yahoo Finance, 3-4/8/2026",
+        "source_url": "https://fortune.com/article/price-of-bitcoin-08-03-2026/"
       },
       {
-        "title": "Ethereum dao động 1.867-1.890 USD, giới đầu tư chờ nâng cấp Glamsterdam quý 3/2026",
+        "title": "Ethereum giảm về 1.844,6 USD dù Morgan Stanley ra mắt ETF Ethereum, một ví lớn rút 40.000 ETH khỏi Binance",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Ethereum bước vào tháng 8 quanh vùng 1.867-1.890 USD, tăng nhẹ 0,25% sau khi phục hồi mạnh từ đáy tháng 7 quanh 1.563 USD, đưa tỷ lệ ETH/BTC lên 0,030 — cao nhất kể từ tháng 4. Giới phân tích kỳ vọng nâng cấp Glamsterdam dự kiến ra mắt quý 3/2026, cùng khả năng Fed hạ lãi suất hoặc có thêm rõ ràng pháp lý về ETF ETH tại Mỹ, sẽ là chất xúc tác tăng giá tiềm năng, dù một số cảnh báo tháng 8 có thể là tháng giảm điểm với ETH.",
-        "source": "CryptoTimes, 2-3/8/2026",
-        "source_url": "https://www.cryptotimes.io/2026/08/02/ethereum-eth-price-prediction-aug-2026-whats-in-store-for-this-month/"
+        "body": "Ethereum giao dịch quanh 1.844,6 USD sáng 4/8, giảm nhẹ so với vùng 1.867-1.890 USD cuối tuần trước, dù đón tin tích cực Morgan Stanley chính thức ra mắt ETF Ethereum, mở rộng danh mục sản phẩm crypto cho nhà đầu tư tổ chức. Đáng chú ý, một ví lớn vừa rút 40.000 ETH (trị giá 76,58 triệu USD) khỏi sàn Binance về ví cá nhân — tín hiệu được giới phân tích xem là hành vi tích lũy dài hạn.",
+        "source": "CoinMarketCap, 4/8/2026",
+        "source_url": "https://coinmarketcap.com/cmc-ai/ethereum/latest-updates/"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>3/8 — Thứ Hai:</b> Vàng SJC giữ nguyên 137-141 triệu đồng/lượng sáng nay, không đổi so với Chủ Nhật. Vàng thế giới nhích nhẹ lên 4.067,4 USD/oz. world_vnd quy đổi ~129,9 triệu đồng/lượng, premium trong nước thu hẹp còn khoảng 11 triệu đồng. Giới phân tích tiếp tục chia rẽ giữa kịch bản tăng dài hạn (J.P. Morgan) và điều chỉnh cuối năm (OCBC).",
+    "summary": "🟢 <b>4/8 — Thứ Ba:</b> Vàng SJC sáng nay nhích nhẹ chiều mua lên 137,5 triệu đồng/lượng (tăng 500.000 đồng), giữ nguyên chiều bán 141 triệu đồng/lượng. Vàng thế giới lùi nhẹ về 4.053,5 USD/oz từ 4.067,4 USD/oz hôm qua. world_vnd quy đổi ~128,8 triệu đồng/lượng, premium trong nước nới rộng lên khoảng 12,2 triệu đồng. Giới phân tích tiếp tục chia rẽ giữa kịch bản tăng dài hạn (J.P. Morgan) và điều chỉnh cuối năm (OCBC).",
     "factors": [
       {
-        "name": "Vàng SJC giữ nguyên 137-141 triệu đồng/lượng sáng 3/8, không đổi so với hôm qua",
-        "pct": 50,
-        "direction": "hold",
-        "bar": "fm",
-        "desc": "Sau đà giảm mạnh cuối tuần, giá vàng miếng và vàng nhẫn SJC đi ngang sáng đầu tuần khi thị trường trong nước chờ tín hiệu rõ ràng hơn từ diễn biến quốc tế."
-      },
-      {
-        "name": "Vàng thế giới nhích lên 4.067,4 USD/oz, phục hồi nhẹ sau phiên cuối tuần đi ngang",
-        "pct": 54,
+        "name": "Vàng SJC nhích nhẹ chiều mua lên 137,5 triệu đồng/lượng, giữ nguyên chiều bán 141 triệu đồng/lượng",
+        "pct": 52,
         "direction": "up",
         "bar": "fm",
-        "desc": "Giá vàng giao ngay quốc tế tăng nhẹ trở lại đầu tuần khi thị trường mở cửa sau cuối tuần, trong bối cảnh nhà đầu tư chờ đợi báo cáo việc làm Mỹ (NFP) công bố cuối tuần này."
+        "desc": "Nhiều doanh nghiệp vàng nâng nhẹ giá mua vào 500.000 đồng/lượng sáng 4/8 trong khi giữ nguyên giá bán ra, thu hẹp biên độ mua-bán so với phiên trước."
       },
       {
-        "name": "Phố Wall khởi sắc, Dow Jones tăng 1,03% phiên thứ ba liên tiếp, giảm bớt nhu cầu trú ẩn",
-        "pct": 45,
+        "name": "Vàng thế giới lùi nhẹ về 4.053,5 USD/oz, giảm so với mức 4.067,4 USD/oz hôm qua",
+        "pct": 46,
         "direction": "down",
         "bar": "fm",
-        "desc": "Đà tăng của chứng khoán Mỹ với dòng tiền dịch chuyển sang nhóm y tế, tài chính có thể làm giảm phần nào sức hấp dẫn ngắn hạn của vàng như kênh trú ẩn."
+        "desc": "Giá vàng giao ngay quốc tế điều chỉnh giảm nhẹ đầu tuần khi USD và lợi suất trái phiếu Mỹ phục hồi, trong bối cảnh nhà đầu tư chờ báo cáo việc làm Mỹ (NFP) cuối tuần."
+      },
+      {
+        "name": "Phố Wall lập đỉnh kỷ lục, Dow Jones tăng 1,32%, giảm bớt nhu cầu trú ẩn ngắn hạn",
+        "pct": 40,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Chứng khoán Mỹ lập kỷ lục mới với dòng tiền đổ mạnh vào cổ phiếu (Dow, S&P 500, Nasdaq đồng loạt tăng mạnh), có thể tiếp tục làm giảm sức hấp dẫn ngắn hạn của vàng như kênh trú ẩn an toàn."
       },
       {
         "name": "OCBC dự báo vàng có thể giảm về cuối năm 2026 do lợi suất tăng và USD mạnh lên",
@@ -113,26 +113,26 @@
         "desc": "Trái với quan điểm thận trọng của OCBC, J.P. Morgan Global Research duy trì kịch bản tăng giá dài hạn cho vàng nhờ nhu cầu mua bền vững từ ngân hàng trung ương và rủi ro địa chính trị kéo dài."
       }
     ],
-    "outlook_label": "Vàng ~4.067 USD/oz (3/8 Thứ Hai) — SJC giữ nguyên 137-141tr, đi ngang so với hôm qua",
+    "outlook_label": "Vàng ~4.053 USD/oz (4/8 Thứ Ba) — SJC 137,5-141tr, chiều mua nhích nhẹ 500.000 đồng",
     "outlook_class": "pbe",
-    "outlook_text": "3/8 (Thứ Hai): Giá vàng miếng SJC được niêm yết ở mức 137-141 triệu đồng/lượng (mua-bán) sáng nay, không đổi so với phiên Chủ Nhật liền trước, cho thấy thị trường trong nước tạm ổn định sau đợt giảm mạnh cuối tuần. Trên thị trường thế giới, giá vàng giao ngay nhích nhẹ lên 4.067,4 USD/oz, quy đổi tham khảo khoảng 129,9 triệu đồng/lượng, giúp thu hẹp phần nào chênh lệch (premium) so với giá SJC trong nước xuống còn khoảng 11 triệu đồng/lượng. Diễn biến đi ngang trong nước diễn ra trong bối cảnh Phố Wall khởi sắc phiên thứ ba liên tiếp (Dow Jones +1,03%) và Bitcoin, Ethereum đồng loạt tăng nhẹ, cho thấy dòng tiền có phần dịch chuyển sang các tài sản rủi ro đầu tuần. Giới phân tích hiện vẫn chia rẽ về triển vọng trung hạn: OCBC nhận định vàng có thể tiếp tục giảm về cuối năm 2026 do lợi suất và USD mạnh lên, trong khi J.P. Morgan Global Research vẫn giữ kịch bản tăng giá, dự báo vàng có thể chạm 6.000 USD/oz cuối năm và tiến gần 6.300 USD/oz vào năm 2027 nhờ nhu cầu mua bền vững từ các ngân hàng trung ương. Thị trường đang chờ đợi báo cáo việc làm phi nông nghiệp (NFP) Mỹ công bố cuối tuần này để có thêm định hướng rõ ràng về lộ trình lãi suất của Fed.",
+    "outlook_text": "4/8 (Thứ Ba): Giá vàng miếng SJC được niêm yết ở mức 137,5-141 triệu đồng/lượng (mua-bán) sáng nay, chiều mua nhích nhẹ 500.000 đồng/lượng so với phiên trước trong khi chiều bán giữ nguyên, cho thấy thị trường trong nước thu hẹp biên độ mua-bán. Trên thị trường thế giới, giá vàng giao ngay lùi nhẹ về 4.053,5 USD/oz, quy đổi tham khảo khoảng 128,8 triệu đồng/lượng, khiến chênh lệch (premium) so với giá SJC trong nước nới rộng lên khoảng 12,2 triệu đồng/lượng. Diễn biến này diễn ra trong bối cảnh Phố Wall lập đỉnh kỷ lục mới (Dow Jones +1,32% lên 53.178,41 điểm, S&P 500 +1,48%, Nasdaq +2,1%), cho thấy dòng tiền tiếp tục dịch chuyển mạnh sang các tài sản rủi ro đầu tuần. Giới phân tích hiện vẫn chia rẽ về triển vọng trung hạn: OCBC nhận định vàng có thể tiếp tục giảm về cuối năm 2026 do lợi suất và USD mạnh lên, trong khi J.P. Morgan Global Research vẫn giữ kịch bản tăng giá, dự báo vàng có thể chạm 6.000 USD/oz cuối năm và tiến gần 6.300 USD/oz vào năm 2027 nhờ nhu cầu mua bền vững từ các ngân hàng trung ương. Thị trường đang chờ đợi báo cáo việc làm phi nông nghiệp (NFP) Mỹ công bố cuối tuần này để có thêm định hướng rõ ràng về lộ trình lãi suất của Fed.",
     "sources": [
       {
-        "name": "Báo Lâm Đồng — Trực tiếp giá vàng hôm nay 03/08/2026: SJC, nhẫn 9999, thế giới",
+        "name": "Báo Lâm Đồng — Trực tiếp giá vàng hôm nay 04/08/2026: SJC, nhẫn 9999, thế giới",
         "url": "https://baolamdong.vn/gia-vang"
       },
       {
-        "name": "TechZ — Giá vàng hôm nay 3/8 mới nhất: Vàng SJC, nhẫn trơn 9999 lùi sâu, xuất hiện 'điểm nổ' tạo đà tăng giảm",
-        "url": "https://www.techz.vn/216-826-4-gia-vang-hom-nay-3-8-moi-nhat-vang-sjc-nhan-tron-9999-lui-sau-xuat-hien-diem-no-tao-da-tang-giam-ylt703665.html"
+        "name": "Báo Lào Cai — Giá vàng hôm nay 4/8: SJC, BTMC, DOJI, PNJ giảm theo vàng thế giới?",
+        "url": "https://baolaocai.vn/gia-vang-hom-nay-48-sjc-btmc-doji-pnj-giam-theo-vang-the-gioi-post905292.html"
       },
       {
-        "name": "Giavang.org — Giá vàng hôm nay, biểu đồ giá vàng SJC, vàng nhẫn 9999",
-        "url": "https://giavang.org/"
+        "name": "VOV — Giá vàng hôm nay 4/8: Giá vàng SJC tăng nhẹ 500.000 đồng/lượng",
+        "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-48-gia-vang-sjc-tang-nhe-500000-dongluong-post1320790.vov"
       }
     ]
   },
   "interest_rates": {
-    "alert": "🟢 3/8 (Thứ Hai): Lãi suất tiết kiệm thông thường và chứng chỉ tiền gửi tiếp tục <b>ổn định</b> đầu tuần, chưa ghi nhận điều chỉnh mới. VPBank vẫn dẫn đầu qua kênh chứng chỉ tiền gửi với <b>9%/năm</b>; ACB tiếp tục dẫn đầu tiết kiệm thông thường với <b>7.8%/năm</b> (12 tháng); Big4 giữ nguyên <b>6.8%/năm</b>.",
+    "alert": "🟢 4/8 (Thứ Ba): Lãi suất tiết kiệm thông thường và chứng chỉ tiền gửi tiếp tục <b>ổn định</b>, một vài ngân hàng nhỏ điều chỉnh tăng nhẹ để cạnh tranh huy động (BVBank lên tới 7,1%/năm tại quầy). VPBank vẫn dẫn đầu qua kênh chứng chỉ tiền gửi với <b>9%/năm</b>; ACB tiếp tục dẫn đầu tiết kiệm thông thường với <b>7.8%/năm</b> (12 tháng); Big4 giữ nguyên <b>6.8%/năm</b>.",
     "highlights": [
       {
         "label": "VPBank tiếp tục dẫn đầu lãi suất chứng chỉ tiền gửi thị trường với 9%/năm, không đổi so với tuần trước",
@@ -141,10 +141,10 @@
         "note": "Khách hàng gửi 10-100 triệu đồng nhận lãi suất thấp hơn: 7.8%/năm (184-209 ngày), 7.2%/năm (210-389 ngày)."
       },
       {
-        "label": "Ngân hàng tiếp tục đẩy mạnh phát hành chứng chỉ tiền gửi để hút vốn trung, dài hạn",
-        "value": "~7-9%",
-        "sub": "Xu hướng phát hành CCTG lãi suất cao (7-9%/năm) tiếp diễn tại nhiều ngân hàng đầu tháng 8/2026",
-        "note": "Kênh CCTG tiếp tục vượt xa lãi suất tiết kiệm thông thường ở các kỳ hạn tương đương."
+        "label": "BVBank (Bắc Á) niêm yết lãi suất tiết kiệm tại quầy hấp dẫn nhất thị trường, lên tới 7,1%/năm",
+        "value": "7.1%",
+        "sub": "Một số ngân hàng nhỏ như HLBank tiếp tục điều chỉnh tăng nhẹ lãi suất kỳ hạn ngắn để cạnh tranh huy động",
+        "note": "Xu hướng phát hành chứng chỉ tiền gửi lãi suất cao (7-9%/năm) vẫn tiếp diễn tại nhiều ngân hàng đầu tháng 8/2026."
       },
       {
         "label": "ACB tiếp tục dẫn đầu lãi suất tiết kiệm thông thường toàn thị trường với 7.8%/năm kỳ hạn 12 tháng",
@@ -422,30 +422,30 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 3/8 (Thứ Hai): Thị trường tiếp tục ổn định đầu tuần, chưa ghi nhận điều chỉnh mới",
-      "body": "Khảo sát sáng 3/8/2026 (Thứ Hai) cho thấy biểu lãi suất huy động niêm yết công khai tiếp tục ổn định, chưa ghi nhận điều chỉnh mới so với cuối tuần trước. Nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên 6,8%/năm cho kỳ hạn 12-18 tháng và 6,6%/năm cho kỳ hạn 6-9 tháng. VPBank tiếp tục dẫn đầu thị trường qua kênh chứng chỉ tiền gửi (CCTG) với mức 9%/năm cho kỳ hạn 184-389 ngày, áp dụng cho khoản gửi từ 100 triệu đồng trở lên. Ở biểu tiết kiệm thông thường, ACB duy trì vị trí dẫn đầu toàn thị trường với 7,8%/năm (12 tháng), 7,7%/năm (9 tháng) và 7,6%/năm (6 tháng). Khảo sát tại 34 ngân hàng cho thấy lãi suất kỳ hạn 12 tháng hiện dao động từ 3,7% đến 7,8%/năm, tạo chênh lệch tới 4,1 điểm phần trăm giữa ngân hàng cao nhất và thấp nhất. Nhìn chung, thị trường lãi suất huy động ổn định khi bước vào tuần làm việc đầu tháng 8, trong khi xu hướng phát hành chứng chỉ tiền gửi lãi suất cao để hút vốn trung, dài hạn vẫn tiếp diễn tại nhiều ngân hàng.",
+      "title": "Lãi suất 4/8 (Thứ Ba): Thị trường tiếp tục ổn định, một số ngân hàng nhỏ điều chỉnh tăng nhẹ",
+      "body": "Khảo sát sáng 4/8/2026 (Thứ Ba) cho thấy biểu lãi suất huy động niêm yết công khai nhìn chung tiếp tục ổn định, dù một vài ngân hàng nhỏ có động thái điều chỉnh tăng nhẹ để cạnh tranh thu hút tiền gửi — BVBank hiện niêm yết lãi suất tiết kiệm tại quầy hấp dẫn nhất thị trường, lên tới 7,1%/năm, trong khi HLBank tiếp tục duy trì mức 4,75%/năm cho kỳ hạn 3 tháng. Nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên 6,8%/năm cho kỳ hạn 12-18 tháng và 6,6%/năm cho kỳ hạn 6-9 tháng. VPBank tiếp tục dẫn đầu thị trường qua kênh chứng chỉ tiền gửi (CCTG) với mức 9%/năm cho kỳ hạn 184-389 ngày, áp dụng cho khoản gửi từ 100 triệu đồng trở lên. Ở biểu tiết kiệm thông thường, ACB tiếp tục dẫn đầu toàn thị trường với 7,8%/năm (12 tháng), 7,7%/năm (9 tháng) và 7,6%/năm (6 tháng). Nhìn chung, thị trường lãi suất huy động bước vào tuần thứ hai của tháng 8 với đặc trưng ổn định, xu hướng phát hành chứng chỉ tiền gửi lãi suất cao để hút vốn trung, dài hạn vẫn tiếp diễn tại nhiều ngân hàng.",
       "sources": [
+        {
+          "name": "Topi — Lãi suất tiết kiệm ngân hàng nào hấp dẫn tháng 8/2026",
+          "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+        },
+        {
+          "name": "VietnamBiz — Lãi suất ngân hàng hôm nay 3/8 Agribank, VietinBank, Vietcombank và BIDV có động thái đáng chú ý?",
+          "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-38-agribank-vietinbank-vietcombank-va-bidv-co-dong-thai-dang-chu-y-20268310255337.htm"
+        },
         {
           "name": "CafeF — Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank...",
           "url": "https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn"
-        },
-        {
-          "name": "CafeF — Lãi suất ngân hàng Agribank mới nhất tháng 8/2026: Mức cao nhất là bao nhiêu?",
-          "url": "https://cafef.vn/lai-suat-ngan-hang-agribank-moi-nhat-thang-8-2026-muc-cao-nhat-la-bao-nhieu-188260802075809885.chn"
-        },
-        {
-          "name": "CafeF — Ngân hàng rầm rộ phát hành chứng chỉ tiền gửi",
-          "url": "https://cafef.vn/ngan-hang-ram-ro-phat-hanh-chung-chi-tien-gui-188260731072059104.chn"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "Biểu lãi suất huy động niêm yết công khai tiếp tục ổn định đầu tuần, chưa ghi nhận điều chỉnh mới",
+        "name": "Biểu lãi suất huy động niêm yết công khai tiếp tục ổn định, một vài ngân hàng nhỏ điều chỉnh tăng nhẹ",
         "level": "main",
-        "pct": 60,
+        "pct": 58,
         "bar": "fh",
-        "desc": "Sau đợt giảm mạnh của lãi suất liên ngân hàng cuối tháng 7, các ngân hàng thương mại tiếp tục giữ nguyên biểu lãi suất huy động khi bước sang tuần làm việc đầu tháng 8."
+        "desc": "BVBank hiện niêm yết mức hấp dẫn nhất thị trường tại quầy (7,1%/năm); phần lớn ngân hàng còn lại giữ nguyên biểu lãi suất so với tuần trước."
       },
       {
         "name": "Ngân hàng tiếp tục rầm rộ phát hành chứng chỉ tiền gửi lãi suất cao để hút vốn trung, dài hạn",
@@ -455,18 +455,18 @@
         "desc": "VPBank tiếp tục dẫn đầu kênh CCTG với 9%/năm; xu hướng phát hành CCTG lãi suất 7-9%/năm, vượt xa tiết kiệm thông thường, tiếp diễn tại nhiều ngân hàng đầu tháng 8."
       },
       {
-        "name": "Phố Wall khởi sắc phiên thứ ba liên tiếp giúp duy trì tâm lý ổn định cho thị trường vốn trong nước",
-        "level": "sub",
-        "pct": 52,
-        "bar": "fm",
-        "desc": "Đà tăng của chứng khoán Mỹ (Dow Jones +1,03%) phần nào hỗ trợ tâm lý chung, giảm áp lực buộc các ngân hàng trong nước phải điều chỉnh lãi suất huy động để giữ dòng vốn."
-      },
-      {
-        "name": "Lãi suất tiết kiệm thông thường tiếp tục ổn định, chưa có ngân hàng nào điều chỉnh biểu niêm yết công khai",
+        "name": "Phố Wall lập đỉnh kỷ lục giúp duy trì tâm lý tích cực cho thị trường vốn trong nước",
         "level": "sub",
         "pct": 54,
         "bar": "fm",
-        "desc": "Khác với biến động ở kênh CCTG và ưu đãi online, bảng lãi suất tiết kiệm thông thường của các ngân hàng gần như không đổi so với phiên trước."
+        "desc": "Đà tăng mạnh của chứng khoán Mỹ (Dow Jones +1,32% lên mức kỷ lục) phần nào hỗ trợ tâm lý chung, giảm áp lực buộc các ngân hàng trong nước phải điều chỉnh lãi suất huy động để giữ dòng vốn."
+      },
+      {
+        "name": "Lãi suất tiết kiệm thông thường tại nhóm ngân hàng lớn tiếp tục ổn định, chưa điều chỉnh biểu niêm yết công khai",
+        "level": "sub",
+        "pct": 54,
+        "bar": "fm",
+        "desc": "Khác với biến động ở kênh CCTG và một số ngân hàng nhỏ, bảng lãi suất tiết kiệm thông thường của Big4 và nhóm ngân hàng lớn gần như không đổi so với phiên trước."
       },
       {
         "name": "ACB duy trì vị trí dẫn đầu tiết kiệm thông thường với 7.8%/12T, chưa có ngân hàng nào vượt qua",
@@ -478,25 +478,25 @@
     ],
     "rate_forecast": [
       {
-        "name": "Lãi suất huy động nhiều khả năng tiếp tục ổn định trong tuần 3-7/8",
+        "name": "Lãi suất huy động nhiều khả năng tiếp tục ổn định trong những phiên tới",
         "pct": 55,
         "direction": "hold",
         "bar": "fm",
-        "desc": "Chưa có tín hiệu rõ ràng cho thấy các ngân hàng sẽ điều chỉnh biểu lãi suất niêm yết công khai trong những phiên tới, trừ khi có biến động thanh khoản mới."
+        "desc": "Chưa có tín hiệu rõ ràng cho thấy Big4 và nhóm ngân hàng lớn sẽ điều chỉnh biểu lãi suất niêm yết công khai, trừ khi có biến động thanh khoản mới."
       },
       {
         "name": "Cuộc đua phát hành chứng chỉ tiền gửi lãi suất cao có thể tiếp tục sôi động",
         "pct": 58,
         "direction": "up",
         "bar": "fh",
-        "desc": "Nhiều ngân hàng nhiều khả năng tiếp tục đẩy mạnh phát hành CCTG lãi suất 7-9%/năm để hút vốn trung, dài hạn, tương tự xu hướng ghi nhận cuối tháng 7."
+        "desc": "Nhiều ngân hàng nhiều khả năng tiếp tục đẩy mạnh phát hành CCTG lãi suất 7-9%/năm để hút vốn trung, dài hạn, tương tự xu hướng ghi nhận cuối tháng 7 và đầu tháng 8."
       },
       {
-        "name": "Lãi suất tiết kiệm thông thường nhiều khả năng giữ nguyên trong ngắn hạn",
-        "pct": 55,
-        "direction": "hold",
+        "name": "Một số ngân hàng nhỏ có thể tiếp tục điều chỉnh tăng nhẹ lãi suất tiết kiệm để cạnh tranh huy động",
+        "pct": 52,
+        "direction": "up",
         "bar": "fm",
-        "desc": "Chưa có tín hiệu rõ ràng cho thấy các ngân hàng sẽ điều chỉnh biểu lãi suất tiết kiệm niêm yết công khai trong tuần tới."
+        "desc": "Theo xu hướng của BVBank, HLBank, một vài ngân hàng quy mô nhỏ hơn có thể tiếp tục nâng nhẹ lãi suất kỳ hạn ngắn trong tuần tới."
       },
       {
         "name": "Báo cáo việc làm Mỹ (NFP) cuối tuần này có thể tác động gián tiếp tới kỳ vọng tỷ giá và lãi suất trong nước",
@@ -506,21 +506,21 @@
         "desc": "Nếu dữ liệu việc làm Mỹ làm thay đổi kỳ vọng về lộ trình lãi suất Fed, áp lực tỷ giá USD/VND có thể ảnh hưởng gián tiếp đến định hướng lãi suất huy động trong nước."
       }
     ],
-    "rate_outlook_label": "3/8 Thứ Hai — VPBank giữ CCTG 9%/năm, ACB dẫn đầu tiết kiệm 7.8%/12T, Big4 giữ 6.8%/12T; thị trường ổn định đầu tuần",
+    "rate_outlook_label": "4/8 Thứ Ba — VPBank giữ CCTG 9%/năm, BVBank hấp dẫn nhất tiết kiệm thường 7,1%/năm, Big4 giữ 6.8%/12T",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "3/8 (Thứ Hai): Thị trường lãi suất huy động niêm yết công khai trong nước tiếp tục ổn định khi bước sang tuần làm việc đầu tháng 8, chưa ghi nhận điều chỉnh mới so với cuối tuần trước. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi (CCTG) cao nhất thị trường 9%/năm cho kỳ hạn 184-389 ngày (6 tháng đến dưới 13 tháng), áp dụng cho khoản gửi từ 100 triệu đồng trở lên; xu hướng các ngân hàng rầm rộ phát hành CCTG lãi suất cao để hút vốn trung, dài hạn tiếp tục diễn ra đầu tháng 8. Ở biểu tiết kiệm thông thường, ACB tiếp tục dẫn đầu toàn thị trường với 7,8%/năm (12 tháng), nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên 6,8%/năm cho kỳ hạn 12-18 tháng. Diễn biến ổn định này diễn ra trong bối cảnh Phố Wall khởi sắc phiên thứ ba liên tiếp và vàng SJC đi ngang sáng 3/8, cho thấy dòng tiền trong nước vẫn ưu tiên kênh gửi tiết kiệm an toàn. Thị trường hiện đang chờ đợi báo cáo việc làm Mỹ (NFP) công bố cuối tuần này để có thêm định hướng về lộ trình lãi suất của Fed, qua đó có thể tác động gián tiếp đến áp lực tỷ giá và lãi suất huy động trong nước trong những tuần tới.",
+    "rate_outlook_text": "4/8 (Thứ Ba): Thị trường lãi suất huy động niêm yết công khai trong nước nhìn chung tiếp tục ổn định, dù một vài ngân hàng quy mô nhỏ hơn điều chỉnh tăng nhẹ để cạnh tranh thu hút tiền gửi — BVBank hiện niêm yết lãi suất tiết kiệm tại quầy hấp dẫn nhất thị trường, lên tới 7,1%/năm. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi (CCTG) cao nhất thị trường 9%/năm cho kỳ hạn 184-389 ngày (6 tháng đến dưới 13 tháng), áp dụng cho khoản gửi từ 100 triệu đồng trở lên; xu hướng các ngân hàng rầm rộ phát hành CCTG lãi suất cao để hút vốn trung, dài hạn tiếp tục diễn ra. Ở biểu tiết kiệm thông thường, ACB tiếp tục dẫn đầu toàn thị trường với 7,8%/năm (12 tháng), nhóm Big4 (Agribank, Vietcombank, VietinBank, BIDV) giữ nguyên 6,8%/năm cho kỳ hạn 12-18 tháng. Diễn biến ổn định này diễn ra trong bối cảnh Phố Wall lập đỉnh kỷ lục mới và vàng SJC nhích nhẹ chiều mua sáng 4/8, cho thấy dòng tiền trong nước vẫn ưu tiên kênh gửi tiết kiệm an toàn. Thị trường hiện đang chờ đợi báo cáo việc làm Mỹ (NFP) công bố cuối tuần này để có thêm định hướng về lộ trình lãi suất của Fed, qua đó có thể tác động gián tiếp đến áp lực tỷ giá và lãi suất huy động trong nước trong những tuần tới.",
     "rate_sources": [
+      {
+        "name": "Topi — Lãi suất tiết kiệm ngân hàng nào hấp dẫn tháng 8/2026",
+        "url": "https://topi.vn/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat.html"
+      },
+      {
+        "name": "VietnamBiz — Lãi suất ngân hàng hôm nay 3/8 Agribank, VietinBank, Vietcombank và BIDV có động thái đáng chú ý?",
+        "url": "https://vietnambiz.vn/lai-suat-ngan-hang-hom-nay-38-agribank-vietinbank-vietcombank-va-bidv-co-dong-thai-dang-chu-y-20268310255337.htm"
+      },
       {
         "name": "CafeF — Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank...",
         "url": "https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn"
-      },
-      {
-        "name": "CafeF — Lãi suất ngân hàng Agribank mới nhất tháng 8/2026: Mức cao nhất là bao nhiêu?",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-agribank-moi-nhat-thang-8-2026-muc-cao-nhat-la-bao-nhieu-188260802075809885.chn"
-      },
-      {
-        "name": "CafeF — Ngân hàng rầm rộ phát hành chứng chỉ tiền gửi",
-        "url": "https://cafef.vn/ngan-hang-ram-ro-phat-hanh-chung-chi-tien-gui-188260731072059104.chn"
       }
     ]
   },
@@ -739,7 +739,8 @@
       "31/07",
       "01/08",
       "02/08",
-      "03/08"
+      "03/08",
+      "04/08"
     ],
     "sjc": [
       152.8,
@@ -954,6 +955,7 @@
       141.5,
       141.7,
       141.9,
+      141.0,
       141.0,
       141.0
     ],
@@ -1171,7 +1173,8 @@
       130.6,
       128.52,
       128.6,
-      129.9
+      129.9,
+      128.8
     ]
   }
 }
