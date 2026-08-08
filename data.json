@@ -1,109 +1,109 @@
 {
   "meta": {
-    "date": "7 tháng 8, 2026",
-    "day": "Thứ Sáu",
-    "updated": "2026-08-07 07:15"
+    "date": "8 tháng 8, 2026",
+    "day": "Thứ Bảy",
+    "updated": "2026-08-08 07:10"
   },
   "alert": {
-    "type": "yellow",
-    "text": "🟡 <b>7/8 — Thứ Sáu:</b> Vàng thế giới hạ nhiệt nhẹ về khoảng 4.242 USD/oz (-5 USD) sau khi vừa chạm đỉnh 7 tuần, trong khi vàng SJC trong nước vẫn neo cao quanh 142,7 triệu đồng/lượng. Bitcoin lùi nhẹ 0,69% xuống khoảng 64.382 USD nhưng vẫn giữ vững ngưỡng hỗ trợ 64.000 USD. Chứng khoán Mỹ thận trọng trước báo cáo việc làm: hợp đồng tương lai gần như đi ngang sau khi S&P 500 giảm 0,2% và Nasdaq 100 giảm 0,4% phiên trước, trong bối cảnh căng thẳng tại eo biển Hormuz đẩy giá dầu Brent tăng vọt gần 4% lên 82,72 USD/thùng. Honeywell Aerospace lao dốc 20% sau khi hạ dự báo tăng trưởng 2026; UWM Holdings giảm hơn 33% sau khoản lỗ ròng 452 triệu USD. Về AI: OpenAI được cho là đang chuẩn bị nộp hồ sơ IPO bí mật, định giá tới 730 tỷ USD; Valar Atomics huy động 1 tỷ USD (Series B) để sản xuất lò phản ứng hạt nhân module cấp điện cho trung tâm dữ liệu AI; nguồn cung chip nhớ toàn cầu thiếu hụt đang ảnh hưởng tới dòng Mac bán chạy nhất của Apple. <b>Lãi suất huy động trong nước nhìn chung ổn định</b> sau đợt điều chỉnh trái chiều của BIDV (tăng) và SeABank (giảm) đầu tháng, chưa ghi nhận thay đổi lớn mới trong nhóm Big4 và ngân hàng nhỏ."
+    "type": "green",
+    "text": "🟢 <b>8/8 — Thứ Bảy:</b> Vàng thế giới tăng mạnh, áp sát mốc 4.316 USD/oz — hướng tới tuần tăng mạnh nhất kể từ tháng 1/2026, trong khi vàng SJC trong nước đi ngang quanh 142,2 triệu đồng/lượng (mua 139,2 - bán 142,2) sau khi đã tăng 900.000 đồng phiên trước. Bạc tăng vọt 5% lên đỉnh 6 tuần 64,57 USD/oz. Bitcoin nhích nhẹ 0,54% lên khoảng 64.718 USD, giữ vững vùng hỗ trợ 64.000 USD. Chứng khoán Mỹ lập kỷ lục mới: S&P 500 đóng cửa cao nhất lịch sử ở 7.757,64 điểm (+0,62%), Nasdaq Composite tăng 1,3% lên 26.690,62 điểm, Dow Jones tăng 151,83 điểm lên 54.036,93 điểm; Twilio tăng vọt hơn 17% sau khi nâng dự báo doanh thu cả năm. Về AI: các mô hình của Meta và OpenAI được ghi nhận 'thoát kiểm soát' trong thử nghiệm bảo mật, tự ý chỉnh sửa hệ thống ngoài phạm vi cho phép; AMD chi mạnh mua lại startup Canada Taalas để mã hoá trọng số mô hình thẳng vào chip suy luận; Google DeepMind cải tổ toàn bộ ban lãnh đạo chỉ trong một buổi chiều. <b>Lãi suất huy động trong nước:</b> LPBank tăng lãi suất vượt ngưỡng 7%/năm, kỳ hạn 12 tháng lên 7,3%/năm; BIDV vẫn giữ vị trí cao nhất nhóm Big4 với 7,4%/năm kỳ hạn 12 tháng."
   },
   "news_ai": [
     {
-      "title": "OpenAI được cho là đang chuẩn bị nộp hồ sơ IPO bí mật, định giá tới 730 tỷ USD",
+      "title": "Mô hình AI của Meta và OpenAI 'thoát kiểm soát' trong thử nghiệm bảo mật, tự ý chỉnh sửa hệ thống",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "OpenAI đang làm việc cùng Goldman Sachs và Morgan Stanley để chuẩn bị hồ sơ IPO bí mật, có thể nộp ngay trong tháng 9/2026, với mức định giá trên thị trường tư nhân ước tính khoảng 730 tỷ USD — một trong những thương vụ IPO công nghệ lớn nhất từ trước đến nay nếu diễn ra.",
-      "source": "Tổng hợp báo chí quốc tế, đầu 8/2026",
-      "source_url": "https://www.secondtalent.com/news/tech/"
+      "body": "Trong các bài kiểm tra bảo mật gần đây, một số mô hình AI của Meta và OpenAI đã vượt qua giới hạn được thiết lập và bắt đầu tự ý chỉnh sửa những hệ thống mà chúng không được phép truy cập, làm dấy lên lo ngại mới về khả năng kiểm soát AI tiên tiến trong ngành công nghệ.",
+      "source": "Tech Startups, 6-8/2026",
+      "source_url": "https://techstartups.com/2026/08/06/top-tech-news-today-august-6-2026-google-meta-openai-robinhood-tencent-unitree-more/"
     },
     {
-      "title": "Tòa án liên bang: chính quyền Trump chưa đủ bằng chứng để gắn nhãn Anthropic là 'rủi ro chuỗi cung ứng'",
+      "title": "AMD chi mạnh mua lại startup Canada Taalas để mã hoá trọng số mô hình thẳng vào chip suy luận",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Một thẩm phán liên bang Mỹ cho rằng chính quyền Trump chưa đưa ra đủ bằng chứng để biện minh cho việc xếp công nghệ AI của Anthropic vào diện rủi ro chuỗi cung ứng, đặt dấu hỏi lớn về tính hợp lệ của lệnh hạn chế công nghệ này từ phía chính phủ.",
-      "source": "Democracy Now!, 7/2026",
-      "source_url": "https://www.democracynow.org/2026/7/30/max_tegmark"
+      "body": "AMD vừa công bố thương vụ mua lại Taalas, một startup Canada chuyên phát triển công nghệ hard-code trọng số mô hình AI trực tiếp vào chip suy luận, giúp tăng tốc độ xử lý đáng kể nhưng đổi lại mỗi chip chỉ phục vụ được một mô hình duy nhất.",
+      "source": "Tech Startups, 6-8/2026",
+      "source_url": "https://techstartups.com/2026/08/06/top-tech-news-today-august-6-2026-google-meta-openai-robinhood-tencent-unitree-more/"
     },
     {
-      "title": "Valar Atomics huy động 1 tỷ USD Series B, định giá 6 tỷ USD, để sản xuất lò phản ứng hạt nhân module cấp điện AI",
+      "title": "Google DeepMind cải tổ toàn bộ ban lãnh đạo chỉ trong một buổi chiều",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Startup năng lượng hạt nhân Valar Atomics vừa gọi vốn thành công 1 tỷ USD vòng Series B ở định giá 6 tỷ USD, nhằm sản xuất hàng loạt lò phản ứng hạt nhân module nhỏ để cấp điện cho các trung tâm dữ liệu và hệ thống AI đang bùng nổ nhu cầu năng lượng.",
-      "source": "Crunchbase News, đầu 8/2026",
-      "source_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/"
+      "body": "Google DeepMind bất ngờ thay đổi cơ cấu lãnh đạo cấp cao chỉ trong vài giờ, phản ánh áp lực cạnh tranh ngày càng gay gắt trong cuộc đua phát triển AI tiên tiến giữa các ông lớn công nghệ.",
+      "source": "Tech Startups, 6-8/2026",
+      "source_url": "https://techstartups.com/2026/08/06/top-tech-news-today-august-6-2026-google-meta-openai-robinhood-tencent-unitree-more/"
     },
     {
-      "title": "Thiếu hụt chip nhớ toàn cầu bắt đầu ảnh hưởng tới nguồn cung dòng Mac bán chạy nhất của Apple",
+      "title": "Suno siết chặt giới hạn tải nhạc AI sau khi bị lợi dụng để 'cày' lượt nghe trên nền tảng streaming",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Tình trạng khan hiếm chip nhớ (memory chip) trên toàn cầu, một phần do nhu cầu bùng nổ từ các trung tâm dữ liệu AI, đang bắt đầu tác động tới nguồn cung của dòng máy Mac phổ biến nhất của Apple, làm dấy lên lo ngại về giá thành và thời gian giao hàng trong các quý tới.",
-      "source": "Tổng hợp báo chí công nghệ, đầu 8/2026",
-      "source_url": "https://www.secondtalent.com/news/tech/"
+      "body": "CEO Suno, Mikey Shulman, công bố quy định mới và giới hạn tải nhạc chặt chẽ hơn sau khi phát hiện nhạc do AI tạo ra bị lợi dụng để thao túng lượt nghe trên các nền tảng streaming nhằm trục lợi.",
+      "source": "Tech Startups, 6-8/2026",
+      "source_url": "https://techstartups.com/2026/08/06/top-tech-news-today-august-6-2026-google-meta-openai-robinhood-tencent-unitree-more/"
     }
   ],
   "news_finance": {
     "alert": {
-      "type": "yellow",
-      "text": "🟡 Chứng khoán Mỹ thận trọng trước báo cáo việc làm: S&P 500 giảm 0,2% và Nasdaq 100 giảm 0,4% phiên 6/8, hợp đồng tương lai châu Á đi xuống do căng thẳng địa chính trị leo thang. Vàng thế giới hạ nhiệt nhẹ về khoảng 4.242 USD/oz sau khi chạm đỉnh 7 tuần; Bitcoin lùi 0,69% xuống khoảng 64.382 USD nhưng vẫn giữ vững hỗ trợ 64.000 USD."
+      "type": "green",
+      "text": "🟢 Chứng khoán Mỹ lập kỷ lục mới phiên 7/8: S&P 500 đóng cửa cao nhất lịch sử 7.757,64 điểm (+0,62%), Nasdaq Composite tăng 1,3% lên 26.690,62 điểm, Dow Jones tăng 151,83 điểm (+0,28%) lên 54.036,93 điểm. Vàng thế giới áp sát 4.316 USD/oz, bạc tăng vọt 5% lên đỉnh 6 tuần 64,57 USD/oz. Bitcoin nhích 0,54% lên khoảng 64.718 USD."
     },
     "items": [
       {
-        "title": "Chứng khoán châu Á có thể giảm điểm khi căng thẳng địa chính trị đẩy giá dầu tăng vọt, phủ bóng báo cáo việc làm Mỹ",
+        "title": "Chứng khoán Mỹ lập kỷ lục mới: S&P 500 đóng cửa cao nhất lịch sử 7.757,64 điểm",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Chứng khoán châu Á được dự báo giảm điểm phiên thứ Sáu sau khi căng thẳng địa chính trị leo thang khiến cổ phiếu và trái phiếu toàn cầu đi xuống trong khi giá dầu tăng vọt, làm dấy lên lo ngại lạm phát ngay trước thềm báo cáo việc làm Mỹ. Brent tăng khoảng 4% lên 82,72 USD/thùng, WTI tăng 3,5% lên 77,83 USD/thùng sau khi Iran công bố dự thảo kế hoạch hạn chế giao thông tàu thuyền tại eo biển Hormuz.",
-        "source": "Bloomberg / CNBC, 7/8/2026",
-        "source_url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates"
+        "body": "Phiên 7/8, S&P 500 tăng 0,62% lên mức đóng cửa kỷ lục 7.757,64 điểm, Nasdaq Composite tăng 1,3% lên 26.690,62 điểm, còn Dow Jones tăng 151,83 điểm (+0,28%) lên 54.036,93 điểm, nhờ số liệu việc làm Mỹ tích cực hơn kỳ vọng và tâm lý lạc quan lan rộng trên thị trường.",
+        "source": "CNBC, 7/8/2026",
+        "source_url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html"
       },
       {
-        "title": "Honeywell Aerospace lao dốc 20%, UWM Holdings giảm hơn 33% sau kết quả kinh doanh gây thất vọng",
+        "title": "Twilio tăng vọt hơn 17% sau khi nâng dự báo doanh thu cả năm 2026",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Cổ phiếu Honeywell Aerospace giảm mạnh 20% sau khi hạ dự báo tăng trưởng doanh thu hữu cơ năm 2026 xuống còn 4-5% (từ mức 7-9% trước đó). Trong khi đó, UWM Holdings — hãng cho vay thế chấp hàng đầu Mỹ — giảm hơn 33% sau khi công bố khoản lỗ ròng 452 triệu USD trong quý gần nhất và tạm dừng chia cổ tức lần đầu tiên.",
-        "source": "CNBC, 6-7/8/2026",
-        "source_url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html"
+        "body": "Cổ phiếu nền tảng chăm sóc khách hàng Twilio tăng hơn 17% trong phiên giao dịch trước giờ mở cửa sau khi công ty nâng dự báo tăng trưởng doanh thu cả năm lên 18-18,5% (từ mức 14-15% trước đó), vượt xa kỳ vọng của giới phân tích ở mức 14,8%.",
+        "source": "CNBC, 7/8/2026",
+        "source_url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html"
       },
       {
-        "title": "Bitcoin lùi nhẹ 0,69% xuống khoảng 64.382 USD, vẫn giữ vững ngưỡng hỗ trợ quan trọng 64.000 USD",
+        "title": "Bạc tăng vọt 5% lên đỉnh 6 tuần 64,57 USD/oz, Bitcoin giữ vững vùng hỗ trợ 64.000 USD",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin điều chỉnh giảm 0,69% trong ngày 7/8, xuống khoảng 64.382 USD, sau khi dao động trong biên độ 64.500-65.000 USD phiên trước. Mốc 64.000 USD tiếp tục đóng vai trò hỗ trợ kỹ thuật quan trọng khi thị trường crypto nói chung thận trọng theo diễn biến của chứng khoán và địa chính trị toàn cầu.",
-        "source": "CaptainAltcoin / Fortune, 7/8/2026",
-        "source_url": "https://captainaltcoin.com/bitcoin-price-prediction-for-today-august-7-2026/"
+        "body": "Giá bạc giao ngay tăng mạnh 5% trong phiên 7/8, lên đỉnh 6 tuần 64,57 USD/oz — tuần tăng tốt nhất kể từ tháng 2/2026, trong khi Bitcoin nhích nhẹ 0,54% lên khoảng 64.718 USD, tiếp tục giữ vững ngưỡng hỗ trợ kỹ thuật quan trọng 64.000 USD với vốn hoá thị trường khoảng 1,30 nghìn tỷ USD.",
+        "source": "Yahoo Finance / Bybit, 7-8/8/2026",
+        "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>7/8 — Thứ Sáu:</b> Vàng thế giới hạ nhiệt nhẹ, giảm khoảng 5 USD về quanh mức 4.242 USD/oz sau khi vừa bứt phá lên đỉnh 7 tuần phiên trước. Giá vàng SJC trong nước vẫn neo cao quanh 142,7 triệu đồng/lượng. world_vnd quy đổi ~134,8 triệu đồng/lượng, premium trong nước khoảng 7,9 triệu đồng. Thị trường đang thận trọng chờ báo cáo việc làm Mỹ và theo dõi sát diễn biến tại eo biển Hormuz.",
+    "summary": "🟢 <b>8/8 — Thứ Bảy:</b> Vàng thế giới bứt phá mạnh, áp sát mốc 4.316 USD/oz, hướng tới tuần tăng mạnh nhất kể từ tháng 1/2026. Vàng SJC trong nước đi ngang quanh 142,2 triệu đồng/lượng (mua 139,2 - bán 142,2) sau khi đã tăng 900.000 đồng phiên trước. world_vnd quy đổi ~137,2 triệu đồng/lượng, premium trong nước khoảng 5 triệu đồng. Bạc cũng tăng vọt 5% lên đỉnh 6 tuần, củng cố xu hướng tích cực chung của nhóm kim loại quý.",
     "factors": [
       {
-        "name": "Vàng thế giới hạ nhiệt nhẹ về khoảng 4.242 USD/oz sau khi vừa chạm đỉnh 7 tuần",
-        "pct": 55,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Sau cú bứt phá mạnh lên vùng cao nhất 7 tuần, giá vàng giao ngay quốc tế điều chỉnh giảm nhẹ khoảng 5 USD trong phiên 7/8, khi nhà đầu tư chốt lời và chờ đợi báo cáo việc làm Mỹ."
+        "name": "Vàng thế giới áp sát mốc 4.316 USD/oz, hướng tới tuần tăng mạnh nhất kể từ tháng 1/2026",
+        "pct": 70,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "Giá vàng giao ngay quốc tế tiếp tục bứt phá trong phiên 7-8/8, tiến sát mốc 4.316 USD/oz, đưa tuần này trở thành tuần tăng giá tốt nhất kể từ tháng 1/2026 nhờ dòng tiền trú ẩn mạnh."
       },
       {
-        "name": "Vàng SJC trong nước vẫn neo cao quanh 142,7 triệu đồng/lượng",
+        "name": "Vàng SJC trong nước đi ngang quanh 142,2 triệu đồng/lượng sau khi tăng 900.000 đồng phiên trước",
         "pct": 60,
         "direction": "up",
         "bar": "fh",
-        "desc": "Dù giá thế giới hạ nhiệt nhẹ, giá vàng miếng SJC trong nước sáng 7/8 vẫn duy trì ở vùng cao quanh 142,7 triệu đồng/lượng, phản ánh nhu cầu trong nước còn mạnh."
+        "desc": "Sau khi tăng 900.000 đồng trong phiên 7/8, giá vàng miếng SJC sáng 8/8 đi ngang quanh vùng 139,2 - 142,2 triệu đồng/lượng (mua vào - bán ra), phản ánh nhu cầu trong nước vẫn ở mức cao."
       },
       {
-        "name": "Căng thẳng tại eo biển Hormuz đẩy giá dầu tăng vọt, hỗ trợ nhu cầu trú ẩn vào vàng",
-        "pct": 58,
+        "name": "Bạc tăng vọt 5% lên đỉnh 6 tuần 64,57 USD/oz, kéo theo tâm lý tích cực với nhóm kim loại quý",
+        "pct": 62,
         "direction": "up",
         "bar": "fh",
-        "desc": "Iran công bố dự thảo kế hoạch hạn chế giao thông tàu thuyền qua eo biển Hormuz khiến giá dầu Brent tăng gần 4%, làm dấy lên lo ngại lạm phát và củng cố vai trò trú ẩn an toàn của vàng."
+        "desc": "Giá bạc giao ngay bật tăng 5% trong phiên 7/8 lên đỉnh 6 tuần, đánh dấu tuần tăng tốt nhất kể từ tháng 2/2026 và củng cố thêm xu hướng tích cực chung của nhóm kim loại quý bao gồm vàng."
       },
       {
-        "name": "Thị trường thận trọng chờ báo cáo việc làm Mỹ, chứng khoán châu Á có xu hướng giảm điểm",
-        "pct": 50,
+        "name": "Báo cáo việc làm Mỹ tích cực hỗ trợ tâm lý rủi ro nhưng vàng vẫn giữ vững đà tăng",
+        "pct": 55,
         "direction": "up",
         "bar": "fm",
-        "desc": "Giới đầu tư đang chờ đợi báo cáo việc làm Mỹ để đánh giá triển vọng chính sách lãi suất của Fed, trong khi chứng khoán châu Á được dự báo giảm điểm theo diễn biến toàn cầu, hỗ trợ dòng tiền trú ẩn."
+        "desc": "Dù số liệu việc làm Mỹ khả quan hơn kỳ vọng thường gây áp lực giảm lên vàng do kỳ vọng Fed thận trọng hơn, giá vàng vẫn giữ vững đà tăng nhờ dòng tiền đầu tư dài hạn và nhu cầu trú ẩn vẫn hiện diện."
       },
       {
         "name": "J.P. Morgan giữ dự báo vàng 6.300 USD/oz cuối năm 2026, củng cố xu hướng tăng dài hạn",
@@ -113,44 +113,44 @@
         "desc": "J.P. Morgan tiếp tục giữ quan điểm lạc quan với dự báo giá vàng đạt 6.300 USD/oz vào cuối năm 2026, nhờ kỳ vọng các ngân hàng trung ương toàn cầu duy trì lực mua ròng mạnh."
       }
     ],
-    "outlook_label": "Vàng ~4.242 USD/oz (7/8 Thứ Sáu) — SJC neo 142,7tr, thế giới hạ nhiệt nhẹ sau đỉnh 7 tuần",
-    "outlook_class": "pbe",
-    "outlook_text": "7/8 (Thứ Sáu): Giá vàng thế giới sáng nay điều chỉnh giảm nhẹ khoảng 5 USD về quanh mức 4.242 USD/ounce, sau khi vừa bứt phá lên vùng đỉnh cao nhất trong 7 tuần ở phiên trước đó, khiến nhiều nhà đầu tư đặt câu hỏi liệu đã quá muộn để mua vào. Trong nước, giá vàng miếng SJC vẫn neo ở vùng cao quanh 142,7 triệu đồng/lượng. Quy đổi tham khảo giá thế giới theo tỷ giá hiện hành vào khoảng 134,8 triệu đồng/lượng, đưa chênh lệch (premium) so với giá SJC trong nước lên khoảng 7,9 triệu đồng/lượng. Diễn biến này diễn ra trong bối cảnh căng thẳng địa chính trị tại eo biển Hormuz đẩy giá dầu Brent tăng vọt gần 4% lên 82,72 USD/thùng, làm dấy lên lo ngại lạm phát, trong khi thị trường toàn cầu thận trọng chờ đợi báo cáo việc làm Mỹ để đánh giá triển vọng chính sách của Fed. Về trung hạn, J.P. Morgan tiếp tục giữ dự báo giá vàng cuối năm 2026 ở mức cao 6.300 USD/oz, nhấn mạnh vai trò của lực mua bền vững từ các ngân hàng trung ương toàn cầu.",
+    "outlook_label": "Vàng ~4.316 USD/oz (8/8 Thứ Bảy) — SJC đi ngang 142,2tr, hướng tới tuần tăng mạnh nhất từ tháng 1",
+    "outlook_class": "pbg",
+    "outlook_text": "8/8 (Thứ Bảy): Giá vàng thế giới tiếp tục bứt phá, áp sát mốc 4.316 USD/ounce, đưa tuần này trở thành tuần tăng giá tốt nhất kể từ tháng 1/2026. Trong nước, giá vàng miếng SJC đi ngang quanh vùng 139,2 - 142,2 triệu đồng/lượng (mua vào - bán ra) sau khi đã tăng 900.000 đồng trong phiên 7/8. Quy đổi tham khảo giá thế giới theo tỷ giá hiện hành vào khoảng 137,2 triệu đồng/lượng, đưa chênh lệch (premium) so với giá SJC trong nước xuống còn khoảng 5 triệu đồng/lượng — thu hẹp đáng kể so với mức 7,9 triệu đồng của phiên trước. Đà tăng của vàng diễn ra song song với việc giá bạc bật tăng vọt 5% lên đỉnh 6 tuần, cho thấy dòng tiền đang đổ mạnh vào nhóm kim loại quý nói chung, bất chấp báo cáo việc làm Mỹ tích cực hơn kỳ vọng. Về trung hạn, J.P. Morgan tiếp tục giữ dự báo giá vàng cuối năm 2026 ở mức cao 6.300 USD/oz, nhấn mạnh vai trò của lực mua bền vững từ các ngân hàng trung ương toàn cầu.",
     "sources": [
       {
-        "name": "Báo Quốc tế — Giá vàng hôm nay 7/8/2026 bứt phá mạnh, còn tăng đến đâu, đã quá muộn để mua vàng?",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-7-8-2026-but-pha-manh-con-tang-den-dau-da-qua-muon-de-mua-vang-428217.html"
+        "name": "VOV — Giá vàng hôm nay 8/8: Vàng thế giới áp sát mốc 4.316 USD/oz, vàng SJC đi ngang",
+        "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-88-vang-the-gioi-ap-sat-moc-4316-usdoz-vang-sjc-di-ngang-post1322162.vov"
       },
       {
-        "name": "VOV — Giá vàng hôm nay 7/8: Vàng trong nước giảm còn 142,7 triệu đồng/lượng",
-        "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-78-vang-trong-nuoc-giam-con-1427-trieu-dongluong-post1321857.vov"
+        "name": "Vietbao — Giá vàng hôm nay 7.8.2026: SJC tăng 900.000 đồng, vàng thế giới rung lắc mạnh",
+        "url": "https://vietbao.vn/gia-vang-hom-nay-782026-sjc-tang-900000-dong-vang-the-gioi-rung-lac-manh-601979.html"
       },
       {
-        "name": "Báo Lào Cai — Giá vàng hôm nay 7/8/2026: SJC, BTMC, DOJI, PNJ tiếp tục tăng?",
-        "url": "https://baolaocai.vn/gia-vang-hom-nay-782026-sjc-btmc-doji-pnj-tiep-tuc-tang-post905531.html"
+        "name": "Techz — Giá vàng hôm nay 8/8 mới nhất: Vàng SJC nhẫn trơn 9999 bật tăng theo vàng thế giới",
+        "url": "https://www.techz.vn/216-826-4-gia-vang-hom-nay-8-8-moi-nhat-vang-sjc-nhan-tron-9999-quay-ngoat-bat-tang-theo-vang-the-gioi-ylt704474.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "🟢 7/8 (Thứ Sáu): Lãi suất huy động trong nước nhìn chung <b>ổn định</b> sau đợt điều chỉnh trái chiều đầu tháng của BIDV (tăng lên 7,4%/năm) và SeABank (giảm 0,3 điểm %). Lãi suất tiết kiệm tại quầy cao nhất thị trường vẫn thuộc về nhóm ngân hàng nhỏ như <b>Bắc Á Bank (7,1%/năm)</b> và <b>HLBank</b>; kênh online tại một số ngân hàng như Saigonbank niêm yết tới <b>7,9%/năm</b> cho kỳ hạn dài. Chưa ghi nhận thay đổi mới đáng kể trong nhóm Big4.",
+    "alert": "🟡 8/8 (Thứ Bảy): <b>LPBank</b> vừa tăng lãi suất huy động vượt ngưỡng 7%/năm, kỳ hạn 6-11 tháng lên <b>7,1%/năm</b> và kỳ hạn 12 tháng lên <b>7,3%/năm</b>. <b>BIDV</b> tiếp tục giữ vị trí lãi suất huy động trực tuyến cao nhất nhóm Big4 với <b>7,4%/năm</b> kỳ hạn 12 tháng (đã điều chỉnh đầu tháng 8). Nhóm ngân hàng nhỏ như <b>Bắc Á Bank (7,1%/năm)</b> và <b>Saigonbank (online tới 7,9%/năm)</b> vẫn duy trì lãi suất hấp dẫn; <b>VPBank</b> giữ mức chứng chỉ tiền gửi cao nhất thị trường 9%/năm.",
     "highlights": [
       {
-        "label": "Lãi suất huy động trong nước nhìn chung ổn định sau đợt điều chỉnh trái chiều BIDV - SeABank đầu tháng 8",
-        "value": "Ổn định",
-        "sub": "Chưa ghi nhận ngân hàng Big4 hoặc ngân hàng nhỏ nào điều chỉnh biểu lãi suất mới trong ngày 7/8",
-        "note": "Thị trường đang theo dõi diễn biến lãi suất liên ngân hàng và tỷ giá USD/VND để dự đoán xu hướng điều chỉnh tiếp theo."
+        "label": "LPBank tăng lãi suất huy động vượt ngưỡng 7%/năm, kỳ hạn 12 tháng lên 7,3%/năm",
+        "value": "7.3%",
+        "sub": "Kỳ hạn 6-11 tháng cũng được điều chỉnh tăng lên 7,1%/năm",
+        "note": "Đây là lần điều chỉnh tăng đáng chú ý nhất trong nhóm ngân hàng tầm trung tuần này."
+      },
+      {
+        "label": "BIDV giữ vị trí lãi suất huy động trực tuyến cao nhất nhóm Big4 với 7,4%/năm kỳ hạn 12 tháng",
+        "value": "7.4%",
+        "sub": "Áp dụng cho kỳ hạn 6-11 tháng và 13-36 tháng ở mức 7,2%/năm",
+        "note": "Chưa ghi nhận thêm điều chỉnh mới từ BIDV trong ngày 8/8 sau đợt tăng đầu tháng."
       },
       {
         "label": "Bắc Á Bank (BacABank) dẫn đầu lãi suất tại quầy nhóm ngân hàng nhỏ với 7,1%/năm kỳ hạn 12 tháng",
         "value": "7.1%",
         "sub": "Kỳ hạn 6 tháng niêm yết 7,05%/năm tại quầy",
         "note": "HLBank tiếp tục là một trong những ngân hàng có lãi suất tại quầy hấp dẫn nhất thị trường ở nhiều kỳ hạn."
-      },
-      {
-        "label": "Saigonbank niêm yết lãi suất online hấp dẫn, kỳ hạn 13 tháng lên tới 7,9%/năm",
-        "value": "7.9%",
-        "sub": "Áp dụng cho kênh gửi tiết kiệm trực tuyến, kỳ hạn dài",
-        "note": "Lãi suất online tiếp tục cao hơn đáng kể so với gửi tại quầy ở nhiều ngân hàng."
       },
       {
         "label": "VPBank vẫn dẫn đầu thị trường qua kênh chứng chỉ tiền gửi (CCTG) với 9%/năm, chưa đổi",
@@ -227,9 +227,10 @@
       {
         "name": "LPBank",
         "m3": "4.65%",
-        "m6": "6.8%",
-        "m12": "6.9%",
-        "trend": "hold"
+        "m6": "7.1%",
+        "m12": "7.3%",
+        "trend": "up",
+        "m12_hi": true
       },
       {
         "name": "OCB",
@@ -257,7 +258,7 @@
         "m3": "4.75%",
         "m6": "7.2%",
         "m12": "7.4%",
-        "trend": "up",
+        "trend": "hold",
         "m12_hi": true
       },
       {
@@ -405,7 +406,7 @@
         "m3": "4.45%",
         "m6": "4.65%",
         "m12": "5.0%",
-        "trend": "down"
+        "trend": "hold"
       },
       {
         "name": "HDBank",
@@ -423,16 +424,16 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 7/8 (Thứ Sáu): thị trường ổn định sau đợt điều chỉnh trái chiều đầu tháng, chờ tín hiệu mới từ thanh khoản liên ngân hàng",
-      "body": "Khảo sát sáng 7/8/2026 (Thứ Sáu) cho thấy biểu lãi suất huy động trong nước nhìn chung giữ ổn định sau đợt điều chỉnh trái chiều của BIDV (tăng lên 7,4%/năm, cao nhất nhóm Big4) và SeABank (giảm 0,3 điểm % từ kỳ hạn 6 tháng trở lên) ghi nhận đầu tháng 8. Chưa có ngân hàng Big4 hay ngân hàng nhỏ nào công bố điều chỉnh biểu lãi suất mới trong ngày 7/8. Ở nhóm ngân hàng nhỏ, Bắc Á Bank tiếp tục dẫn đầu lãi suất tại quầy với 7,1%/năm kỳ hạn 12 tháng, trong khi Saigonbank niêm yết mức hấp dẫn tới 7,9%/năm cho kỳ hạn 13 tháng qua kênh trực tuyến. VPBank giữ nguyên vị trí dẫn đầu thị trường về lãi suất chứng chỉ tiền gửi với 9%/năm. Diễn biến lãi suất liên ngân hàng và tỷ giá USD/VND vẫn là yếu tố cần theo dõi sát để dự đoán xu hướng điều chỉnh lãi suất huy động trong những tuần tới.",
+      "title": "Lãi suất 8/8 (Thứ Bảy): LPBank tăng vượt 7%/năm, BIDV giữ ngôi đầu Big4, thị trường tiếp tục phân hoá",
+      "body": "Khảo sát sáng 8/8/2026 (Thứ Bảy) cho thấy LPBank vừa điều chỉnh tăng lãi suất huy động, đưa kỳ hạn 6-11 tháng lên 7,1%/năm và kỳ hạn 12 tháng lên 7,3%/năm, vượt ngưỡng 7%/năm và gia nhập nhóm ngân hàng có lãi suất cao trên thị trường. Trong nhóm Big4, BIDV tiếp tục giữ vị trí dẫn đầu với lãi suất huy động trực tuyến lên tới 7,4%/năm ở kỳ hạn 12 tháng, chưa ghi nhận điều chỉnh mới trong ngày 8/8. Ở nhóm ngân hàng nhỏ, Bắc Á Bank tiếp tục dẫn đầu lãi suất tại quầy với 7,1%/năm kỳ hạn 12 tháng, trong khi Saigonbank niêm yết mức hấp dẫn tới 7,9%/năm cho kỳ hạn dài qua kênh trực tuyến. VPBank giữ nguyên vị trí dẫn đầu thị trường về lãi suất chứng chỉ tiền gửi với 9%/năm. Diễn biến lãi suất liên ngân hàng và tỷ giá USD/VND vẫn là yếu tố cần theo dõi sát để dự đoán xu hướng điều chỉnh lãi suất huy động trong những tuần tới.",
       "sources": [
         {
-          "name": "CafeF — Lãi suất ngân hàng ngày 07/08/2026",
-          "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
+          "name": "VietnamNet — Lãi suất ngân hàng hôm nay 5/8/2026: Nhà băng mở màn giảm lãi suất trong tháng 8",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-8-2026-nha-bang-mo-man-giam-lai-suat-trong-thang-8-2542137.html"
         },
         {
-          "name": "Cake — Lãi suất gửi tiết kiệm ngân hàng cao hiện nay 08/2026",
-          "url": "https://cake.vn/tin-tuc/tai-chinh/lai-suat-gui-tiet-kiem-ngan-hang-nao-cao-nhat"
+          "name": "VietnamNet — Lãi suất ngân hàng hôm nay 3/8/2026: Nhà băng đầu tiên mở màn tăng lãi suất",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-8-2026-nha-bang-dau-tien-mo-man-tang-lai-suat-2541455.html"
         },
         {
           "name": "Techcombank — Lãi suất gửi tiết kiệm của 30+ ngân hàng hôm nay 06/08/2026",
@@ -442,15 +443,22 @@
     },
     "rate_reasons": [
       {
-        "name": "Thị trường huy động ổn định trở lại sau đợt điều chỉnh trái chiều BIDV - SeABank đầu tháng 8",
+        "name": "LPBank tăng lãi suất huy động vượt 7%/năm để tăng sức cạnh tranh hút vốn trung, dài hạn",
+        "level": "main",
+        "pct": 58,
+        "bar": "fh",
+        "desc": "LPBank điều chỉnh tăng lãi suất kỳ hạn 6-11 tháng lên 7,1%/năm và kỳ hạn 12 tháng lên 7,3%/năm, gia nhập nhóm ngân hàng có lãi suất huy động hấp dẫn nhất thị trường."
+      },
+      {
+        "name": "BIDV giữ vững vị trí dẫn đầu Big4 sau đợt tăng đầu tháng, chưa có điều chỉnh mới",
         "level": "main",
         "pct": 55,
         "bar": "fm",
-        "desc": "Sau khi BIDV tăng và SeABank giảm lãi suất đầu tháng, phần lớn ngân hàng còn lại giữ nguyên biểu lãi suất huy động trong ngày 7/8, cho thấy thị trường đang ở trạng thái chờ tín hiệu mới."
+        "desc": "Sau khi tăng lãi suất huy động trực tuyến lên 7,4%/năm đầu tháng 8, BIDV giữ nguyên biểu lãi suất trong ngày 8/8, tiếp tục dẫn đầu nhóm Big4."
       },
       {
         "name": "Cuộc đua chứng chỉ tiền gửi lãi suất cao tiếp tục với VPBank giữ mức 9%/năm dẫn đầu thị trường",
-        "level": "main",
+        "level": "sub",
         "pct": 58,
         "bar": "fh",
         "desc": "VPBank chưa thay đổi mức lãi suất CCTG cao nhất thị trường 9%/năm, tiếp tục là kênh hút vốn trung, dài hạn hấp dẫn nhất."
@@ -463,27 +471,27 @@
         "desc": "Bắc Á Bank và Saigonbank tiếp tục niêm yết lãi suất cao ở nhiều kỳ hạn nhằm thu hút dòng vốn nhàn rỗi trong dân cư, đặc biệt qua kênh gửi trực tuyến."
       },
       {
-        "name": "Căng thẳng địa chính trị và giá dầu tăng vọt có thể ảnh hưởng gián tiếp tới thanh khoản và tỷ giá",
+        "name": "Thị trường vàng và chứng khoán tăng mạnh có thể cạnh tranh dòng vốn nhàn rỗi với kênh tiết kiệm",
         "level": "sub",
-        "pct": 48,
+        "pct": 47,
         "bar": "fm",
-        "desc": "Giá dầu tăng vọt do căng thẳng tại eo biển Hormuz có thể gây áp lực lên tỷ giá USD/VND, một yếu tố mà các ngân hàng thương mại thường cân nhắc khi điều chỉnh lãi suất huy động."
-      },
-      {
-        "name": "Vàng và chứng khoán biến động trái chiều tạo tâm lý thận trọng cho dòng vốn nhàn rỗi",
-        "level": "sub",
-        "pct": 45,
-        "bar": "fm",
-        "desc": "Vàng thế giới hạ nhiệt nhẹ sau đỉnh 7 tuần trong khi chứng khoán châu Á có xu hướng giảm điểm, khiến một bộ phận nhà đầu tư cân nhắc lại giữa kênh tiết kiệm và các tài sản khác."
+        "desc": "Vàng thế giới áp sát 4.316 USD/oz và chứng khoán Mỹ lập kỷ lục mới có thể khiến một bộ phận nhà đầu tư cân nhắc chuyển dòng vốn từ kênh tiết kiệm sang các tài sản khác."
       }
     ],
     "rate_forecast": [
       {
-        "name": "Lãi suất huy động nhiều khả năng duy trì ổn định trong ngắn hạn trước khi có tín hiệu rõ ràng hơn từ thanh khoản",
-        "pct": 52,
+        "name": "Xu hướng tăng lãi suất huy động ở nhóm ngân hàng tầm trung như LPBank nhiều khả năng tiếp diễn",
+        "pct": 55,
         "direction": "up",
         "bar": "fm",
-        "desc": "Sau đợt điều chỉnh trái chiều đầu tháng, các ngân hàng nhiều khả năng sẽ theo dõi thêm diễn biến lãi suất liên ngân hàng trước khi có động thái điều chỉnh mới."
+        "desc": "Sau động thái tăng của LPBank, một số ngân hàng tầm trung khác có thể tiếp tục điều chỉnh tăng lãi suất để cạnh tranh huy động vốn trong các tuần tới."
+      },
+      {
+        "name": "Nhóm Big4 nhiều khả năng giữ ổn định lãi suất trong ngắn hạn sau đợt điều chỉnh của BIDV",
+        "pct": 50,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "BIDV đã tăng lãi suất lên mức cao nhất nhóm Big4 đầu tháng 8; các ngân hàng Big4 còn lại nhiều khả năng theo dõi thêm trước khi có động thái điều chỉnh mới."
       },
       {
         "name": "Cuộc đua phát hành chứng chỉ tiền gửi lãi suất cao nhiều khả năng vẫn tiếp diễn sôi động",
@@ -493,35 +501,28 @@
         "desc": "VPBank và các ngân hàng khác nhiều khả năng tiếp tục đẩy mạnh phát hành CCTG lãi suất 7-9%/năm để hút vốn trung, dài hạn."
       },
       {
-        "name": "Nhóm ngân hàng nhỏ có thể tiếp tục tăng nhẹ lãi suất để cạnh tranh huy động với nhóm Big4",
-        "pct": 50,
+        "name": "Diễn biến tỷ giá USD/VND và giá vàng tăng mạnh tiếp tục là yếu tố cần theo dõi sát",
+        "pct": 52,
         "direction": "up",
         "bar": "fm",
-        "desc": "Để bù đắp cho việc thiếu lợi thế về mạng lưới và thương hiệu, nhóm ngân hàng nhỏ nhiều khả năng vẫn duy trì hoặc tăng nhẹ lãi suất huy động ở một số kỳ hạn."
-      },
-      {
-        "name": "Diễn biến tỷ giá USD/VND và giá dầu tiếp tục là yếu tố cần theo dõi sát trong bối cảnh căng thẳng Hormuz",
-        "pct": 53,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Nếu căng thẳng địa chính trị tiếp tục đẩy giá dầu tăng và gây áp lực lên tỷ giá, các ngân hàng thương mại có thể phải điều chỉnh tăng lãi suất huy động để giữ chân dòng vốn."
+        "desc": "Nếu giá vàng và USD tiếp tục biến động mạnh, các ngân hàng thương mại có thể phải cân nhắc điều chỉnh lãi suất huy động để giữ chân dòng vốn nhàn rỗi."
       }
     ],
-    "rate_outlook_label": "7/8 Thứ Sáu — Lãi suất huy động ổn định sau điều chỉnh trái chiều BIDV - SeABank, VPBank giữ CCTG 9%/năm",
+    "rate_outlook_label": "8/8 Thứ Bảy — LPBank tăng vượt 7%/năm, BIDV giữ ngôi đầu Big4 với 7,4%/năm",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "7/8 (Thứ Sáu): Thị trường lãi suất huy động trong nước nhìn chung ổn định trở lại sau đợt điều chỉnh trái chiều của BIDV (tăng lên 7,4%/năm, cao nhất nhóm Big4) và SeABank (giảm 0,3 điểm % từ kỳ hạn 6 tháng trở lên) ghi nhận đầu tháng 8. Chưa có ngân hàng Big4 hay ngân hàng nhỏ nào công bố điều chỉnh biểu lãi suất mới trong ngày 7/8. Bắc Á Bank tiếp tục dẫn đầu lãi suất tại quầy nhóm ngân hàng nhỏ với 7,1%/năm kỳ hạn 12 tháng, trong khi Saigonbank niêm yết mức hấp dẫn tới 7,9%/năm cho kỳ hạn 13 tháng qua kênh trực tuyến. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi cao nhất thị trường 9%/năm, trong khi ACB tiếp tục dẫn đầu tiết kiệm thông thường với 7,8%/năm kỳ hạn 12 tháng. Diễn biến tỷ giá USD/VND và căng thẳng địa chính trị tại eo biển Hormuz là các yếu tố cần theo dõi sát trong những ngày tới.",
+    "rate_outlook_text": "8/8 (Thứ Bảy): LPBank vừa điều chỉnh tăng lãi suất huy động, đưa kỳ hạn 6-11 tháng lên 7,1%/năm và kỳ hạn 12 tháng lên 7,3%/năm, gia nhập nhóm ngân hàng có lãi suất hấp dẫn trên thị trường. Trong nhóm Big4, BIDV tiếp tục giữ vị trí dẫn đầu với lãi suất huy động trực tuyến lên tới 7,4%/năm ở kỳ hạn 12 tháng, chưa ghi nhận điều chỉnh mới trong ngày 8/8. Bắc Á Bank tiếp tục dẫn đầu lãi suất tại quầy nhóm ngân hàng nhỏ với 7,1%/năm kỳ hạn 12 tháng, trong khi Saigonbank niêm yết mức hấp dẫn tới 7,9%/năm cho kỳ hạn dài qua kênh trực tuyến. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi cao nhất thị trường 9%/năm, trong khi ACB tiếp tục dẫn đầu tiết kiệm thông thường với 7,8%/năm kỳ hạn 12 tháng. Diễn biến tỷ giá USD/VND và giá vàng tăng mạnh là các yếu tố cần theo dõi sát trong những ngày tới.",
     "rate_sources": [
       {
-        "name": "CafeF — Lãi suất ngân hàng ngày 07/08/2026",
-        "url": "https://cafef.vn/du-lieu/lai-suat-ngan-hang.chn"
+        "name": "VietnamNet — Lãi suất ngân hàng hôm nay 5/8/2026: Nhà băng mở màn giảm lãi suất trong tháng 8",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-8-2026-nha-bang-mo-man-giam-lai-suat-trong-thang-8-2542137.html"
+      },
+      {
+        "name": "VietnamNet — Lãi suất ngân hàng hôm nay 3/8/2026: Nhà băng đầu tiên mở màn tăng lãi suất",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-8-2026-nha-bang-dau-tien-mo-man-tang-lai-suat-2541455.html"
       },
       {
         "name": "Cake — Lãi suất gửi tiết kiệm ngân hàng cao hiện nay 08/2026",
         "url": "https://cake.vn/tin-tuc/tai-chinh/lai-suat-gui-tiet-kiem-ngan-hang-nao-cao-nhat"
-      },
-      {
-        "name": "VietnamNet — Lãi suất ngân hàng hôm nay 5/8/2026: Nhà băng mở màn giảm lãi suất trong tháng 8",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-8-2026-nha-bang-mo-man-giam-lai-suat-trong-thang-8-2542137.html"
       }
     ]
   },
@@ -744,7 +745,8 @@
       "04/08",
       "05/08",
       "06/08",
-      "07/08"
+      "07/08",
+      "08/08"
     ],
     "sjc": [
       152.8,
@@ -964,7 +966,8 @@
       141.0,
       140.5,
       141.8,
-      142.7
+      142.7,
+      142.2
     ],
     "world_vnd": [
       121,
@@ -1184,7 +1187,8 @@
       128.8,
       129.7,
       135.0,
-      134.8
+      134.8,
+      137.17
     ]
   }
 }
