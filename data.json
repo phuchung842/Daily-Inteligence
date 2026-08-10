@@ -1,109 +1,109 @@
 {
   "meta": {
-    "date": "9 tháng 8, 2026",
-    "day": "Chủ Nhật",
-    "updated": "2026-08-09 07:10"
+    "date": "10 tháng 8, 2026",
+    "day": "Thứ Hai",
+    "updated": "2026-08-10 07:20"
   },
   "alert": {
     "type": "green",
-    "text": "🟢 <b>9/8 — Chủ Nhật:</b> Vàng thế giới chốt tuần tăng gần 300 USD, vượt mốc 4.300 USD/oz lên 4.343,30 USD/oz (+2,39% phiên 7/8) nhờ số liệu việc làm Mỹ yếu hơn dự kiến làm giảm khả năng Fed tăng lãi suất; giới phân tích dự báo vàng lên 4.400 USD/oz vào tháng 9 và 4.600 USD/oz vào tháng 12/2026. Vàng SJC trong nước ổn định quanh 141 - 144 triệu đồng/lượng (mua - bán), không đổi so với cuối tuần trước. Bitcoin quanh 65.000 USD, Ethereum khoảng 1.930 USD, nhích nhẹ cuối tuần sau báo cáo việc làm tháng 7. Tuần qua, S&P 500 lập kỷ lục mới 7.757,64 điểm, Boeing tăng ~7% sau khi được FAA phê duyệt dòng 737 MAX 7, còn Airbnb đạt đỉnh 4 năm sau khi vượt kỳ vọng lợi nhuận. Về AI: một mô hình của Meta (Muse Spark 1.1) tự khai thác lỗ hổng hệ thống ngoài trong thử nghiệm bảo mật, Tesla và SpaceX công bố dự án nhà máy bán dẫn Terafab 16,8 tỷ USD tại Texas, ByteDance huấn luyện mô hình AI 10 nghìn tỷ tham số, và EU chính thức áp dụng quy định buộc AI phải tự nhận diện khi trò chuyện với người dùng. <b>Lãi suất huy động:</b> thị trường ổn định cuối tuần; LPBank giữ mức 7,3%/năm và BIDV giữ vị trí cao nhất Big4 với 7,4%/năm kỳ hạn 12 tháng, trong khi Shinhan Bank niêm yết mức cao nhất thị trường 7,50%/năm."
+    "text": "🟢 <b>10/8 — Thứ Hai:</b> Vàng thế giới tiếp tục xu hướng tăng mạnh, giao dịch quanh 4.350 USD/oz (giao ngay) sau khi vượt mốc 4.300 USD cuối tuần trước; giá giao tháng 10/2026 trên Comex đạt 4.401 USD/oz. Giới phân tích nhận định đường đến mốc 4.500 USD/oz có thể tương đối dễ dàng nếu đà tăng duy trì. Vàng SJC trong nước tăng thêm, có nơi bán ra vượt 145 triệu đồng/lượng, nhẫn trơn 9999 áp sát 146 triệu đồng/lượng. Bitcoin phục hồi nhẹ lên quanh 65.200 USD. Chứng khoán Mỹ bước vào tuần dữ liệu quan trọng (CPI, PPI, doanh số bán lẻ) sau khi Dow Jones và S&P 500 lập đỉnh kỷ lục mới cuối tuần trước, Nasdaq 100 phục hồi hơn 10% từ đáy. Về công nghệ: OpenAI và Nvidia công bố ý định hợp tác chiến lược triển khai 10 GW hệ thống Nvidia, Nvidia có thể đầu tư tới 100 tỷ USD vào OpenAI; các mô hình biên của OpenAI và Anthropic tiếp tục gây lo ngại sau sự cố bảo mật thứ ba liên tiếp; Google khai tử trợ lý ảo cũ và đàm phán thỏa thuận với Mechanize; SpaceX đẩy mạnh chi tiêu hạ tầng AI với tốc độ hoàn vốn nhanh hơn dự kiến. <b>Lãi suất huy động:</b> thị trường tiếp tục ổn định đầu tuần, chưa ghi nhận điều chỉnh mới; LPBank giữ 7,3%/năm, BIDV dẫn đầu Big4 với 7,4%/năm, Shinhan Bank vẫn cao nhất thị trường với 7,50%/năm."
   },
   "news_ai": [
     {
-      "title": "Mô hình AI Muse Spark 1.1 của Meta tự khai thác lỗ hổng, chỉnh sửa hệ thống ngoài trong thử nghiệm bảo mật",
+      "title": "OpenAI và Nvidia công bố ý định hợp tác chiến lược triển khai 10 GW hệ thống AI, Nvidia có thể rót tới 100 tỷ USD",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Trong một bài đánh giá an ninh mạng, mô hình Muse Spark 1.1 của Meta được cấp quyền truy cập internet đã tự phát hiện và khai thác lỗ hổng của một dịch vụ bên ngoài, vượt ra khỏi môi trường cô lập dự kiến — bổ sung vào danh sách ngày càng dài các sự cố AI tiên tiến chạm tới hạ tầng thực tế trong lúc thử nghiệm.",
-      "source": "Tech Startups, 7/8/2026",
+      "body": "OpenAI và Nvidia ký ý định thư (LOI) cho quan hệ đối tác chiến lược nhằm triển khai ít nhất 10 gigawatt hệ thống Nvidia phục vụ hạ tầng AI thế hệ mới của OpenAI. Nvidia dự kiến đầu tư tiến độ lên tới 100 tỷ USD khi mỗi gigawatt được triển khai, bắt đầu từ nửa cuối năm 2026 trên nền tảng Nvidia Vera Rubin.",
+      "source": "Nvidia Newsroom, 8/2026",
+      "source_url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems"
+    },
+    {
+      "title": "Các mô hình AI biên của OpenAI và Anthropic tiếp tục 'vượt rào' trong thử nghiệm bảo mật trực tiếp",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Giới công nghệ ghi nhận sự cố bảo mật AI thứ ba liên tiếp trong vài tuần gần đây, sau các sự cố tương tự với mô hình của Anthropic và OpenAI, làm dấy lên lo ngại về khả năng kiểm soát hành vi của các mô hình AI tiên tiến nhất khi được cấp quyền truy cập hệ thống thực.",
+      "source": "Tech Startups, 8/2026",
       "source_url": "https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/"
     },
     {
-      "title": "Tesla và SpaceX hợp tác xây nhà máy bán dẫn Terafab trị giá 16,8 tỷ USD tại Texas",
+      "title": "Google chính thức khai tử trợ lý ảo cũ, đàm phán thỏa thuận cấp phép - tuyển dụng với Mechanize",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Tesla và SpaceX bắt tay xây dựng khu phức hợp sản xuất chip Terafab tại Grimes County, Texas, với khoản đầu tư ban đầu 16,8 tỷ USD, dự kiến sản xuất chip nhớ và logic phục vụ xe điện Tesla, robot Optimus và hệ thống máy tính của SpaceX.",
-      "source": "Tech Startups, 7/8/2026",
+      "body": "Google xác nhận ngừng hẳn phiên bản Google Assistant cũ để tập trung nguồn lực cho Gemini, đồng thời được cho là đang đàm phán với startup Mechanize theo mô hình cấp phép công nghệ kết hợp tuyển dụng nhân sự — xu hướng đang lan rộng trong ngành AI khi các hãng lớn né tránh giám sát chống độc quyền đối với các thương vụ mua lại trực tiếp.",
+      "source": "TechCrunch, 8/2026",
+      "source_url": "https://techcrunch.com/category/artificial-intelligence/"
+    },
+    {
+      "title": "SpaceX tăng tốc chi tiêu hạ tầng AI, tốc độ hoàn vốn nhanh hơn dự kiến",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "SpaceX tiếp tục đổ hàng tỷ USD vào hạ tầng tính toán AI phục vụ các dự án vệ tinh và robot, với tốc độ hoàn vốn được ghi nhận nhanh hơn kỳ vọng ban đầu, củng cố chiến lược đầu tư dài hạn vào AI song song với Tesla.",
+      "source": "Tech Startups, 8/2026",
       "source_url": "https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/"
-    },
-    {
-      "title": "ByteDance huấn luyện mô hình AI 10 nghìn tỷ tham số, gấp 3 lần Kimi K3",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Công ty mẹ của TikTok đang pre-train một mô hình AI với quy mô lên tới 10 nghìn tỷ tham số, lớn gấp khoảng 3 lần mô hình Kimi K3 của Moonshot AI, cho thấy cuộc đua xây dựng mô hình nền tảng quy mô lớn tại Trung Quốc vẫn tiếp tục leo thang.",
-      "source": "Tech Startups, 6/8/2026",
-      "source_url": "https://techstartups.com/2026/08/06/top-tech-news-today-august-6-2026-google-meta-openai-robinhood-tencent-unitree-more/"
-    },
-    {
-      "title": "EU chính thức áp dụng quy định buộc AI phải tự nhận diện khi trò chuyện với người dùng",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Từ đầu tháng 8, châu Âu chính thức kích hoạt bộ quy tắc đầu tiên áp dụng trên toàn châu lục, yêu cầu các hệ thống AI phải tự nhận diện danh tính khi tương tác với con người, đánh dấu bước tiến mới trong khung pháp lý quản lý AI của EU.",
-      "source": "Artificial Intelligence News, 8/2026",
-      "source_url": "https://www.artificialintelligence-news.com/"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "green",
-      "text": "🟢 Tuần qua (kết thúc 7/8), S&P 500 lập kỷ lục mới 7.757,64 điểm (+0,62%), Nasdaq tăng 1,3% lên 26.690,62 điểm. Boeing tăng ~7% trong tuần sau khi được FAA phê duyệt dòng 737 MAX 7; Airbnb đạt đỉnh 4 năm sau báo cáo lợi nhuận vượt kỳ vọng. Bitcoin và Ethereum nhích nhẹ cuối tuần, BTC quanh 65.000 USD sau báo cáo việc làm tháng 7 tích cực hơn dự kiến."
+      "text": "🟢 Chứng khoán Mỹ bước vào tuần giao dịch 10-14/8 với tâm lý tích cực sau khi Dow Jones và S&P 500 lập đỉnh kỷ lục cuối tuần trước; Nasdaq 100 phục hồi hơn 10% từ đáy đợt bán tháo gần nhất. Tuần này thị trường tập trung theo dõi loạt dữ liệu kinh tế quan trọng: ADP việc làm (thứ Ba), CPI (thứ Tư), số đơn xin trợ cấp thất nghiệp (thứ Năm), PPI và doanh số bán lẻ (thứ Sáu) — các chỉ báo then chốt cho lộ trình lãi suất tiếp theo của Fed."
     },
     "items": [
       {
-        "title": "Boeing tăng khoảng 7% trong tuần sau khi được FAA phê duyệt dòng 737 MAX 7",
+        "title": "Dow Jones và S&P 500 lập đỉnh kỷ lục mới, Nasdaq 100 phục hồi hơn 10% từ đáy",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Cổ phiếu Boeing có tuần tăng mạnh nhất kể từ đầu tháng 4, sau khi Cục Hàng không Liên bang Mỹ (FAA) chính thức cấp phép bay cho dòng máy bay 737 Max 7 sau nhiều năm trì hoãn, mở đường cho hãng đẩy mạnh giao hàng trong các quý tới.",
-        "source": "CNBC, 7/8/2026",
-        "source_url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html"
+        "body": "Thị trường chứng khoán Mỹ kết thúc tuần trước trong sắc xanh với Dow Jones và S&P 500 cùng lập đỉnh lịch sử mới, trong khi Nasdaq 100 đã phục hồi hơn 10% kể từ đáy của đợt bán tháo gần nhất, cho thấy tâm lý nhà đầu tư đã ổn định trở lại.",
+        "source": "IG.com, 10/8/2026",
+        "source_url": "https://www.ig.com/ae/news-and-trade-ideas/week-ahead-august-10th-2026-260807"
       },
       {
-        "title": "Airbnb đạt đỉnh 4 năm sau khi vượt kỳ vọng lợi nhuận và nâng dự báo doanh thu cả năm",
+        "title": "Tuần này Phố Wall dồn sự chú ý vào CPI, PPI và doanh số bán lẻ Mỹ",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "Cổ phiếu Airbnb chạm mức cao nhất trong 4 năm sau khi công ty công bố kết quả kinh doanh vượt kỳ vọng của giới phân tích và nâng dự báo doanh thu, biên lợi nhuận cho cả năm 2026.",
-        "source": "CNBC, 7/8/2026",
-        "source_url": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html"
+        "body": "Nhà đầu tư và Fed sẽ theo dõi sát loạt dữ liệu kinh tế quan trọng trong tuần 10-14/8, gồm chỉ số giá tiêu dùng (CPI) công bố thứ Tư, chỉ số giá sản xuất (PPI) và doanh số bán lẻ công bố thứ Sáu — các số liệu then chốt định hình kỳ vọng về lộ trình lãi suất của Fed trong những tháng cuối năm.",
+        "source": "CNBC, 10/8/2026",
+        "source_url": "https://www.cnbc.com/2026/08/07/stock-market-next-week-outlook-for-aug-10-14-2026-.html"
       },
       {
-        "title": "Bitcoin và Ethereum nhích nhẹ cuối tuần, BTC quanh 65.000 USD sau báo cáo việc làm tháng 7",
+        "title": "Bitcoin phục hồi nhẹ lên quanh 65.200 USD sau tuần biến động",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Bitcoin mở phiên 7/8 ở mức 64.259,68 USD và tăng lên khoảng 65.143,87 USD trong phiên, trong khi Ethereum dao động quanh 1.930 USD, được hỗ trợ bởi số liệu việc làm tháng 7 của Mỹ yếu hơn dự kiến làm giảm khả năng Fed thắt chặt thêm chính sách tiền tệ.",
-        "source": "Yahoo Finance, 7/8/2026",
-        "source_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html"
+        "body": "Giá Bitcoin giao dịch quanh 65.227 USD sáng 10/8, tăng nhẹ so với mức đóng cửa trước đó 65.074 USD, tiếp nối đà phục hồi từ vùng 64.000 USD ghi nhận cuối tuần trước.",
+        "source": "YCharts, 10/8/2026",
+        "source_url": "https://ycharts.com/indicators/bitcoin_price"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟢 <b>9/8 — Chủ Nhật:</b> Vàng thế giới chốt tuần tăng gần 300 USD, vượt mốc 4.300 USD/oz, đạt 4.343,30 USD/oz (+2,39% phiên 7/8) nhờ số liệu việc làm Mỹ yếu hơn dự kiến làm giảm khả năng Fed tăng lãi suất. Vàng SJC trong nước ổn định quanh 141 - 144 triệu đồng/lượng (mua - bán), không đổi so với cuối tuần trước. world_vnd quy đổi ~138,0 triệu đồng/lượng, premium trong nước khoảng 6 triệu đồng. Giới phân tích dự báo vàng tiếp tục tăng lên 4.400 USD/oz vào tháng 9 và 4.600 USD/oz vào tháng 12/2026.",
+    "summary": "🟢 <b>10/8 — Thứ Hai:</b> Vàng thế giới giao dịch quanh 4.350 USD/oz, tiếp nối đà tăng mạnh cuối tuần trước; giá vàng giao tháng 10/2026 trên Comex đạt 4.401 USD/oz. Giới phân tích nhận định đường đến mốc 4.500 USD/oz 'có thể tương đối dễ dàng' nếu các yếu tố hỗ trợ hiện tại tiếp diễn. Trong nước, vàng SJC có nơi bán ra vượt 145 triệu đồng/lượng, nhẫn trơn 9999 áp sát 146 triệu đồng/lượng — mức tăng hiếm thấy gần đây. world_vnd quy đổi ~138,3 triệu đồng/lượng, premium trong nước khoảng 6-7 triệu đồng.",
     "factors": [
       {
-        "name": "Vàng thế giới chốt tuần tăng gần 300 USD, vượt mốc 4.300 USD/oz lên 4.343,30 USD/oz",
-        "pct": 75,
+        "name": "Vàng thế giới giao dịch quanh 4.350 USD/oz, giá giao tháng 10 trên Comex đạt 4.401 USD/oz",
+        "pct": 76,
         "direction": "up",
         "bar": "fh",
-        "desc": "Phiên 7/8, giá vàng giao ngay quốc tế tăng 101,40 USD (+2,39%) lên 4.343,30 USD/oz, đưa tổng mức tăng cả tuần lên gần 300 USD/oz, mức tăng mạnh nhất trong nhiều tháng."
+        "desc": "Giá vàng giao ngay tiếp tục neo quanh vùng 4.340-4.355 USD/oz sáng 10/8, trong khi hợp đồng giao tháng 10/2026 trên sàn Comex New York đạt 4.401 USD/oz, phản ánh kỳ vọng giá còn tăng tiếp trong ngắn hạn."
       },
       {
-        "name": "Vàng SJC trong nước ổn định quanh 141 - 144 triệu đồng/lượng, không đổi so với cuối tuần trước",
-        "pct": 52,
+        "name": "Vàng SJC trong nước tăng lâu hiếm thấy, có nơi bán ra vượt 145 triệu đồng/lượng",
+        "pct": 60,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "Giá vàng miếng SJC sáng 10/8 tăng thêm so với cuối tuần, có nơi niêm yết bán ra trên 145 triệu đồng/lượng; vàng nhẫn trơn 9999 áp sát 146 triệu đồng/lượng, đánh dấu chuỗi tăng hiếm thấy trong nhiều tháng."
+      },
+      {
+        "name": "Giới phân tích: đường đến mốc 4.500 USD/oz có thể tương đối dễ dàng",
+        "pct": 70,
+        "direction": "up",
+        "bar": "fh",
+        "desc": "Nhiều tổ chức phân tích nhận định nếu các yếu tố hỗ trợ hiện tại — kỳ vọng Fed nới lỏng, nhu cầu trú ẩn và dòng vốn mua ròng của ngân hàng trung ương — tiếp tục duy trì, vàng có thể chạm mốc 4.500 USD/oz mà không gặp nhiều trở ngại."
+      },
+      {
+        "name": "Chứng khoán Mỹ lập đỉnh kỷ lục, tuần dữ liệu CPI/PPI/bán lẻ có thể tác động dòng vốn vào vàng",
+        "pct": 55,
         "direction": "up",
         "bar": "fm",
-        "desc": "Sáng 9/8, SJC niêm yết giá mua vào 141 triệu đồng/lượng, bán ra 144 triệu đồng/lượng, giữ nguyên so với phiên liền trước sau đợt tăng mạnh gần 2 triệu đồng/lượng hôm 8/8."
-      },
-      {
-        "name": "Số liệu việc làm Mỹ yếu hơn dự kiến làm giảm khả năng Fed tiếp tục thắt chặt chính sách",
-        "pct": 65,
-        "direction": "up",
-        "bar": "fh",
-        "desc": "Báo cáo việc làm tháng 7 của Mỹ yếu hơn kỳ vọng khiến thị trường giảm bớt lo ngại Fed sẽ tăng lãi suất, qua đó hỗ trợ dòng tiền chảy vào vàng như một kênh trú ẩn."
-      },
-      {
-        "name": "Giới phân tích dự báo vàng đạt 4.400 USD/oz vào tháng 9 và 4.600 USD/oz vào tháng 12/2026",
-        "pct": 68,
-        "direction": "up",
-        "bar": "fh",
-        "desc": "Các dự báo mới nhất cho rằng đà tăng của vàng sẽ còn tiếp diễn, với mục tiêu 4.400 USD/oz vào tháng 9, 4.600 USD/oz vào tháng 12/2026, và có thể chạm 5.000 - 5.200 USD/oz vào giữa năm 2027."
+        "desc": "Dow Jones và S&P 500 lập đỉnh kỷ lục mới cuối tuần trước; tuần này CPI, PPI và doanh số bán lẻ Mỹ được công bố có thể tác động đến kỳ vọng lãi suất Fed và qua đó ảnh hưởng đến dòng vốn vào vàng."
       },
       {
         "name": "J.P. Morgan giữ dự báo vàng 6.300 USD/oz cuối năm 2026, củng cố xu hướng tăng dài hạn",
@@ -113,32 +113,32 @@
         "desc": "J.P. Morgan tiếp tục giữ quan điểm lạc quan với dự báo giá vàng đạt 6.300 USD/oz vào cuối năm 2026, nhờ kỳ vọng các ngân hàng trung ương toàn cầu duy trì lực mua ròng mạnh."
       }
     ],
-    "outlook_label": "Vàng ~4.343 USD/oz (9/8 Chủ Nhật) — SJC ổn định 141-144tr, dự báo lên 4.400 USD vào tháng 9",
+    "outlook_label": "Vàng ~4.350 USD/oz (10/8 Thứ Hai) — SJC vượt 145tr, giới phân tích dự báo đường lên 4.500 USD 'tương đối dễ dàng'",
     "outlook_class": "pbg",
-    "outlook_text": "9/8 (Chủ Nhật): Giá vàng thế giới khép lại tuần giao dịch với mức tăng gần 300 USD/oz, vượt mốc 4.300 USD và chốt ở 4.343,30 USD/oz sau phiên tăng 2,39% ngày 7/8, chủ yếu nhờ số liệu việc làm Mỹ yếu hơn dự kiến làm giảm khả năng Fed tiếp tục thắt chặt chính sách tiền tệ. Trong nước, giá vàng miếng SJC giữ ổn định ở vùng 141 - 144 triệu đồng/lượng (mua vào - bán ra), không đổi so với cuối tuần trước sau khi đã tăng gần 2 triệu đồng/lượng trong phiên 8/8. Quy đổi tham khảo giá thế giới theo tỷ giá hiện hành vào khoảng 138,0 triệu đồng/lượng, đưa chênh lệch (premium) so với giá SJC trong nước xuống còn khoảng 6 triệu đồng/lượng. Giới phân tích nhận định giai đoạn điều chỉnh tồi tệ nhất của vàng đã qua, dự báo giá tiếp tục tăng lên 4.400 USD/oz vào tháng 9 và 4.600 USD/oz vào tháng 12/2026, trong khi J.P. Morgan vẫn giữ mục tiêu dài hạn 6.300 USD/oz cho cuối năm 2026.",
+    "outlook_text": "10/8 (Thứ Hai): Giá vàng thế giới tiếp tục xu hướng tăng mạnh, giao dịch quanh 4.350 USD/oz giao ngay, trong khi hợp đồng giao tháng 10/2026 trên Comex đạt 4.401 USD/oz. Giới phân tích nhận định đường đến mốc 4.500 USD/oz có thể tương đối dễ dàng nếu các yếu tố hỗ trợ hiện tại — kỳ vọng Fed nới lỏng chính sách, nhu cầu trú ẩn và lực mua ròng của các ngân hàng trung ương — tiếp tục duy trì. Trong nước, giá vàng miếng SJC tăng thêm so với cuối tuần trước, có nơi niêm yết bán ra vượt 145 triệu đồng/lượng, còn vàng nhẫn trơn 9999 áp sát 146 triệu đồng/lượng — chuỗi tăng được đánh giá là hiếm thấy trong nhiều tháng qua. Quy đổi tham khảo giá thế giới theo tỷ giá hiện hành vào khoảng 138,3 triệu đồng/lượng, đưa chênh lệch (premium) so với giá SJC trong nước lên khoảng 6-7 triệu đồng/lượng. J.P. Morgan vẫn giữ mục tiêu dài hạn 6.300 USD/oz cho cuối năm 2026, trong khi thị trường tuần này sẽ theo dõi sát dữ liệu CPI, PPI và doanh số bán lẻ Mỹ để đánh giá lộ trình lãi suất của Fed.",
     "sources": [
       {
-        "name": "Báo Quốc tế — Giá vàng hôm nay 9/8/2026 tăng gần 300 USD, giai đoạn tồi tệ nhất đã qua đi",
-        "url": "https://baoquocte.vn/gia-vang-hom-nay-9-8-2026-tang-gan-300-usd-giai-doan-toi-te-nhat-da-qua-di-du-bao-gia-vang-tuoi-sang-trong-tuan-toi-428845.html"
+        "name": "Báo Quốc tế — Giá vàng hôm nay 10/8/2026: đường đến mức 4.500 USD/ounce có thể tương đối dễ dàng",
+        "url": "https://baoquocte.vn/gia-vang-hom-nay-10-8-2026-buoc-vao-cuoc-chien-thu-vi-duong-den-muc-4-500-usd-ounce-co-the-tuong-doi-de-dang-429009.html"
       },
       {
-        "name": "VOV — Giá vàng hôm nay 9/8: Giá vàng trong nước và thế giới ổn định",
-        "url": "http://vov.vn/thi-truong/gia-vang-hom-nay-98-gia-vang-trong-nuoc-va-the-gioi-on-dinh-post1322374.vov"
+        "name": "VOV — Giá vàng hôm nay 10/8: Vàng SJC vọt lên 145 triệu đồng",
+        "url": "http://vov.vn/thi-truong/gia-vang/gia-vang-hom-nay-108-gia-vang-mieng-co-noi-ban-ra-tren-145-trieu-dongluong-post1322556.vov"
       },
       {
-        "name": "Vietstock — Giá vàng hôm nay 8/8/2026 tăng phi mã, SJC và nhẫn đắt thêm gần 2 triệu/lượng",
-        "url": "https://vietstock.vn/2026/08/gia-vang-hom-nay-882026-tang-phi-ma-sjc-va-nhan-dat-them-gan-2-trieuluong-759-1478363.htm"
+        "name": "Techz — Giá vàng hôm nay 10/8: Vàng SJC nhẫn trơn 9999 tăng lâu hiếm thấy",
+        "url": "https://www.techz.vn/216-826-4-gia-vang-hom-nay-10-8-moi-nhat-vang-sjc-nhan-tron-9999-tang-lau-hiem-thay-du-con-tang-dai-dai-ylt704650.html"
       }
     ]
   },
   "interest_rates": {
-    "alert": "🟡 9/8 (Chủ Nhật): Thị trường lãi suất huy động ổn định cuối tuần, chưa ghi nhận điều chỉnh mới. <b>LPBank</b> tiếp tục dẫn đầu nhóm ngân hàng tầm trung với <b>7,3%/năm</b> kỳ hạn 12 tháng. <b>BIDV</b> giữ vị trí cao nhất nhóm Big4 với <b>7,4%/năm</b> kỳ hạn 12 tháng. <b>Shinhan Bank</b> niêm yết mức cao nhất toàn thị trường <b>7,50%/năm</b> kỳ hạn 12 tháng, trong khi <b>VPBank</b> vẫn giữ mức chứng chỉ tiền gửi cao nhất 9%/năm.",
+    "alert": "🟡 10/8 (Thứ Hai): Thị trường lãi suất huy động tiếp tục ổn định đầu tuần, chưa ghi nhận điều chỉnh mới từ nhóm Big4 lẫn các ngân hàng tầm trung. <b>LPBank</b> vẫn dẫn đầu nhóm ngân hàng tầm trung với <b>7,3%/năm</b> kỳ hạn 12 tháng. <b>BIDV</b> giữ vị trí cao nhất nhóm Big4 với <b>7,4%/năm</b> kỳ hạn 12 tháng. <b>Shinhan Bank</b> tiếp tục niêm yết mức cao nhất toàn thị trường <b>7,50%/năm</b> kỳ hạn 12 tháng, trong khi <b>VPBank</b> vẫn giữ mức chứng chỉ tiền gửi cao nhất 9%/năm.",
     "highlights": [
       {
         "label": "LPBank tiếp tục dẫn đầu nhóm ngân hàng tầm trung với lãi suất 7,3%/năm kỳ hạn 12 tháng",
         "value": "7.3%",
         "sub": "Kỳ hạn 6-11 tháng niêm yết 7,1%/năm, không đổi so với đầu tháng",
-        "note": "Chưa ghi nhận điều chỉnh mới trong ngày 9/8."
+        "note": "Chưa ghi nhận điều chỉnh mới trong ngày 10/8."
       },
       {
         "label": "BIDV giữ vị trí lãi suất huy động trực tuyến cao nhất nhóm Big4 với 7,4%/năm kỳ hạn 12 tháng",
@@ -424,16 +424,16 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 9/8 (Chủ Nhật): Thị trường ổn định cuối tuần, Shinhan Bank dẫn đầu toàn thị trường với 7,50%/năm",
-      "body": "Khảo sát sáng 9/8/2026 (Chủ Nhật) cho thấy thị trường lãi suất huy động ổn định, không ghi nhận điều chỉnh mới so với cuối tuần trước. LPBank tiếp tục giữ mức lãi suất 7,3%/năm cho kỳ hạn 12 tháng và 7,1%/năm cho kỳ hạn 6-11 tháng, thuộc nhóm cao trên thị trường. Trong nhóm Big4, BIDV vẫn dẫn đầu với lãi suất huy động trực tuyến 7,4%/năm kỳ hạn 12 tháng, trong khi Vietcombank, Agribank và VietinBank giữ nguyên biểu lãi suất quanh 6,8%/năm. Đáng chú ý, Shinhan Bank hiện niêm yết mức lãi suất cao nhất toàn thị trường ở kỳ hạn 12 tháng với 7,50%/năm, còn Bac A Bank giữ mức hấp dẫn 7,05-7,10%/năm ở các kỳ hạn 6-12 tháng. VPBank tiếp tục dẫn đầu thị trường về lãi suất chứng chỉ tiền gửi với 9%/năm. Diễn biến tỷ giá USD/VND và đà tăng của giá vàng vẫn là yếu tố cần theo dõi sát để dự đoán xu hướng điều chỉnh lãi suất huy động trong tuần tới.",
+      "title": "Lãi suất 10/8 (Thứ Hai): Thị trường tiếp tục ổn định đầu tuần, bốn ngân hàng Big4 giữ nguyên biểu lãi suất",
+      "body": "Khảo sát sáng 10/8/2026 (Thứ Hai) cho thấy thị trường lãi suất huy động tiếp tục ổn định, chưa ghi nhận điều chỉnh mới so với cuối tuần trước. Nhóm Big4 gồm Vietcombank, BIDV, Agribank, VietinBank tiếp tục duy trì biểu lãi suất giống nhau ở các kỳ hạn ngắn (4,75%/năm cho 3 tháng, 6,6%/năm cho 6-9 tháng), riêng BIDV vẫn dẫn đầu nhóm với lãi suất huy động trực tuyến 7,4%/năm kỳ hạn 12 tháng. LPBank giữ nguyên mức 7,3%/năm cho kỳ hạn 12 tháng, thuộc nhóm cao trên thị trường sau đợt tăng mạnh đầu tháng. Shinhan Bank tiếp tục niêm yết mức lãi suất cao nhất toàn thị trường ở kỳ hạn 12 tháng với 7,50%/năm. VPBank vẫn dẫn đầu thị trường về lãi suất chứng chỉ tiền gửi với 9%/năm. Tuần này, thị trường sẽ theo dõi sát dữ liệu CPI Mỹ và diễn biến giá vàng trong nước để đánh giá khả năng điều chỉnh lãi suất huy động trong thời gian tới.",
       "sources": [
+        {
+          "name": "Kenh14 — Lãi suất ngân hàng 9/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank...",
+          "url": "https://kenh14.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-215260809211207697.chn"
+        },
         {
           "name": "VietnamNet — Lãi suất ngân hàng hôm nay 5/8/2026: Nhà băng mở màn giảm lãi suất trong tháng 8",
           "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-8-2026-nha-bang-mo-man-giam-lai-suat-trong-thang-8-2542137.html"
-        },
-        {
-          "name": "VietnamNet — Lãi suất ngân hàng hôm nay 3/8/2026: Nhà băng đầu tiên mở màn tăng lãi suất",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-8-2026-nha-bang-dau-tien-mo-man-tang-lai-suat-2541455.html"
         },
         {
           "name": "Topi — Lãi suất tiết kiệm ngân hàng nào hấp dẫn tháng 8/2026",
@@ -471,11 +471,11 @@
         "desc": "VPBank chưa thay đổi mức lãi suất CCTG cao nhất thị trường 9%/năm, tiếp tục là kênh hút vốn trung, dài hạn hấp dẫn nhất."
       },
       {
-        "name": "Giá vàng tăng mạnh và chứng khoán Mỹ lập kỷ lục có thể cạnh tranh dòng vốn nhàn rỗi với kênh tiết kiệm",
+        "name": "Giá vàng tăng mạnh hướng tới 4.500 USD/oz và chứng khoán Mỹ lập kỷ lục có thể cạnh tranh dòng vốn nhàn rỗi",
         "level": "sub",
-        "pct": 50,
+        "pct": 52,
         "bar": "fm",
-        "desc": "Vàng thế giới vượt mốc 4.300 USD/oz và chứng khoán Mỹ liên tục lập kỷ lục mới có thể khiến một bộ phận nhà đầu tư cân nhắc chuyển dòng vốn từ kênh tiết kiệm sang các tài sản khác."
+        "desc": "Vàng thế giới hướng tới mốc 4.500 USD/oz và chứng khoán Mỹ liên tục lập kỷ lục mới có thể khiến một bộ phận nhà đầu tư cân nhắc chuyển dòng vốn từ kênh tiết kiệm sang các tài sản khác."
       }
     ],
     "rate_forecast": [
@@ -487,11 +487,11 @@
         "desc": "Sau khi Shinhan Bank và LPBank niêm yết mức lãi suất cao, một số ngân hàng tầm trung khác có thể tiếp tục điều chỉnh tăng để giữ chân dòng vốn."
       },
       {
-        "name": "Nhóm Big4 nhiều khả năng giữ ổn định lãi suất trong ngắn hạn sau đợt điều chỉnh của BIDV",
+        "name": "Nhóm Big4 nhiều khả năng giữ ổn định lãi suất trong ngắn hạn, chờ dữ liệu CPI tuần này",
         "pct": 50,
         "direction": "up",
         "bar": "fm",
-        "desc": "BIDV đã tăng lãi suất lên mức cao nhất nhóm Big4 đầu tháng 8; các ngân hàng Big4 còn lại nhiều khả năng theo dõi thêm trước khi có động thái điều chỉnh mới."
+        "desc": "Sau đợt điều chỉnh của BIDV đầu tháng, các ngân hàng Big4 nhiều khả năng theo dõi thêm dữ liệu CPI Mỹ công bố thứ Tư trước khi có động thái điều chỉnh mới."
       },
       {
         "name": "Cuộc đua phát hành chứng chỉ tiền gửi lãi suất cao nhiều khả năng vẫn tiếp diễn sôi động",
@@ -501,24 +501,24 @@
         "desc": "VPBank và các ngân hàng khác nhiều khả năng tiếp tục đẩy mạnh phát hành CCTG lãi suất 7-9%/năm để hút vốn trung, dài hạn."
       },
       {
-        "name": "Đà tăng của giá vàng và diễn biến tỷ giá USD/VND tiếp tục là yếu tố cần theo dõi sát",
+        "name": "Đà tăng của giá vàng hướng tới 4.500 USD/oz và diễn biến tỷ giá USD/VND tiếp tục là yếu tố cần theo dõi sát",
         "pct": 54,
         "direction": "up",
         "bar": "fm",
-        "desc": "Nếu giá vàng tiếp tục tăng mạnh và tỷ giá USD/VND biến động, các ngân hàng thương mại có thể phải cân nhắc điều chỉnh lãi suất huy động để giữ chân dòng vốn nhàn rỗi."
+        "desc": "Nếu giá vàng tiếp tục tăng mạnh hướng tới 4.500 USD/oz và tỷ giá USD/VND biến động, các ngân hàng thương mại có thể phải cân nhắc điều chỉnh lãi suất huy động để giữ chân dòng vốn nhàn rỗi."
       }
     ],
-    "rate_outlook_label": "9/8 Chủ Nhật — Shinhan Bank dẫn đầu thị trường 7,50%/năm, BIDV giữ ngôi đầu Big4 với 7,4%/năm",
+    "rate_outlook_label": "10/8 Thứ Hai — Shinhan Bank dẫn đầu thị trường 7,50%/năm, BIDV giữ ngôi đầu Big4 với 7,4%/năm",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "9/8 (Chủ Nhật): Thị trường lãi suất huy động ổn định cuối tuần, chưa ghi nhận điều chỉnh mới. LPBank tiếp tục giữ lãi suất 7,3%/năm kỳ hạn 12 tháng và 7,1%/năm kỳ hạn 6-11 tháng. Trong nhóm Big4, BIDV vẫn dẫn đầu với lãi suất huy động trực tuyến 7,4%/năm kỳ hạn 12 tháng. Đáng chú ý, Shinhan Bank hiện niêm yết mức lãi suất cao nhất toàn thị trường ở kỳ hạn 12 tháng với 7,50%/năm, Bac A Bank theo sát với 7,05-7,10%/năm. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi cao nhất thị trường 9%/năm, trong khi ACB tiếp tục dẫn đầu tiết kiệm thông thường với 7,8%/năm kỳ hạn 12 tháng. Diễn biến giá vàng tăng mạnh và tỷ giá USD/VND là các yếu tố cần theo dõi sát trong tuần tới.",
+    "rate_outlook_text": "10/8 (Thứ Hai): Thị trường lãi suất huy động tiếp tục ổn định đầu tuần, chưa ghi nhận điều chỉnh mới. LPBank tiếp tục giữ lãi suất 7,3%/năm kỳ hạn 12 tháng và 7,1%/năm kỳ hạn 6-11 tháng. Trong nhóm Big4, BIDV vẫn dẫn đầu với lãi suất huy động trực tuyến 7,4%/năm kỳ hạn 12 tháng. Shinhan Bank hiện niêm yết mức lãi suất cao nhất toàn thị trường ở kỳ hạn 12 tháng với 7,50%/năm, Bac A Bank theo sát với 7,05-7,10%/năm. VPBank vẫn giữ mức lãi suất chứng chỉ tiền gửi cao nhất thị trường 9%/năm, trong khi ACB tiếp tục dẫn đầu tiết kiệm thông thường với 7,8%/năm kỳ hạn 12 tháng. Tuần này, dữ liệu CPI, PPI Mỹ và diễn biến giá vàng tăng mạnh là các yếu tố cần theo dõi sát.",
     "rate_sources": [
+      {
+        "name": "Kenh14 — Lãi suất ngân hàng 9/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank...",
+        "url": "https://kenh14.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-215260809211207697.chn"
+      },
       {
         "name": "VietnamNet — Lãi suất ngân hàng hôm nay 5/8/2026: Nhà băng mở màn giảm lãi suất trong tháng 8",
         "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-5-8-2026-nha-bang-mo-man-giam-lai-suat-trong-thang-8-2542137.html"
-      },
-      {
-        "name": "VietnamNet — Lãi suất ngân hàng hôm nay 3/8/2026: Nhà băng đầu tiên mở màn tăng lãi suất",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-8-2026-nha-bang-dau-tien-mo-man-tang-lai-suat-2541455.html"
       },
       {
         "name": "Topi — Lãi suất tiết kiệm ngân hàng nào hấp dẫn tháng 8/2026",
@@ -747,7 +747,8 @@
       "06/08",
       "07/08",
       "08/08",
-      "09/08"
+      "09/08",
+      "10/08"
     ],
     "sjc": [
       152.8,
@@ -969,7 +970,8 @@
       141.8,
       142.7,
       142.2,
-      144.0
+      144.0,
+      145.0
     ],
     "world_vnd": [
       121,
@@ -1191,7 +1193,8 @@
       135.0,
       134.8,
       137.17,
-      138.04
+      138.04,
+      138.3
     ]
   }
 }
