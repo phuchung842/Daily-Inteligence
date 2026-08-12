@@ -1,109 +1,109 @@
 {
   "meta": {
-    "date": "11 tháng 8, 2026",
-    "day": "Thứ Ba",
-    "updated": "2026-08-11 15:40"
+    "date": "12 tháng 8, 2026",
+    "day": "Thứ Tư",
+    "updated": "2026-08-12 19:20"
   },
   "alert": {
     "type": "yellow",
-    "text": "🟡 <b>11/8 — Thứ Ba:</b> Vàng thế giới vượt mốc 4.400 USD/oz, đạt mức mở cửa cao nhất kể từ đầu tháng 6, trong khi vàng SJC trong nước biến động mạnh trong phiên — mở cửa tăng 1,4 triệu đồng/lượng lên 145,5 triệu đồng/lượng rồi quay đầu giảm 500.000 đồng, hiện quanh 144-145,5 triệu đồng/lượng (mua-bán). Bitcoin dao động quanh 64.000-65.000 USD khi giá dầu tăng vì lo ngại nguồn cung từ Iran đẩy lợi suất trái phiếu Mỹ lên cao trước thềm dữ liệu CPI công bố thứ Tư; S&P 500 gần như đi ngang (-0,06%). Về công nghệ: Meta mở mã nguồn mô hình AI cục bộ Muse Glimmer 30B chạy trên một GPU tiêu dùng; Intel công bố chào bán 15 tỷ USD cổ phiếu để dồn lực cho mảng AI và bán dẫn; Google chuẩn bị sự kiện Made by Google ra mắt dòng Pixel 11 vào 12/8; AgiBot (Trung Quốc) vượt Unitree trở thành hãng robot hình người lớn nhất thế giới nửa đầu 2026. <b>Lãi suất huy động:</b> ACB dẫn đầu khảo sát 35 ngân hàng với 7,8%/năm kỳ hạn 12 tháng, LPBank bám sát 7,3%/năm; nhóm Big4 đồng loạt về lại 6,8%/năm sau khi BIDV đưa lãi suất trở lại mức cũ; VPBank tăng thêm 0,2 điểm % kỳ hạn 6-13 tháng lên 6,2%/năm; MBV cộng thêm lãi suất, thực nhận tới 8,2%/năm cho khoản gửi từ 200 triệu đồng."
+    "text": "🟡 <b>12/8 — Thứ Tư:</b> Vàng thế giới tăng lên quanh 4.410 USD/oz (+0,82%), tiếp tục vùng cao nhất kể từ đầu tháng 6, trong khi vàng SJC trong nước quay đầu giảm 700.000 đồng, niêm yết 141,3-144,3 triệu đồng/lượng (mua-bán). Chứng khoán Mỹ giảm nhẹ phiên 11/8 (S&P 500 -0,32%) khi căng thẳng Mỹ-Iran leo thang, hợp đồng tương lai đi ngang sáng 12/8 chờ dữ liệu CPI tháng 7 công bố trong ngày. Bitcoin dao động 64.000-65.300 USD, dòng vốn ETF Ethereum tiếp tục nóng lên. Về công nghệ: Google tổ chức sự kiện Made by Google ra mắt Pixel 11 tối nay tại New York; Nvidia bắt tay 6 quỹ đầu tư lớn (Goldman Sachs, BlackRock, Blackstone...) huy động 500 tỷ USD cho hạ tầng AI; OpenAI ra mắt mô hình an ninh mạng GPT-5.6-Cyber cho đội phòng thủ được sàng lọc; startup Happyrobot gọi vốn 150 triệu USD Series C. <b>Lãi suất huy động:</b> VCBNeo tăng mạnh nhất thị trường lên 7,8%/năm kỳ hạn 12-60 tháng, ngang ACB dẫn đầu khảo sát 35 ngân hàng; LPBank và Nam A Bank giảm lãi suất nhiều kỳ hạn; Big4 giữ nguyên 6,8%/năm."
   },
   "news_ai": [
     {
-      "title": "Meta mở mã nguồn Muse Glimmer — mô hình AI agentic 30 tỷ tham số chạy trên một GPU tiêu dùng",
+      "title": "Google ra mắt Pixel 11: sự kiện Made by Google diễn ra tối nay tại New York",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "Meta Superintelligence Lab phát hành Muse Glimmer, mô hình 30 tỷ tham số theo giấy phép Apache 2.0, tối ưu cho tác vụ agent cục bộ như lập trình và LLM-as-judge. Bản lượng tử hóa 4-bit nén dưới 20GB, chạy được trên một GPU tiêu dùng, vượt trội Gemma4-31B và Qwen3.6-27B trong nhiều benchmark.",
-      "source": "MarkTechPost / SiliconANGLE, 8/2026",
-      "source_url": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/"
-    },
-    {
-      "title": "Intel chào bán 15 tỷ USD cổ phiếu để dồn lực đầu tư AI và mở rộng xưởng đúc bán dẫn",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Intel công bố kế hoạch huy động 15 tỷ USD qua phát hành cổ phiếu phổ thông nhằm củng cố bảng cân đối kế toán và tài trợ các cơ hội tăng trưởng từ AI vật lý, chip bán dẫn chuyên dụng và đóng gói tiên tiến. Cổ phiếu Intel giảm 3,71% trong phiên trước giờ mở cửa sau thông báo.",
-      "source": "CNBC / Yahoo Finance, 10/8/2026",
-      "source_url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html"
-    },
-    {
-      "title": "Google chuẩn bị sự kiện Made by Google 12/8, ra mắt dòng Pixel 11 và Pixel Watch 5",
-      "badge": "Tech/AI",
-      "badge_class": "ba",
-      "body": "Sự kiện diễn ra tại New York ngày 12/8, giới thiệu Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL và Pixel 11 Pro Fold trang bị chip Tensor G6, cùng Pixel Watch 5 pin lớn hơn và có thể có cập nhật về kính thông minh Android XR.",
+      "body": "Google tổ chức sự kiện Made by Google tại New York lúc 18h00 giờ Mỹ ngày 12/8, do Trevor Noah dẫn dắt, giới thiệu bộ tứ Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL và Pixel 11 Pro Fold chạy Android 17, cùng Pixel Watch 5 và phụ kiện định vị Pixel Tag. Đặt hàng trước bắt đầu ngay trong ngày.",
       "source": "Android Central / 9to5Google, 8/2026",
-      "source_url": "https://www.androidcentral.com/phones/google-pixel/how-to-watch-made-by-google-pixel-11-launch-event-live"
+      "source_url": "https://www.androidcentral.com/phones/live/made-by-google-2026-launch-live-pixel-11-pixel-11-pro-fold-pixel-watch-5-gemini-and-all-the-news"
     },
     {
-      "title": "AgiBot (Trung Quốc) vượt Unitree, trở thành hãng robot hình người lớn nhất thế giới nửa đầu 2026",
+      "title": "Nvidia bắt tay 6 đại gia Phố Wall huy động 500 tỷ USD cho hạ tầng AI",
       "badge": "Tech/AI",
       "badge_class": "ba",
-      "body": "AgiBot chiếm 44% thị phần toàn cầu sau khi xuất xưởng khoảng 8.400 robot hình người trong nửa đầu năm, tăng 562% so với cùng kỳ, vượt qua Unitree (31% thị phần, ~5.900 đơn vị). Cả hai hãng đang chuẩn bị niêm yết IPO giữa làn sóng bùng nổ robot vật lý.",
-      "source": "South China Morning Post, 8/2026",
-      "source_url": "https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push"
+      "body": "Nvidia hợp tác với Apollo Global, Blackstone, BlackRock, Brookfield, Goldman Sachs và KKR để huy động gói tài trợ 500 tỷ USD cho chip, năng lượng và trung tâm dữ liệu AI. CEO Jensen Huang gọi năng lực tính toán AI là một 'loại tài sản đầu tư được' (AI factories), dùng compute làm tài sản thế chấp.",
+      "source": "CNBC / Bloomberg, 10-11/8/2026",
+      "source_url": "https://www.cnbc.com/amp/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
+    },
+    {
+      "title": "OpenAI ra mắt GPT-5.6-Cyber, mô hình AI an ninh mạng chuyên biệt cho đội phòng thủ",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "OpenAI mở rộng chương trình Daybreak thành hai cấp truy cập: Daybreak Blue cấp GPT-5.6 Sol đã gỡ rào an ninh cho công việc phòng thủ hàng ngày, còn Daybreak Red giới hạn mô hình GPT-5.6-Cyber cho nghiên cứu lỗ hổng và kiểm thử bảo mật đã qua sàng lọc chặt. 16 đối tác gồm CrowdStrike, Palo Alto Networks, Cisco và IBM được cấp quyền truy cập sớm.",
+      "source": "TechCrunch / Axios, 10/8/2026",
+      "source_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+    },
+    {
+      "title": "Happyrobot huy động 150 triệu USD Series C cho nền tảng AI agent doanh nghiệp",
+      "badge": "Tech/AI",
+      "badge_class": "ba",
+      "body": "Startup Happyrobot gọi vốn 150 triệu USD vòng Series C từ a16z, T Capital, KFund và Y Combinator, phát triển AI agent tự động chuyển đổi quy trình doanh nghiệp từ chatbot sang vận hành thực tế — một trong loạt thương vụ gọi vốn AI nổi bật tuần này bên cạnh Zenity (125 triệu USD) và Hadrian (1,37 tỷ USD).",
+      "source": "Tech Startups, 11/8/2026",
+      "source_url": "https://techstartups.com/2026/08/11/venture-capital-startup-funding-roundup-august-11-2026-bessemer-venture-partners-citi-sequoia-capital-thiel-capital-more/"
     }
   ],
   "news_finance": {
     "alert": {
       "type": "yellow",
-      "text": "🟡 Chứng khoán Mỹ gần như đi ngang phiên đầu tuần khi giá dầu tăng vì lo ngại nguồn cung từ Iran, đẩy lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm lên 4,71% trước thềm dữ liệu CPI công bố thứ Tư (12/8). Dòng vốn vào các ETF Bitcoin giao ngay đạt 853,54 triệu USD trong tuần tính đến 7/8 — mạnh nhất kể từ tháng 4 — trong khi ETF Ether lần đầu vượt Bitcoin về dòng vốn vào trong tháng 8."
+      "text": "🟡 Chứng khoán Mỹ giảm nhẹ phiên 11/8 khi căng thẳng Mỹ-Iran leo thang (S&P 500 -0,32% còn 7.728,11 điểm, Dow -184 điểm, Nasdaq -0,6%); hợp đồng tương lai đi ngang sáng 12/8 khi giới đầu tư chờ dữ liệu CPI tháng 7 công bố trong ngày. Bitcoin dao động quanh 64.000-65.300 USD, dòng vốn ETF Ethereum tiếp tục nóng lên trong khi ETF Bitcoin hạ nhiệt; Thượng viện Mỹ hoãn bỏ phiếu Đạo luật Clarity Act sang tháng 9."
     },
     "items": [
       {
-        "title": "S&P 500 gần như đi ngang, giá dầu tăng đẩy lợi suất trái phiếu Mỹ lên cao trước thềm CPI",
+        "title": "S&P 500 giảm 0,32%, hợp đồng tương lai đi ngang chờ dữ liệu CPI công bố trong ngày",
         "badge": "Finance",
         "badge_class": "bf",
-        "body": "S&P 500 kết phiên đầu tuần giảm nhẹ 0,06% xuống 7.753,11 điểm khi giá dầu Brent tăng 1,04% lên 84,42 USD/thùng do thiếu tiến triển đàm phán với Iran, kéo lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm lên 4,71% trước dữ liệu CPI công bố thứ Tư.",
-        "source": "Bloomberg / CNBC, 11/8/2026",
-        "source_url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html"
+        "body": "Phố Wall giảm điểm phiên 11/8 khi bế tắc đàm phán Mỹ-Iran gia tăng lo ngại nguồn cung dầu, kéo lợi suất trái phiếu lên cao; S&P 500 đóng cửa giảm 0,32% còn 7.728,11 điểm, Dow Jones mất 184 điểm (-0,34%), Nasdaq giảm 0,6%. Hợp đồng tương lai sáng 12/8 gần như đi ngang khi thị trường chờ báo cáo CPI tháng 7 và kết quả kinh doanh của Cisco, Nebius, Cerebras.",
+        "source": "CNBC / Yahoo Finance, 11-12/8/2026",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081201698.html"
       },
       {
-        "title": "Dòng vốn ETF Bitcoin giao ngay đạt 853,54 triệu USD trong tuần, mạnh nhất kể từ tháng 4",
+        "title": "Bitcoin quanh 64.000-65.300 USD, dòng vốn ETF Ethereum vượt Bitcoin khi thị trường chờ CPI",
         "badge": "Crypto",
         "badge_class": "bf",
-        "body": "Các ETF Bitcoin giao ngay tại Mỹ hút ròng 853,54 triệu USD trong tuần tính đến 7/8/2026, trong đó IBIT của BlackRock chiếm 693 triệu USD. Đạo luật Clarity Act về quản lý tài sản số bị trì hoãn sang tháng 9 sau khi Thượng viện không đủ phiếu thông qua trước kỳ nghỉ.",
-        "source": "The Block / IG UK, 8/2026",
-        "source_url": "https://www.ig.com/uk/trading-strategies/us-crypto-bill-delay-bitcoin-etf-inflows-260810"
+        "body": "Bitcoin giao dịch quanh 64.085-65.293 USD, Ethereum quanh 1.915 USD trong bối cảnh dòng vốn ETF Ethereum tiếp tục nóng lên còn dòng vốn ETF Bitcoin hạ nhiệt. Dữ liệu CPI Mỹ công bố trong ngày 12/8 được xem là yếu tố quyết định xu hướng dòng vốn sắp tới; Thượng viện hoãn bỏ phiếu Đạo luật Clarity Act về quản lý tài sản số sang tháng 9.",
+        "source": "Fortune / CoinGabbar, 12/8/2026",
+        "source_url": "https://fortune.com/article/price-of-bitcoin-08-12-2026/"
       },
       {
-        "title": "Lần đầu tiên dòng vốn ETF Ether vượt Bitcoin trong tháng 8",
-        "badge": "Crypto",
+        "title": "Riot Platforms tăng hơn 12% sau báo cáo kinh doanh, doanh thu tăng 14% nhờ đào Bitcoin",
+        "badge": "Finance",
         "badge_class": "bf",
-        "body": "Tháng 8 đánh dấu lần đầu dòng vốn ETF Ether hàng tháng vượt Bitcoin, với các sản phẩm Ethereum hút 3,87 tỷ USD trong khi ETF Bitcoin ghi nhận dòng rút ròng khoảng 750 triệu USD, cho thấy sự dịch chuyển khẩu vị của nhà đầu tư tổ chức.",
-        "source": "News.Bitcoin.com, 8/2026",
-        "source_url": "https://news.bitcoin.com/crypto-news/bitcoin-ether-etf-inflow-streak-blackrock-august-2026/"
+        "body": "Cổ phiếu Riot Platforms bật tăng hơn 12% ngoài giờ sau khi công ty đào Bitcoin báo cáo doanh thu quý tăng 14% so với cùng kỳ, đào được 1.587 BTC trong quý. Plug Power cũng tăng 8% sau khi công bố khoản lỗ thấp hơn dự báo và doanh thu vượt kỳ vọng.",
+        "source": "Yahoo Finance, 11/8/2026",
+        "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
       }
     ]
   },
   "gold_analysis": {
-    "summary": "🟡 <b>11/8 — Thứ Ba:</b> Vàng thế giới vượt mốc 4.400 USD/oz (giao dịch quanh 4.409 USD/oz), mức mở cửa cao nhất kể từ đầu tháng 6. Trong nước, vàng SJC biến động mạnh trong phiên — mở cửa tăng 1,4 triệu đồng/lượng lên 142,5-145,5 triệu đồng/lượng, sau đó quay đầu giảm 500.000 đồng còn quanh 142-145 triệu đồng/lượng; vàng nhẫn trơn 9999 giảm tương tự về 141,5-144,5 triệu đồng/lượng. world_vnd quy đổi ~140,1 triệu đồng/lượng.",
+    "summary": "🟡 <b>12/8 — Thứ Tư:</b> Vàng thế giới tăng lên quanh 4.410 USD/oz (+0,82% so với hôm qua), tiếp tục vùng cao nhất kể từ đầu tháng 6. Trong nước, vàng SJC quay đầu giảm 700.000 đồng, niêm yết 141,3-144,3 triệu đồng/lượng (mua-bán) lúc 17h38. world_vnd quy đổi ~140,2 triệu đồng/lượng.",
     "factors": [
       {
-        "name": "Vàng thế giới vượt 4.400 USD/oz, cao nhất kể từ đầu tháng 6",
-        "pct": 74,
+        "name": "Vàng thế giới tăng lên khoảng 4.410 USD/oz, +0,82% so với phiên trước",
+        "pct": 72,
         "direction": "up",
         "bar": "fh",
-        "desc": "Giá vàng giao ngay đạt 4.409,30 USD/oz sáng 11/8, tăng 0,22% so với phiên trước (4.399,70 USD/oz), đánh dấu mức mở cửa cao nhất kể từ đầu tháng 6/2026."
+        "desc": "Giá vàng giao ngay dao động 4.405-4.417 USD/oz sáng 12/8, tăng khoảng 0,82% so với phiên trước, tiếp tục neo ở vùng cao nhất kể từ đầu tháng 6/2026."
       },
       {
-        "name": "Vàng SJC trong nước đảo chiều trong phiên, giảm 500.000 đồng sau khi tăng mạnh đầu giờ",
-        "pct": 55,
-        "direction": "down",
-        "bar": "fm",
-        "desc": "Mở cửa phiên 11/8, vàng SJC tăng 1,4 triệu đồng/lượng lên 142,5-145,5 triệu đồng/lượng, nhưng đến 10h30 đã điều chỉnh giảm 500.000 đồng còn 142-145 triệu đồng/lượng, cho thấy tâm lý thận trọng sau chuỗi tăng nóng."
-      },
-      {
-        "name": "Giá dầu tăng vì căng thẳng Iran đẩy lợi suất trái phiếu Mỹ lên cao, tạo áp lực hai chiều lên vàng",
-        "pct": 52,
-        "direction": "up",
-        "bar": "fm",
-        "desc": "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm tăng lên 4,71% khi giá dầu leo thang trước thềm dữ liệu CPI công bố thứ Tư, vừa hỗ trợ nhu cầu trú ẩn vừa tạo áp lực cạnh tranh dòng vốn với vàng."
-      },
-      {
-        "name": "Dòng vốn ETF Bitcoin và Ether hút mạnh, cho thấy khẩu vị rủi ro cải thiện có thể cạnh tranh với vàng",
+        "name": "Vàng SJC trong nước quay đầu giảm 700.000 đồng, còn 141,3-144,3 triệu đồng/lượng",
         "pct": 48,
         "direction": "down",
         "bar": "fm",
-        "desc": "ETF Bitcoin hút ròng 853,54 triệu USD trong tuần và ETF Ether lần đầu vượt Bitcoin về dòng vốn vào trong tháng 8, phản ánh khẩu vị rủi ro của nhà đầu tư tổ chức đang cải thiện, có thể làm chậm đà tăng của vàng trong ngắn hạn."
+        "desc": "Vàng miếng SJC niêm yết 141,3 triệu đồng/lượng (mua) - 144,3 triệu đồng/lượng (bán) lúc 17h38 ngày 12/8, giảm 700.000 đồng so với hôm qua dù giá thế giới tăng, phản ánh áp lực chốt lời trong nước."
+      },
+      {
+        "name": "Thị trường chờ dữ liệu CPI Mỹ công bố trong ngày, tạo áp lực hai chiều lên vàng",
+        "pct": 55,
+        "direction": "up",
+        "bar": "fm",
+        "desc": "Dữ liệu CPI tháng 7 công bố ngày 12/8 được xem là yếu tố quyết định hướng đi của lợi suất trái phiếu và USD trong ngắn hạn — CPI nóng hơn dự báo có thể tạo áp lực giảm lên vàng, trong khi CPI mát hơn sẽ hỗ trợ đà tăng."
+      },
+      {
+        "name": "Dòng vốn 500 tỷ USD đổ vào hạ tầng AI của Nvidia và Phố Wall có thể cạnh tranh dòng vốn với vàng",
+        "pct": 45,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Thỏa thuận tài trợ 500 tỷ USD giữa Nvidia và các quỹ đầu tư lớn cho hạ tầng AI cho thấy dòng vốn tổ chức tiếp tục đổ mạnh vào tài sản rủi ro, có thể làm chậm đà tìm đến vàng như kênh trú ẩn trong ngắn hạn."
       },
       {
         "name": "J.P. Morgan giữ dự báo vàng 6.300 USD/oz cuối năm 2026, củng cố xu hướng tăng dài hạn",
@@ -113,50 +113,50 @@
         "desc": "J.P. Morgan tiếp tục giữ quan điểm lạc quan với dự báo giá vàng đạt 6.300 USD/oz vào cuối năm 2026, nhờ kỳ vọng các ngân hàng trung ương toàn cầu duy trì lực mua ròng mạnh."
       }
     ],
-    "outlook_label": "Vàng vượt 4.400 USD/oz (11/8 Thứ Ba) — SJC đảo chiều giảm 500 nghìn sau khi tăng mạnh đầu phiên",
+    "outlook_label": "Vàng thế giới tăng lên 4.410 USD/oz (12/8 Thứ Tư) — SJC trong nước giảm 700 nghìn đồng",
     "outlook_class": "pby",
-    "outlook_text": "11/8 (Thứ Ba): Giá vàng thế giới vượt mốc 4.400 USD/oz, giao dịch quanh 4.409 USD/oz — mức mở cửa cao nhất kể từ đầu tháng 6/2026. Trong nước, vàng SJC biến động mạnh trong phiên: mở cửa tăng 1,4 triệu đồng/lượng lên 142,5-145,5 triệu đồng/lượng (mua-bán), nhưng đến giữa buổi sáng đã quay đầu giảm 500.000 đồng còn quanh 142-145 triệu đồng/lượng; vàng nhẫn trơn 9999 giảm tương tự về 141,5-144,5 triệu đồng/lượng. Diễn biến giằng co phản ánh tâm lý thận trọng của nhà đầu tư sau chuỗi tăng nóng nhiều phiên liên tiếp. Trên thị trường quốc tế, giá dầu tăng do lo ngại nguồn cung từ Iran đã đẩy lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm lên 4,71%, trong khi dòng vốn ETF Bitcoin và Ether tiếp tục hút mạnh cho thấy khẩu vị rủi ro của nhà đầu tư tổ chức đang cải thiện. J.P. Morgan vẫn giữ mục tiêu dài hạn 6.300 USD/oz cho cuối năm 2026, trong khi thị trường tuần này tiếp tục theo dõi sát dữ liệu CPI Mỹ công bố thứ Tư.",
+    "outlook_text": "12/8 (Thứ Tư): Giá vàng thế giới tăng lên quanh 4.410 USD/oz, tăng khoảng 0,82% so với phiên trước và tiếp tục neo ở vùng cao nhất kể từ đầu tháng 6/2026. Trái ngược với xu hướng thế giới, vàng miếng SJC trong nước quay đầu giảm 700.000 đồng, niêm yết 141,3 triệu đồng/lượng (mua) - 144,3 triệu đồng/lượng (bán) lúc 17h38, cho thấy áp lực chốt lời sau chuỗi tăng nóng các phiên trước. Thị trường đang chờ dữ liệu CPI Mỹ tháng 7 công bố trong ngày — số liệu này sẽ định hình kỳ vọng lãi suất và hướng đi của lợi suất trái phiếu Mỹ trong ngắn hạn. Đồng thời, dòng vốn tổ chức tiếp tục đổ mạnh vào hạ tầng AI (Nvidia huy động 500 tỷ USD cùng Phố Wall) cho thấy khẩu vị rủi ro vẫn cao, có thể cạnh tranh một phần dòng vốn với vàng. J.P. Morgan vẫn giữ mục tiêu dài hạn 6.300 USD/oz cho cuối năm 2026.",
     "sources": [
       {
-        "name": "VietnamNet — Giá vàng hôm nay 11/8/2026 quay đầu giảm, SJC và nhẫn hạ 500 nghìn/lượng",
-        "url": "https://vietnamnet.vn/gia-vang-hom-nay-11-8-2026-vua-tang-phi-ma-da-ha-nhiet-vang-trong-nuoc-hut-hoi-2544042.html"
+        "name": "VietnamNet — Giá vàng hôm nay 12/8/2026 tăng trở lại, SJC và nhẫn tiến sát 144 triệu/lượng",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-12-8-2026-dao-chieu-chong-mat-sjc-kha-nang-giam-tiep-2544473.html"
       },
       {
-        "name": "Báo Lâm Đồng — Cập nhật giá vàng sáng 11/8/2026: SJC, nhẫn trơn 9999 BTMC DOJI Phú Quý",
-        "url": "https://baolamdong.vn/cap-nhat-gia-vang-sang-11-8-2026-sjc-nhan-tron-9999-btmc-doji-phu-quy-thu-ba-458766.html"
+        "name": "Báo Lâm Đồng — Cập nhật giá vàng sáng 12/8/2026: SJC, nhẫn trơn 9999 BTMC DOJI Phú Quý thứ Tư",
+        "url": "https://baolamdong.vn/cap-nhat-gia-vang-sang-12-8-2026-sjc-nhan-tron-9999-btmc-doji-phu-quy-thu-tu-458955.html"
       },
       {
-        "name": "Kenh14 — Giá vàng 9999 SJC hôm nay 11/8/2026 bao nhiêu 1 chỉ?",
-        "url": "https://kenh14.vn/gia-vang-9999-sjc-hom-nay-11-8-2026-bao-nhieu-1-chi-215260811080710208.chn"
+        "name": "CafeF — Giá vàng hôm nay 12/08/2026: Giá vàng miếng SJC, vàng nhẫn 9999 niêm yết",
+        "url": "https://cafef.vn/du-lieu/gia-vang-hom-nay/trong-nuoc.chn"
       }
     ]
   },
   "interest_rates": {
-    "alert": "🟢 11/8 (Thứ Ba): Khảo sát 35 ngân hàng cho thấy <b>ACB</b> dẫn đầu thị trường với <b>7,8%/năm</b> kỳ hạn 12 tháng (7,6%/9 tháng: 7,7%). <b>LPBank</b> bám sát ở vị trí thứ hai với <b>7,3%/năm</b>. Nhóm Big4 (Agribank, BIDV, Vietcombank, VietinBank) đồng loạt niêm yết <b>6,8%/năm</b> sau khi BIDV đưa lãi suất trở lại mức cũ, chấm dứt đợt tăng ngắn ngày trước đó. <b>VPBank</b> tăng thêm 0,2 điểm % các kỳ hạn 6-13 tháng lên <b>6,2%/năm</b>. <b>MBV</b> cộng thêm lãi suất cho khoản tiền gửi lớn, thực nhận cao nhất tới <b>8,2%/năm</b> với khoản gửi từ 200 triệu đồng.",
+    "alert": "🟡 12/8 (Thứ Tư): Lãi suất huy động biến động trái chiều. <b>VCBNeo</b> tăng mạnh nhất thị trường — kỳ hạn 6-11 tháng thêm 0,5 điểm % lên <b>7,5%/năm</b>, kỳ hạn 12-60 tháng thêm 0,8 điểm % lên <b>7,8%/năm</b>, ngang bằng mức cao nhất của ACB. Ngược lại, <b>LPBank</b> giảm lãi suất nhiều kỳ hạn ngắn (kỳ hạn 1 tháng giảm 0,3 điểm % còn 4,4%/năm, kỳ hạn 3-5 tháng giảm 0,1 điểm %) và giảm 0,5 điểm % kỳ hạn 48-60 tháng còn 5,7%/năm. <b>Nam A Bank</b> cũng giảm lãi suất huy động cá nhân tối đa 0,3 điểm %. Nhóm Big4 (Agribank, BIDV, Vietcombank, VietinBank) giữ nguyên 6,8%/năm kỳ hạn 12 tháng.",
     "highlights": [
       {
-        "label": "ACB dẫn đầu khảo sát 35 ngân hàng với lãi suất 7,8%/năm kỳ hạn 12 tháng",
+        "label": "VCBNeo tăng mạnh nhất thị trường, kỳ hạn 12-60 tháng lên 7,8%/năm — ngang ACB",
+        "value": "7.8%",
+        "sub": "Kỳ hạn 6-11 tháng tăng thêm 0,5 điểm % lên 7,5%/năm",
+        "note": "Mức lãi suất tiền gửi cao nhất được VCBNeo niêm yết công khai, tăng thêm 0,8 điểm % kỳ hạn dài."
+      },
+      {
+        "label": "ACB tiếp tục dẫn đầu khảo sát 35 ngân hàng với 7,8%/năm kỳ hạn 12 tháng",
         "value": "7.8%",
         "sub": "Kỳ hạn 6 tháng 7,6%/năm, kỳ hạn 9 tháng 7,7%/năm",
-        "note": "Mức cao nhất trong bảng khảo sát lãi suất huy động ngày 11/8."
+        "note": "Không đổi so với các phiên gần đây, nay có VCBNeo bám sát ngang bằng."
       },
       {
-        "label": "LPBank bám sát vị trí thứ hai với lãi suất 7,3%/năm kỳ hạn 12 tháng",
-        "value": "7.3%",
-        "sub": "Kỳ hạn 6-9 tháng niêm yết 7,1%/năm, kỳ hạn 18 tháng 7,25%/năm",
-        "note": "Không đổi so với các phiên gần đây."
+        "label": "LPBank giảm lãi suất nhiều kỳ hạn ngắn và dài, kỳ hạn 48-60 tháng còn 5,7%/năm",
+        "value": "-0.5đ%",
+        "sub": "Kỳ hạn 1 tháng giảm còn 4,4%/năm, kỳ hạn 3-5 tháng giảm còn 4,65%/năm",
+        "note": "Điều chỉnh giảm diễn ra trên diện rộng các kỳ hạn tiết kiệm trực tuyến."
       },
       {
-        "label": "Nhóm Big4 đồng loạt về lại 6,8%/năm sau khi BIDV đưa lãi suất trở về mức cũ",
-        "value": "6.8%",
-        "sub": "Agribank, BIDV, Vietcombank, VietinBank cùng niêm yết mức này ở kỳ hạn 12 tháng",
-        "note": "BIDV từng tăng mạnh lãi suất đầu tháng 8 nhưng đã điều chỉnh giảm trở lại ngay sau đó."
-      },
-      {
-        "label": "MBV cộng thêm lãi suất cho khách gửi tiền lớn, thực nhận cao nhất đạt 8,2%/năm",
-        "value": "8.2%",
-        "sub": "Áp dụng cho khoản gửi từ 200 triệu đồng trở lên, kỳ hạn từ 6 tháng",
-        "note": "VPBank cũng vừa tăng thêm 0,2 điểm % kỳ hạn 6-13 tháng lên 6,2%/năm."
+        "label": "Nam A Bank giảm lãi suất huy động cá nhân tối đa 0,3 điểm % từ hôm nay",
+        "value": "-0.3đ%",
+        "sub": "Áp dụng đồng loạt cho nhiều nhóm khách hàng cá nhân",
+        "note": "Song song giảm lãi suất cho vay để hỗ trợ khách hàng."
       }
     ],
     "banks": [
@@ -203,9 +203,9 @@
       {
         "name": "VCBNeo",
         "m3": "4.75%",
-        "m6": "7.0%",
-        "m12": "7.0%",
-        "trend": "hold",
+        "m6": "7.5%",
+        "m12": "7.8%",
+        "trend": "up",
         "m12_hi": true
       },
       {
@@ -226,10 +226,10 @@
       },
       {
         "name": "LPBank",
-        "m3": "4.65%",
+        "m3": "4.55%",
         "m6": "7.1%",
         "m12": "7.3%",
-        "trend": "hold",
+        "trend": "down",
         "m12_hi": true
       },
       {
@@ -297,10 +297,10 @@
       },
       {
         "name": "Nam A Bank",
-        "m3": "4.6%",
-        "m6": "6.5%",
-        "m12": "6.6%",
-        "trend": "hold"
+        "m3": "4.4%",
+        "m6": "6.3%",
+        "m12": "6.3%",
+        "trend": "down"
       },
       {
         "name": "Sacombank",
@@ -423,105 +423,105 @@
       }
     ],
     "analysis": {
-      "title": "Lãi suất 11/8 (Thứ Ba): ACB vươn lên dẫn đầu thị trường, Big4 đồng loạt về lại 6,8%/năm",
-      "body": "Khảo sát biểu lãi suất huy động tại 35 ngân hàng sáng 11/8/2026 cho thấy mặt bằng lãi suất tiền gửi tiếp tục phân hóa đáng kể. ACB hiện dẫn đầu toàn thị trường với lãi suất 7,8%/năm kỳ hạn 12 tháng (7,6%/năm kỳ hạn 6 tháng, 7,7%/năm kỳ hạn 9 tháng). LPBank xếp thứ hai với 7,3%/năm kỳ hạn 12 tháng và 7,1%/năm cho kỳ hạn 6-9 tháng. Đáng chú ý, nhóm Big4 gồm Agribank, BIDV, Vietcombank, VietinBank đã đồng nhất trở lại ở mức 6,8%/năm kỳ hạn 12 tháng, sau khi BIDV — ngân hàng từng tăng mạnh lãi suất đầu tháng 8 lên 7,4%/năm — đưa biểu lãi suất trở về mức cũ chỉ sau vài ngày. VPBank tiếp tục là ngân hàng thứ tư điều chỉnh lãi suất trong tháng 8 (sau BIDV, LPBank, SeABank), tăng thêm 0,2 điểm % cho các kỳ hạn 6-13 tháng lên 6,2%/năm, đồng thời giảm mạnh 1,4 điểm % kỳ hạn 36 tháng xuống 4,2%/năm. Riêng MBV áp dụng chính sách cộng thêm lãi suất theo số dư tiền gửi, đưa lãi suất thực nhận lên tới 8,2%/năm cho khoản gửi từ 200 triệu đồng trở lên. Nhóm ngân hàng niêm yết 7%/năm gồm MBV, VCBNeo và Saigonbank (đã điều chỉnh giảm từ 7,2%/năm).",
+      "title": "Lãi suất 12/8 (Thứ Tư): VCBNeo bứt phá lên 7,8%/năm, LPBank và Nam A Bank hạ nhiệt",
+      "body": "Khảo sát biểu lãi suất huy động sáng 12/8/2026 cho thấy diễn biến trái chiều rõ rệt giữa các ngân hàng. VCBNeo bất ngờ tăng mạnh nhất thị trường, nâng lãi suất kỳ hạn 6-11 tháng thêm 0,5 điểm % lên 7,5%/năm và kỳ hạn 12-60 tháng thêm 0,8 điểm % lên 7,8%/năm — vươn lên ngang bằng ACB, ngân hàng đang dẫn đầu khảo sát 35 ngân hàng với 7,8%/năm kỳ hạn 12 tháng (7,6%/năm kỳ hạn 6 tháng, 7,7%/năm kỳ hạn 9 tháng). Ngược chiều, LPBank giảm lãi suất trên diện rộng: kỳ hạn 1 tháng giảm 0,3 điểm % còn 4,4%/năm, kỳ hạn 2 tháng giảm 0,1 điểm % còn 4,6%/năm, kỳ hạn 3-5 tháng giảm 0,1 điểm % còn 4,65%/năm, và lãi suất tiết kiệm trực tuyến kỳ hạn 48-60 tháng giảm 0,5 điểm % còn 5,7%/năm. Nam A Bank cũng điều chỉnh giảm lãi suất huy động cá nhân tối đa 0,3 điểm % đồng thời với việc giảm lãi suất cho vay hỗ trợ khách hàng. Trong khi đó, nhóm Big4 gồm Agribank, BIDV, Vietcombank, VietinBank tiếp tục giữ nguyên biểu lãi suất 4,75%/năm kỳ hạn 3 tháng, 6,6%/năm kỳ hạn 6-9 tháng và 6,8%/năm kỳ hạn 12-18 tháng, không thay đổi so với các phiên gần đây.",
       "sources": [
         {
-          "name": "Ngoisao.vn — Lãi suất ngân hàng hôm nay 11/8/2026: ACB dẫn đầu với 7,8%/năm, LPBank áp sát 7,3%",
-          "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/lai-suat-ngan-hang-hom-nay-11-8-2026-acb-dan-dau-voi-78-nam-lpbank-ap-sat-73-d489916.html"
+          "name": "VietnamNet — Lãi suất ngân hàng hôm nay 12/8/2026: Biến động trái chiều, có nơi tăng mạnh",
+          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-12-8-2026-bien-dong-trai-chieu-co-noi-tang-manh-2544506.html"
         },
         {
-          "name": "Báo Nghệ An — Lãi suất ngân hàng ngày 11/8/2026: MBV cộng thêm tới 1,2% lãi suất, cao nhất đạt 8,2%/năm",
-          "url": "https://baonghean.vn/lai-suat-ngan-hang-ngay-11-8-2026-mbv-cong-them-toi-1-2-lai-suat-cao-nhat-dat-8-2-nam-10347795.html"
+          "name": "CafeF — Thêm ngân hàng giảm lãi suất từ hôm nay 12/8/2026",
+          "url": "https://cafef.vn/them-ngan-hang-giam-lai-suat-tu-hom-nay-12-8-2026-188260812070641258.chn"
         },
         {
-          "name": "VietnamNet — Lãi suất ngân hàng hôm nay 10/8/2026: Tăng lãi suất huy động kỳ hạn 6-13 tháng",
-          "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-10-8-2026-tang-lai-suat-huy-dong-ky-han-6-13-thang-2543696.html"
+          "name": "TheLeader — Lãi suất ngân hàng hôm nay 12/8: Gửi 500 tỷ hưởng lãi 8,3%/năm",
+          "url": "https://theleader.vn/lai-suat-ngan-hang-hom-nay-12-8-gui-500-ty-huong-lai-83-nam-d47236.html"
         }
       ]
     },
     "rate_reasons": [
       {
-        "name": "ACB duy trì vị trí dẫn đầu thị trường với lãi suất huy động 7,8%/năm kỳ hạn 12 tháng",
+        "name": "VCBNeo tăng mạnh lãi suất huy động, vươn lên ngang bằng ACB ở mức 7,8%/năm kỳ hạn 12 tháng",
         "level": "main",
-        "pct": 58,
-        "bar": "fh",
-        "desc": "ACB tiếp tục niêm yết mức lãi suất cao nhất trong khảo sát 35 ngân hàng, đạt 7,8%/năm kỳ hạn 12 tháng, nhằm giữ vững thị phần huy động vốn trung, dài hạn."
-      },
-      {
-        "name": "BIDV đưa lãi suất trở lại mức cũ, Big4 đồng nhất quanh 6,8%/năm sau đợt tăng ngắn ngày",
-        "level": "main",
-        "pct": 50,
-        "bar": "fm",
-        "desc": "BIDV từng tăng mạnh lãi suất huy động đầu tháng 8 lên 7,4%/năm nhưng đã điều chỉnh giảm trở lại chỉ sau vài ngày, đưa nhóm Big4 về lại mặt bằng chung 6,8%/năm kỳ hạn 12 tháng."
-      },
-      {
-        "name": "VPBank tăng thêm 0,2 điểm % kỳ hạn 6-13 tháng, đồng thời giảm mạnh lãi suất kỳ hạn dài",
-        "level": "sub",
-        "pct": 54,
-        "bar": "fm",
-        "desc": "VPBank là ngân hàng thứ tư điều chỉnh lãi suất trong tháng 8, nâng kỳ hạn 6-13 tháng lên 6,2%/năm nhưng giảm 1,4 điểm % kỳ hạn 36 tháng xuống 4,2%/năm, mức thấp nhất trong biểu lãi suất."
-      },
-      {
-        "name": "MBV và một số ngân hàng áp dụng chính sách cộng thêm lãi suất để hút tiền gửi lớn",
-        "level": "sub",
         "pct": 60,
         "bar": "fh",
-        "desc": "MBV cộng thêm tới 1,2 điểm % cho khách gửi từ 200 triệu đồng, đưa lãi suất thực nhận lên 8,2%/năm — xu hướng ưu đãi theo số dư tiền gửi lớn đang lan rộng để cạnh tranh hút vốn."
+        "desc": "VCBNeo nâng lãi suất kỳ hạn 6-11 tháng thêm 0,5 điểm % lên 7,5%/năm và kỳ hạn 12-60 tháng thêm 0,8 điểm % lên 7,8%/năm, cho thấy nhu cầu huy động vốn trung, dài hạn đang gia tăng."
       },
       {
-        "name": "Giá vàng vượt 4.400 USD/oz và lợi suất trái phiếu Mỹ tăng trước CPI có thể ảnh hưởng dòng vốn nhàn rỗi",
+        "name": "LPBank và Nam A Bank đồng loạt giảm lãi suất nhiều kỳ hạn, phản ánh thanh khoản dồi dào cục bộ",
+        "level": "main",
+        "pct": 45,
+        "bar": "fm",
+        "desc": "LPBank giảm lãi suất từ kỳ hạn 1 tháng đến 60 tháng, Nam A Bank giảm tối đa 0,3 điểm % lãi suất huy động cá nhân, cho thấy một số ngân hàng đang dư thừa thanh khoản ngắn hạn."
+      },
+      {
+        "name": "Big4 tiếp tục giữ ổn định 6,8%/năm, chờ tín hiệu rõ ràng hơn từ dữ liệu CPI Mỹ",
         "level": "sub",
         "pct": 50,
         "bar": "fm",
-        "desc": "Vàng thế giới vượt mốc 4.400 USD/oz và lợi suất trái phiếu kho bạc Mỹ tăng lên 4,71% trước dữ liệu CPI có thể khiến dòng vốn nhàn rỗi trong dân cư cân nhắc giữa kênh tiết kiệm và các tài sản khác."
+        "desc": "Nhóm Big4 duy trì biểu lãi suất không đổi trong nhiều phiên liên tiếp, thận trọng theo dõi diễn biến CPI Mỹ công bố ngày 12/8 trước khi cân nhắc điều chỉnh."
+      },
+      {
+        "name": "Cạnh tranh hút vốn giữa các ngân hàng tầm trung ngày càng gay gắt",
+        "level": "sub",
+        "pct": 55,
+        "bar": "fm",
+        "desc": "Việc VCBNeo bất ngờ tăng mạnh để bắt kịp ACB cho thấy áp lực cạnh tranh huy động vốn giữa nhóm ngân hàng tầm trung đang gia tăng trong tháng 8."
+      },
+      {
+        "name": "Vàng thế giới tăng lên 4.410 USD/oz và thị trường chờ CPI Mỹ có thể ảnh hưởng dòng vốn nhàn rỗi",
+        "level": "sub",
+        "pct": 48,
+        "bar": "fm",
+        "desc": "Giá vàng thế giới tiếp tục tăng trong khi thị trường chờ dữ liệu CPI Mỹ công bố ngày 12/8 có thể khiến dòng vốn nhàn rỗi trong dân cư cân nhắc giữa kênh tiết kiệm, vàng và các tài sản rủi ro khác."
       }
     ],
     "rate_forecast": [
       {
-        "name": "ACB và LPBank nhiều khả năng tiếp tục dẫn đầu nhóm lãi suất cao trong ngắn hạn",
-        "pct": 55,
+        "name": "VCBNeo và ACB nhiều khả năng dẫn đầu nhóm lãi suất cao trong ngắn hạn",
+        "pct": 58,
         "direction": "up",
-        "bar": "fm",
-        "desc": "Với vị trí dẫn đầu hiện tại, ACB và LPBank khó có khả năng giảm lãi suất trong ngắn hạn khi vẫn cần duy trì sức hút vốn trung, dài hạn."
+        "bar": "fh",
+        "desc": "Với việc VCBNeo vừa tăng mạnh để ngang bằng ACB, cả hai ngân hàng khó có khả năng giảm lãi suất ngay khi vẫn cần duy trì sức hút vốn trung, dài hạn."
       },
       {
-        "name": "Nhóm Big4 nhiều khả năng giữ ổn định quanh 6,8%/năm, chờ dữ liệu CPI công bố thứ Tư",
+        "name": "Nhóm Big4 nhiều khả năng giữ ổn định quanh 6,8%/năm, chờ dữ liệu CPI công bố trong ngày",
         "pct": 48,
         "direction": "up",
         "bar": "fm",
-        "desc": "Sau đợt tăng rồi giảm trở lại của BIDV, nhóm Big4 nhiều khả năng thận trọng theo dõi thêm dữ liệu CPI Mỹ trước khi có điều chỉnh mới."
+        "desc": "Sau nhiều phiên không đổi, nhóm Big4 nhiều khả năng tiếp tục thận trọng theo dõi dữ liệu CPI Mỹ trước khi có điều chỉnh mới."
       },
       {
-        "name": "Xu hướng cộng thêm lãi suất theo số dư tiền gửi lớn (như MBV) có thể lan rộng thêm",
-        "pct": 56,
-        "direction": "up",
-        "bar": "fh",
-        "desc": "Sau MBV, một số ngân hàng khác có thể áp dụng chính sách ưu đãi cộng thêm lãi suất theo số dư và kỳ hạn để cạnh tranh hút vốn lớn từ dân cư."
+        "name": "Một số ngân hàng tầm trung có thể tiếp tục điều chỉnh giảm lãi suất theo LPBank và Nam A Bank",
+        "pct": 46,
+        "direction": "down",
+        "bar": "fm",
+        "desc": "Nếu thanh khoản hệ thống tiếp tục dồi dào, nhiều khả năng thêm một số ngân hàng tầm trung sẽ điều chỉnh giảm lãi suất huy động theo xu hướng của LPBank và Nam A Bank."
       },
       {
-        "name": "Đà tăng của giá vàng vượt 4.400 USD/oz và biến động lợi suất trái phiếu Mỹ tiếp tục là yếu tố cần theo dõi sát",
+        "name": "Dữ liệu CPI Mỹ công bố trong ngày và đà tăng của vàng tiếp tục là yếu tố cần theo dõi sát",
         "pct": 50,
         "direction": "up",
         "bar": "fm",
-        "desc": "Nếu giá vàng tiếp tục tăng và lợi suất trái phiếu Mỹ biến động mạnh quanh dữ liệu CPI, các ngân hàng thương mại có thể phải cân nhắc điều chỉnh lãi suất huy động để giữ chân dòng vốn."
+        "desc": "Nếu CPI Mỹ nóng hơn dự báo, lợi suất trái phiếu tăng có thể gây áp lực khiến các ngân hàng thương mại cân nhắc điều chỉnh lãi suất huy động để giữ chân dòng vốn."
       }
     ],
-    "rate_outlook_label": "11/8 Thứ Ba — ACB dẫn đầu thị trường 7,8%/năm, Big4 đồng loạt về lại 6,8%/năm",
+    "rate_outlook_label": "12/8 Thứ Tư — VCBNeo bứt phá lên 7,8%/năm ngang ACB, LPBank và Nam A Bank hạ nhiệt",
     "rate_outlook_class": "pbe",
-    "rate_outlook_text": "11/8 (Thứ Ba): Khảo sát 35 ngân hàng cho thấy ACB dẫn đầu thị trường với lãi suất 7,8%/năm kỳ hạn 12 tháng, LPBank bám sát ở vị trí thứ hai với 7,3%/năm. Nhóm Big4 (Agribank, BIDV, Vietcombank, VietinBank) đồng loạt niêm yết 6,8%/năm sau khi BIDV đưa lãi suất trở lại mức cũ, chấm dứt đợt tăng ngắn ngày đầu tháng 8. VPBank tăng thêm 0,2 điểm % các kỳ hạn 6-13 tháng lên 6,2%/năm, đồng thời giảm mạnh lãi suất kỳ hạn 36 tháng. MBV áp dụng chính sách cộng thêm lãi suất theo số dư, đưa mức thực nhận cao nhất lên tới 8,2%/năm cho khoản gửi từ 200 triệu đồng. Tuần này, dữ liệu CPI Mỹ công bố thứ Tư và diễn biến giá vàng vượt 4.400 USD/oz là các yếu tố cần theo dõi sát.",
+    "rate_outlook_text": "12/8 (Thứ Tư): Lãi suất huy động biến động trái chiều. VCBNeo tăng mạnh nhất thị trường, nâng kỳ hạn 6-11 tháng lên 7,5%/năm và kỳ hạn 12-60 tháng lên 7,8%/năm, vươn lên ngang bằng ACB — ngân hàng đang dẫn đầu khảo sát 35 ngân hàng. Ngược lại, LPBank giảm lãi suất trên diện rộng từ kỳ hạn ngắn đến kỳ hạn dài, còn Nam A Bank giảm lãi suất huy động cá nhân tối đa 0,3 điểm %. Nhóm Big4 (Agribank, BIDV, Vietcombank, VietinBank) tiếp tục giữ nguyên 6,8%/năm kỳ hạn 12 tháng. Thị trường đang chờ dữ liệu CPI Mỹ công bố trong ngày 12/8 — yếu tố có thể ảnh hưởng đến xu hướng lãi suất và dòng vốn nhàn rỗi trong dân cư thời gian tới.",
     "rate_sources": [
       {
-        "name": "Ngoisao.vn — Lãi suất ngân hàng hôm nay 11/8/2026: ACB dẫn đầu với 7,8%/năm, LPBank áp sát 7,3%",
-        "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/lai-suat-ngan-hang-hom-nay-11-8-2026-acb-dan-dau-voi-78-nam-lpbank-ap-sat-73-d489916.html"
+        "name": "VietnamNet — Lãi suất ngân hàng hôm nay 12/8/2026: Biến động trái chiều, có nơi tăng mạnh",
+        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-12-8-2026-bien-dong-trai-chieu-co-noi-tang-manh-2544506.html"
       },
       {
-        "name": "Báo Nghệ An — Lãi suất ngân hàng ngày 11/8/2026: MBV cộng thêm tới 1,2% lãi suất, cao nhất đạt 8,2%/năm",
-        "url": "https://baonghean.vn/lai-suat-ngan-hang-ngay-11-8-2026-mbv-cong-them-toi-1-2-lai-suat-cao-nhat-dat-8-2-nam-10347795.html"
+        "name": "CafeF — Thêm ngân hàng giảm lãi suất từ hôm nay 12/8/2026",
+        "url": "https://cafef.vn/them-ngan-hang-giam-lai-suat-tu-hom-nay-12-8-2026-188260812070641258.chn"
       },
       {
-        "name": "VietnamNet — Lãi suất ngân hàng hôm nay 10/8/2026: Tăng lãi suất huy động kỳ hạn 6-13 tháng",
-        "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-10-8-2026-tang-lai-suat-huy-dong-ky-han-6-13-thang-2543696.html"
+        "name": "TheLeader — Lãi suất ngân hàng hôm nay 12/8: Gửi 500 tỷ hưởng lãi 8,3%/năm",
+        "url": "https://theleader.vn/lai-suat-ngan-hang-hom-nay-12-8-gui-500-ty-huong-lai-83-nam-d47236.html"
       }
     ]
   },
@@ -748,7 +748,8 @@
       "08/08",
       "09/08",
       "10/08",
-      "11/08"
+      "11/08",
+      "12/08"
     ],
     "sjc": [
       152.8,
@@ -972,7 +973,8 @@
       142.2,
       144.0,
       145.0,
-      144.5
+      144.5,
+      144.3
     ],
     "world_vnd": [
       121,
@@ -1196,7 +1198,8 @@
       137.17,
       138.04,
       138.3,
-      140.1
+      140.1,
+      140.2
     ]
   }
 }
